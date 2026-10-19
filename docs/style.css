@@ -1,18 +1,18 @@
 :root{--bg:#0e0f0c;--fg:#ecead8;--muted:#8d8b78;--acc:#c6ff3d;--card:#181a14;--line:#2b2e24}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font-family:"Space Mono",monospace;min-height:100vh;display:flex;flex-direction:column}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font-family:"DM Sans",sans-serif;min-height:100vh;display:flex;flex-direction:column}
 a{color:var(--acc)}header{display:flex;justify-content:space-between;align-items:center;padding:20px 5vw;border-bottom:1px solid var(--line);flex-wrap:wrap;gap:12px}
-.logo{font-family:Syne;font-weight:800;color:var(--fg);text-decoration:none;letter-spacing:.05em}.logo span{color:var(--acc)}
+.logo{font-family:"Space Grotesk",sans-serif;font-weight:700;color:var(--fg);text-decoration:none;letter-spacing:.05em}.logo span{color:var(--acc)}
 nav a{color:var(--muted);text-decoration:none;margin-left:20px}nav a.on,nav a:hover{color:var(--acc)}
 main{flex:1;padding:6vh 5vw;max-width:1200px;width:100%;margin:0 auto}
-.kicker{color:var(--acc);text-transform:uppercase;letter-spacing:.2em;font-size:.8rem}
-h1{font-family:Syne;font-size:clamp(2.6rem,8vw,6rem);line-height:.95;margin:.2em 0 .4em}h1 em{color:var(--acc);font-style:normal}h2{font-family:Syne}
-.big{background:var(--acc);color:var(--bg);border:0;font:700 1.4rem "Space Mono";padding:22px 44px;cursor:pointer;transition:transform .1s}.big:active{transform:scale(.97)}
+.kicker{font-family:"Space Grotesk",sans-serif;color:var(--acc);text-transform:uppercase;letter-spacing:.2em;font-size:.8rem;font-weight:600}
+h1{font-family:"Space Grotesk",sans-serif;font-weight:700;font-size:clamp(2.6rem,8vw,6rem);line-height:.95;margin:.2em 0 .4em}h1 em{color:var(--acc);font-style:normal}h2{font-family:"Space Grotesk",sans-serif;font-weight:700}
+.big{font-family:"Space Grotesk",sans-serif;background:var(--acc);color:var(--bg);border:0;font-weight:700;font-size:1.4rem;padding:22px 44px;cursor:pointer;transition:transform .1s}.big:active{transform:scale(.97)}
 select,input{background:var(--card);color:var(--fg);border:1px solid var(--line);padding:12px;font:inherit;margin-bottom:18px;width:100%;max-width:520px}
-.site{background:var(--card);border:1px solid var(--line);padding:22px;margin-top:28px}.site h3{font-family:Syne;margin:.2em 0;font-size:1.5rem}
+.site{background:var(--card);border:1px solid var(--line);padding:22px;margin-top:28px}.site h3{font-family:"Space Grotesk",sans-serif;font-weight:600;margin:.2em 0;font-size:1.5rem}
 .site .dom{color:var(--muted);font-size:.85rem}.tag{display:inline-block;border:1px solid var(--acc);color:var(--acc);padding:2px 8px;font-size:.75rem}
 .acts{display:flex;gap:10px;margin-top:16px;flex-wrap:wrap}.acts button,.btn{background:none;border:1px solid var(--line);color:var(--fg);padding:8px 14px;font:inherit;cursor:pointer;text-decoration:none}
 .acts button.on{border-color:var(--acc);color:var(--acc)}.acts a.visit{background:var(--acc);color:var(--bg);padding:8px 14px;text-decoration:none;font-weight:700}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}.grid .site{margin-top:0}
 .chips{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:20px}.chips button{background:none;border:1px solid var(--line);color:var(--muted);padding:6px 12px;font:inherit;cursor:pointer}.chips button.on{color:var(--bg);background:var(--acc)}
-.muted{color:var(--muted)}.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:16px;margin-bottom:24px}.stats div{background:var(--card);border:1px solid var(--line);padding:18px}.stats b{display:block;font-size:2rem;color:var(--acc);font-family:Syne}
+.muted{color:var(--muted)}.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:16px;margin-bottom:24px}.stats div{background:var(--card);border:1px solid var(--line);padding:18px}.stats b{display:block;font-size:2rem;color:var(--acc);font-family:"Space Grotesk",sans-serif;font-weight:700}
 footer{padding:20px 5vw;border-top:1px solid var(--line);color:var(--muted);font-size:.8rem}
