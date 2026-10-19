@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@theme {
+  --color-bg: oklch(0.16 0.02 250);
+  --color-panel: oklch(0.21 0.025 250);
+  --color-line: oklch(0.32 0.03 250);
+  --color-ink: oklch(0.95 0.01 90);
+  --color-dim: oklch(0.7 0.02 250);
+  --color-signal: oklch(0.85 0.17 150);
+  --color-gem: oklch(0.72 0.19 15);
+  --color-gold: oklch(0.85 0.15 85);
+  --font-display: "Space Grotesk", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+}
+body { background: var(--color-bg); color: var(--color-ink); font-family: var(--font-display);
+  background-image: radial-gradient(circle at 1px 1px, oklch(0.3 0.03 250) 1px, transparent 0); background-size: 28px 28px; }
+.btn { @apply rounded-md border border-line bg-panel px-4 py-2 font-mono text-sm transition hover:border-signal hover:text-signal; }
+.btn-on { @apply border-signal text-signal; }
+.input { @apply w-full rounded-md border border-line bg-panel px-3 py-2 font-mono text-sm outline-none focus:border-signal; }
+.card { @apply rounded-xl border border-line bg-panel p-5; }
+@keyframes pulse-ring { 0% { box-shadow: 0 0 0 0 oklch(0.85 0.17 150 / .5);} 100% { box-shadow: 0 0 0 30px transparent; } }
+.explore-btn { animation: pulse-ring 2s infinite; }
