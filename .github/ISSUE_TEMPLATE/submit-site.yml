@@ -1,0 +1,12 @@
+name: Submit a website
+description: Suggest a website for Website Explorer
+title: "Submit: "
+labels: [submit]
+body:
+  - type: input
+    id: url
+    attributes: {label: Website URL, placeholder: "https://"}
+    validations: {required: true}
+  - type: textarea
+    id: why
+    attributes: {label: Why is it interesting?}

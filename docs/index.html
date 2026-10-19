@@ -1,0 +1,26 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Website Explorer — Discover the Internet Again</title>
+<meta name="description" content="A self-growing website discovery platform by Cambric Software & Hardware Studios. Find hidden gems, small developer sites and forgotten corners of the web.">
+<meta property="og:title" content="Website Explorer"><meta property="og:description" content="Discover the Internet Again."><meta property="og:type" content="website"><meta name="twitter:card" content="summary">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css"></head><body>
+<header><a class="logo" href="#explore">WEBSITE<span>/</span>EXPLORER</a>
+<nav><a href="#explore">Explore</a><a href="#browse">Browse</a><a href="#favorites">Favorites</a><a href="#stats">Stats</a></nav></header>
+<main>
+<section id="v-explore" class="view">
+ <p class="kicker">Discover the Internet Again.</p>
+ <h1>One click.<br>Somewhere <em>new</em>.</h1>
+ <div class="filters"><select id="cat"><option value="">Any category</option></select></div>
+ <button id="go" class="big">EXPLORE →</button>
+ <div id="card"></div>
+</section>
+<section id="v-browse" class="view" hidden>
+ <h2>Browse the database</h2><input id="q" placeholder="Search titles, descriptions, domains…">
+ <div id="chips" class="chips"></div><div id="list" class="grid"></div></section>
+<section id="v-favorites" class="view" hidden><h2>Your favorites</h2><p class="muted">Saved in this browser.</p><div id="favs" class="grid"></div></section>
+<section id="v-stats" class="view" hidden><h2>Discovery statistics</h2><div id="statbox"></div>
+ <p class="muted">The discovery robot runs on GitHub every 6 hours: it finds new sites, checks they work, sorts them into categories, and re-checks old ones. Dead sites are removed after 3 failed checks.</p>
+ <p><a class="btn" href="https://github.com/Cambric-software/web-explorer/issues/new?template=submit-site.yml" target="_blank">+ Submit a website</a></p></section>
+</main>
+<footer>Made by Cambric Software &amp; Hardware Studios · Founder Asser Karim</footer>
+<script src="app.js"></script></body></html>
