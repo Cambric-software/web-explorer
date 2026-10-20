@@ -1,16 +1,28 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Website Explorer — Discover the Internet Again</title>
 <meta name="description" content="A self-growing website discovery platform by Cambric Software & Hardware Studios. Find hidden gems, small developer sites and forgotten corners of the web.">
-<meta property="og:title" content="Website Explorer"><meta property="og:description" content="Discover the Internet Again."><meta property="og:type" content="website"><meta name="twitter:card" content="summary">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css"></head><body>
+<meta property="og:title" content="Website Explorer">
+ <meta property="og:description" content="Discover the Internet Again."><meta property="og:type" content="website"><meta name="twitter:card" content="summary">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+ <link rel="icon" type="image/png" href="web explorer.png">
+</head>
+<body>
 <header><a class="logo" href="#explore">WEBSITE<span>/</span>EXPLORER</a>
-<nav><a href="#explore">Explore</a><a href="#browse">Browse</a><a href="#favorites">Favorites</a><a href="#stats">Stats</a></nav></header>
+<nav>
+ <a href="#explore">Explore</a>
+ <a href="#browse">Browse</a><a href="#favorites">Favorites</a>
+ <a href="#stats">Stats</a>
+</nav>
+</header>
 <main>
 <section id="v-explore" class="view">
  <p class="kicker">Discover the Internet Again.</p>
  <h1>One click.<br>Somewhere <em>new</em>.</h1>
- <div class="filters"><select id="cat"><option value="">Any category</option></select></div>
+ <div class="filters"><select id="cat">
+  <option value="">Any category</option>
+ </select></div>
  <button id="go" class="big">EXPLORE →</button>
  <div id="card"></div>
 </section>
