@@ -96,7 +96,8 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "24aa1321adff64329c2b.jpg"
+   "screenshot_file": "24aa1321adff64329c2b.jpg",
+   "archive_checked": "2026-10-21"
   },
   {
    "url": "https://excalidraw.com",
@@ -291,7 +292,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "18e184d6afdcda64aca6.jpg"
+   "screenshot_file": "18e184d6afdcda64aca6.jpg",
+   "archive_checked": "2026-10-21",
+   "first_seen": 2025
   },
   {
    "url": "https://getcuecut.com",
@@ -304,7 +307,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "147bd209c31da94f6284.jpg"
+   "screenshot_file": "147bd209c31da94f6284.jpg",
+   "archive_checked": "2026-10-21",
+   "first_seen": 2026
   },
   {
    "url": "https://eigenmoon.vercel.app",
@@ -317,7 +322,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "e956d01f67cdd31b5521.jpg"
+   "screenshot_file": "e956d01f67cdd31b5521.jpg",
+   "archive_checked": "2026-10-21",
+   "first_seen": 2026
   },
   {
    "url": "https://signalsandthreads.com",
@@ -330,7 +337,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "5535012dd0c38735dd21.jpg"
+   "screenshot_file": "5535012dd0c38735dd21.jpg",
+   "archive_checked": "2026-10-21",
+   "first_seen": 2020
   },
   {
    "url": "https://skyfall.ai",
@@ -343,7 +352,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "04e8aacdaa3a277635d9.jpg"
+   "screenshot_file": "04e8aacdaa3a277635d9.jpg",
+   "archive_checked": "2026-10-21",
+   "first_seen": 2022
   },
   {
    "url": "https://www.aljazeera.com",
@@ -356,7 +367,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "d77fe702137b27c8c8f0.jpg"
+   "screenshot_file": "d77fe702137b27c8c8f0.jpg",
+   "archive_checked": "2026-10-21",
+   "first_seen": 1999
   },
   {
    "url": "https://pcper.com",
@@ -369,7 +382,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "975bdee5addebd28c111.jpg"
+   "screenshot_file": "975bdee5addebd28c111.jpg",
+   "archive_checked": "2026-10-21",
+   "first_seen": 2003
   },
   {
    "url": "https://demo.ulda.io",
@@ -382,7 +397,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "cf27bbcc1c7057d776ad.jpg"
+   "screenshot_file": "cf27bbcc1c7057d776ad.jpg",
+   "archive_checked": "2026-10-21",
+   "first_seen": 2026
   },
   {
    "url": "https://forgot.dev",
@@ -395,7 +412,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "300fc9ab36ab2a2ae122.jpg"
+   "screenshot_file": "300fc9ab36ab2a2ae122.jpg",
+   "archive_checked": "2026-10-21",
+   "first_seen": 2026
   },
   {
    "url": "https://illos.dev",
@@ -408,7 +427,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "bb4cdd3a1fb49a899a35.jpg"
+   "screenshot_file": "bb4cdd3a1fb49a899a35.jpg",
+   "archive_checked": "2026-10-21",
+   "first_seen": 2026
   },
   {
    "url": "https://leaddev.com",
@@ -421,7 +442,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "ec5c72b20087d3dd0721.jpg"
+   "screenshot_file": "ec5c72b20087d3dd0721.jpg",
+   "archive_checked": "2026-10-21",
+   "first_seen": 2004
   },
   {
    "url": "https://wz-it.com",
@@ -1589,7 +1612,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "1c3438872a8710017992.jpg"
   },
@@ -1600,10 +1623,10 @@
    "category": "Tools",
    "lang": "en",
    "source": "discovery",
-   "status": "ok",
+   "status": "warn",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
-   "fails": 0,
+   "checked": "2026-10-21",
+   "fails": 1,
    "screenshot_file": "745ac17b7d97b30f125b.jpg"
   },
   {
@@ -1615,7 +1638,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "344662990642f6e8c521.jpg"
   },
@@ -1628,7 +1651,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "5543f0dcde8fc000b25d.jpg"
   },
@@ -1641,7 +1664,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "288489baf521d48136e9.jpg"
   },
@@ -1654,7 +1677,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "b20137d4916b2ff0b446.jpg"
   },
@@ -1667,7 +1690,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "514333b720bf5c828440.jpg"
   },
@@ -1680,7 +1703,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "07765710509d889bb5fc.jpg"
   },
@@ -1693,7 +1716,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "957202f5f1167a8b33d1.jpg"
   },
@@ -1706,7 +1729,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "5a3ce64e5303b03b3909.jpg"
   },
@@ -1719,7 +1742,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "a3acb299f55dc43f57dc.jpg"
   },
@@ -1732,7 +1755,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "86cae1ff7180cfb5b5ad.jpg"
   },
@@ -1745,7 +1768,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "4b633200a10f18e141c7.jpg"
   },
@@ -1758,7 +1781,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "4c5f853bcf624dc3e829.jpg"
   },
@@ -1771,7 +1794,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "879235fcf60fc7f847fb.jpg"
   },
@@ -1784,7 +1807,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "81bb44724f0bd0f72c91.jpg"
   },
@@ -1797,7 +1820,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "6f742fa795184cbe079a.jpg"
   },
@@ -1810,7 +1833,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "ab381ad8945b7c1b9713.jpg"
   },
@@ -1823,7 +1846,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "b4c93a4591f5e6ddfc66.jpg"
   },
@@ -1836,7 +1859,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "d214d303490c62204bfd.jpg"
   },
@@ -1849,7 +1872,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "d8055744dcd579336223.jpg"
   },
@@ -1862,7 +1885,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "f7a436a39e7146ed448c.jpg"
   },
@@ -1875,7 +1898,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "eeffebe1b81d616999f0.jpg"
   },
@@ -1888,7 +1911,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "87ccd248ea9540ad5ea2.jpg"
   },
@@ -1901,7 +1924,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "2e1679a05ab4f8f5ec4f.jpg"
   },
@@ -1914,7 +1937,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "cdb263427c9421db13c0.jpg"
   },
@@ -1927,7 +1950,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "06cbaf185cf76fb8c855.jpg"
   },
@@ -1940,7 +1963,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "1d9574c4815958e0f028.jpg"
   },
@@ -1953,7 +1976,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "6418e3eefbf707b18464.jpg"
   },
@@ -1966,7 +1989,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "a9a08bbb46dd7480d431.jpg"
   },
@@ -1979,7 +2002,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "0651650a3104af762f4c.jpg"
   },
@@ -1992,7 +2015,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "335501adb29d63aa3579.jpg"
   },
@@ -2005,7 +2028,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "cc76cd5cb3935b1394d8.jpg"
   },
@@ -2018,7 +2041,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "b513835807be3ef58f00.jpg"
   },
@@ -2031,7 +2054,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "faccdc39f046031dd0b0.jpg"
   },
@@ -2044,7 +2067,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "17b64d4d6e1873b1e010.jpg"
   },
@@ -2057,7 +2080,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "d8e5f37b27e724d4a585.jpg"
   },
@@ -2070,7 +2093,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "e620c1e06ff8915c3ea9.jpg"
   },
@@ -2083,7 +2106,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "b52972ab7e2b043513a1.jpg"
   },
@@ -2096,7 +2119,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "5e15e1078ac26ee97c68.jpg"
   },
@@ -6415,6 +6438,539 @@
    "checked": "2026-10-21",
    "fails": 0,
    "screenshot_file": "82d1b76b13f5fab567b6.jpg"
+  },
+  {
+   "url": "https://requstory.com",
+   "title": "Requstory \u00b7 Understand and design how an organisation works",
+   "description": "Requstory is how a team understands and designs its workflow. Start from your website, map teams, processes and handoffs, find the gaps and design what comes next.",
+   "category": "Art",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "e1016f0a2b35fdeedb9e.jpg"
+  },
+  {
+   "url": "https://www.techdirt.com",
+   "title": "Techdirt.",
+   "description": "",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "e6eb51638bb9fca9198f.jpg"
+  },
+  {
+   "url": "https://elonlit.com",
+   "title": "Elon Litman | Elements of a Vector Space",
+   "description": "Elon Litman's blog on deep learning theory.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "5c21337cce0796966f5b.jpg"
+  },
+  {
+   "url": "https://whoswinningai.com",
+   "title": "Who\u2019s Winning AI? \u2014 The AI Race, live",
+   "description": "Who\u2019s winning AI right now? Ten AI labs are falling toward the same point. A live index of who is closest to the Singularity, rebuilt every 5 minutes from news, releases and raw capability.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "58f26ebebe25b6e6262e.jpg"
+  },
+  {
+   "url": "https://humancrafted.discourse.group",
+   "title": "Humancrafted",
+   "description": "Celebrating software for humans, by humans",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "814392c7cadc6670a678.jpg"
+  },
+  {
+   "url": "https://squidbrake.com",
+   "title": "Squidbrake: agents propose, people approve",
+   "description": "Change control for AI agents. Everyday work runs on its own; anything an agent can't take back waits for a teammate's sign-off, and every action lands on a tamper-evident record.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "8738c84c225ee418fa3e.jpg"
+  },
+  {
+   "url": "https://www.marlerblog.com",
+   "title": "Marler Blog | Marler Clark, Inc., PS | Food Poisoning LawyerLexBlog Logo",
+   "description": "Nationally recognized food poisoning attorney and food safety advocate Bill Marler provides commentary on E. coli, Salmonella and Listeria outbreaks and other food safety topics.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "7f2c1f46344770cd717b.jpg"
+  },
+  {
+   "url": "https://aworkinglibrary.com",
+   "title": "A Working Library everything changes",
+   "description": "A working library is a project about work, reading & technology by mandy brown.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "de45ab6b6619228ebbe0.jpg"
+  },
+  {
+   "url": "https://scotthelme.co.uk",
+   "title": "Scott Helme",
+   "description": "Hi, I'm Scott Helme, a Security Researcher, Entrepreneur and International Speaker. I'm the creator of Report URI and Security Headers, and I deliver world renowned training on Hacking and Encryption.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "78cb47881f44254bf0a7.jpg"
+  },
+  {
+   "url": "https://crayonmovie.com",
+   "title": "Animate Your Kid\u2019s Drawing into a Mini-Movie (First One Free) | CrayonMovie",
+   "description": "Snap a photo of your kid\u2019s drawing and get a 5-second mini-movie of it, in their own style. First mini-movie free. No app, no sign-up.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "d194c9684233a4bdede5.jpg"
+  },
+  {
+   "url": "https://www.latent.space",
+   "title": "Latent.Space | Substack",
+   "description": "The AI Engineer newsletter + Top technical AI podcast. How leading labs build Agents, Models, Infra, & AI for Science. See https://latent.space/about for highlights from Greg Brockman, Andrej Karpathy, George Hotz, Simon Willison, Soumith C",
+   "category": "Science",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "62c2a329a22af9b8e0c4.jpg"
+  },
+  {
+   "url": "https://legato.gg",
+   "title": "Legato",
+   "description": "Legato is a framework for quickly building audio applications in Rust",
+   "category": "Developer",
+   "lang": "?",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "8d8e4994daa131038f88.jpg"
+  },
+  {
+   "url": "https://www.openwall.com",
+   "title": "Openwall - bringing security into open computing environments",
+   "description": "Information Security software for open computing environments, related publications, and professional services",
+   "category": "Tools",
+   "lang": "?",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "fba7702fe1572adb63b5.jpg"
+  },
+  {
+   "url": "https://getopposable.com",
+   "title": "Opposable \u00b7 Give your AI thumbs",
+   "description": "Opposable is computer use for phones. Claude Code, Codex or an on-device model can see, tap and type across every app on a real Android phone, yours or one in our cloud.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "3e91573afc681fb243e9.jpg"
+  },
+  {
+   "url": "https://webgpu.com",
+   "title": "WebGL / WebGPU: Community Showcase and News",
+   "description": "Discover WebGL and WebGPU showcases, community profiles, tools, and news from the cross-platform GPU community.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "316eb2739dd0efdbf787.jpg"
+  },
+  {
+   "url": "https://proof.diy",
+   "title": "Proof",
+   "description": "",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "a6ca56c3601449334794.jpg"
+  },
+  {
+   "url": "https://claude.com",
+   "title": "Claude",
+   "description": "Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "d5cca0d951b1fdd07935.jpg"
+  },
+  {
+   "url": "https://riffcalendar.com",
+   "title": "Riff Calendar: The calendar you zoom",
+   "description": "Riff is an iPhone calendar you navigate by zooming. The same calendar goes from half a year to your day, hour by hour. And it is as direct as paper: hold a free slot, type the title, done.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "48d7b98ef11434296c86.jpg"
+  },
+  {
+   "url": "https://www.extremetech.com",
+   "title": "ExtremeTech",
+   "description": "ExtremeTech is the Web's top destination for news and analysis of emerging science and technology trends, and important software, hardware, and gadgets.",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "8bbb5e46314a9a40be92.jpg"
+  },
+  {
+   "url": "https://entryleveljobs.co",
+   "title": "Entry Level Jobs",
+   "description": "Find entry-level jobs across tech, design, finance, and more.",
+   "category": "Art",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "0d8999f503f9386e7d15.jpg"
+  },
+  {
+   "url": "https://wordpress.greg.technology",
+   "title": "Word Press Function Trivia!",
+   "description": "Have Fun Please!",
+   "category": "Science",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "5e1dc859ccf45ba8ac21.jpg"
+  },
+  {
+   "url": "https://jacobin.com",
+   "title": "JacobinJacobin LogoJacobin IconA/V IconSearch IconLogin IconJSearch IconFacebook IconTwitter IconCat",
+   "description": "Reason in Revolt",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "785d420d8a53f1b5ee7d.jpg"
+  },
+  {
+   "url": "https://www.techpolicy.press",
+   "title": "Tech Policy Press - Technology and Democracy",
+   "description": "Tech Policy Press is a nonprofit media and community venture intended to provoke new ideas, debate and discussion at the intersection of technology and democracy. We publish opinion and analysis.",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "19053334daa8436f1fe3.jpg"
+  },
+  {
+   "url": "https://techstrong.ai",
+   "title": "Home - Techstrong.ai",
+   "description": "Techstrong AI covers the latest in artificial intelligence \u2014 news, expert analysis, industry trends, podcasts, and video interviews for AI practitioners and leaders.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "ce394c9ec22bd6db3e8a.jpg"
+  },
+  {
+   "url": "https://defaultsolitaire.app",
+   "title": "Solitaire",
+   "description": "",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "44edd65fe5835187e357.jpg"
+  },
+  {
+   "url": "https://theaioperatorstore.gumroad.com",
+   "title": "The AI Operator",
+   "description": "\ud83c\udf89 LAUNCH SALE: 50% off with code LAUNCH50 at checkout (select products) \u2014 ends November 13, 2026. Practical AI workflows for busy professionals. We build prompt packs, playbooks, and systems that turn AI into your unfair advantage \u2014 no fluf",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "0fdbe4c7e0c25265b60a.jpg"
+  },
+  {
+   "url": "https://ai.jagular.io",
+   "title": "Jag's AI Heat Map: what's heating up in AI",
+   "description": "An interactive map of the AI companies, models, products, people and ideas getting the most attention in English-language news over the last 7 days.",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "961e8c1abf9f7bb73593.jpg"
+  },
+  {
+   "url": "https://pydantic.dev",
+   "title": "Pydantic | The end-to-end AI engineering stack",
+   "description": "Pydantic is the AI engineering stack for teams building with AI. Observe with Logfire, evaluate with Pydantic Evals, build type-safe agents with Pydantic AI, and track LLM costs with AI Gateway.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "c1bf68cea40b4fe63bc0.jpg"
+  },
+  {
+   "url": "https://jw.hn",
+   "title": "JW",
+   "description": "Builder. 20+ years shipping products. Currently building Deeplead.io.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "3d01c6657b86d8767596.jpg"
+  },
+  {
+   "url": "https://jaredforsyth.com",
+   "title": "Jared Forsyth.com | Jared Forsyth.com GitHub iconGitHub iconGitHub iconGitHub iconGitHub iconGitHub ",
+   "description": "My website",
+   "category": "Developer",
+   "lang": "?",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "abf73fd83939434cbf64.jpg"
+  },
+  {
+   "url": "https://developer.microsoft.com",
+   "title": "Microsoft DeveloperYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+   "description": "Any platform. Any language. Our tools. Develop solutions, on your terms, using Microsoft products and services.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "6c7c52b553b2755072d1.jpg"
+  },
+  {
+   "url": "https://mtarin.com",
+   "title": "mtarin.com",
+   "description": "",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "d39b4090e859c545e128.jpg"
+  },
+  {
+   "url": "https://simgen.dev",
+   "title": "Kyle Clouthier: full-stack developer and marketer",
+   "description": "Kyle Clouthier is a full-stack web developer and marketer in Petawawa, Canada. I design, build, host and launch web apps and websites, then bring the customers with SEO and outreach. 20+ live builds, a 12-year web agency, available for cont",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "44b4d97f6e466dc7404c.jpg"
+  },
+  {
+   "url": "https://nmdoj.gov",
+   "title": "Home - New Mexico Department of JusticeBlueskyBluesky",
+   "description": "The Attorney General and the Department of Justice, collectively referred to as the New Mexico Department of Justice, represent...",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "48bc104cd5820fcb9989.jpg"
+  },
+  {
+   "url": "https://tapirscan.f-kleinicke.de",
+   "title": "Tapirscan \u2014 interactive barcode scanner comparison",
+   "description": "Compare Tapirscan, ZXing and ZBar on rotated barcodes using demo images, your own photos or a live camera. All image processing runs locally in your browser.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "ffabdc1dfc9f4ea38d1d.jpg"
+  },
+  {
+   "url": "https://www.macrumors.com",
+   "title": "MacRumors: Apple News and RumorsOpen MenuShow RoundupsShow Forums menuVisit ForumsOpen SidebarNext P",
+   "description": "Apple News and Rumors",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "93d68ee650206db9f943.jpg"
+  },
+  {
+   "url": "https://containersecurity.dev",
+   "title": "Container Security: Docker, Kubernetes, Supply Chain & Runtime",
+   "description": "Practical container security guidance for Docker, Kubernetes, software supply chains, SBOMs, runtime defense, and AI agents.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "9cf74a04ba189d750d89.jpg"
+  },
+  {
+   "url": "https://nlnet.nl",
+   "title": "NLnet; Welcome to NLnet Foundation",
+   "description": "",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "8ec24b8e53766afe6a64.jpg"
+  },
+  {
+   "url": "https://euspell.org",
+   "title": "Euspell \u2014 Spelling Reform: An Engineering Approach",
+   "description": "Euspell is a systematic, tooling-first reform of English spelling: a 205000-entry lexicon, part-of-speech disambiguation, and browser, reader, and office integrations.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "ad1e007e348f906d9f0f.jpg"
+  },
+  {
+   "url": "https://www.trylasso.online",
+   "title": "Lasso \u2014 Draw on anything. Explain everything.",
+   "description": "Lasso is a free Mac app for drawing on top of whatever is on your screen \u2014 circle, highlight, point and number things while you present, teach or explain, then press esc and it\u2019s gone.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "24a5f20dbd71702575f3.jpg"
+  },
+  {
+   "url": "https://mjtsai.com",
+   "title": "Michael Tsai - Good Evening",
+   "description": "",
+   "category": "Science",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0,
+   "screenshot_file": "6869e68815523f980c8c.jpg"
   }
  ]
 }
