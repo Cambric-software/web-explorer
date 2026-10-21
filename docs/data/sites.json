@@ -488,10 +488,10 @@
    "category": "Tools",
    "lang": "en",
    "source": "discovery",
-   "status": "ok",
+   "status": "warn",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
-   "fails": 0
+   "checked": "2026-10-21",
+   "fails": 1
   },
   {
    "url": "https://jeffyclassify.com",
@@ -502,7 +502,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -514,7 +514,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -526,7 +526,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -538,7 +538,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -550,7 +550,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -562,7 +562,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -574,7 +574,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -586,7 +586,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -598,7 +598,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -610,7 +610,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -622,7 +622,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -634,7 +634,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -646,7 +646,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -658,7 +658,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -670,7 +670,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -682,7 +682,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -694,7 +694,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -706,7 +706,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -718,7 +718,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -730,7 +730,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -742,7 +742,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -754,7 +754,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -766,7 +766,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -778,7 +778,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -788,10 +788,10 @@
    "category": "Games",
    "lang": "en",
    "source": "discovery",
-   "status": "warn",
+   "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
-   "fails": 1
+   "checked": "2026-10-21",
+   "fails": 0
   },
   {
    "url": "https://identity.algebrix.co",
@@ -802,7 +802,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -814,7 +814,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -826,7 +826,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -838,7 +838,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -850,7 +850,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -862,7 +862,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -874,7 +874,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -886,7 +886,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -898,7 +898,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -910,7 +910,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -922,7 +922,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -934,7 +934,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -946,7 +946,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -958,7 +958,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-20",
+   "checked": "2026-10-21",
    "fails": 0
   },
   {
@@ -4818,6 +4818,546 @@
    "title": "Who's the GOAT? Vote on the greatest of all time \u00b7 thegoats.lol",
    "description": "Settle who is the greatest of all time in football, basketball, tennis, F1, movies, TV, music and manga. Pick a side in head-to-head matchups and a chess-style rating sorts the table.",
    "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://orange-bread-2832.vahmoh25.workers.dev",
+   "title": "NeuroMario",
+   "description": "A Mario-style platformer where a population of neural networks learns to play by evolution alone.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://blog.cloudlinux.com",
+   "title": "Blog - CloudLinux",
+   "description": "",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://www.devas.life",
+   "title": "Takuya Matsuyama",
+   "description": "Join me on a behind-the-scenes coding journey. Weekly updates on projects, tutorials, and videos",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://chenglou.me",
+   "title": "My Midjourney AI Art",
+   "description": "My Midjourney AI Art",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://stykanimate.com",
+   "title": "StykAnimate: free stick figure animation software",
+   "description": "Free stick figure animation on Windows, Linux and the web. Pose with IK, animate on a real timeline, and open Pivot or Stick Nodes projects.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://bitsilla.com",
+   "title": "/* bitsilla ~ weaving code */",
+   "description": "",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://www.modula9.net",
+   "title": "Modula-9: a language for code that must be believed",
+   "description": "M9 is a Wirth-family language, readable like a bank statement and checked like Rust. Every rule exists because of a real bug, and the compiler refuses that bug.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://installmap.com",
+   "title": "Installmap | Share of each named list of companies running each tool",
+   "description": "Installmap publishes the share of each list of companies that runs each piece of software: the Inc 5000, Y Combinator companies, the Fortune 500, unicorns, SaaS companies and the Tranco top 10,000, each crawled as a set.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://www.union.ai",
+   "title": "Union.ai: The only AI runtime that runs in your cloud, not ours.Union.aiUnion.aiUnion.ai",
+   "description": "One platform to orchestrate durable AI workflows, real-time apps, and compute optimization. Your data never leaves your infrastructure.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://www.csvpath.org",
+   "title": "Ingest JSON, XML, CSV & DataFrames | CsvPath Framework",
+   "description": "Stop writing custom import and validation scripts. CsvPath Framework automates CSV and Excel ingestion and data quality checks. Open source. Python.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://tenbri.com",
+   "title": "Tenbri: the open-source Agent Decision Record",
+   "description": "An Agent Decision Record is a signed, append-only record of every decision an AI agent makes, verifiable offline by anyone. Tenbri is the open-source one: an audit trail for AI agents, hash-chained and signed, on storage you control.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://incacad.com",
+   "title": "Inca",
+   "description": "Inca is a free, open-source 3D modeling, animation and rendering application for Windows, Mac and Linux that works like Maya 2020.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://emudhra.we-have-a-problem.com",
+   "title": "eMudhra Intermediate CA Compromise",
+   "description": "eMudhra Intermediate CA Compromise",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://policywatcher.online",
+   "title": "PolicyWatcher | Privacy, Terms & AI Policy Changes",
+   "description": "Track privacy policy, terms of service and AI policy updates. Compare recorded versions, inspect sources and follow company policy changes with PolicyWatcher.",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://ai-news.jagular.io",
+   "title": "Jag's AI Heat Map: what's heating up in AI",
+   "description": "An interactive map of the AI companies, models, products, people and ideas getting the most attention in English-language news over the last 7 days.",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://www.sciencenews.org",
+   "title": "Science News | The latest news from all areas of science",
+   "description": "Science News features news articles, videos and more about the latest scientific advances. Independent, accurate nonprofit news since 1921.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://mohitkhare.com",
+   "title": "Mohit Khare | Builder and writer",
+   "description": "Mohit Khare writes about software, systems, products, and the work of building them.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://fulcrumsec.vg",
+   "title": "FulcrumSec",
+   "description": "",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://xkcd.com",
+   "title": "xkcd: Fusion Device",
+   "description": "",
+   "category": "Developer",
+   "lang": "?",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://piola.ideascollective.com",
+   "title": "Piola \u2014 Menu Bar Pull Timer for Mac",
+   "description": "Piola is a precise, flexible menu bar timer for Mac. Pull, dial or type to start multiple timers without breaking focus.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://chipsandcheese.com",
+   "title": "Chips and Cheese | Substack",
+   "description": "The Devil is in the Details! Deep dives into computer hardware and software and the wider industry... Click to read Chips and Cheese, a Substack publication with tens of thousands of subscribers.",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://robloxthehollow.com",
+   "title": "The Hollow Roblox 2026 \u2013 Event Guide, Games & Rewards",
+   "description": "The Hollow starts October 22, 2026. Follow verified information about Roblox\u2019s Halloween event. Explore game, quest and reward updates and local progress tracking.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://www.vox.com",
+   "title": "VoxVoxPodcastVideoVoxCloseVideoPodcastCrosswordFacebookInstagramYoutubeRSSTikTokCrosswordCrosswordPo",
+   "description": "Vox is a general interest news site for the 21st century. Its mission: to help everyone understand our complicated world, so that we can all help shape it. In text, video and audio, our reporters explain politics, policy, world affairs, tec",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://www.pagetable.com",
+   "title": "pagetable.com \u2013 Some Assembly Required",
+   "description": "Some Assembly Required",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://aieffectstudio.com",
+   "title": "AI Effect Studio \u2013 Turn One Photo into a Viral AI Video",
+   "description": "Turn one photo into a trending AI video: Bulin 47, Burning Bridges, Crazy Frog, dance duets and more. Ready-to-share MP4 in minutes, from $9.99.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://grafista.io",
+   "title": "Grafista: AI designs, presentations, flyers and more",
+   "description": "Grafista is an AI graphic designer generating social media posts, presentations, flyers, menus and more. No design knowledge or prompt skills required.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://materialize.com",
+   "title": "The Live Context Layer for Agents and Apps | Materialize",
+   "description": "Materialize is the live context layer for agents and apps. It lets engineering teams use SQL to transform siloed operational data into real-time data products they can trust. Organizations from Notion to Crane Worldwide Logistics use Materi",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://finance.yahoo.com",
+   "title": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News",
+   "description": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://paceorpause.com",
+   "title": "Pace or Pause \u2014 Where People Stand on AI",
+   "description": "Where the people shaping AI stand on its pace. Explore their positions, read the evidence, and take the quiz to find your own.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://choresmachine.com",
+   "title": "Chores Machine",
+   "description": "A calm home for the recurring things you mean to get to. Chores stay out of sight until they are due, then one tap clears them.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://www.heyida.ai",
+   "title": "Ida: the voice layer for your Mac",
+   "description": "Meet Ida, a native Mac voice layer that helps you write, find, and take action across your Mac.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://madewithlove.com",
+   "title": "madewithlove - Enhancing Software, Elevating Teams",
+   "description": "Madewithlove helps SaaS startups and scale-ups build scalable, maintainable products. Staff engineers and fractional CTOs who fix, lead and mentor teams.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://visidea.ai",
+   "title": "Visidea | Boost Conversions with AI Visual & Semantic Search + Product Recommendations - Visidea.ai",
+   "description": "Visual recommendations and visual search for e-commerce websites. Drive more sales and engagement with our plugins: Wordpress, Shopify, Magento, Prestashop.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://uniker.nl",
+   "title": "Home \u2014 Unikernels in OCaml",
+   "description": "Building operating systems that do one thing with OCaml and Solo5.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://lab4.app",
+   "title": "Lab4 \u2014 Laboratory for Apps",
+   "description": "Lab4 is a laboratory for apps. We build focused utilities \u2014 like db4 and rec4 \u2014 to help you get things done.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://mars.college",
+   "title": "Mars College \u2014 Off-grid college in the California desert",
+   "description": "An annual pop-up off-grid college town cultivating the low-cost, high-tech lifestyle. Join us in 2027!",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://nikhilism.com",
+   "title": "Nikhil's blog | Home",
+   "description": "",
+   "category": "Developer",
+   "lang": "?",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://openjdk.org",
+   "title": "OpenJDK",
+   "description": "",
+   "category": "Developer",
+   "lang": "?",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://zoomies.sh",
+   "title": "Zoomies: open-source self-hosted GitHub Actions runners",
+   "description": "Run GitHub Actions on your own machines with fresh ephemeral runners, a live web UI and autoscaling. One Go binary, SQLite, no Kubernetes.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://blog.rust-lang.org",
+   "title": "The Rust Programming Language Blog",
+   "description": "Empowering everyone to build reliable and efficient software.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://fleeb.ee",
+   "title": "fleeb.ee",
+   "description": "personal website",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://nordstjernen.org",
+   "title": "Nordstjernen Web Browser",
+   "description": "Nordstjernen is a web browser, written from scratch in C. Focused on supporting the HTML and CSS standards. Runs on Windows, Mac and Linux, Android and Java.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://alignment.openai.com",
+   "title": "Research and Releases \u00b7 OpenAI Alignment",
+   "description": "Research on aligning AI with human values and intent, and reports documenting model failures.",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://leangame.autumnofautumn.com",
+   "title": "Visual Lean",
+   "description": "An experimental graphical user interface for writing Lean code. Lean verification runs locally on both desktop and mobile through WASM.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-21",
+   "checked": "2026-10-21",
+   "fails": 0
+  },
+  {
+   "url": "https://vostride.com",
+   "title": "AI Testing Agent | vostride",
+   "description": "Test web, Android, and iOS apps in plain English with agent-qa. A self-improving AI QA agent with persistent memory, built for developers and coding agents.",
+   "category": "Tools",
    "lang": "en",
    "source": "discovery",
    "status": "ok",
