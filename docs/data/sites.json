@@ -11,7 +11,9 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "first_seen": 2021,
+   "screenshot_file": "2476512ea174fb8fd46c.jpg"
   },
   {
    "url": "https://neocities.org",
@@ -23,7 +25,9 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "first_seen": 2013,
+   "screenshot_file": "680e2501108b3db7925e.jpg"
   },
   {
    "url": "https://www.windows93.net",
@@ -35,7 +39,9 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "first_seen": 2014,
+   "screenshot_file": "0bcc9baea0005f594d38.jpg"
   },
   {
    "url": "https://radio.garden",
@@ -47,7 +53,9 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "first_seen": 2016,
+   "screenshot_file": "5f38fbaf598bd08deddd.jpg"
   },
   {
    "url": "https://www.theuselessweb.com",
@@ -59,7 +67,9 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "first_seen": 2012,
+   "screenshot_file": "346ab8884377629b1838.jpg"
   },
   {
    "url": "https://ciechanow.ski",
@@ -71,7 +81,9 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "first_seen": 2019,
+   "screenshot_file": "f2d80e3f7a8f04cb8bca.jpg"
   },
   {
    "url": "https://www.gwern.net",
@@ -83,7 +95,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "24aa1321adff64329c2b.jpg"
   },
   {
    "url": "https://excalidraw.com",
@@ -95,7 +108,9 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "first_seen": 2020,
+   "screenshot_file": "815764976e9c902ce30c.jpg"
   },
   {
    "url": "https://poolsuite.net",
@@ -107,7 +122,9 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "first_seen": 2021,
+   "screenshot_file": "6d5ad68955631034c9e4.jpg"
   },
   {
    "url": "https://www.cameronsworld.net",
@@ -119,7 +136,9 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "first_seen": 2003,
+   "screenshot_file": "b4c2db8f26d2499374b9.jpg"
   },
   {
    "url": "https://hackaday.com",
@@ -131,7 +150,9 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "first_seen": 2004,
+   "screenshot_file": "a0d8e87089e5d7caf44a.jpg"
   },
   {
    "url": "https://news.ycombinator.com",
@@ -143,7 +164,9 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "first_seen": 2007,
+   "screenshot_file": "8c132669acb050f97048.jpg"
   },
   {
    "url": "https://ooh.directory",
@@ -155,7 +178,9 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "first_seen": 2022,
+   "screenshot_file": "56023981e966be616132.jpg"
   },
   {
    "url": "https://marginalia-search.com",
@@ -167,7 +192,9 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "first_seen": 2025,
+   "screenshot_file": "eea5f0b37f9cf9f5ac6a.jpg"
   },
   {
    "url": "https://lichess.org",
@@ -179,7 +206,9 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "first_seen": 2010,
+   "screenshot_file": "b749c1861831bd7c365a.jpg"
   },
   {
    "url": "https://www.drawabox.com",
@@ -191,7 +220,9 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "first_seen": 2015,
+   "screenshot_file": "e0d175376af1a1108a96.jpg"
   },
   {
    "url": "https://www.cs.cmu.edu/~rgs/alice-table.html",
@@ -203,7 +234,9 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "first_seen": 1998,
+   "screenshot_file": "58cfc5e2a3ca7b897314.jpg"
   },
   {
    "url": "https://sr.ht",
@@ -215,7 +248,9 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "first_seen": 2015,
+   "screenshot_file": "601f9d430119fc698ffd.jpg"
   },
   {
    "url": "https://justinjackson.ca",
@@ -227,7 +262,9 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "first_seen": 2009,
+   "screenshot_file": "74122ce0c0d5bffd1d5d.jpg"
   },
   {
    "url": "https://www.firefox.com",
@@ -239,7 +276,9 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "first_seen": 1996,
+   "screenshot_file": "d4e1f6f104315219d1ad.jpg"
   },
   {
    "url": "https://techstrong.it",
@@ -251,7 +290,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "18e184d6afdcda64aca6.jpg"
   },
   {
    "url": "https://getcuecut.com",
@@ -263,7 +303,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "147bd209c31da94f6284.jpg"
   },
   {
    "url": "https://eigenmoon.vercel.app",
@@ -275,7 +316,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "e956d01f67cdd31b5521.jpg"
   },
   {
    "url": "https://signalsandthreads.com",
@@ -287,7 +329,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "5535012dd0c38735dd21.jpg"
   },
   {
    "url": "https://skyfall.ai",
@@ -299,7 +342,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "04e8aacdaa3a277635d9.jpg"
   },
   {
    "url": "https://www.aljazeera.com",
@@ -311,7 +355,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d77fe702137b27c8c8f0.jpg"
   },
   {
    "url": "https://pcper.com",
@@ -323,7 +368,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "975bdee5addebd28c111.jpg"
   },
   {
    "url": "https://demo.ulda.io",
@@ -335,7 +381,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "cf27bbcc1c7057d776ad.jpg"
   },
   {
    "url": "https://forgot.dev",
@@ -347,7 +394,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "300fc9ab36ab2a2ae122.jpg"
   },
   {
    "url": "https://illos.dev",
@@ -359,7 +407,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "bb4cdd3a1fb49a899a35.jpg"
   },
   {
    "url": "https://leaddev.com",
@@ -371,7 +420,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ec5c72b20087d3dd0721.jpg"
   },
   {
    "url": "https://wz-it.com",
@@ -383,7 +433,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d94aa0d42cabf2469965.jpg"
   },
   {
    "url": "https://sipeed.com",
@@ -395,7 +446,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "328c57f88bd5d2a3562c.jpg"
   },
   {
    "url": "https://www.gadgetreview.com",
@@ -407,7 +459,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "5df9c09472f00604b60d.jpg"
   },
   {
    "url": "https://dovepass.com",
@@ -419,7 +472,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "a8183a33a67c655c00a0.jpg"
   },
   {
    "url": "https://tenderlovemaking.com",
@@ -431,7 +485,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "594931140c2b51c58147.jpg"
   },
   {
    "url": "https://abcnews.com",
@@ -443,7 +498,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "1cda87a612fe010bac17.jpg"
   },
   {
    "url": "https://www.noemamag.com",
@@ -455,7 +511,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c9710c37e120e6ec4c18.jpg"
   },
   {
    "url": "https://link.springer.com",
@@ -467,7 +524,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "8fe6654fc2e9da9be28f.jpg"
   },
   {
    "url": "https://www.dailys.menu",
@@ -479,7 +537,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "2bbfb8396eed365c6604.jpg"
   },
   {
    "url": "https://vibetown.social",
@@ -491,7 +550,8 @@
    "status": "warn",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 1
+   "fails": 1,
+   "screenshot_file": "61f408fc391168100232.jpg"
   },
   {
    "url": "https://jeffyclassify.com",
@@ -503,7 +563,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "5e430be484a55ea12171.jpg"
   },
   {
    "url": "https://blog.cloudflare.com",
@@ -515,7 +576,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "1c00d45aba0c56deed83.jpg"
   },
   {
    "url": "https://hothardware.com",
@@ -527,7 +589,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "5277a03096d66b430d48.jpg"
   },
   {
    "url": "https://blog.torproject.org",
@@ -539,7 +602,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "2b1237450d4d91d79d19.jpg"
   },
   {
    "url": "https://maplair.org",
@@ -551,7 +615,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "fff4c4323040b0cb9402.jpg"
   },
   {
    "url": "https://www.rferl.org",
@@ -563,7 +628,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d58e7499d7ec0545d7bf.jpg"
   },
   {
    "url": "https://feniix-hq.net",
@@ -575,7 +641,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "cf083577f422f6032dd5.jpg"
   },
   {
    "url": "https://tomalard.github.io",
@@ -587,7 +654,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "92b7e739ff754a7e8299.jpg"
   },
   {
    "url": "https://www.youlangtube.com",
@@ -599,7 +667,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "073002fac4269f8cb3f3.jpg"
   },
   {
    "url": "https://yoyo-code.com",
@@ -611,7 +680,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "4d220e43fa3c67825f7e.jpg"
   },
   {
    "url": "https://100toolkit.com",
@@ -623,7 +693,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "a9cc156321213a94df14.jpg"
   },
   {
    "url": "https://blog.dnsimple.com",
@@ -635,7 +706,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "b18a38720ad73eefe9af.jpg"
   },
   {
    "url": "https://naildrivin5.com",
@@ -647,7 +719,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "a50e15c0e2c247dc9516.jpg"
   },
   {
    "url": "https://wordpress.org",
@@ -659,7 +732,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d1e72acf0f627e754cf9.jpg"
   },
   {
    "url": "https://www.hello-canary.com",
@@ -671,7 +745,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "beaabaa0fecc201672ed.jpg"
   },
   {
    "url": "https://www.wiz.io",
@@ -683,7 +758,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "146a8216d18dc0e0c0b0.jpg"
   },
   {
    "url": "https://www.calabro.io",
@@ -695,7 +771,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "75af9e025850bd711fca.jpg"
   },
   {
    "url": "https://www.lttlabs.com",
@@ -707,7 +784,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "2a84074f52c96065ac2f.jpg"
   },
   {
    "url": "https://sleeknav.com",
@@ -719,7 +797,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "051705321ea106d742e1.jpg"
   },
   {
    "url": "https://www.johndcook.com",
@@ -731,7 +810,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "0050becc505d2da1ffaf.jpg"
   },
   {
    "url": "https://fireflyk64.github.io",
@@ -743,7 +823,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "bf26667f5ccb815db129.jpg"
   },
   {
    "url": "https://droplis.lalo.li",
@@ -755,7 +836,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "dcac114fac5d4c6ac5c9.jpg"
   },
   {
    "url": "https://blog.computationalcomplexity.org",
@@ -767,7 +849,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "9aa3b0fa875a8c5ea7be.jpg"
   },
   {
    "url": "https://breakspec.com",
@@ -779,7 +862,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "56fc7c51af0289572da9.jpg"
   },
   {
    "url": "https://www.dailycal.org",
@@ -791,7 +875,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "6f20ce6a7c79bd537cb9.jpg"
   },
   {
    "url": "https://identity.algebrix.co",
@@ -803,7 +888,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "112cecddc81716074c04.jpg"
   },
   {
    "url": "https://buddylist.dev",
@@ -815,7 +901,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "1b6fcc47b1938eb81395.jpg"
   },
   {
    "url": "https://bds.flevy.com",
@@ -827,7 +914,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ede9144710ef859cdb48.jpg"
   },
   {
    "url": "https://blog.zerodogg.org",
@@ -839,7 +927,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "2a0ae5281c761ef7076d.jpg"
   },
   {
    "url": "https://cloud.google.com",
@@ -851,7 +940,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "57fe6329eb38b2e4fa97.jpg"
   },
   {
    "url": "https://tailgate.latchlabs.dev",
@@ -863,7 +953,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ed5a2c2fd34929236ab5.jpg"
   },
   {
    "url": "https://budgetflow.cc",
@@ -875,7 +966,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "06af8a503f094df00816.jpg"
   },
   {
    "url": "https://stegano.graphics",
@@ -887,7 +979,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "2a943f37ab5054436180.jpg"
   },
   {
    "url": "https://spacemit.com",
@@ -899,7 +992,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ec8c8985b220b962b64f.jpg"
   },
   {
    "url": "https://packtxt.xyz",
@@ -911,7 +1005,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "1b2694b6aed9e0568ce2.jpg"
   },
   {
    "url": "https://avuriolabs.vercel.app",
@@ -923,7 +1018,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "b5b0d2204f10919cde42.jpg"
   },
   {
    "url": "https://groupcommit.org",
@@ -935,7 +1031,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "33d4f75e1e75e8db2237.jpg"
   },
   {
    "url": "https://ollie.md",
@@ -947,7 +1044,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ff6cf37740e35d690521.jpg"
   },
   {
    "url": "https://chriskiehl.com",
@@ -959,7 +1057,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "b580bc53b10cb1c8dad3.jpg"
   },
   {
    "url": "https://redmonk.com",
@@ -971,7 +1070,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "20480b56b0522f95ab8c.jpg"
   },
   {
    "url": "https://villamoves.com",
@@ -983,7 +1083,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "844047e8139de02e0649.jpg"
   },
   {
    "url": "https://jsdev.space",
@@ -995,7 +1096,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "69603a9a4243a6971e22.jpg"
   },
   {
    "url": "https://www.salesforce.com",
@@ -1007,7 +1109,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "9c0394f7bc1c7e31b0c1.jpg"
   },
   {
    "url": "https://marcus-ai.dev",
@@ -1019,7 +1122,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "680b2aad8598cf1c2f4e.jpg"
   },
   {
    "url": "https://openjobs.thecompound.tech",
@@ -1031,7 +1135,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "35709b8bc2212db684b1.jpg"
   },
   {
    "url": "https://blurdata.app",
@@ -1043,7 +1148,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "0603d603bd8bd783f771.jpg"
   },
   {
    "url": "https://kairos-experiment.com",
@@ -1055,7 +1161,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "edba936e8cc7cc061ee8.jpg"
   },
   {
    "url": "https://andrew-helmer.github.io",
@@ -1067,7 +1174,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "798059e05c83c3e7a5f9.jpg"
   },
   {
    "url": "https://dns.museum",
@@ -1079,7 +1187,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "a7124f32ba4afd23c2ec.jpg"
   },
   {
    "url": "https://pentad.ai",
@@ -1091,7 +1200,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "82f6a7f7171eab637e01.jpg"
   },
   {
    "url": "https://ritholtz.com",
@@ -1103,7 +1213,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "b8cb8a3a7a98626c9b36.jpg"
   },
   {
    "url": "https://aaronmallen.me",
@@ -1115,7 +1226,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "37401a7c45afd1c07175.jpg"
   },
   {
    "url": "https://www.phoronix.com",
@@ -1127,7 +1239,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c6e4b794ee3bfb1df8ae.jpg"
   },
   {
    "url": "https://www.boltedapp.com",
@@ -1139,7 +1252,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "0f9e77924896498c8f3e.jpg"
   },
   {
    "url": "https://goer.p6m.onl",
@@ -1151,7 +1265,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d9f88b010154677d3b5b.jpg"
   },
   {
    "url": "https://chalkbrain.com",
@@ -1163,7 +1278,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "39b62461d3bb3270bc8a.jpg"
   },
   {
    "url": "https://craig-cli.com",
@@ -1175,7 +1291,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "65a9b7e18f44117d8fbc.jpg"
   },
   {
    "url": "https://www.cbsnews.com",
@@ -1187,7 +1304,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d85b850ba2364a0e3254.jpg"
   },
   {
    "url": "https://seliseblocks.com",
@@ -1199,7 +1317,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "3c4a8ffafa77af172cf3.jpg"
   },
   {
    "url": "https://preferencemodel.com",
@@ -1211,7 +1330,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "fb2ef900060bb6be7017.jpg"
   },
   {
    "url": "https://stagenator-mission.web.app",
@@ -1223,7 +1343,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "489102cb17c94017d9f2.jpg"
   },
   {
    "url": "https://www.bbc.com",
@@ -1235,7 +1356,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ff03f7306b36e74d5dad.jpg"
   },
   {
    "url": "https://agihunt.info",
@@ -1247,7 +1369,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "fa846570dcf89c082ed2.jpg"
   },
   {
    "url": "https://opentokenmini.org",
@@ -1259,7 +1382,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "88c331adbeaf7bf6f88f.jpg"
   },
   {
    "url": "https://driftwatch.et",
@@ -1271,7 +1395,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "3bf872a0eb95a634cecc.jpg"
   },
   {
    "url": "https://www.cirqmon.dev",
@@ -1283,7 +1408,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "646628ebe3e2b53afbcf.jpg"
   },
   {
    "url": "https://myretrotunes.com",
@@ -1295,7 +1421,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "b9c9f336d0b4a22de1bf.jpg"
   },
   {
    "url": "https://news.engineering.tamu.edu",
@@ -1307,7 +1434,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "a560d4277bb1340d8a25.jpg"
   },
   {
    "url": "https://www.eff.org",
@@ -1319,7 +1447,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "4c66f6a517ce8c356f8f.jpg"
   },
   {
    "url": "https://www.readmargins.com",
@@ -1331,7 +1460,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c791a73bdacbc76b730f.jpg"
   },
   {
    "url": "https://www.orionbiotechai.com",
@@ -1343,7 +1473,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "de83b104aebcc3130097.jpg"
   },
   {
    "url": "https://next.elysiajs.com",
@@ -1355,7 +1486,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "fede3cd8fa56c748cfc2.jpg"
   },
   {
    "url": "https://ende.sh",
@@ -1367,7 +1499,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "894ecc8f1ccb32da884d.jpg"
   },
   {
    "url": "https://www.runtype.com",
@@ -1379,7 +1512,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "a9aae5f3f51450e972bc.jpg"
   },
   {
    "url": "https://provenmetal.com",
@@ -1391,7 +1525,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "1700cf97ad63cf715cad.jpg"
   },
   {
    "url": "https://www.yahoo.com",
@@ -1403,7 +1538,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "b8ff2ac2de7b55bf9cd4.jpg"
   },
   {
    "url": "https://ataias.com.br",
@@ -1415,7 +1551,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "3e6e115b500bc367a88f.jpg"
   },
   {
    "url": "https://josie.lol",
@@ -1427,7 +1564,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "40fb023a5f27d5ef47f3.jpg"
   },
   {
    "url": "https://en.wikipedia.org",
@@ -1439,7 +1577,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "efcb5e7c26d69553cab9.jpg"
   },
   {
    "url": "https://webkit.org",
@@ -1451,7 +1590,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "1c3438872a8710017992.jpg"
   },
   {
    "url": "https://www.designinspiration.info",
@@ -1463,7 +1603,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "745ac17b7d97b30f125b.jpg"
   },
   {
    "url": "https://me360.hanhanwu.com",
@@ -1475,7 +1616,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "344662990642f6e8c521.jpg"
   },
   {
    "url": "https://dri.es",
@@ -1487,7 +1629,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "5543f0dcde8fc000b25d.jpg"
   },
   {
    "url": "https://tech.dirkjonker.nl",
@@ -1499,7 +1642,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "288489baf521d48136e9.jpg"
   },
   {
    "url": "https://www.techspot.com",
@@ -1511,7 +1655,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "b20137d4916b2ff0b446.jpg"
   },
   {
    "url": "https://opensource.microsoft.com",
@@ -1523,7 +1668,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "514333b720bf5c828440.jpg"
   },
   {
    "url": "https://indiepilot.app",
@@ -1535,7 +1681,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "07765710509d889bb5fc.jpg"
   },
   {
    "url": "https://status.hetzner.com",
@@ -1547,7 +1694,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "957202f5f1167a8b33d1.jpg"
   },
   {
    "url": "https://unixdigest.com",
@@ -1559,7 +1707,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "5a3ce64e5303b03b3909.jpg"
   },
   {
    "url": "https://icedrill.org",
@@ -1571,7 +1720,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "a3acb299f55dc43f57dc.jpg"
   },
   {
    "url": "https://kyivindependent.com",
@@ -1583,7 +1733,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "86cae1ff7180cfb5b5ad.jpg"
   },
   {
    "url": "https://keithbrown.com",
@@ -1595,7 +1746,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "4b633200a10f18e141c7.jpg"
   },
   {
    "url": "https://canaryguard-402.onrender.com",
@@ -1607,7 +1759,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "4c5f853bcf624dc3e829.jpg"
   },
   {
    "url": "https://bsd.network",
@@ -1619,7 +1772,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "879235fcf60fc7f847fb.jpg"
   },
   {
    "url": "https://a5geo.org",
@@ -1631,7 +1785,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "81bb44724f0bd0f72c91.jpg"
   },
   {
    "url": "https://wherecelebsgo.com",
@@ -1643,7 +1798,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "6f742fa795184cbe079a.jpg"
   },
   {
    "url": "https://d2survivors.lol",
@@ -1655,7 +1811,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ab381ad8945b7c1b9713.jpg"
   },
   {
    "url": "https://pypi.org",
@@ -1667,7 +1824,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "b4c93a4591f5e6ddfc66.jpg"
   },
   {
    "url": "https://www.bryanpg.com",
@@ -1679,7 +1837,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d214d303490c62204bfd.jpg"
   },
   {
    "url": "https://www.percona.com",
@@ -1691,7 +1850,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d8055744dcd579336223.jpg"
   },
   {
    "url": "https://arxiv.org",
@@ -1703,7 +1863,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "f7a436a39e7146ed448c.jpg"
   },
   {
    "url": "https://kolemannix.com",
@@ -1715,7 +1876,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "eeffebe1b81d616999f0.jpg"
   },
   {
    "url": "https://quickchat.ai",
@@ -1727,7 +1889,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "87ccd248ea9540ad5ea2.jpg"
   },
   {
    "url": "https://blog.webb.page",
@@ -1739,7 +1902,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "2e1679a05ab4f8f5ec4f.jpg"
   },
   {
    "url": "https://www.openmarketsinstitute.org",
@@ -1751,7 +1915,8 @@
    "status": "ok",
    "added": "2026-10-19",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "cdb263427c9421db13c0.jpg"
   },
   {
    "url": "https://techcrunch.com",
@@ -1763,7 +1928,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "06cbaf185cf76fb8c855.jpg"
   },
   {
    "url": "https://www.cloudflarestatus.com",
@@ -1775,7 +1941,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "1d9574c4815958e0f028.jpg"
   },
   {
    "url": "https://nolanlawson.com",
@@ -1787,7 +1954,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "6418e3eefbf707b18464.jpg"
   },
   {
    "url": "https://junupark.xyz",
@@ -1799,7 +1967,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "a9a08bbb46dd7480d431.jpg"
   },
   {
    "url": "https://seditiondaw.com",
@@ -1811,7 +1980,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "0651650a3104af762f4c.jpg"
   },
   {
    "url": "https://apps.apple.com",
@@ -1823,7 +1993,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "335501adb29d63aa3579.jpg"
   },
   {
    "url": "https://exa.ai",
@@ -1835,7 +2006,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "cc76cd5cb3935b1394d8.jpg"
   },
   {
    "url": "https://marc.info",
@@ -1847,7 +2019,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "b513835807be3ef58f00.jpg"
   },
   {
    "url": "https://emilkowal.ski",
@@ -1859,7 +2032,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "faccdc39f046031dd0b0.jpg"
   },
   {
    "url": "https://www.emergentmind.com",
@@ -1871,7 +2045,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "17b64d4d6e1873b1e010.jpg"
   },
   {
    "url": "https://futhark-lang.org",
@@ -1883,7 +2058,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d8e5f37b27e724d4a585.jpg"
   },
   {
    "url": "https://arstechnica.com",
@@ -1895,7 +2071,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "e620c1e06ff8915c3ea9.jpg"
   },
   {
    "url": "https://www.jhiblog.org",
@@ -1907,7 +2084,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "b52972ab7e2b043513a1.jpg"
   },
   {
    "url": "https://barn.ope.cool",
@@ -1919,7 +2097,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "5e15e1078ac26ee97c68.jpg"
   },
   {
    "url": "https://www.bleepingcomputer.com",
@@ -1931,7 +2110,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "9e59f8fc67e3f19b48c0.jpg"
   },
   {
    "url": "https://antelang.org",
@@ -1943,7 +2123,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "0d2737de88ae662dcd43.jpg"
   },
   {
    "url": "https://sourcey.com",
@@ -1955,7 +2136,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "7148729be3bd8c135cda.jpg"
   },
   {
    "url": "https://siliconangle.com",
@@ -1967,7 +2149,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "46ec9477e08e1c536796.jpg"
   },
   {
    "url": "https://www.lemonde.fr",
@@ -1979,7 +2162,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "bea270560af301736014.jpg"
   },
   {
    "url": "https://golden-axe-sf.atomic14.com",
@@ -1991,7 +2175,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "32f49d99570b01c4bcf0.jpg"
   },
   {
    "url": "https://trial.medpath.com",
@@ -2003,7 +2188,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "6b5f0d97581986461646.jpg"
   },
   {
    "url": "https://www.videogameschronicle.com",
@@ -2015,7 +2201,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "e3da80fb6d4a30d42667.jpg"
   },
   {
    "url": "https://today.ucsd.edu",
@@ -2027,7 +2214,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "92b2364183bde0170585.jpg"
   },
   {
    "url": "https://nsidc.org",
@@ -2039,7 +2227,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "462c9ea0f61966c8fca7.jpg"
   },
   {
    "url": "https://teamupdraft.com",
@@ -2051,7 +2240,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c1f6e3a6579c1b9e35e0.jpg"
   },
   {
    "url": "https://chai-ui.com",
@@ -2063,7 +2253,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "975faa93e9dd8c384b0b.jpg"
   },
   {
    "url": "https://www.windowslatest.com",
@@ -2075,7 +2266,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "f60acbd3b69bfe9f956e.jpg"
   },
   {
    "url": "https://gitwal.com",
@@ -2087,7 +2279,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "771e399c4500cc35dced.jpg"
   },
   {
    "url": "https://www.basis.ai",
@@ -2099,7 +2292,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d51acfedea30911c4467.jpg"
   },
   {
    "url": "https://www.ifre.com",
@@ -2111,7 +2305,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d76aaa026de4abcec948.jpg"
   },
   {
    "url": "https://spinozalabs.ai",
@@ -2123,7 +2318,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "2df1e9f30b16250fce22.jpg"
   },
   {
    "url": "https://andrewarrow.dev",
@@ -2135,7 +2331,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "89b271a187da3af5f15e.jpg"
   },
   {
    "url": "https://blog.doyensec.com",
@@ -2147,7 +2344,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "8a47865ea4c81004dbc9.jpg"
   },
   {
    "url": "https://spacebar.greg.technology",
@@ -2159,7 +2357,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "4d4ceb7e70ad1507dbc2.jpg"
   },
   {
    "url": "https://3anddoneapp.com",
@@ -2171,7 +2370,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "f5929bd5f2a2bf124be9.jpg"
   },
   {
    "url": "https://grasmere.app",
@@ -2183,7 +2383,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "1f6b50f36e716e63b1d6.jpg"
   },
   {
    "url": "https://textideo.com",
@@ -2195,7 +2396,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "226d427a72fce61563d0.jpg"
   },
   {
    "url": "https://commonnotes.net",
@@ -2207,7 +2409,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "37d36c58ec21de7ebf34.jpg"
   },
   {
    "url": "https://mvndy.cl",
@@ -2219,7 +2422,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "03977e3cfa0831e043bd.jpg"
   },
   {
    "url": "https://maali.app",
@@ -2231,7 +2435,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "1724388a2a21c70630bd.jpg"
   },
   {
    "url": "https://making.close.com",
@@ -2243,7 +2448,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "40a5d42c0e29cbb0922b.jpg"
   },
   {
    "url": "https://fortune.com",
@@ -2255,7 +2461,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "b19b69648c87845c018f.jpg"
   },
   {
    "url": "https://www.openbsd.org",
@@ -2267,7 +2474,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "79411ef822d1502cc97b.jpg"
   },
   {
    "url": "https://answerrank.so",
@@ -2279,7 +2487,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d8631772e969176bbd28.jpg"
   },
   {
    "url": "https://theconversation.com",
@@ -2291,7 +2500,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "4c101c7fe56d802f3d20.jpg"
   },
   {
    "url": "https://hieron.cc",
@@ -2303,7 +2513,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "bd4011e76d5d5c11e7fa.jpg"
   },
   {
    "url": "https://www.bbc.co.uk",
@@ -2315,7 +2526,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "fa1f8d08fc351f7b7393.jpg"
   },
   {
    "url": "https://sendreward.com",
@@ -2327,7 +2539,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "7360aa135cfa4b3d1bb4.jpg"
   },
   {
    "url": "https://extract.nerfguard.com",
@@ -2339,7 +2552,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "fcd087e46bb5400d5c83.jpg"
   },
   {
    "url": "https://ailegal.legal",
@@ -2351,7 +2565,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "e6c7e791323cc6992e87.jpg"
   },
   {
    "url": "https://swirltogether.com",
@@ -2363,7 +2578,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "250f5c60590a7254c285.jpg"
   },
   {
    "url": "https://nmattia.com",
@@ -2375,7 +2591,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ec529d19ed8c3b780201.jpg"
   },
   {
    "url": "https://xtract-production-2efc.up.railway.app",
@@ -2387,7 +2604,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "9326d35331aa1a38b632.jpg"
   },
   {
    "url": "https://demo.costura.ai",
@@ -2399,7 +2617,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "b5993676479af307fa27.jpg"
   },
   {
    "url": "https://purepdfhq.com",
@@ -2411,7 +2630,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "86766ae0be345e749cbe.jpg"
   },
   {
    "url": "https://terraphim.ai",
@@ -2423,7 +2643,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "b8fe4bbf30362d3e7468.jpg"
   },
   {
    "url": "https://sitesolide.fr",
@@ -2435,7 +2656,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c4a1cf5f8992624f5b4d.jpg"
   },
   {
    "url": "https://kottke.org",
@@ -2447,7 +2669,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ae740055eb3eb929c3f0.jpg"
   },
   {
    "url": "https://www.artificialintelligencemadesimple.com",
@@ -2459,7 +2682,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "7cd7ebf7422e9cfae090.jpg"
   },
   {
    "url": "https://www.lesswrong.com",
@@ -2471,7 +2695,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "4adb6125d3922ef83a28.jpg"
   },
   {
    "url": "https://about.gitlab.com",
@@ -2483,7 +2708,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ceee6aeb6b79ee529dd9.jpg"
   },
   {
    "url": "https://xuterm.vercel.app",
@@ -2495,7 +2721,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ac0c2adcdc2faf94aac8.jpg"
   },
   {
    "url": "https://deepsense.ai",
@@ -2507,7 +2734,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "23d3ef8e1e4b9866897e.jpg"
   },
   {
    "url": "https://www.flexchords.com",
@@ -2519,7 +2747,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "45f27bcc926d261dcd96.jpg"
   },
   {
    "url": "https://blog.x504.dev",
@@ -2531,7 +2760,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "504a75c7a3a8f6076473.jpg"
   },
   {
    "url": "https://www.aboutamazon.com",
@@ -2543,7 +2773,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "4bc810a13e0c88f83a88.jpg"
   },
   {
    "url": "https://roadrash.pages.dev",
@@ -2555,7 +2786,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "2c56be350818f1b68f75.jpg"
   },
   {
    "url": "https://blog.mahdibm.com",
@@ -2567,7 +2799,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "32053ddc7c6cdbb638d8.jpg"
   },
   {
    "url": "https://ruralcheck.eu",
@@ -2579,7 +2812,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c96b01a0f47884e52b57.jpg"
   },
   {
    "url": "https://www.kitchin.org",
@@ -2591,7 +2825,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "8854e187230bfab1d01b.jpg"
   },
   {
    "url": "https://chatgpt2notion.com",
@@ -2603,7 +2838,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "9bd63f1b2bace7c79ec8.jpg"
   },
   {
    "url": "https://allenai.org",
@@ -2615,7 +2851,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "26165d75bd3b505f37b9.jpg"
   },
   {
    "url": "https://vole.wtf",
@@ -2627,7 +2864,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "9984d5419352db040e02.jpg"
   },
   {
    "url": "https://www.euronews.com",
@@ -2639,7 +2877,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "34219d4e510e268e9088.jpg"
   },
   {
    "url": "https://meniir.itch.io",
@@ -2651,7 +2890,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "6e989892702fe5fb76b2.jpg"
   },
   {
    "url": "https://foxandlion.pub",
@@ -2663,7 +2903,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "40a866c7772810dce753.jpg"
   },
   {
    "url": "https://devblogs.microsoft.com",
@@ -2675,7 +2916,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "34e733f28eb0a651faa4.jpg"
   },
   {
    "url": "https://privai-sandy.vercel.app",
@@ -2687,7 +2929,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "e93002bd7f0074f1e01b.jpg"
   },
   {
    "url": "https://tiny.london",
@@ -2699,7 +2942,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "cbcae92967cdd32476b1.jpg"
   },
   {
    "url": "https://www.theguardian.com",
@@ -2711,7 +2955,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "619af5b3da55bc1a969d.jpg"
   },
   {
    "url": "https://demotime.pages.dev",
@@ -2723,7 +2968,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "937bfc514d280e5d6821.jpg"
   },
   {
    "url": "https://elcapture.com",
@@ -2735,7 +2981,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c994761958bc2fc427c3.jpg"
   },
   {
    "url": "https://code.geohack.top",
@@ -2747,7 +2994,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "00d2bec25ccf84b13a12.jpg"
   },
   {
    "url": "https://hugovk.dev",
@@ -2759,7 +3007,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "1291baeecd082357c4f2.jpg"
   },
   {
    "url": "https://capbase.fyi",
@@ -2771,7 +3020,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "94e0bfb042bd81831829.jpg"
   },
   {
    "url": "https://alphapixeldev.com",
@@ -2783,7 +3033,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "06230bb13bb8082d75d8.jpg"
   },
   {
    "url": "https://outerweb.org",
@@ -2795,7 +3046,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d93c856605b59e3a97e3.jpg"
   },
   {
    "url": "https://observer.co.uk",
@@ -2807,7 +3059,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "8f215109cbc52a8fc1de.jpg"
   },
   {
    "url": "https://pug.sh",
@@ -2819,7 +3072,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "43ec2a5efe16b615d089.jpg"
   },
   {
    "url": "https://handwritten.danieljanus.pl",
@@ -2831,7 +3085,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "1777be0f3d96ff273c03.jpg"
   },
   {
    "url": "https://sk500.online",
@@ -2843,7 +3098,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "bea64c2d90e06b57e6e8.jpg"
   },
   {
    "url": "https://mistral.ai",
@@ -2855,7 +3111,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "3bf4857877dc21ebe545.jpg"
   },
   {
    "url": "https://tradersunion.com",
@@ -2867,7 +3124,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "926426d351dc9ed9e769.jpg"
   },
   {
    "url": "https://sael.net",
@@ -2879,7 +3137,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "cc287987ddf0f3c313bf.jpg"
   },
   {
    "url": "https://dev.juggle.org",
@@ -2891,7 +3150,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "e545dbada4adc2584c99.jpg"
   },
   {
    "url": "https://decodingvibes.com",
@@ -2903,7 +3163,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "70fa4367947263db9bbf.jpg"
   },
   {
    "url": "https://www.nijho.lt",
@@ -2915,7 +3176,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "701b9ed0aad1d96bf8c4.jpg"
   },
   {
    "url": "https://www.standardtopic.com",
@@ -2927,7 +3189,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "3088d77a6f8e51367aff.jpg"
   },
   {
    "url": "https://birchtree.me",
@@ -2939,7 +3202,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "0c1f2728c6f5f268d45a.jpg"
   },
   {
    "url": "https://realm.js.org",
@@ -2951,7 +3215,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "be809603146e2a4a66af.jpg"
   },
   {
    "url": "https://www.getbeatsflow.com",
@@ -2963,7 +3228,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "5db43d7dea77391f4b3e.jpg"
   },
   {
    "url": "https://accounts.google.com",
@@ -2975,7 +3241,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "89a8000a68d759c68bfa.jpg"
   },
   {
    "url": "https://spicermatthews.com",
@@ -2987,7 +3254,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "fe1e01091f22d5e631b4.jpg"
   },
   {
    "url": "https://pianotry.com",
@@ -2999,7 +3267,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "3845f593d2ba84a3f150.jpg"
   },
   {
    "url": "https://worklicant.com",
@@ -3011,7 +3280,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "6e2e320b3ed79bee60ad.jpg"
   },
   {
    "url": "https://longtermemory.com",
@@ -3023,7 +3293,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "a2e62a5b352c910b136c.jpg"
   },
   {
    "url": "https://xavier.xfaang.com",
@@ -3035,7 +3306,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d58ae882dbb8ddfeeb69.jpg"
   },
   {
    "url": "https://12axestest.org",
@@ -3047,7 +3319,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "f08a417f01496a7a69fc.jpg"
   },
   {
    "url": "https://musicminigames.com",
@@ -3059,7 +3332,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "06056d8f073576409579.jpg"
   },
   {
    "url": "https://a2oliteai.com",
@@ -3071,7 +3345,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "3a8a383348c26c35685a.jpg"
   },
   {
    "url": "https://horizon3.ai",
@@ -3083,7 +3358,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "a2328f488ee9d9a1a5ad.jpg"
   },
   {
    "url": "https://www.sltrib.com",
@@ -3095,7 +3371,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c6f9a4fe77b678453996.jpg"
   },
   {
    "url": "https://nodes.max-richter.dev",
@@ -3107,7 +3384,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "3f5d56072312eed78178.jpg"
   },
   {
    "url": "https://getfaro.dev",
@@ -3119,7 +3397,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "7cfd32fb8a2f2f852da5.jpg"
   },
   {
    "url": "https://cleanyour.tv",
@@ -3131,7 +3410,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "003d659a673a4192709f.jpg"
   },
   {
    "url": "https://www.rockpapershotgun.com",
@@ -3143,7 +3423,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "38f3214545814971beae.jpg"
   },
   {
    "url": "https://opende.netlify.app",
@@ -3155,7 +3436,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "fde048b79e86bea247be.jpg"
   },
   {
    "url": "https://lukaswerner.com",
@@ -3167,7 +3449,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c068a5de06a2f4c16089.jpg"
   },
   {
    "url": "https://debutspace.com",
@@ -3179,7 +3462,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c727f6ed0a14445ae563.jpg"
   },
   {
    "url": "https://hub.xerj.org",
@@ -3191,7 +3475,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "211b00ce36cd768ba40e.jpg"
   },
   {
    "url": "https://www.orbeon.com",
@@ -3203,7 +3488,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ad48beba4c55238e442e.jpg"
   },
   {
    "url": "https://three.dev",
@@ -3215,7 +3501,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ad8529114f98deb4499c.jpg"
   },
   {
    "url": "https://sentinelgate.dev",
@@ -3227,7 +3514,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "3f73c93f4ce67757a23d.jpg"
   },
   {
    "url": "https://asktori.ai",
@@ -3239,7 +3527,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "cb33be2c6f269e9a03c8.jpg"
   },
   {
    "url": "https://mcpcanary.com",
@@ -3251,7 +3540,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "58c859c4bcccbf83c346.jpg"
   },
   {
    "url": "https://www.nber.org",
@@ -3263,7 +3553,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "1a0cc8abf61fa82ea6a7.jpg"
   },
   {
    "url": "https://jevcards.com",
@@ -3275,7 +3566,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "134305fd3790c2345159.jpg"
   },
   {
    "url": "https://polanyilabs.com",
@@ -3287,7 +3579,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c211f7cebca04f812e9a.jpg"
   },
   {
    "url": "https://knowyourspend.org",
@@ -3299,7 +3592,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "416f9e920fb157c179c1.jpg"
   },
   {
    "url": "https://www.designboom.com",
@@ -3311,7 +3605,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "9fe2671f7921a33ecb78.jpg"
   },
   {
    "url": "https://www.anthropic.com",
@@ -3323,7 +3618,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "b19f62aeb044f9fe741a.jpg"
   },
   {
    "url": "https://media.ccc.de",
@@ -3335,7 +3631,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "643235094382c1c66118.jpg"
   },
   {
    "url": "https://www.rnz.co.nz",
@@ -3347,7 +3644,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c2ff1b1ccb399245c6f6.jpg"
   },
   {
    "url": "https://electrek.co",
@@ -3359,7 +3657,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "a3b0cea16b5e53034a4a.jpg"
   },
   {
    "url": "https://tripps.io",
@@ -3371,7 +3670,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "bbb996dedbac2fec5346.jpg"
   },
   {
    "url": "https://peterfalkingham.com",
@@ -3383,7 +3683,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "89e0aca119b757b0f4c2.jpg"
   },
   {
    "url": "https://dailycrack.app",
@@ -3395,7 +3696,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "af4047b58d3ae76d54a5.jpg"
   },
   {
    "url": "https://loup-vaillant.fr",
@@ -3407,7 +3709,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c816a9c42888a2c0a4ba.jpg"
   },
   {
    "url": "https://cronpulser.com",
@@ -3419,7 +3722,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "e9660829544b3f3b5ccd.jpg"
   },
   {
    "url": "https://cricket07.dhaiwat.com",
@@ -3431,7 +3735,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "be53029cd41bb0aeac09.jpg"
   },
   {
    "url": "https://yedoo.ai",
@@ -3443,7 +3748,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "2ba802ed5c97ae916362.jpg"
   },
   {
    "url": "https://www.minlit.app",
@@ -3455,7 +3761,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "bd69b8956b4b0814baa5.jpg"
   },
   {
    "url": "https://fireborn.mataroa.blog",
@@ -3467,7 +3774,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "e8c50b03542d97b2ce5d.jpg"
   },
   {
    "url": "https://skillsync.com",
@@ -3479,7 +3787,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "dd0bb7536b3ec12f174b.jpg"
   },
   {
    "url": "https://permit.petercai.com",
@@ -3491,7 +3800,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "8b284c7bfd62b0088a41.jpg"
   },
   {
    "url": "https://echosphereapp.com",
@@ -3503,7 +3813,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "3e2eef28f1c576727d83.jpg"
   },
   {
    "url": "https://hitl.systems",
@@ -3515,7 +3826,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "3cf1a28b2139a25aa5ba.jpg"
   },
   {
    "url": "https://han-os-offical-site.vercel.app",
@@ -3527,7 +3839,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "b7b538c67a6caf618dfd.jpg"
   },
   {
    "url": "https://cliqqe.com",
@@ -3539,7 +3852,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "a07928939fcc4537fa70.jpg"
   },
   {
    "url": "https://grafana.com",
@@ -3551,7 +3865,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "6d3c0bcd1ee7698f419d.jpg"
   },
   {
    "url": "https://www.therobotreport.com",
@@ -3563,7 +3878,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "a91a1549e171637dca26.jpg"
   },
   {
    "url": "https://blogs.lse.ac.uk",
@@ -3575,7 +3891,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c366f27969809c5e5a27.jpg"
   },
   {
    "url": "https://habenna.app",
@@ -3587,7 +3904,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "7e115c88c6d16d743892.jpg"
   },
   {
    "url": "https://respawnfirst.com",
@@ -3599,7 +3917,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "3f576635b45fa8ba2d86.jpg"
   },
   {
    "url": "https://posthog.com",
@@ -3611,7 +3930,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "0062bfbf3d0c5960a21d.jpg"
   },
   {
    "url": "https://re.factorcode.org",
@@ -3623,7 +3943,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d652518c166214bf0c05.jpg"
   },
   {
    "url": "https://rocus.io",
@@ -3635,7 +3956,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "79c23631444ae74ed5f5.jpg"
   },
   {
    "url": "http://www.joshbarczak.com",
@@ -3647,7 +3969,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "1640dd925544e2dce32a.jpg"
   },
   {
    "url": "https://www.memstrata.dev",
@@ -3659,7 +3982,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "71e1f20f0fa936bc88b8.jpg"
   },
   {
    "url": "https://hackingscreenfake.com",
@@ -3671,7 +3995,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "8231a9822c27e7d6e400.jpg"
   },
   {
    "url": "https://airflow.apache.org",
@@ -3683,7 +4008,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "4e62781705efa487d869.jpg"
   },
   {
    "url": "https://minuteoffame.lol",
@@ -3695,7 +4021,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "7d16c3bfea27c4c094d6.jpg"
   },
   {
    "url": "https://www.anildash.com",
@@ -3707,7 +4034,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "f2dc0d95d0a37aa3cbd9.jpg"
   },
   {
    "url": "https://creatohunt.com",
@@ -3719,7 +4047,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "599d252fd4570a97e8c1.jpg"
   },
   {
    "url": "https://launchloop.dev",
@@ -3731,7 +4060,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "849058334e6627388d15.jpg"
   },
   {
    "url": "https://nfsu2.xyz",
@@ -3743,7 +4073,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "60f37002106b9802b71c.jpg"
   },
   {
    "url": "https://www.gpd-minipc.com",
@@ -3755,7 +4086,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "6891ffd7e27cb08e8453.jpg"
   },
   {
    "url": "https://vorpus.org",
@@ -3767,7 +4099,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "24866877021047f6eabd.jpg"
   },
   {
    "url": "https://www.dw.com",
@@ -3779,7 +4112,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "6f24571893b99dcc8daa.jpg"
   },
   {
    "url": "https://patchwave.ai",
@@ -3791,7 +4125,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "2595d81cded4441c7408.jpg"
   },
   {
    "url": "https://www.dell.com",
@@ -3803,7 +4138,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d5bfa3965a9f01cddf8d.jpg"
   },
   {
    "url": "https://links.twibright.com",
@@ -3815,7 +4151,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "370e177eff29e8c2538a.jpg"
   },
   {
    "url": "https://what-the-harness.polytomic.com",
@@ -3827,7 +4164,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "70bbc0cd7360d8ef4cc9.jpg"
   },
   {
    "url": "https://ch.khanin.info",
@@ -3839,7 +4177,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "6b4ec32ce1547e3415da.jpg"
   },
   {
    "url": "https://bugzilla.mozilla.org",
@@ -3851,7 +4190,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "4791ed9f5d296eab595b.jpg"
   },
   {
    "url": "https://addons.mozilla.org",
@@ -3863,7 +4203,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "59d3e862b192e87c2439.jpg"
   },
   {
    "url": "https://civicpivot.blogspot.com",
@@ -3875,7 +4216,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "e58678ce90ef0caedc90.jpg"
   },
   {
    "url": "https://www.theglobeandmail.com",
@@ -3887,7 +4229,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "7150d1cfe80367daa1b8.jpg"
   },
   {
    "url": "https://practical.engineering",
@@ -3899,7 +4242,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "0b8a76dfaecb3db43e14.jpg"
   },
   {
    "url": "https://nevolodia.com",
@@ -3911,7 +4255,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "0b592bf49843e195cec8.jpg"
   },
   {
    "url": "https://jepsen.io",
@@ -3923,7 +4268,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d85af46e3324de4f551b.jpg"
   },
   {
    "url": "https://www.oregonjournalismproject.org",
@@ -3935,7 +4281,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "2cb7b79029f351846c5e.jpg"
   },
   {
    "url": "https://www.agent-alley.com",
@@ -3947,7 +4294,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "db2bbcffa62df51004c3.jpg"
   },
   {
    "url": "https://grimoire.bio",
@@ -3959,7 +4307,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "6c260ece369120819887.jpg"
   },
   {
    "url": "https://sudofish.com",
@@ -3971,7 +4320,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "6605d776b9b169a224d5.jpg"
   },
   {
    "url": "https://wfform.com",
@@ -3983,7 +4333,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "574ffe9c6e671708daf7.jpg"
   },
   {
    "url": "https://blog.veritates.love",
@@ -3995,7 +4346,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "b06623aea830f7b0c343.jpg"
   },
   {
    "url": "https://danielmangum.com",
@@ -4007,7 +4359,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "3323d0dfe91f3ae1d780.jpg"
   },
   {
    "url": "https://pindexis.github.io",
@@ -4019,7 +4372,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "77c9ca2379cd472d8192.jpg"
   },
   {
    "url": "https://torrentfreak.com",
@@ -4031,7 +4385,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "456306738649e90cddd2.jpg"
   },
   {
    "url": "https://askdoozy.com",
@@ -4043,7 +4398,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "215862e281653aabbec7.jpg"
   },
   {
    "url": "https://markitdownai.org",
@@ -4055,7 +4411,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "acab120aebcbae76398a.jpg"
   },
   {
    "url": "https://www.sciencealert.com",
@@ -4067,7 +4424,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "67107a98a2fc3be2b081.jpg"
   },
   {
    "url": "https://kaba.cx",
@@ -4079,7 +4437,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "80f2913eda1f8023e1db.jpg"
   },
   {
    "url": "https://notbotgame.com",
@@ -4091,7 +4450,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "fd8ac9c7d858fba17f41.jpg"
   },
   {
    "url": "https://www.techpowerup.com",
@@ -4103,7 +4463,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "66f8c1bb9e688382a7b0.jpg"
   },
   {
    "url": "https://qrsticks.greg.technology",
@@ -4115,7 +4476,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "57a2cd3aeae33de4edd8.jpg"
   },
   {
    "url": "https://getovercast.com",
@@ -4127,7 +4489,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "0bae50e0524ef8fa8cca.jpg"
   },
   {
    "url": "https://www.innerwall.dev",
@@ -4139,7 +4502,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "208b2e641f6b2d2b2d6f.jpg"
   },
   {
    "url": "https://classic-ads.com",
@@ -4151,7 +4515,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "8330ea1bc7d1260cb9f5.jpg"
   },
   {
    "url": "https://waldtier.itch.io",
@@ -4163,7 +4528,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "9df8acc4b3d67c00444b.jpg"
   },
   {
    "url": "https://slapalert.com",
@@ -4175,7 +4541,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c5cd48b470284bc16888.jpg"
   },
   {
    "url": "https://www.newyorker.com",
@@ -4187,7 +4554,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ae5251eb6480193aa66f.jpg"
   },
   {
    "url": "https://pdfkind.com",
@@ -4199,7 +4567,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ba13c18e94d85661de3b.jpg"
   },
   {
    "url": "https://www.php.net",
@@ -4211,7 +4580,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "a5ce3a3d7cbec97ab593.jpg"
   },
   {
    "url": "https://edgcpp.org",
@@ -4223,7 +4593,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "8320bffd70e0e3559fd4.jpg"
   },
   {
    "url": "https://pensionhunter.ai",
@@ -4235,7 +4606,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "81f558bee64d3e639d51.jpg"
   },
   {
    "url": "https://seclai.com",
@@ -4247,7 +4619,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "576902bbb59134729800.jpg"
   },
   {
    "url": "https://smash-gauntlet.atomic14.com",
@@ -4259,7 +4632,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ca358a48bb7310187472.jpg"
   },
   {
    "url": "https://rootkitlabs.com",
@@ -4271,7 +4645,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "83cbad0c38e7e6b84a12.jpg"
   },
   {
    "url": "https://studentprotest.himanshuanand.com",
@@ -4283,7 +4658,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "6037cb51b5b5d2e79f98.jpg"
   },
   {
    "url": "https://store.steampowered.com",
@@ -4295,7 +4671,8 @@
    "status": "ok",
    "added": "2026-10-20",
    "checked": "2026-10-20",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "5873511445fc0b06ad38.jpg"
   },
   {
    "url": "https://github.avestura.dev",
@@ -4307,7 +4684,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "de2b0c95691571c79755.jpg"
   },
   {
    "url": "https://www.twz.com",
@@ -4319,7 +4697,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "15ae597fa5b50b645341.jpg"
   },
   {
    "url": "https://tapelark.com",
@@ -4331,7 +4710,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "46f5e7b276ed691b9557.jpg"
   },
   {
    "url": "https://milepacecalculator.com",
@@ -4343,7 +4723,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c86e56a643d7ff33b1fa.jpg"
   },
   {
    "url": "https://schemawright.com",
@@ -4355,7 +4736,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "2dab17d25b41a1eec0d7.jpg"
   },
   {
    "url": "https://blog.mozilla.org",
@@ -4367,7 +4749,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "4026fd7601edb857a1a1.jpg"
   },
   {
    "url": "https://www.theregister.com",
@@ -4379,7 +4762,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "f1ce812a15b799da3367.jpg"
   },
   {
    "url": "https://www.a2oliteneon.app",
@@ -4391,7 +4775,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "0fe5bafb77f25b76b884.jpg"
   },
   {
    "url": "https://koody.com",
@@ -4403,7 +4788,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "3f3336ee27c13b107d32.jpg"
   },
   {
    "url": "https://www.azosensors.com",
@@ -4415,7 +4801,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "46edf02d081267d75678.jpg"
   },
   {
    "url": "https://ampersand.humansand.ai",
@@ -4427,7 +4814,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "08d932de25d0023394cd.jpg"
   },
   {
    "url": "https://opensc2k.com",
@@ -4439,7 +4827,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "edede081a15755d2ff83.jpg"
   },
   {
    "url": "https://mcp.bonbook.co",
@@ -4451,7 +4840,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "035842acc53190fd2408.jpg"
   },
   {
    "url": "https://evans.bike",
@@ -4463,7 +4853,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "69b558ff904b9fcee146.jpg"
   },
   {
    "url": "https://wellbody.me",
@@ -4475,7 +4866,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "fc30eceb48266d6496db.jpg"
   },
   {
    "url": "https://www.joshwcomeau.com",
@@ -4487,7 +4879,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "5349002575e01af30651.jpg"
   },
   {
    "url": "https://www.cockroachlabs.com",
@@ -4499,7 +4892,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "3de068a88d043547c268.jpg"
   },
   {
    "url": "https://www.sherline.com",
@@ -4511,7 +4905,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "5e5c9ec782928c8e2433.jpg"
   },
   {
    "url": "https://blog.joinmastodon.org",
@@ -4523,7 +4918,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ff4a77649dba6d52de8d.jpg"
   },
   {
    "url": "https://www.statnews.com",
@@ -4535,7 +4931,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "8b56d27efd1ef3d52446.jpg"
   },
   {
    "url": "https://www.microagi.ai",
@@ -4547,7 +4944,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "cb587acb62e7ba2e365a.jpg"
   },
   {
    "url": "https://www.dataville.com",
@@ -4559,7 +4957,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "86a1aff9f150af341aa3.jpg"
   },
   {
    "url": "https://cyberinsider.com",
@@ -4571,7 +4970,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "959465d09784578a6781.jpg"
   },
   {
    "url": "https://daniel.haxx.se",
@@ -4583,7 +4983,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "00f677d5de3073a75aca.jpg"
   },
   {
    "url": "https://mulgadc.com",
@@ -4595,7 +4996,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "50987d472a4da6c6aabb.jpg"
   },
   {
    "url": "https://marketplace.visualstudio.com",
@@ -4607,7 +5009,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "343673a159d39d2bff6b.jpg"
   },
   {
    "url": "https://aquariuscomputer.co",
@@ -4619,7 +5022,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "63700ab8b8f3e814bf09.jpg"
   },
   {
    "url": "https://pagecritic.app",
@@ -4631,7 +5035,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "1f7f8be42ce1bee46dc8.jpg"
   },
   {
    "url": "https://mcpcensus.com",
@@ -4643,7 +5048,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "4b050325312d900bd148.jpg"
   },
   {
    "url": "https://starter.meridian.pilot.com",
@@ -4655,7 +5061,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "5e15206deb774f160a7c.jpg"
   },
   {
    "url": "https://www.binghamton.edu",
@@ -4667,7 +5074,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "22de340bfd8ce41b1a6c.jpg"
   },
   {
    "url": "https://www.scientificamerican.com",
@@ -4679,7 +5087,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "fc1227dfa7d1249440e1.jpg"
   },
   {
    "url": "https://furp.org",
@@ -4691,7 +5100,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "b75c999833c25fc1371f.jpg"
   },
   {
    "url": "https://git.cafe",
@@ -4703,7 +5113,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "33d49bd839ae1ee250c5.jpg"
   },
   {
    "url": "https://www.shivfitzpatrick.com",
@@ -4715,7 +5126,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "edaf5e6c3dc30ddd974e.jpg"
   },
   {
    "url": "https://decompwlj.net",
@@ -4727,7 +5139,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "430b05305ca574271b12.jpg"
   },
   {
    "url": "https://www.airbnb.com",
@@ -4739,7 +5152,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "e21f30840df7382f9913.jpg"
   },
   {
    "url": "https://calyourfriends.app",
@@ -4751,7 +5165,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "984ab21565028e08f792.jpg"
   },
   {
    "url": "https://agentitter.com",
@@ -4763,7 +5178,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d12552753135105ad549.jpg"
   },
   {
    "url": "https://iqlvbs.com",
@@ -4775,7 +5191,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "0a9b78bd1db6915558fc.jpg"
   },
   {
    "url": "https://eze.page",
@@ -4787,7 +5204,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "43a0159b42b393500eee.jpg"
   },
   {
    "url": "https://www.rawstory.com",
@@ -4799,7 +5217,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "26415695d6f02407e496.jpg"
   },
   {
    "url": "https://www.pingcap.com",
@@ -4811,7 +5230,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "a1e99abc6df49c297280.jpg"
   },
   {
    "url": "https://thegoats.lol",
@@ -4823,7 +5243,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "0720382720891329b492.jpg"
   },
   {
    "url": "https://orange-bread-2832.vahmoh25.workers.dev",
@@ -4835,7 +5256,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "1a610772172633851f26.jpg"
   },
   {
    "url": "https://blog.cloudlinux.com",
@@ -4847,7 +5269,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "a078629dc63002a0addf.jpg"
   },
   {
    "url": "https://www.devas.life",
@@ -4859,7 +5282,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "f64a851a637da5b493c3.jpg"
   },
   {
    "url": "https://chenglou.me",
@@ -4871,7 +5295,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "5b226a44472f15211d6f.jpg"
   },
   {
    "url": "https://stykanimate.com",
@@ -4883,7 +5308,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ef8457fb52955051ab84.jpg"
   },
   {
    "url": "https://bitsilla.com",
@@ -4895,7 +5321,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "45ad8162fd226593a42a.jpg"
   },
   {
    "url": "https://www.modula9.net",
@@ -4907,7 +5334,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "90923ba7d380eb8e9d59.jpg"
   },
   {
    "url": "https://installmap.com",
@@ -4919,7 +5347,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "439990e7698afb431d8d.jpg"
   },
   {
    "url": "https://www.union.ai",
@@ -4931,7 +5360,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "3ed10048cf0eac6cadb6.jpg"
   },
   {
    "url": "https://www.csvpath.org",
@@ -4943,7 +5373,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "29901f2212a665968a8d.jpg"
   },
   {
    "url": "https://tenbri.com",
@@ -4955,7 +5386,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "54dd1dd0b1ee46a0b9c9.jpg"
   },
   {
    "url": "https://incacad.com",
@@ -4967,7 +5399,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "3911f6aeae00947f2695.jpg"
   },
   {
    "url": "https://emudhra.we-have-a-problem.com",
@@ -4979,7 +5412,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "545ad3757d1fdbaeb46f.jpg"
   },
   {
    "url": "https://policywatcher.online",
@@ -4991,7 +5425,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "164312cda7de6a89998b.jpg"
   },
   {
    "url": "https://ai-news.jagular.io",
@@ -5003,7 +5438,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "a2872aa714008c715b37.jpg"
   },
   {
    "url": "https://www.sciencenews.org",
@@ -5015,7 +5451,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "5b1244ccd3e3eed785b5.jpg"
   },
   {
    "url": "https://mohitkhare.com",
@@ -5027,7 +5464,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c1081b738e2c8dd07d8a.jpg"
   },
   {
    "url": "https://fulcrumsec.vg",
@@ -5039,7 +5477,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "fbb6bf7b2d8b2589b5d9.jpg"
   },
   {
    "url": "https://xkcd.com",
@@ -5051,7 +5490,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "f160267fc054bcbfe83f.jpg"
   },
   {
    "url": "https://piola.ideascollective.com",
@@ -5063,7 +5503,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ef53407d8c15ee865535.jpg"
   },
   {
    "url": "https://chipsandcheese.com",
@@ -5075,7 +5516,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "155fc8487a99de7ce0e5.jpg"
   },
   {
    "url": "https://robloxthehollow.com",
@@ -5087,7 +5529,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "7f3c5c68c5ce764dd08d.jpg"
   },
   {
    "url": "https://www.vox.com",
@@ -5099,7 +5542,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "4af7d7b3fb8cf1554874.jpg"
   },
   {
    "url": "https://www.pagetable.com",
@@ -5111,7 +5555,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "b7f2b3d2023637952131.jpg"
   },
   {
    "url": "https://aieffectstudio.com",
@@ -5123,7 +5568,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "5c9fa54d473b5dfd7b19.jpg"
   },
   {
    "url": "https://grafista.io",
@@ -5135,7 +5581,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "6eedbecbf4429946e016.jpg"
   },
   {
    "url": "https://materialize.com",
@@ -5147,7 +5594,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "cf2f502980dbc8192070.jpg"
   },
   {
    "url": "https://finance.yahoo.com",
@@ -5159,7 +5607,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "844adf50f74b30951a08.jpg"
   },
   {
    "url": "https://paceorpause.com",
@@ -5171,7 +5620,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "77f31be506b8da003c63.jpg"
   },
   {
    "url": "https://choresmachine.com",
@@ -5183,7 +5633,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "82097f58702ffa8b0037.jpg"
   },
   {
    "url": "https://www.heyida.ai",
@@ -5195,7 +5646,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "8e892c99ad078b2aa69b.jpg"
   },
   {
    "url": "https://madewithlove.com",
@@ -5207,7 +5659,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "b7a9b630005d4426752d.jpg"
   },
   {
    "url": "https://visidea.ai",
@@ -5219,7 +5672,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d833ba0eaf4096874555.jpg"
   },
   {
    "url": "https://uniker.nl",
@@ -5231,7 +5685,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "f2b2ca453e5bfa196366.jpg"
   },
   {
    "url": "https://lab4.app",
@@ -5243,7 +5698,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "59cb6f637cba0232978f.jpg"
   },
   {
    "url": "https://mars.college",
@@ -5255,7 +5711,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "e3ab566ec493c66f786b.jpg"
   },
   {
    "url": "https://nikhilism.com",
@@ -5267,7 +5724,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "8cf47c8a05db06281858.jpg"
   },
   {
    "url": "https://openjdk.org",
@@ -5279,7 +5737,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "3b61e55ce6d1b04858d0.jpg"
   },
   {
    "url": "https://zoomies.sh",
@@ -5291,7 +5750,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "b9086109f759af5d983d.jpg"
   },
   {
    "url": "https://blog.rust-lang.org",
@@ -5303,7 +5763,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "aab62d2364e0803440f1.jpg"
   },
   {
    "url": "https://fleeb.ee",
@@ -5315,7 +5776,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "5a9aba6dc0ee86f14494.jpg"
   },
   {
    "url": "https://nordstjernen.org",
@@ -5327,7 +5789,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ac247cee563cdb5eabe0.jpg"
   },
   {
    "url": "https://alignment.openai.com",
@@ -5339,7 +5802,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "891a7aeec57609f67e4a.jpg"
   },
   {
    "url": "https://leangame.autumnofautumn.com",
@@ -5351,7 +5815,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "5a7723997d21fa7c4a6b.jpg"
   },
   {
    "url": "https://vostride.com",
@@ -5363,7 +5828,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "73e9e26d40de2a60ae05.jpg"
   },
   {
    "url": "https://rustoffrails.org",
@@ -5375,7 +5841,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "7866e266c5843b3a0aae.jpg"
   },
   {
    "url": "https://blog.piotrnalepa.pl",
@@ -5387,7 +5854,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c5c7c4c2345ee00b3471.jpg"
   },
   {
    "url": "https://gembop.games",
@@ -5399,7 +5867,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "306fa45316a6b71eaa47.jpg"
   },
   {
    "url": "https://planetscale.com",
@@ -5411,7 +5880,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c290497778637e8647ce.jpg"
   },
   {
    "url": "https://lectura.info",
@@ -5423,7 +5893,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "65c41032890d85af6d23.jpg"
   },
   {
    "url": "https://uberblok.storagebits.workers.dev",
@@ -5435,7 +5906,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "3d4aa1ef27aa2b9973b9.jpg"
   },
   {
    "url": "https://c0mpute.com",
@@ -5447,7 +5919,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "92ee7c3b014e9dcec8e2.jpg"
   },
   {
    "url": "https://www.adriankrebs.ch",
@@ -5459,7 +5932,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "269d17eb41344dfa40c0.jpg"
   },
   {
    "url": "https://basesheet.site",
@@ -5471,7 +5945,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c90901b908055cb62a77.jpg"
   },
   {
    "url": "https://tabares.eu",
@@ -5483,7 +5958,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "f1f629bc77eacfd2bad7.jpg"
   },
   {
    "url": "https://www.oist.jp",
@@ -5495,7 +5971,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "922733abfe2ad48d4e17.jpg"
   },
   {
    "url": "https://suminagashi.georgestrakhov.com",
@@ -5507,7 +5984,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "44ef0a74dd8cf1a1450d.jpg"
   },
   {
    "url": "https://sem-docs.vercel.app",
@@ -5519,7 +5997,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "edf244166f84b0908694.jpg"
   },
   {
    "url": "https://rarehistoricalphotos.com",
@@ -5531,7 +6010,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "7fd069c7deebe19d2fb1.jpg"
   },
   {
    "url": "https://peras.vertias.eu",
@@ -5543,7 +6023,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "182fa4b14608a102bc54.jpg"
   },
   {
    "url": "https://livgorton.com",
@@ -5555,7 +6036,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "55d3977361441f72aaf4.jpg"
   },
   {
    "url": "https://jev-browser.rovira.sh",
@@ -5567,7 +6049,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c924606aece0bfe86a06.jpg"
   },
   {
    "url": "https://rivinci.io",
@@ -5579,7 +6062,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ddd4dc48a2d682036cb6.jpg"
   },
   {
    "url": "https://the-last-word.ca",
@@ -5591,7 +6075,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "61f1b4e1e518bf366235.jpg"
   },
   {
    "url": "https://fencecalculatorhub.com",
@@ -5603,7 +6088,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "607c84a5bda0e18eb745.jpg"
   },
   {
    "url": "https://wvez.org",
@@ -5615,7 +6101,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "88de9e15a016847c9244.jpg"
   },
   {
    "url": "https://recursive.com",
@@ -5627,7 +6114,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "69ca8841cbcd22ceaca2.jpg"
   },
   {
    "url": "https://www.telegraph.co.uk",
@@ -5639,7 +6127,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "0227a23608bb8143d0f1.jpg"
   },
   {
    "url": "https://thephp.foundation",
@@ -5651,7 +6140,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "da351671ce5b2c60eff5.jpg"
   },
   {
    "url": "https://oddorbit.app",
@@ -5663,7 +6153,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "eacacae3d4d29c3107e7.jpg"
   },
   {
    "url": "https://minerogue.francanobr.com",
@@ -5675,7 +6166,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "aaea3dae6f3e9d9064ad.jpg"
   },
   {
    "url": "https://beyondloom.com",
@@ -5687,7 +6179,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "f7a27c43ddb5adafb0ab.jpg"
   },
   {
    "url": "https://stuff.sigvaldason.com",
@@ -5699,7 +6192,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "159860d4119ca8ce202f.jpg"
   },
   {
    "url": "https://studio.sharenow.today",
@@ -5711,7 +6205,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "9968dd06d2db2a4a2799.jpg"
   },
   {
    "url": "https://www.thecollector.com",
@@ -5723,7 +6218,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d1d320cbbda19398b64b.jpg"
   },
   {
    "url": "https://delvingbitcoin.org",
@@ -5735,7 +6231,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "219bf25d1ab7be938fd2.jpg"
   },
   {
    "url": "https://zigtools.org",
@@ -5747,7 +6244,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "452b4a8fdd4265c484aa.jpg"
   },
   {
    "url": "https://nyrion.ai",
@@ -5759,7 +6257,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "ef1cd3631b020fad9b88.jpg"
   },
   {
    "url": "https://www.theexamination.org",
@@ -5771,7 +6270,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "383d17c864f570823e7e.jpg"
   },
   {
    "url": "https://daily-pipes.com",
@@ -5783,7 +6283,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "7cad8e3d64c4b80afd4e.jpg"
   },
   {
    "url": "https://calif.io",
@@ -5795,7 +6296,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "728b95c58f9a8bc92734.jpg"
   },
   {
    "url": "https://blog.trailofbits.com",
@@ -5807,7 +6309,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d4cc63c7223e470bf60b.jpg"
   },
   {
    "url": "https://www.fadu.io",
@@ -5819,7 +6322,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "e539856cc1b647c14dde.jpg"
   },
   {
    "url": "https://bhowra.com",
@@ -5831,7 +6335,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "2ce9080ce41bd7e1ce50.jpg"
   },
   {
    "url": "https://www.soeren.codes",
@@ -5843,7 +6348,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "bc68ede8a35efb306bea.jpg"
   },
   {
    "url": "https://www.nodepick.ai",
@@ -5855,7 +6361,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "5062b5eb7ab54dd89782.jpg"
   },
   {
    "url": "https://pawmc-demo.kolaegipet.workers.dev",
@@ -5867,7 +6374,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "75039473dcd4c1f288fa.jpg"
   },
   {
    "url": "https://jeff-kline.github.io",
@@ -5879,7 +6387,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "c665ca4c700374395cf3.jpg"
   },
   {
    "url": "https://hotminute.co.uk",
@@ -5891,7 +6400,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "d87b675157654c5ae64c.jpg"
   },
   {
    "url": "https://usenysa.com",
@@ -5903,7 +6413,8 @@
    "status": "ok",
    "added": "2026-10-21",
    "checked": "2026-10-21",
-   "fails": 0
+   "fails": 0,
+   "screenshot_file": "82d1b76b13f5fab567b6.jpg"
   }
  ]
 }

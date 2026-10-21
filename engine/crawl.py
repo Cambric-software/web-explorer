@@ -17,7 +17,7 @@ CATS = {"Games":["game","play","puzzle"],"Tools":["tool","app","generator","conv
         "Personal":["blog","my name","about me","essays","notes"],"Communities":["forum","community","club","members"],
         "Technology":["tech","hardware","electronics","ai"]}
 
-def get(url, timeout=12):
+def get(url, timeout=8):
     req = urllib.request.Request(url, headers=UA)
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.status, r.geturl(), r.read(400_000).decode("utf-8", "ignore")
@@ -48,7 +48,7 @@ def categorize(text):
 def verify(url):
     try:
         st, final, html = get(url)
-        if st >= 400 or len(html) < 200: return None
+        if st != 200 or len(html) < 200: return None
         m = Meta(); m.feed(html)
         text = (m.title+" "+m.desc).lower()
         if any(w in text for w in ["domain for sale","buy this domain","parked","account suspended","coming soon"]): return None
@@ -81,6 +81,15 @@ def sources(known):
     except Exception as e: print("issues", e)
     return found
 
+def first_archive_year(url):
+    try:
+        query=urllib.parse.urlencode({"url":url,"output":"json","filter":"statuscode:200","limit":1,"fl":"timestamp"})
+        _,_,body=get("https://web.archive.org/cdx/search/cdx?"+query, timeout=8)
+        rows=json.loads(body)
+        return int(rows[1][0][:4]) if len(rows)>1 else None
+    except Exception:
+        return None
+
 def main():
     db=json.load(open(DB)); st=json.load(open(STATS))
     sites=db["sites"]; known={s["url"] for s in sites}
@@ -111,10 +120,17 @@ def main():
         else:
             s["fails"]=s.get("fails",0)+1
             s["status"]="dead" if s["fails"]>=3 else "warn"
-    db["sites"]=[s for s in sites if s["status"]!="dead"]
-    st.update(total=len(db["sites"]),runs=st["runs"]+1,last_run=datetime.datetime.now(datetime.UTC).replace(tzinfo=None).isoformat()+"Z",
+    db["sites"]=sites
+    alive=[s for s in sites if s["status"]!="dead"]
+    # Archive metadata is best-effort; a missing year stays unknown.
+    pending=sorted([s for s in alive if not s.get("first_seen") and s.get("archive_checked") != TODAY],key=lambda s:s.get("archive_checked", ""))[:12]
+    with ThreadPoolExecutor(3) as ex: years=list(ex.map(lambda s: first_archive_year(s["url"]), pending))
+    for s,year in zip(pending,years):
+        s["archive_checked"]=TODAY
+        if year: s["first_seen"]=year
+    st.update(total=len(alive),runs=st["runs"]+1,last_run=datetime.datetime.now(datetime.UTC).replace(tzinfo=None).isoformat()+"Z",
               found_last_run=added,beta=beta,candidates_checked=len(cand))
-    st["history"]=(st["history"]+[{"date":TODAY,"added":added,"total":len(db["sites"])}])[-60:]
+    st["history"]=(st["history"]+[{"date":TODAY,"added":added,"total":len(alive)}])[-60:]
     json.dump(db,open(DB,"w"),indent=1); json.dump(st,open(STATS,"w"),indent=1)
     print(f"checked {len(cand)} candidates, added {added}, total {len(db['sites'])}")
 
