@@ -995,7 +995,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "1b6fcc47b1938eb81395.jpg"
+   "screenshot_file": "1b6fcc47b1938eb81395.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2026
   },
   {
    "url": "https://bds.flevy.com",
@@ -1008,7 +1010,8 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "ede9144710ef859cdb48.jpg"
+   "screenshot_file": "ede9144710ef859cdb48.jpg",
+   "archive_checked": "2026-10-22"
   },
   {
    "url": "https://blog.zerodogg.org",
@@ -1021,7 +1024,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "2a0ae5281c761ef7076d.jpg"
+   "screenshot_file": "2a0ae5281c761ef7076d.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2006
   },
   {
    "url": "https://cloud.google.com",
@@ -1034,7 +1039,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "57fe6329eb38b2e4fa97.jpg"
+   "screenshot_file": "57fe6329eb38b2e4fa97.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2012
   },
   {
    "url": "https://tailgate.latchlabs.dev",
@@ -1047,7 +1054,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "ed5a2c2fd34929236ab5.jpg"
+   "screenshot_file": "ed5a2c2fd34929236ab5.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2026
   },
   {
    "url": "https://budgetflow.cc",
@@ -1060,7 +1069,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "06af8a503f094df00816.jpg"
+   "screenshot_file": "06af8a503f094df00816.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2024
   },
   {
    "url": "https://stegano.graphics",
@@ -1073,7 +1084,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "2a943f37ab5054436180.jpg"
+   "screenshot_file": "2a943f37ab5054436180.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2021
   },
   {
    "url": "https://spacemit.com",
@@ -1086,7 +1099,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "ec8c8985b220b962b64f.jpg"
+   "screenshot_file": "ec8c8985b220b962b64f.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2006
   },
   {
    "url": "https://packtxt.xyz",
@@ -1099,7 +1114,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "1b2694b6aed9e0568ce2.jpg"
+   "screenshot_file": "1b2694b6aed9e0568ce2.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2026
   },
   {
    "url": "https://avuriolabs.vercel.app",
@@ -1112,7 +1129,8 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "b5b0d2204f10919cde42.jpg"
+   "screenshot_file": "b5b0d2204f10919cde42.jpg",
+   "archive_checked": "2026-10-22"
   },
   {
    "url": "https://groupcommit.org",
@@ -1125,7 +1143,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "33d4f75e1e75e8db2237.jpg"
+   "screenshot_file": "33d4f75e1e75e8db2237.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2026
   },
   {
    "url": "https://ollie.md",
@@ -1138,7 +1158,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "ff6cf37740e35d690521.jpg"
+   "screenshot_file": "ff6cf37740e35d690521.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2026
   },
   {
    "url": "https://chriskiehl.com",
@@ -3762,7 +3784,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "bbb996dedbac2fec5346.jpg"
   },
@@ -3775,7 +3797,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "89e0aca119b757b0f4c2.jpg"
   },
@@ -3788,7 +3810,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "af4047b58d3ae76d54a5.jpg"
   },
@@ -3801,7 +3823,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "c816a9c42888a2c0a4ba.jpg"
   },
@@ -3814,7 +3836,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "e9660829544b3f3b5ccd.jpg"
   },
@@ -3827,7 +3849,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "be53029cd41bb0aeac09.jpg"
   },
@@ -3840,7 +3862,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "2ba802ed5c97ae916362.jpg"
   },
@@ -3853,7 +3875,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "bd69b8956b4b0814baa5.jpg"
   },
@@ -3866,7 +3888,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "e8c50b03542d97b2ce5d.jpg"
   },
@@ -3879,7 +3901,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "dd0bb7536b3ec12f174b.jpg"
   },
@@ -3892,7 +3914,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "8b284c7bfd62b0088a41.jpg"
   },
@@ -3905,7 +3927,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "3e2eef28f1c576727d83.jpg"
   },
@@ -3918,7 +3940,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "3cf1a28b2139a25aa5ba.jpg"
   },
@@ -3931,7 +3953,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "b7b538c67a6caf618dfd.jpg"
   },
@@ -3944,7 +3966,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "a07928939fcc4537fa70.jpg"
   },
@@ -3957,7 +3979,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "6d3c0bcd1ee7698f419d.jpg"
   },
@@ -3970,7 +3992,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "a91a1549e171637dca26.jpg"
   },
@@ -3983,7 +4005,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "c366f27969809c5e5a27.jpg"
   },
@@ -3996,7 +4018,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "7e115c88c6d16d743892.jpg"
   },
@@ -4009,7 +4031,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "3f576635b45fa8ba2d86.jpg"
   },
@@ -4022,7 +4044,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "0062bfbf3d0c5960a21d.jpg"
   },
@@ -4035,7 +4057,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "d652518c166214bf0c05.jpg"
   },
@@ -4048,7 +4070,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "79c23631444ae74ed5f5.jpg"
   },
@@ -4061,7 +4083,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "1640dd925544e2dce32a.jpg"
   },
@@ -4074,7 +4096,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "71e1f20f0fa936bc88b8.jpg"
   },
@@ -4087,7 +4109,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "8231a9822c27e7d6e400.jpg"
   },
@@ -4100,7 +4122,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "4e62781705efa487d869.jpg"
   },
@@ -4113,7 +4135,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "7d16c3bfea27c4c094d6.jpg"
   },
@@ -4126,7 +4148,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "f2dc0d95d0a37aa3cbd9.jpg"
   },
@@ -4139,7 +4161,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "599d252fd4570a97e8c1.jpg"
   },
@@ -4152,7 +4174,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "849058334e6627388d15.jpg"
   },
@@ -4165,7 +4187,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "60f37002106b9802b71c.jpg"
   },
@@ -4178,7 +4200,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "6891ffd7e27cb08e8453.jpg"
   },
@@ -4191,7 +4213,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "24866877021047f6eabd.jpg"
   },
@@ -4204,7 +4226,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "6f24571893b99dcc8daa.jpg"
   },
@@ -4217,7 +4239,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "2595d81cded4441c7408.jpg"
   },
@@ -4230,7 +4252,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "d5bfa3965a9f01cddf8d.jpg"
   },
@@ -4243,7 +4265,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "370e177eff29e8c2538a.jpg"
   },
@@ -4256,7 +4278,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "70bbc0cd7360d8ef4cc9.jpg"
   },
@@ -4269,7 +4291,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "6b4ec32ce1547e3415da.jpg"
   },
@@ -8640,6 +8662,604 @@
    "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "54b6a6b1a34348499542.jpg"
+  },
+  {
+   "url": "https://publicdomainpulp.com",
+   "title": "Visual Novel Catalog | Public Domain Pulp",
+   "description": "",
+   "category": "Games",
+   "lang": "?",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "e421955c2703c562dbff.jpg"
+  },
+  {
+   "url": "https://thoughts.kristiandupont.com",
+   "title": "stdout | Kristian Dupont | Substack",
+   "description": "Random thoughts on software development and sometimes life in general. By Kristian Dupont. Click to read stdout, by Kristian Dupont, a Substack publication. Launched a year ago.",
+   "category": "Art",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "f5832cee8772392c9f17.jpg"
+  },
+  {
+   "url": "https://stardance.hackclub.com",
+   "title": "Home - Stardance",
+   "description": "The largest STEM event of the summer: make anything you want and earn free prizes.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "669d8dbaca0fe743e51f.jpg"
+  },
+  {
+   "url": "https://4096x.com",
+   "title": "4096x \u2014 Number merge games to reach 4096",
+   "description": "Play number merge games online. Slide, drop, pop and more: merge twin numbers until you build a 4096 tile. Each game is a new way to reach the same goal.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "5d13217ebeb03605275a.jpg"
+  },
+  {
+   "url": "https://maxmautner.com",
+   "title": "maxmautner.com",
+   "description": "",
+   "category": "Technology",
+   "lang": "?",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "e089e0e4aa40831c12a0.jpg"
+  },
+  {
+   "url": "https://brandondonnelly.com",
+   "title": "Brandon Donnelly \u2013 Daily insights for city builders, delivered every morning at 6 AM ET. I\u2019m Brandon",
+   "description": "",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "2520c27c9f4ded93963f.jpg"
+  },
+  {
+   "url": "https://urtimer.com",
+   "title": "Online Timer - Free Countdown Timer With Alarm & 19 Styles",
+   "description": "Free online countdown timer with alarm. Set any time up to 12 hours, pick one of 19 styles like a dial or hourglass and go full screen. No sign-up.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "854f47a1827f9abacdee.jpg"
+  },
+  {
+   "url": "https://www.bun.ink",
+   "title": "bun.ink - git controlled writer",
+   "description": "bun.ink is a writing app with real version control through GitHub. Keep every draft, branch and compare versions, and write from any browser \u2014 secure and at home in Europe.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "8ae8a4218d9b75bba2f1.jpg"
+  },
+  {
+   "url": "https://www.firezones.info",
+   "title": "firezones.info",
+   "description": "Look up any California address's fire hazard severity zone, power line fire risk, wildfire history and home insurance cost.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "1fc513b6292162ff525c.jpg"
+  },
+  {
+   "url": "https://veheria.tech",
+   "title": "Oleh Veheria \u2014 Engineering Leadership | iOS & AI Automation",
+   "description": "Oleh Veheria, engineering manager and team lead for mobile and AI-enabled products. 10+ years in mobile engineering, 5+ years leading engineering teams.",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "c2c82fb5971797a9e441.jpg"
+  },
+  {
+   "url": "https://www.klaraapps.com",
+   "title": "Klara: Your Digital Brain",
+   "description": "Klara AI is the private on-device screen memory app for Android. Transform your daily phone activity into a searchable local AI digital brain. 100% on-device.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "3de961752efb4389152d.jpg"
+  },
+  {
+   "url": "https://www.routific.com",
+   "title": "Delivery Management & Route Optimization Software For Growing Businesses",
+   "description": "Route planning, route optimization and delivery management software trusted by thousands of local delivery businesses. Optimize your last-mile logistics and cut delivery costs by 25% with clean, driver-friendly routes.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "84d9b15b0e9c53c46475.jpg"
+  },
+  {
+   "url": "https://foxio.io",
+   "title": "FoxIO | Cyber Innovation",
+   "description": "We solve the world\u2019s toughest cyber challenges\u2014creating breakthrough technology and embedding it into the systems that run everything.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "0de274bb36da0888941a.jpg"
+  },
+  {
+   "url": "https://taptry.in",
+   "title": "TapTry \u2014 Share your Android app, they try it instantly",
+   "description": "Send one link and anyone can use your real Android app straight in their browser. No downloads, no APK sideloading, no install steps to explain.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "86632a876af2ad6eb929.jpg"
+  },
+  {
+   "url": "https://gol-six-beta.vercel.app",
+   "title": "Gol \u2014 the other side of everywhere",
+   "description": "",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "2786a87f7a3961f8d20f.jpg"
+  },
+  {
+   "url": "https://www.jasonwillems.com",
+   "title": "Jason Willems | Jason Willems \u2013 Building products, exploring the world, sharing what I learn",
+   "description": "Jason Willems \u2013 Building products, exploring the world, sharing what I learn",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "6e86e5ccbb2213e74e5c.jpg"
+  },
+  {
+   "url": "https://jamesyu.org",
+   "title": "James Yu",
+   "description": "",
+   "category": "Developer",
+   "lang": "?",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "11fdaab50f9fa75c183e.jpg"
+  },
+  {
+   "url": "https://www.henrikkarlsson.xyz",
+   "title": "Escaping Flatland | Henrik Karlsson | Substack",
+   "description": "I write essays about relationships, thinking, and agency, sometimes with my wife. We live on a windswept island in the Baltic Sea with our two daughters. Click to read Escaping Flatland, by Henrik Karlsson, a Substack publication with tens",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "40ab04770234e3876144.jpg"
+  },
+  {
+   "url": "https://www.anderson.ucla.edu",
+   "title": "UCLA Anderson Home | UCLA Anderson School of Management",
+   "description": "UCLA Anderson School of Management is a top-ranked global business school located in Los Angeles, California, and part of UCLA. UCLA Anderson offers MBA, Executive MBA, Fully Employed MBA, Master\u2019s, and PhD programs led by world-renowned fa",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "f320b82154abdcb57ab8.jpg"
+  },
+  {
+   "url": "https://www.jeroenbouma.com",
+   "title": "Jeroen Bouma",
+   "description": "Jeroen Bouma, Quantitative Investment Strategist, creator of the open-source Finance Toolkit and Finance Database Python libraries (14,000+ GitHub stars).",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "00d561b411b39a845560.jpg"
+  },
+  {
+   "url": "https://www.claix.dev",
+   "title": "Claix | Controlled Database Retrieval for AI Agents",
+   "description": "Controlled data retrieval for AI agents: connect Postgres, define routes and agents, and let each agent retrieve only the tables and columns you allow\u2014via REST, MCP, or A2A, without moving your data.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "8ad9e4508547acccee73.jpg"
+  },
+  {
+   "url": "https://www.ternlux.com",
+   "title": "AI Data Pipeline Platform | Ternlux",
+   "description": "Ternlux is a no code AI workflow platform that automates data engineering, ETL, and advanced analytics for non-technical teams.",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "b92abb6aea43fe028185.jpg"
+  },
+  {
+   "url": "https://light-captured.wasmer.app",
+   "title": "Light, Captured",
+   "description": "",
+   "category": "Games",
+   "lang": "?",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "1ce6974dd05f23129fd4.jpg"
+  },
+  {
+   "url": "https://writing.jan.io",
+   "title": "Writing",
+   "description": "",
+   "category": "Technology",
+   "lang": "?",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "20500abe5d321c702e8d.jpg"
+  },
+  {
+   "url": "https://bossfeed.fun",
+   "title": "Free Daily Puzzles & Browser Games | Final Boss Games",
+   "description": "Bossfeed is a free daily puzzle site with Zip Mate, Wise Word Finder, Morning Mystery and more, playable in any browser with no app or sign-up needed.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "922aa82a69356b2f5d6d.jpg"
+  },
+  {
+   "url": "https://github.blog",
+   "title": "Home - The GitHub BlogLinkedIn iconInstagram iconYouTube iconX iconTikTok iconTwitch iconGitHub icon",
+   "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "6033da28b4a37629587b.jpg"
+  },
+  {
+   "url": "https://sct.tushynski.me",
+   "title": "ScaledAttack",
+   "description": "",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "fa09c1a08e2373201b3c.jpg"
+  },
+  {
+   "url": "https://paolo.blog",
+   "title": "Paolo Belcastro",
+   "description": "",
+   "category": "Art",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "25befe0acec056af776a.jpg"
+  },
+  {
+   "url": "https://seekpeek.pages.dev",
+   "title": "SeekPeek \u2014 Stay curious.",
+   "description": "Meet your next rabbit hole. A beautifully simple way to explore the web with DeepSeek Search. No sign-up, just curiosity.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "a902335ccc4f40e45467.jpg"
+  },
+  {
+   "url": "https://taaapit.com",
+   "title": "TAAAPIT \u2013 Digital Business Card App | NFC, QR Code & Bluetooth Sharing",
+   "description": "TAAAPIT is a digital business card app for iPhone and Android. Share your contact details with one NFC tap, a QR code, a link or Bluetooth, add your card to Apple Wallet or Google Wallet, and keep every new contact in your Log Book.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "3055f04cc9f5bd4e0107.jpg"
+  },
+  {
+   "url": "https://mailchimp.com",
+   "title": "Email & SMS Marketing Platform | Mailchimp",
+   "description": "Utilize real-time user behavior data and artificial intelligence to convert more customers. Easy to use, get started for free!",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "846e2d880ec994244830.jpg"
+  },
+  {
+   "url": "https://mintpage.ai",
+   "title": "MintPage \u2014 a web page for everything your agent makes",
+   "description": "A remote MCP server with one job: turn Markdown or HTML into a live, shareable web page in a single tool call. Works with Claude, Cursor, ChatGPT and any MCP client. Try it without an account.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "418c29a4485bf49d8fbd.jpg"
+  },
+  {
+   "url": "https://snscratchpad.com",
+   "title": "sn scratchpad",
+   "description": "Notes on advances in technology and real-world impact",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "5dbc7ccbd997af8f3a87.jpg"
+  },
+  {
+   "url": "https://craigmod.com",
+   "title": "Craig Mod \u2014 Writer + Photographer ionicons-v5_logos",
+   "description": "The homepage of author and photographer Craig Mod \u2014 long walks across Japan, pizza toast, books, photography, literature, and more.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "a625dc327d01435f880b.jpg"
+  },
+  {
+   "url": "https://buildnotes.releases.sh",
+   "title": "buildnotes: turn pull requests into posts and videos worth sharing",
+   "description": "A skill for coding agents. It reads a feature's issues, PRs and reviews, finds the few decisions that shaped it, and writes them up as a post, a video or slides.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "bfea1604b61753ec80cc.jpg"
+  },
+  {
+   "url": "https://selfgpt.pages.dev",
+   "title": "selfgpt",
+   "description": "Chat models are trained on one side of the conversation. selfgpt puts them on the other one, and a judge tries to tell their messages from real people's.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "bcc5c4aecde026019bfd.jpg"
+  },
+  {
+   "url": "https://app.trustlinden.com",
+   "title": "frontend",
+   "description": "",
+   "category": "Random",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "f543c7c1e9178ca70b4c.jpg"
+  },
+  {
+   "url": "https://filozy.com",
+   "title": "Filozy \u2014 Free PDF tools. Your documents stay on your device.",
+   "description": "Filozy is a free set of PDF tools that run in your web browser: merge, split, compress, edit, sign and convert PDFs without uploading them.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "e8620043d15a137e7118.jpg"
+  },
+  {
+   "url": "https://wiki.c2.com",
+   "title": "wiki.c2.com",
+   "description": "",
+   "category": "Developer",
+   "lang": "?",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "af77623d5537fc7a56c7.jpg"
+  },
+  {
+   "url": "https://heyyviv.github.io",
+   "title": "Welcome to Vivek's Field Notes | Vivek's Field Notes",
+   "description": "A quiet corner of the web where thoughts wander, pixels settle into place, and small ideas take root. Vivek\\\u2019s Field Notes is a personal blog and digital sketchbook\u2014a place to share reflections, experiments, and discoveries in technology, c",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "878777b905515fa30d64.jpg"
+  },
+  {
+   "url": "https://dataswamp.org",
+   "title": "dataswamp.org",
+   "description": "OpenBSD based shell account system.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "4ae4758bcf3ce20db320.jpg"
+  },
+  {
+   "url": "https://robouse.ai",
+   "title": "Robo Use",
+   "description": "Coding agents such as Claude Code and Codex as robot policies: they drive a simulated robot from the shell, and every trial is scored and published.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "c55561d34366bd6747cd.jpg"
+  },
+  {
+   "url": "https://getaven.pages.dev",
+   "title": "Aven \u2014 Rules for your code",
+   "description": "Aven keeps the rules behind your code, checks every change against them, and briefs your AI coding tools before they edit.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "020daac7b2a41f5b504c.jpg"
+  },
+  {
+   "url": "https://michidk.github.io",
+   "title": "michidk",
+   "description": "",
+   "category": "Developer",
+   "lang": "?",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "ba3c6e5bf43b839674ff.jpg"
+  },
+  {
+   "url": "https://www.fidelic.dev",
+   "title": "Fidelic: run your Salesforce integration tests without waiting for a sandbox.The object graph of a m",
+   "description": "Salesforce integration tests that run on your laptop and in CI \u2014 no org, no login, nothing shared. Fidelic is a 10 MB container that loads your real schema and runs your real Apex triggers, so the tests run on every push instead of whenever",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "e7b275467b38e062072a.jpg"
+  },
+  {
+   "url": "https://usecaddie.app",
+   "title": "Caddie \u00b7 The last productivity app you'll ever need",
+   "description": "The life management app for you and your agents. Tasks, notes, calendar, meetings and habits in one place, with a coach in your notch.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "c8ddc4a280c998ed6adb.jpg"
   }
  ]
 }
