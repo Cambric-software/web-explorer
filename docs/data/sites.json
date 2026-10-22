@@ -637,7 +637,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "5277a03096d66b430d48.jpg"
+   "screenshot_file": "5277a03096d66b430d48.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 1999
   },
   {
    "url": "https://blog.torproject.org",
@@ -650,7 +652,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "2b1237450d4d91d79d19.jpg"
+   "screenshot_file": "2b1237450d4d91d79d19.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2008
   },
   {
    "url": "https://maplair.org",
@@ -663,7 +667,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "fff4c4323040b0cb9402.jpg"
+   "screenshot_file": "fff4c4323040b0cb9402.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2026
   },
   {
    "url": "https://www.rferl.org",
@@ -676,7 +682,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "d58e7499d7ec0545d7bf.jpg"
+   "screenshot_file": "d58e7499d7ec0545d7bf.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 1997
   },
   {
    "url": "https://feniix-hq.net",
@@ -689,7 +697,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "cf083577f422f6032dd5.jpg"
+   "screenshot_file": "cf083577f422f6032dd5.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2026
   },
   {
    "url": "https://tomalard.github.io",
@@ -702,7 +712,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "92b7e739ff754a7e8299.jpg"
+   "screenshot_file": "92b7e739ff754a7e8299.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2026
   },
   {
    "url": "https://www.youlangtube.com",
@@ -715,7 +727,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "073002fac4269f8cb3f3.jpg"
+   "screenshot_file": "073002fac4269f8cb3f3.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2026
   },
   {
    "url": "https://yoyo-code.com",
@@ -728,7 +742,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "4d220e43fa3c67825f7e.jpg"
+   "screenshot_file": "4d220e43fa3c67825f7e.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2022
   },
   {
    "url": "https://100toolkit.com",
@@ -741,7 +757,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "a9cc156321213a94df14.jpg"
+   "screenshot_file": "a9cc156321213a94df14.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2024
   },
   {
    "url": "https://blog.dnsimple.com",
@@ -754,7 +772,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "b18a38720ad73eefe9af.jpg"
+   "screenshot_file": "b18a38720ad73eefe9af.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2010
   },
   {
    "url": "https://naildrivin5.com",
@@ -767,7 +787,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "a50e15c0e2c247dc9516.jpg"
+   "screenshot_file": "a50e15c0e2c247dc9516.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2002
   },
   {
    "url": "https://wordpress.org",
@@ -780,7 +802,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "d1e72acf0f627e754cf9.jpg"
+   "screenshot_file": "d1e72acf0f627e754cf9.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2003
   },
   {
    "url": "https://www.hello-canary.com",
@@ -2676,7 +2700,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "86766ae0be345e749cbe.jpg"
   },
@@ -2689,7 +2713,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "b8fe4bbf30362d3e7468.jpg"
   },
@@ -2702,7 +2726,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "c4a1cf5f8992624f5b4d.jpg"
   },
@@ -2715,7 +2739,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "ae740055eb3eb929c3f0.jpg"
   },
@@ -2728,7 +2752,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "7cd7ebf7422e9cfae090.jpg"
   },
@@ -2741,7 +2765,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "4adb6125d3922ef83a28.jpg"
   },
@@ -2754,7 +2778,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "ceee6aeb6b79ee529dd9.jpg"
   },
@@ -2767,7 +2791,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "ac0c2adcdc2faf94aac8.jpg"
   },
@@ -2780,7 +2804,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "23d3ef8e1e4b9866897e.jpg"
   },
@@ -2793,7 +2817,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "45f27bcc926d261dcd96.jpg"
   },
@@ -2806,7 +2830,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "504a75c7a3a8f6076473.jpg"
   },
@@ -2819,7 +2843,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "4bc810a13e0c88f83a88.jpg"
   },
@@ -2832,7 +2856,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "2c56be350818f1b68f75.jpg"
   },
@@ -2845,7 +2869,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "32053ddc7c6cdbb638d8.jpg"
   },
@@ -2858,7 +2882,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "c96b01a0f47884e52b57.jpg"
   },
@@ -2871,7 +2895,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "8854e187230bfab1d01b.jpg"
   },
@@ -2884,7 +2908,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "9bd63f1b2bace7c79ec8.jpg"
   },
@@ -2897,7 +2921,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "26165d75bd3b505f37b9.jpg"
   },
@@ -2910,7 +2934,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "9984d5419352db040e02.jpg"
   },
@@ -2923,7 +2947,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "34219d4e510e268e9088.jpg"
   },
@@ -2936,7 +2960,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "6e989892702fe5fb76b2.jpg"
   },
@@ -2949,7 +2973,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "40a866c7772810dce753.jpg"
   },
@@ -2962,7 +2986,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "34e733f28eb0a651faa4.jpg"
   },
@@ -2975,7 +2999,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "e93002bd7f0074f1e01b.jpg"
   },
@@ -2988,7 +3012,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "cbcae92967cdd32476b1.jpg"
   },
@@ -3001,7 +3025,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "619af5b3da55bc1a969d.jpg"
   },
@@ -3014,7 +3038,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "937bfc514d280e5d6821.jpg"
   },
@@ -3027,7 +3051,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "c994761958bc2fc427c3.jpg"
   },
@@ -3040,7 +3064,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "00d2bec25ccf84b13a12.jpg"
   },
@@ -3053,7 +3077,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "1291baeecd082357c4f2.jpg"
   },
@@ -3066,7 +3090,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "94e0bfb042bd81831829.jpg"
   },
@@ -3079,7 +3103,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "06230bb13bb8082d75d8.jpg"
   },
@@ -3092,7 +3116,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "d93c856605b59e3a97e3.jpg"
   },
@@ -3105,7 +3129,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "8f215109cbc52a8fc1de.jpg"
   },
@@ -3118,7 +3142,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "43ec2a5efe16b615d089.jpg"
   },
@@ -3131,7 +3155,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "1777be0f3d96ff273c03.jpg"
   },
@@ -3144,7 +3168,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "bea64c2d90e06b57e6e8.jpg"
   },
@@ -3157,7 +3181,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "3bf4857877dc21ebe545.jpg"
   },
@@ -3170,7 +3194,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "926426d351dc9ed9e769.jpg"
   },
@@ -3183,7 +3207,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "cc287987ddf0f3c313bf.jpg"
   },
@@ -7489,6 +7513,552 @@
    "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "a92358a711a43dc05f5d.jpg"
+  },
+  {
+   "url": "https://signoz.io",
+   "title": "SigNoz | The Open Source Datadog Alternative",
+   "description": "SigNoz Cloud is a one-stop observability tool built on top of OpenTelemetry. Get APM, logs, traces, metrics, exceptions, AI observability & alerts in a single tool.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "78623fe22fb661b0a678.jpg"
+  },
+  {
+   "url": "https://solomk.in",
+   "title": "Maksym Solomkin",
+   "description": "Software engineering blog by Maksym Solomkin covering Spring Boot, AWS, TypeScript, React, and developer productivity",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "82d6faf947367de3ee1f.jpg"
+  },
+  {
+   "url": "https://getkloak.io",
+   "title": "Kloak - Kubernetes eBPF HTTPS Interceptor",
+   "description": "Kloak - Kubernetes eBPF Secret Interceptor for HTTPS. Secure secret management without application changes or sidecars.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "ddc3ef2f5474fa97c413.jpg"
+  },
+  {
+   "url": "https://www.corsix.org",
+   "title": "corsix.org",
+   "description": "",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "da048500cb26af277872.jpg"
+  },
+  {
+   "url": "https://www.aulico.com",
+   "title": "Aulico",
+   "description": "",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "5acf7c15171f9de6b85c.jpg"
+  },
+  {
+   "url": "https://www.engadget.com",
+   "title": "Engadget | Technology News & Expert Reviews",
+   "description": "Breaking news from the worlds of technology and entertainment, and expert reviews of the latest consumer tech products.",
+   "category": "Art",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "512b3ece5b475704abd9.jpg"
+  },
+  {
+   "url": "https://www.cve.org",
+   "title": "cve.org",
+   "description": "",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "68b3486e23f32b2cef06.jpg"
+  },
+  {
+   "url": "https://joshuamorris.info",
+   "title": "Joshua Morris \u00b7 notebook and workbench",
+   "description": "I build software, write about what I\u2019m learning, and explore ideas that sit at the intersection of technology, freedom, and curiosity.",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "96e5b600de4a31e77df2.jpg"
+  },
+  {
+   "url": "https://ansipunk.me",
+   "title": "ansipunk's website",
+   "description": "Software engineer, tinkerer, builder",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "1246084a9ea13c492a97.jpg"
+  },
+  {
+   "url": "https://ricuicui.com",
+   "title": "Ricuicui : navigateur pro avec IA et agents en local",
+   "description": "Navigateur et orchestrateur IA \u00e9crit en Rust, que votre IA pilote : elle lit, clique et remplit, sous vos yeux. Claude, GPT, Mistral ou mod\u00e8le local. Pour Mac et Windows.",
+   "category": "Developer",
+   "lang": "fr",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "55b07d83948170fb6bb8.jpg"
+  },
+  {
+   "url": "https://bloffy.co",
+   "title": "A blog you write freely and own completely | Bloffy",
+   "description": "All Bloffy adds to a reader's page is one small 3.2KB script. You decide whether to run ads, which analytics to use, and which domain to publish on.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "55865539d15dfb7823c7.jpg"
+  },
+  {
+   "url": "https://ravenmail.io",
+   "title": "Cloud Native AI-Email Security and Advanced DLP",
+   "description": "AI Native Context-aware email security for M365 & Google Workspace",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "c46397e1a82e3cec2e39.jpg"
+  },
+  {
+   "url": "https://www.sciencedaily.com",
+   "title": "ScienceDaily: Your source for the latest research news",
+   "description": "Breaking science news and articles on global warming, extrasolar planets, stem cells, bird flu, autism, nanotechnology, dinosaurs, evolution -- the latest discoveries in astronomy, anthropology, biology, chemistry, climate & environment, co",
+   "category": "Science",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "c251b3f4da15cb7c32e7.jpg"
+  },
+  {
+   "url": "https://www.library.hbs.edu",
+   "title": "Baker Library brings the past, present, and future of business to life. | Baker LibraryHarvard Busin",
+   "description": "Baker Library brings the past, present, and future of business to life. | Baker Library",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "baf8494449ecb8122321.jpg"
+  },
+  {
+   "url": "https://hack.synteq.app",
+   "title": "Synteq Hack",
+   "description": "Ship an app on Synteq, post it on X, and let the internet vote.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "98d3750d7da1f94356fd.jpg"
+  },
+  {
+   "url": "https://php2shell.uk",
+   "title": "PHP2Shell: am I affected and how do I fix it?",
+   "description": "PHP2Shell (CVE-2026-109618, CVE-2026-109619): check affected and fixed PHP versions, test your version, and follow patch and mitigation steps.",
+   "category": "Education",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "4e226e81513786c0d456.jpg"
+  },
+  {
+   "url": "https://thoughts.wyounas.com",
+   "title": "Thoughts of an imprint | Waqas Younas | Substack",
+   "description": "Thoughts. And Essays. Click to read Thoughts of an imprint, by Waqas Younas, a Substack publication with hundreds of subscribers.",
+   "category": "Art",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "fb37a0115c6d845c6fb5.jpg"
+  },
+  {
+   "url": "https://terraformindustries.wordpress.com",
+   "title": "Terraform Industries Blog \u2013 gigascale atmospheric hydrocarbon synthesis",
+   "description": "gigascale atmospheric hydrocarbon synthesis",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "bbfb77507f1f5ab9fdea.jpg"
+  },
+  {
+   "url": "https://www.pipelang.com",
+   "title": "General-Purpose Visual Programming Language Pipe",
+   "description": "General-Purpose Visual Programming Language Pipe",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "61f847f43f0b3bf2b8c2.jpg"
+  },
+  {
+   "url": "https://accrescent.app",
+   "title": "The private and secure Android app store - Accrescent",
+   "description": "Accrescent is an Android app store focused on security, privacy, and usability.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "371b59613c7606a2d2c1.jpg"
+  },
+  {
+   "url": "https://hnsieve.com",
+   "title": "HN Sieve \u2014 Curated Show HN Projects",
+   "description": "AI-powered curation of the best Show HN projects. Scored, categorized, and searchable.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "9d6c776c95a12722b600.jpg"
+  },
+  {
+   "url": "https://lemoncode.ai",
+   "title": "Lemon Code \u2014 The free coding agent",
+   "description": "Lemon Code is a free coding agent. Build products and automate workflows in your browser.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "6ee8223f6176f4ef881e.jpg"
+  },
+  {
+   "url": "https://zooki.world",
+   "title": "Zooki World",
+   "description": "Zooki World: a little zoo you can walk around. zooki.world",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "7db8cac1455dc70412ba.jpg"
+  },
+  {
+   "url": "https://unintendedconsequenc.es",
+   "title": "Home - Unintended Consequences",
+   "description": "Understand systems, second-order effects, and evaluating decisions. Learn about unintended consequences in an original weekly article.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "6c7d9dc693ebc9797140.jpg"
+  },
+  {
+   "url": "https://zoey-on-github.github.io",
+   "title": "gay raccoon girl on the web",
+   "description": "",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "7c539649d0e5e6b0c7e3.jpg"
+  },
+  {
+   "url": "https://mood-tracker.org",
+   "title": "Free Mood Tracker \u2014 Calendar, Print & Export, No Sign-Up",
+   "description": "Track your mood daily in one tap. Free, no account \u2014 entries stay in your browser. Calendar view, monthly summary, printable month and JSON/CSV export.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "bfb7e95ced3843f22619.jpg"
+  },
+  {
+   "url": "https://www.biorxiv.org",
+   "title": "bioRxiv.org - the preprint server for Biology",
+   "description": "bioRxiv - the preprint server for biology, operated by openRxiv, a nonprofit organization dedicated to advancing scientific communication",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "b3895d34029bebb71fd2.jpg"
+  },
+  {
+   "url": "https://thok.app",
+   "title": "Thok \u2014 Mechanical keyboard sounds for your MacBook",
+   "description": "Thok makes your MacBook sound like a mechanical keyboard. The Mac app has no accounts, analytics, or network access.",
+   "category": "Art",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "5ad84a152cfa705499d5.jpg"
+  },
+  {
+   "url": "https://www.datacenterdynamics.com",
+   "title": "Data center industry news, analysis, and opinion - DCD",
+   "description": "DatacenterDynamics is the world's largest data center publication. We publish news, magazine features, and podcasts about the hyperscale & cloud, colocation & wholesale, generative artificial intelligence (AI), semiconductors, Edge computin",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "1276e8ed01e51b2c2b7c.jpg"
+  },
+  {
+   "url": "https://llmtobinary.com",
+   "title": "llmtobinary: an AI writes the machine code",
+   "description": "An AI writes machine code directly, byte by byte, with no source code and no compiler. Describe a program and watch its bytes run on a virtual chip in your browser.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "316671262c57056852b4.jpg"
+  },
+  {
+   "url": "https://just-dashboard.com",
+   "title": "Just Dashboard: one dashboard for the server you run",
+   "description": "A self-hosted dashboard for one Linux server. Metrics, Docker, deployments, databases, a real shell, files and git, behind one login on your private network.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "7feda17852f70b1a8a02.jpg"
+  },
+  {
+   "url": "https://embodsi.com",
+   "title": "embodsi \u2014 Embodied Super Intelligence",
+   "description": "Create a human avatar with natural proportions, detailed skin, and your own personal style, then step into nine connected worlds.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "6a4979742961a956ffb4.jpg"
+  },
+  {
+   "url": "https://www.raycast.com",
+   "title": "Raycast - Your shortcut to everything",
+   "description": "A collection of powerful productivity tools all within an extendable launcher.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "969036f6225618bf26a0.jpg"
+  },
+  {
+   "url": "https://duckdb.org",
+   "title": "An analytical SQL database management system \u2013 DuckDB",
+   "description": "DuckDB is a SQL OLAP database management system. Simple, feature-rich, fast & open source.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "5d04b809a05ee4e1b718.jpg"
+  },
+  {
+   "url": "https://www.cnbc.com",
+   "title": "cnbc.com",
+   "description": "CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "a62a60db9153e5d6faa3.jpg"
+  },
+  {
+   "url": "https://sutrakey.aritro.cloud",
+   "title": "SutraKey (Sutra Key) \u2014 Shift + Select Radial Media & Document Downloader for macOS",
+   "description": "SutraKey (also known as Sutra Key) is a free, open-source macOS utility. Hold Shift + Select any URL to summon a zero-latency liquid radial wheel that downloads video (4K/1080p MP4), audio (320kbps MP3/M4A), subtitles (SRT/VTT), or clean ve",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "e1f1e43b663e80d13222.jpg"
+  },
+  {
+   "url": "https://www.rewexplained.space",
+   "title": "Read My Room: understand your REW measurements",
+   "description": "You measured your room in REW and got a wall of graphs. Upload the text export, enter your room dimensions, and get a plain-language diagnosis with a prioritised fix list, including which problems EQ can never solve.",
+   "category": "Education",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "a864840ca23902b7a32d.jpg"
+  },
+  {
+   "url": "https://firefox-source-docs.mozilla.org",
+   "title": "Firefox Source Tree Documentation \u2014 Firefox Source Docs documentation",
+   "description": "",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "0dcbb58299d489051f94.jpg"
+  },
+  {
+   "url": "https://statement-proof.quillnow.com",
+   "title": "Bank statement PDF to CSV, proved against the balances",
+   "description": "Converts a PDF bank statement to CSV, then checks it against the statement's own balances. If it doesn't add up you get told which row, not a file to trust.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "47b62fed512bbd718c3e.jpg"
+  },
+  {
+   "url": "https://compiledrogue.com",
+   "title": "Home - Compiled Rogue",
+   "description": "",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "2564cfd2ae35752b81ec.jpg"
+  },
+  {
+   "url": "https://twigg.vc",
+   "title": "Twigg \u2014 Open Source Critique",
+   "description": "Twigg is the open source alternative to Critique, Google's internal code collaboration platform. Stacked commits, code review, OWNERS, and CI/CD.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "797de7023923b3dfac23.jpg"
+  },
+  {
+   "url": "https://topos.institute",
+   "title": "Topos Institute",
+   "description": "Realising a world where the systems that surround us benefit us all",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "4c9f64d3cf88f12d24d2.jpg"
   }
  ]
 }
