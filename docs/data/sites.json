@@ -10,7 +10,7 @@
    "source": "seed",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-21",
+   "checked": "2026-10-22",
    "fails": 0,
    "first_seen": 2021,
    "screenshot_file": "2476512ea174fb8fd46c.jpg"
@@ -24,7 +24,7 @@
    "source": "seed",
    "status": "ok",
    "added": "2026-10-19",
-   "checked": "2026-10-21",
+   "checked": "2026-10-22",
    "fails": 0,
    "first_seen": 2013,
    "screenshot_file": "680e2501108b3db7925e.jpg"
@@ -1173,7 +1173,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "b580bc53b10cb1c8dad3.jpg"
+   "screenshot_file": "b580bc53b10cb1c8dad3.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2015
   },
   {
    "url": "https://redmonk.com",
@@ -1186,7 +1188,8 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "20480b56b0522f95ab8c.jpg"
+   "screenshot_file": "20480b56b0522f95ab8c.jpg",
+   "archive_checked": "2026-10-22"
   },
   {
    "url": "https://villamoves.com",
@@ -1199,7 +1202,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "844047e8139de02e0649.jpg"
+   "screenshot_file": "844047e8139de02e0649.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2013
   },
   {
    "url": "https://jsdev.space",
@@ -1212,7 +1217,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "69603a9a4243a6971e22.jpg"
+   "screenshot_file": "69603a9a4243a6971e22.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2018
   },
   {
    "url": "https://www.salesforce.com",
@@ -1225,7 +1232,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "9c0394f7bc1c7e31b0c1.jpg"
+   "screenshot_file": "9c0394f7bc1c7e31b0c1.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 1999
   },
   {
    "url": "https://marcus-ai.dev",
@@ -1238,7 +1247,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "680b2aad8598cf1c2f4e.jpg"
+   "screenshot_file": "680b2aad8598cf1c2f4e.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2026
   },
   {
    "url": "https://openjobs.thecompound.tech",
@@ -1251,7 +1262,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "35709b8bc2212db684b1.jpg"
+   "screenshot_file": "35709b8bc2212db684b1.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2026
   },
   {
    "url": "https://blurdata.app",
@@ -1264,7 +1277,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "0603d603bd8bd783f771.jpg"
+   "screenshot_file": "0603d603bd8bd783f771.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2024
   },
   {
    "url": "https://kairos-experiment.com",
@@ -1277,7 +1292,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "edba936e8cc7cc061ee8.jpg"
+   "screenshot_file": "edba936e8cc7cc061ee8.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2026
   },
   {
    "url": "https://andrew-helmer.github.io",
@@ -1290,7 +1307,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "798059e05c83c3e7a5f9.jpg"
+   "screenshot_file": "798059e05c83c3e7a5f9.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2022
   },
   {
    "url": "https://dns.museum",
@@ -1303,7 +1322,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "a7124f32ba4afd23c2ec.jpg"
+   "screenshot_file": "a7124f32ba4afd23c2ec.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2026
   },
   {
    "url": "https://pentad.ai",
@@ -1316,7 +1337,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "82f6a7f7171eab637e01.jpg"
+   "screenshot_file": "82f6a7f7171eab637e01.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2026
   },
   {
    "url": "https://ritholtz.com",
@@ -4304,7 +4327,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "4791ed9f5d296eab595b.jpg"
   },
@@ -4317,7 +4340,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "59d3e862b192e87c2439.jpg"
   },
@@ -4330,7 +4353,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "e58678ce90ef0caedc90.jpg"
   },
@@ -4343,7 +4366,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "7150d1cfe80367daa1b8.jpg"
   },
@@ -4356,7 +4379,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "0b8a76dfaecb3db43e14.jpg"
   },
@@ -4369,7 +4392,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "0b592bf49843e195cec8.jpg"
   },
@@ -4382,7 +4405,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "d85af46e3324de4f551b.jpg"
   },
@@ -4395,7 +4418,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "2cb7b79029f351846c5e.jpg"
   },
@@ -4408,7 +4431,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "db2bbcffa62df51004c3.jpg"
   },
@@ -4421,7 +4444,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "6c260ece369120819887.jpg"
   },
@@ -4434,7 +4457,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "6605d776b9b169a224d5.jpg"
   },
@@ -4447,7 +4470,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "574ffe9c6e671708daf7.jpg"
   },
@@ -4460,7 +4483,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "b06623aea830f7b0c343.jpg"
   },
@@ -4473,7 +4496,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "3323d0dfe91f3ae1d780.jpg"
   },
@@ -4486,7 +4509,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "77c9ca2379cd472d8192.jpg"
   },
@@ -4499,7 +4522,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "456306738649e90cddd2.jpg"
   },
@@ -4512,7 +4535,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "215862e281653aabbec7.jpg"
   },
@@ -4525,7 +4548,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "acab120aebcbae76398a.jpg"
   },
@@ -4538,7 +4561,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "67107a98a2fc3be2b081.jpg"
   },
@@ -4551,7 +4574,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "80f2913eda1f8023e1db.jpg"
   },
@@ -4564,7 +4587,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "fd8ac9c7d858fba17f41.jpg"
   },
@@ -4577,7 +4600,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "66f8c1bb9e688382a7b0.jpg"
   },
@@ -4590,7 +4613,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "57a2cd3aeae33de4edd8.jpg"
   },
@@ -4603,7 +4626,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "0bae50e0524ef8fa8cca.jpg"
   },
@@ -4616,7 +4639,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "208b2e641f6b2d2b2d6f.jpg"
   },
@@ -4629,7 +4652,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "8330ea1bc7d1260cb9f5.jpg"
   },
@@ -4642,7 +4665,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "9df8acc4b3d67c00444b.jpg"
   },
@@ -4655,7 +4678,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "c5cd48b470284bc16888.jpg"
   },
@@ -4668,7 +4691,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "ae5251eb6480193aa66f.jpg"
   },
@@ -4681,7 +4704,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "ba13c18e94d85661de3b.jpg"
   },
@@ -4694,7 +4717,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "a5ce3a3d7cbec97ab593.jpg"
   },
@@ -4707,7 +4730,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "8320bffd70e0e3559fd4.jpg"
   },
@@ -4720,7 +4743,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "81f558bee64d3e639d51.jpg"
   },
@@ -4733,7 +4756,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "576902bbb59134729800.jpg"
   },
@@ -4746,7 +4769,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "ca358a48bb7310187472.jpg"
   },
@@ -4759,7 +4782,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "83cbad0c38e7e6b84a12.jpg"
   },
@@ -4772,7 +4795,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "6037cb51b5b5d2e79f98.jpg"
   },
@@ -4785,7 +4808,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "5873511445fc0b06ad38.jpg"
   },
@@ -9260,6 +9283,539 @@
    "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "c8ddc4a280c998ed6adb.jpg"
+  },
+  {
+   "url": "https://www.cerebras.ai",
+   "title": "Cerebras",
+   "description": "Cerebras powers the world's fastest AI inference on the biggest wafer chip. Cerebras CS-4 delivers up to 30x faster inference than GPUs.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "80707eaff554783a1de5.jpg"
+  },
+  {
+   "url": "https://blueberry-shake.pages.dev",
+   "title": "Blueberry Shake \u00b7 Editing PDFs, as simple as a blueberry shake",
+   "description": "Blueberry Shake is a free online PDF editor that fully reconstructs digital and scanned documents into editable documents: edit real paragraphs in their own fonts, real tables, images cut out of scans, lines, boxes and checkboxes. Not just",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "2ecc05cb08d8106b4b92.jpg"
+  },
+  {
+   "url": "https://moxivue.com",
+   "title": "Zero-knowledge monitoring and privileged access \u00b7 MoxiVueIllustration of the MoxiVue window: tabs do",
+   "description": "Monitor and securely reach your whole fleet. Zero-trust, zero-knowledge by design: your consoles sign every change, every device verifies it, and data is sealed end to end with post-quantum keys our server never holds.",
+   "category": "Art",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "7fadab0fe968ba427fd8.jpg"
+  },
+  {
+   "url": "https://replykit.eu",
+   "title": "ReplyKit | Grow on X by replying to the right posts",
+   "description": "ReplyKit finds the X posts worth replying to, then drafts three short replies that answer what the post actually says. Claude Sonnet on every plan, free included. Also works on LinkedIn and Reddit. Never posts for you.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "fef3f844f0795e47419a.jpg"
+  },
+  {
+   "url": "https://php2shell.censys.com",
+   "title": "PHP2Shell services",
+   "description": "",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "57ea6c86b6043eb712b5.jpg"
+  },
+  {
+   "url": "https://codeandcake.dev",
+   "title": "Code and Cake",
+   "description": "",
+   "category": "Developer",
+   "lang": "?",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "bad3da6da178df33a438.jpg"
+  },
+  {
+   "url": "https://installplango.com",
+   "title": "Plango",
+   "description": "Plango checks your Mac's security settings, installed apps, internet connections, and AI agents, MCP servers, plugins, and skills in plain English.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "46915024a189f558f86b.jpg"
+  },
+  {
+   "url": "https://s3-client-nu.vercel.app",
+   "title": "S3 Browser \u2013 a Finder for your buckets",
+   "description": "A fast, native-feeling file browser for Amazon S3, MinIO, DigitalOcean Spaces and any S3-compatible storage, with folder sync and scheduled backups. For macOS, Windows and Linux.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "e96f979060a41e865871.jpg"
+  },
+  {
+   "url": "https://news.mit.edu",
+   "title": "MIT News | Massachusetts Institute of Technology",
+   "description": "MIT News is dedicated to communicating to the media and the public the news and achievements of the students, faculty, staff and the greater MIT community.",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "ffb7407b134d48a90935.jpg"
+  },
+  {
+   "url": "https://newsletter.semianalysis.com",
+   "title": "SemiAnalysis | Dylan Patel | Substack",
+   "description": "Bridging the gap between the world's most important industry, semiconductors, and business. Click to read SemiAnalysis, by Dylan Patel, a Substack publication with hundreds of thousands of subscribers.",
+   "category": "Art",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "a752a0e0818b93d264c3.jpg"
+  },
+  {
+   "url": "https://kbr.is-a.dev",
+   "title": "Kamil Braun \u2014 Projects & researchA loop appears, then fills in",
+   "description": "Kamil Braun's projects and research in distributed systems, programming languages, systems programming, and mathematics.",
+   "category": "Science",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "e1e0a4cadc082d8543ce.jpg"
+  },
+  {
+   "url": "https://www.404media.co",
+   "title": "404 Media",
+   "description": "404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox.",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "d96af82d9abdfd9efefb.jpg"
+  },
+  {
+   "url": "https://train.samismith.com",
+   "title": "Railpass",
+   "description": "Stare out the window of an endless train ride, with real life footage.",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "1c05c4a65f2eb7aeb32a.jpg"
+  },
+  {
+   "url": "https://walkman.uz",
+   "title": "Walkman \u2014 Toshkent xaritasi \u00b7 \u041a\u0430\u0440\u0442\u0430 \u0422\u0430\u0448\u043a\u0435\u043d\u0442\u0430 \u00b7 Tashkent map",
+   "description": "Free Tashkent map with real routes by car, metro, bus and on foot, GPS navigation and 80,000 places in Uzbek, Russian and English \u2014 and any other city in the world: press GPS and it loads. Toshkent xaritasi \u00b7 \u043a\u0430\u0440\u0442\u0430 \u0422\u0430\u0448\u043a\u0435\u043d\u0442\u0430. No sign-up, wor",
+   "category": "Games",
+   "lang": "uz",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "0a44c4ac62e4f4fd59ed.jpg"
+  },
+  {
+   "url": "https://www.elenaverna.com",
+   "title": "Elena's Growth Scoop | Substack",
+   "description": "A must-have resource for anyone in the growth, marketing, or product space. Click to read Elena's Growth Scoop, a Substack publication with hundreds of thousands of subscribers.",
+   "category": "Art",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "93104c864a3e3b5bc937.jpg"
+  },
+  {
+   "url": "https://up.com.au",
+   "title": "Up - Upgrade Your Banking",
+   "description": "We\u2019re a bank built to give, not take\u2014designing tools that put you in control of your financial future. Driven by free-thinkers, not bankers, we\u2019re redefining modern banking for over 1 million Aussies.",
+   "category": "Tools",
+   "lang": "?",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "06f8357b810ce593b9fa.jpg"
+  },
+  {
+   "url": "https://query.farm",
+   "title": "Query.Farm",
+   "description": "Make APIs, services, files, databases, models, and custom code queryable from DuckDB today\u2014and from more query engines over time.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "543b2b9c38a33c51010e.jpg"
+  },
+  {
+   "url": "https://www.liquid.ai",
+   "title": "Liquid AI | Device-native foundation models.",
+   "description": "Liquid AI builds efficient Liquid Foundation Models (LFMs) for on-device, edge, and cloud AI with low latency, privacy, and hardware-aware deployment.",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "b2690325ab658a3ce44f.jpg"
+  },
+  {
+   "url": "https://subway.bio1up.com",
+   "title": "The GLP-1 Subway",
+   "description": "Ride through how GLP-1 medicines work, one station at a time. Built on the GLP-1 Field Guides.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "6765e3227f9af8cf8f48.jpg"
+  },
+  {
+   "url": "https://yapfast.com",
+   "title": "Yapfast: a Discord client without the web browser",
+   "description": "A native Discord client, written in Rust. About 40 MB of memory, where Discord's own app takes 800 MB.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "8394cd1c55494f2d186e.jpg"
+  },
+  {
+   "url": "https://claudia.gallery",
+   "title": "Claudia \u00b7 claudia.gallery",
+   "description": "Claudia, the open character from the music videos ESCAPE VELOCITY, CLODYSSEY, BLISS, AIRPLANE MODE, DOWNFORCE, DON'T LET ME SCROLL and WHITEPILL: every Midjourney image and prompt, the films, and how to make her yourself, for people and age",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "3b7cb8da3807501df23c.jpg"
+  },
+  {
+   "url": "https://milieucloud.com",
+   "title": "cloud",
+   "description": "",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "6da741010ba0e2e31d0b.jpg"
+  },
+  {
+   "url": "https://claytonwramsey.com",
+   "title": "Clayton's Website",
+   "description": "Clayton Ramsey's personal website",
+   "category": "Art",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "b83d2bfdb2c08cabcd96.jpg"
+  },
+  {
+   "url": "https://marketmee.app",
+   "title": "Turn your GitHub commits into marketing videos, images and posts \u2014 MarketMee",
+   "description": "MarketMee turns your GitHub commits into narrated product videos, on-brand marketing images and social posts, then publishes them to LinkedIn, X, Facebook and Instagram on your schedule.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "191ea7a7e4348749842e.jpg"
+  },
+  {
+   "url": "https://www.newscientist.com",
+   "title": "New Scientist | Science news, articles, and featuresSign InInstagramFacebookX / TwitterTiktokLinkedI",
+   "description": "Science news and long reads from expert journalists, covering developments in science, technology, health and the environment on the website and the magazine.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "10ad88473d04a18b308b.jpg"
+  },
+  {
+   "url": "https://www.brevn.com",
+   "title": "Brevn - AI Agent for Your Website",
+   "description": "Stop losing visitors who never call back. Brevn trains on your website, answers questions 24/7, and captures leads - free to start, live in minutes.",
+   "category": "Art",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "c05031f9c616dc086100.jpg"
+  },
+  {
+   "url": "https://withbeckon.app",
+   "title": "Beckon \u2014 your Dock, at your cursor",
+   "description": "Beckon puts your apps in a ring around your pointer: hold \u2325Space, flick toward one, let go. For Mac.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "743f1ae7a8ecef326e57.jpg"
+  },
+  {
+   "url": "https://lethain.com",
+   "title": "Irrational Exuberance",
+   "description": "",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "a8d9ba1fdc5870e10aed.jpg"
+  },
+  {
+   "url": "https://boba.app",
+   "title": "Boba \u00b7 The AI that gets your goals",
+   "description": "Boba is an AI that understands your goals and your people. Text it from your phone, add it to a group chat, or use it on the web. Free.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "24e6c59891c7caf14042.jpg"
+  },
+  {
+   "url": "https://nebulasoftware.com",
+   "title": "Nebula Software",
+   "description": "Nebula Software home page. View Phone Photos on TV & Desktop | Roku My Stuff on One Channel | Java macOS Click-Through!",
+   "category": "Art",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "144ea39a27bcab6cc62d.jpg"
+  },
+  {
+   "url": "https://www.popularmechanics.com",
+   "title": "Popular Mechanics - Product Reviews, How-To, Space, Military, Math, Science, and New Technology",
+   "description": "Popular Mechanics inspires, instructs and influences readers to help them master the modern world, whether it's practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs",
+   "category": "Science",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "d325dd9c2dfed309d03c.jpg"
+  },
+  {
+   "url": "https://getforgeops.net",
+   "title": "ForgeOps - Know what to investigate when production breaks",
+   "description": "ForgeOps connects the signals around a production incident and tells you where to investigate next: what changed, who was affected, and the request, query, or service to check first.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "1d05dac6b4870b21d63a.jpg"
+  },
+  {
+   "url": "https://seekingalpha.com",
+   "title": "Seeking Alpha | Stock Market Analysis & Tools for Investors",
+   "description": "Join Seeking Alpha, the largest investing community in the world. Get stock market news and analysis, investing ideas, earnings calls, charts and portfolio analysis tools.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "648dbdced895f1b0bb1d.jpg"
+  },
+  {
+   "url": "https://chrispattle.com",
+   "title": "Chris Pattle: I make silly little things on the Internet",
+   "description": "Chris Pattle: I make silly little things on the Internet",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "189b58c30666fc77d4ce.jpg"
+  },
+  {
+   "url": "https://www.mitmproxy.org",
+   "title": "mitmproxy - an interactive HTTPS proxy",
+   "description": "",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "4bbaa0a8a785d3675c1e.jpg"
+  },
+  {
+   "url": "https://aparcar.org",
+   "title": "aparcar",
+   "description": "This website tries to keep track of some project I\u2019m working on. Not much to see here yet. Check out the blog to read actual content.\nMost of my work is happening on GitHub",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "2df29331acfd905a3227.jpg"
+  },
+  {
+   "url": "https://tangled.org",
+   "title": "Tangled \u00b7 The next-generation social coding platformBlueskyXBlueskyX",
+   "description": "The next-generation social coding platform.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "8f0ca0e2d95b247b2159.jpg"
+  },
+  {
+   "url": "https://inkspo.ai",
+   "title": "Free AI Tattoo Generator \u2014 Artist-Guided Designs | Inkspo",
+   "description": "Free AI tattoo generator \u2014 turn your idea into a tattoo design in seconds. No signup required.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "2bb12395e440de9e9387.jpg"
+  },
+  {
+   "url": "https://edjefferson.com",
+   "title": "Ed Jefferson",
+   "description": "Hello, I'm Ed and I do a bunch of different stuff including making internet-powered interactive things (e.g. comedy karaoke), and writing for places like The Guardian, Time Out and the New Statesman. I also work\u2026",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "d75e26cbc17a143e9fc7.jpg"
+  },
+  {
+   "url": "https://sebsite.pw",
+   "title": "sebsite",
+   "description": "",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "991675d4e3ca11be1f95.jpg"
+  },
+  {
+   "url": "https://idempotency-harness-checker.theartofservice.com",
+   "title": "Idempotency Harness Checker: duplicate-charge testsThe same retry, two outcomes",
+   "description": "Paste an OpenAPI spec or endpoint list, see which operations can double-charge on a retry, and generate a runnable suite in ten stacks.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "ea9c0ca9efada0438de0.jpg"
   }
  ]
 }
