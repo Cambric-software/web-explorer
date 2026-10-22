@@ -817,7 +817,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "beaabaa0fecc201672ed.jpg"
+   "screenshot_file": "beaabaa0fecc201672ed.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2026
   },
   {
    "url": "https://www.wiz.io",
@@ -830,7 +832,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "146a8216d18dc0e0c0b0.jpg"
+   "screenshot_file": "146a8216d18dc0e0c0b0.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2013
   },
   {
    "url": "https://www.calabro.io",
@@ -843,7 +847,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "75af9e025850bd711fca.jpg"
+   "screenshot_file": "75af9e025850bd711fca.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2021
   },
   {
    "url": "https://www.lttlabs.com",
@@ -856,7 +862,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "2a84074f52c96065ac2f.jpg"
+   "screenshot_file": "2a84074f52c96065ac2f.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2023
   },
   {
    "url": "https://sleeknav.com",
@@ -869,7 +877,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "051705321ea106d742e1.jpg"
+   "screenshot_file": "051705321ea106d742e1.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2016
   },
   {
    "url": "https://www.johndcook.com",
@@ -882,7 +892,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "0050becc505d2da1ffaf.jpg"
+   "screenshot_file": "0050becc505d2da1ffaf.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2008
   },
   {
    "url": "https://fireflyk64.github.io",
@@ -895,7 +907,8 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "bf26667f5ccb815db129.jpg"
+   "screenshot_file": "bf26667f5ccb815db129.jpg",
+   "archive_checked": "2026-10-22"
   },
   {
    "url": "https://droplis.lalo.li",
@@ -908,7 +921,8 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "dcac114fac5d4c6ac5c9.jpg"
+   "screenshot_file": "dcac114fac5d4c6ac5c9.jpg",
+   "archive_checked": "2026-10-22"
   },
   {
    "url": "https://blog.computationalcomplexity.org",
@@ -921,7 +935,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "9aa3b0fa875a8c5ea7be.jpg"
+   "screenshot_file": "9aa3b0fa875a8c5ea7be.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2009
   },
   {
    "url": "https://breakspec.com",
@@ -934,7 +950,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "56fc7c51af0289572da9.jpg"
+   "screenshot_file": "56fc7c51af0289572da9.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2026
   },
   {
    "url": "https://www.dailycal.org",
@@ -947,7 +965,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "6f20ce6a7c79bd537cb9.jpg"
+   "screenshot_file": "6f20ce6a7c79bd537cb9.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 1996
   },
   {
    "url": "https://identity.algebrix.co",
@@ -960,7 +980,9 @@
    "added": "2026-10-19",
    "checked": "2026-10-21",
    "fails": 0,
-   "screenshot_file": "112cecddc81716074c04.jpg"
+   "screenshot_file": "112cecddc81716074c04.jpg",
+   "archive_checked": "2026-10-22",
+   "first_seen": 2026
   },
   {
    "url": "https://buddylist.dev",
@@ -3220,7 +3242,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "e545dbada4adc2584c99.jpg"
   },
@@ -3233,7 +3255,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "70fa4367947263db9bbf.jpg"
   },
@@ -3246,7 +3268,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "701b9ed0aad1d96bf8c4.jpg"
   },
@@ -3259,7 +3281,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "3088d77a6f8e51367aff.jpg"
   },
@@ -3272,7 +3294,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "0c1f2728c6f5f268d45a.jpg"
   },
@@ -3285,7 +3307,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "be809603146e2a4a66af.jpg"
   },
@@ -3298,7 +3320,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "5db43d7dea77391f4b3e.jpg"
   },
@@ -3311,7 +3333,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "89a8000a68d759c68bfa.jpg"
   },
@@ -3324,7 +3346,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "fe1e01091f22d5e631b4.jpg"
   },
@@ -3337,7 +3359,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "3845f593d2ba84a3f150.jpg"
   },
@@ -3350,7 +3372,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "6e2e320b3ed79bee60ad.jpg"
   },
@@ -3363,7 +3385,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "a2e62a5b352c910b136c.jpg"
   },
@@ -3376,7 +3398,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "d58ae882dbb8ddfeeb69.jpg"
   },
@@ -3389,7 +3411,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "f08a417f01496a7a69fc.jpg"
   },
@@ -3402,7 +3424,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "06056d8f073576409579.jpg"
   },
@@ -3415,7 +3437,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "3a8a383348c26c35685a.jpg"
   },
@@ -3428,7 +3450,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "a2328f488ee9d9a1a5ad.jpg"
   },
@@ -3441,7 +3463,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "c6f9a4fe77b678453996.jpg"
   },
@@ -3454,7 +3476,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "3f5d56072312eed78178.jpg"
   },
@@ -3467,7 +3489,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "7cfd32fb8a2f2f852da5.jpg"
   },
@@ -3480,7 +3502,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "003d659a673a4192709f.jpg"
   },
@@ -3493,7 +3515,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "38f3214545814971beae.jpg"
   },
@@ -3504,10 +3526,10 @@
    "category": "Games",
    "lang": "en",
    "source": "discovery",
-   "status": "ok",
+   "status": "warn",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
-   "fails": 0,
+   "checked": "2026-10-22",
+   "fails": 1,
    "screenshot_file": "fde048b79e86bea247be.jpg"
   },
   {
@@ -3519,7 +3541,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "c068a5de06a2f4c16089.jpg"
   },
@@ -3532,7 +3554,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "c727f6ed0a14445ae563.jpg"
   },
@@ -3545,7 +3567,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "211b00ce36cd768ba40e.jpg"
   },
@@ -3558,7 +3580,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "ad48beba4c55238e442e.jpg"
   },
@@ -3571,7 +3593,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "ad8529114f98deb4499c.jpg"
   },
@@ -3584,7 +3606,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "3f73c93f4ce67757a23d.jpg"
   },
@@ -3597,7 +3619,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "cb33be2c6f269e9a03c8.jpg"
   },
@@ -3610,7 +3632,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "58c859c4bcccbf83c346.jpg"
   },
@@ -3623,7 +3645,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "1a0cc8abf61fa82ea6a7.jpg"
   },
@@ -3636,7 +3658,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "134305fd3790c2345159.jpg"
   },
@@ -3649,7 +3671,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "c211f7cebca04f812e9a.jpg"
   },
@@ -3662,7 +3684,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "416f9e920fb157c179c1.jpg"
   },
@@ -3675,7 +3697,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "9fe2671f7921a33ecb78.jpg"
   },
@@ -3688,7 +3710,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "b19f62aeb044f9fe741a.jpg"
   },
@@ -3701,7 +3723,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "643235094382c1c66118.jpg"
   },
@@ -3714,7 +3736,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "c2ff1b1ccb399245c6f6.jpg"
   },
@@ -3727,7 +3749,7 @@
    "source": "discovery",
    "status": "ok",
    "added": "2026-10-20",
-   "checked": "2026-10-20",
+   "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "a3b0cea16b5e53034a4a.jpg"
   },
@@ -8059,6 +8081,565 @@
    "checked": "2026-10-22",
    "fails": 0,
    "screenshot_file": "4c9f64d3cf88f12d24d2.jpg"
+  },
+  {
+   "url": "https://www.voicehug.co",
+   "title": "VoiceHug \u2014 Group Voice Message Gift for Any Special Occasion",
+   "description": "Everyone records a voice message from their phone, and we blend them into one audio gift. For Mother's Day, birthdays, team farewells and every special occasion.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "b2743644575df142f301.jpg"
+  },
+  {
+   "url": "https://recordrelay.net",
+   "title": "RecordRelay :: The Decentralized DNS Chain",
+   "description": "",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "8d046f2bbe7dd7f682b6.jpg"
+  },
+  {
+   "url": "https://flipshake.fun",
+   "title": "FlipShake: a reaction game for your wrist. Shake, tilt and flip",
+   "description": "FlipShake is a free phone reaction game. Shake, tilt and flip your phone to the card before the bar runs out. Simple gyro and motion-sensor fun, with a new daily challenge and leaderboard every day.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "8c5d11c299c0675b82af.jpg"
+  },
+  {
+   "url": "https://www.dcrainmaker.com",
+   "title": "DC Rainmaker",
+   "description": "I swim, bike and run. Then, I come here and write about my adventures.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "ef935c9704da37304cc3.jpg"
+  },
+  {
+   "url": "https://botsinproduction.com",
+   "title": "Bots in Production \u2014 bots built with Claude Code, in a real company",
+   "description": "I'm not a developer. I run 17 bots, built with Claude Code, inside a real B2B company anyway. Here's what works, what it costs (US$100), and what fell over at 3am.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "d4bbe555dfee4eb0abcd.jpg"
+  },
+  {
+   "url": "https://pwn.watch",
+   "title": "pwn.watch \u00b7 live security incidents",
+   "description": "34 live incidents (15 critical). Live security incidents worldwide: CVEs, patch status, fixed versions, advisories and the posts that broke them.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "ed448bf12fba6101c779.jpg"
+  },
+  {
+   "url": "https://ego-lite.apposters.com",
+   "title": "ego lite - The Fastest Browser for AI Agents",
+   "description": "",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "c8bbc2786b7020e4ebf6.jpg"
+  },
+  {
+   "url": "https://www.adyen.com",
+   "title": "Adyen: Fintech platform for enterprises - AdyenAdyen LogoAdyen Logo",
+   "description": "Run payments, manage your data, and offer financial products in one platform. Adyen is purpose-built for the world's leading businesses.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "ba36532513f5fa5c2095.jpg"
+  },
+  {
+   "url": "https://hackiosx.dev",
+   "title": "hackiosx: iOS on Android phones",
+   "description": "ios-sweet runs Apple's real iOS 16 on a Snapdragon Android phone. How it works, which phones can run it, and how to port it to yours.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "4e0cd80715677ba8bd20.jpg"
+  },
+  {
+   "url": "https://inillucent.com",
+   "title": "Inillucent: a highly performant agentic database",
+   "description": "Inillucent is an embedded SQL database written in Rust. It speaks SQLite, is faster than SQLite on 110 of 116 benchmark workloads and 500% faster overall, has vector and keyword search built in, and ships with a command line, a shell and an",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "3151ace399b23502a8a7.jpg"
+  },
+  {
+   "url": "https://karrisaarinen.com",
+   "title": "Karri Saarinen",
+   "description": "Karri Saarinen, co-founder and CEO of Linear. From Finland, living in California.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "a5257ed90e70487862fe.jpg"
+  },
+  {
+   "url": "https://kuber.studio",
+   "title": "Kuber Mehta's Portfolio",
+   "description": "Kuber Mehta \u2014 19-year-old AI developer behind Claurst (Claude Code in Rust), Backdooms (DOOM in a QR code) & 50+ projects. Featured by PC Gamer, The Independent & Decrypt.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "933d6ae0e3a4a86313f3.jpg"
+  },
+  {
+   "url": "https://www.popsci.com",
+   "title": "Popular Science | Science and Technology Stories Since 1872",
+   "description": "Awe-inspiring science reporting, technology news, and DIY projects. Skunks to space robots, primates to climates. That's Popular Science, for over 150 years strong.",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "1e4432fbdd6f5dcd1503.jpg"
+  },
+  {
+   "url": "https://runspace.sandbox.ec",
+   "title": "runspace: disposable cloud sandboxes for humans and AI agents",
+   "description": "runspace runs commands in disposable GitHub codespaces, so dependencies, builds, and tests execute on a codespace's VM instead of your machine. A CLI for you, an MCP server for your agent.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "00bbae3fea351e8456c4.jpg"
+  },
+  {
+   "url": "https://thedailyeconomy.org",
+   "title": "The Daily Economy",
+   "description": "The Daily Economy is the news outlet of the American Institute for Economic Research. We publish on economics, politics, culture, and much more.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "56f766c6068229b18981.jpg"
+  },
+  {
+   "url": "https://entry.fyi",
+   "title": "Entry \u00b7 A personal homepage for busy professionals",
+   "description": "A personal homepage for your link-in-bio, portfolio and work history. Entry suggests updates for you to review, with less website upkeep. Start free.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "1df884183c057c062462.jpg"
+  },
+  {
+   "url": "https://www.quizingo.app",
+   "title": "Quizingo | Daily Word Games & Trivia Bingo",
+   "description": "Play free daily word games, vocabulary puzzles, and trivia bingo on Quizingo. Start a quick challenge in your browser or create a quiz to share.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "3089f9d1f8b68d9ead2d.jpg"
+  },
+  {
+   "url": "https://eliastaylor.com",
+   "title": "Elias Taylor",
+   "description": "Writing by Elias Taylor.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "0007f0ac8fb01c3b2e98.jpg"
+  },
+  {
+   "url": "https://cellebrite.com",
+   "title": "Digital Forensics & Intelligence Platform | Cellebrite",
+   "description": "Cellebrite delivers end-to-end digital forensics, investigations, and intelligence solutions trusted by 60,000+ agencies in 150 countries. Explore the platform.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "fb1f61a35d23ce31935f.jpg"
+  },
+  {
+   "url": "https://reasonableapproximation.net",
+   "title": "A Reasonable Approximation",
+   "description": "",
+   "category": "Developer",
+   "lang": "?",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "283b9fb3539a3f5d62a5.jpg"
+  },
+  {
+   "url": "https://hookman.dev",
+   "title": "Hookman \u2014 Webhook routing for branch deployments",
+   "description": "A single stable endpoint that routes webhooks to the right branch deployment. Stop reconfiguring Stripe every time you switch branches.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "50d38c2d108ba266d575.jpg"
+  },
+  {
+   "url": "https://emudhra.com",
+   "title": "eMudhra | Enterprise PKI, Post-Quantum Cryptography & Digital Trust Solutions - USA",
+   "description": "Leading provider of Post-Quantum Cryptography (PQC), Crypto-Agile PKI, Zero Trust IAM, and digital trust solutions for US enterprises in Banking, Insurance, Healthcare, and Federal sectors. Available in the United States.",
+   "category": "Developer",
+   "lang": "?",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "d830fe00427176b069ed.jpg"
+  },
+  {
+   "url": "https://chinaready.co",
+   "title": "Chinaready | Make your product ready for China",
+   "description": "Assessment-led China market entry for foreign digital products. Find what fails, choose the right route, and launch with engineering delivery and compliance coordination.",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "7bca97e687634a316928.jpg"
+  },
+  {
+   "url": "https://www.okapi.bot",
+   "title": "Okapi: API Breaking Changes Watcher",
+   "description": "Okapi watches the 3rd-party APIs your app depends on and opens a PR before a breaking change hits your app",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "19c69c65a3b00c3ac23e.jpg"
+  },
+  {
+   "url": "https://igor-suhorukov.github.io",
+   "title": "\u041c\u043e\u0441\u043a\u0432\u0430, \u0433\u0434\u0435 \u043c\u043d\u0435 \u043a\u043e\u043c\u0444\u043e\u0440\u0442\u043d\u043e",
+   "description": "",
+   "category": "Developer",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "fad4c397a2c8b1615d76.jpg"
+  },
+  {
+   "url": "https://powderworks.dev",
+   "title": "Powderworks: No more forking Tree-sitter grammars",
+   "description": "Professionally maintained, well-tested Tree-sitter compatible Wasm grammars for security and code analysis. We maintain 77 grammars for 13 languages so you don't have to.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "e46827b3544290ca5c8f.jpg"
+  },
+  {
+   "url": "https://aifreetoday.com",
+   "title": "AI Free Today \u2014 IA gr\u00e1tis \u00b7 free AI \u00b7 IA gratis",
+   "description": "IA gr\u00e1tis hoje \u00b7 Free AI today \u00b7 IA gratis hoy: o que ChatGPT, Gemini, Claude e outras IAs liberam de gra\u00e7a, conferido todo dia.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "c147c4df1987aab72013.jpg"
+  },
+  {
+   "url": "https://pepsipu.com",
+   "title": "pepsipu.com",
+   "description": "",
+   "category": "Games",
+   "lang": "?",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "b1c4c19fd0d52cea756b.jpg"
+  },
+  {
+   "url": "https://techxplore.com",
+   "title": "Tech Xplore - Technology and Engineering news",
+   "description": "Tech Xplore covers the latest engineering, electronics and technology advances",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "d43ab359004e09982ee0.jpg"
+  },
+  {
+   "url": "https://www.explain-ai.com",
+   "title": "AI Tool Compliance Directory | GDPR & EU AI Act Scores | ExplAIn",
+   "description": "Free AI transparency directory. Check if ChatGPT, Claude & 500+ AI tools comply with GDPR and EU AI Act",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "1d6eea727f08702c5964.jpg"
+  },
+  {
+   "url": "https://akitaonrails.com",
+   "title": "AkitaOnRails.com",
+   "description": "Blog do Fabio Akita do Canal do YouTube 'Akitando' falando sobre tecnologia, carreira e coisas geek.",
+   "category": "Tools",
+   "lang": "pt",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "eb369673401b2d877977.jpg"
+  },
+  {
+   "url": "https://localrigcheck.com",
+   "title": "RigCheck: Can Your Hardware Run This Local AI Model?",
+   "description": "Local AI hardware checker: pick your GPU or Mac and RAM for language, image and video model routes, complete workflow files and sourced memory limits.",
+   "category": "Technology",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "8680d145ee9568ece315.jpg"
+  },
+  {
+   "url": "https://studio.fablecut.space",
+   "title": "FableCut Studio",
+   "description": "The FableCut video editor in your browser. Open a folder of clips and edit, or connect Claude, ChatGPT or any MCP agent to edit with you. Your clips stay on your computer.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "37cab6386708d9297363.jpg"
+  },
+  {
+   "url": "https://skillstore-jk.fly.dev",
+   "title": "Skillstore \u2014 The right skill. Right where you work.",
+   "description": "Ask your AI for a skill: Skillstore finds relevant methods for your task and brings their instructions into Claude Code and Codex. ChatGPT, Claude and Cursor connect too, not yet verified end to end.",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "b2c39cdbc856361aa9c4.jpg"
+  },
+  {
+   "url": "https://histor.modelmarket.dev",
+   "title": "HISTOR \u2014 transparency log for MCP tool definitions",
+   "description": "HISTOR reads what the remote MCP endpoints in the official registry advertise, signs what it saw as MTL/1 labels, and appends every label to a Merkle log. It tells you when a server's tool definitions changed \u2014 and never calls a server safe",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "ef5158cbc7c5cbe7f4b6.jpg"
+  },
+  {
+   "url": "https://aethermug.com",
+   "title": "Aether Mugcreative-commons",
+   "description": "",
+   "category": "Games",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "909ff369c628d732a0d9.jpg"
+  },
+  {
+   "url": "https://dailyinference.news",
+   "title": "The Daily Inference: Written, argued over and edited by AI",
+   "description": "A newspaper written, argued over and edited by AI models, three editions a day: world news, AI and technology, science and culture.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "20f59216def587c77aa2.jpg"
+  },
+  {
+   "url": "https://www.zerosalarium.com",
+   "title": "Zero Salarium",
+   "description": "Zero Salarium programming and computer security blog",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "39cf0e5fbc5f20068bc8.jpg"
+  },
+  {
+   "url": "https://blisswriter.app",
+   "title": "Bliss Writer -- Set Screenwriting Free",
+   "description": "Bliss -- a terminal-native screenplay editor. Branch, sync, theme, and write with zero distractions.",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "9e8e205b91ee3fa2310d.jpg"
+  },
+  {
+   "url": "https://electronicdjmodel.com",
+   "title": "EDM - Electronic DJ Model",
+   "description": "",
+   "category": "Art",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "48174a174fdc4bd45c1b.jpg"
+  },
+  {
+   "url": "https://whybook.dev",
+   "title": "Whybook for JupyterLab: question your data, see every choice behind each answer",
+   "description": "An open-source JupyterLab extension with no chat box: point at your data, pick a question or type your own, and see the choices behind each answer.",
+   "category": "Science",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "3827c423d10e0be2c28f.jpg"
+  },
+  {
+   "url": "https://nsh.dev",
+   "title": "Native Shell \u2014 AI-generated UI, native in your app",
+   "description": "Native Shell: AI-generated UI, native in your app, on every platform. Write apps in Rust or TSX for iOS, Android, macOS, Windows, Linux, GPUI and the web, drawn with each platform\u2019s own UI, and deliver signed TSX modules to them at run time",
+   "category": "Tools",
+   "lang": "en",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "975446797db41df53393.jpg"
+  },
+  {
+   "url": "https://subst.scsoi.com",
+   "title": "ScsSubst - Map Folders to Drive Letters | \u628a\u6587\u4ef6\u5939\u53d8\u6210\u76d8\u7b26",
+   "description": "ScsSubst maps local folders to Windows drive letters \u2014 shorter paths, AI workspace isolation, free trial. | \u628a\u5e38\u7528\u672c\u5730\u6587\u4ef6\u5939\u6620\u5c04\u6210\u76d8\u7b26\uff0c\u50cf\u672c\u5730\u786c\u76d8\u4e00\u6837\u6253\u5f00\u6df1\u5c42\u76ee\u5f55\u3002",
+   "category": "Games",
+   "lang": "zh",
+   "source": "discovery",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-22",
+   "fails": 0,
+   "screenshot_file": "54b6a6b1a34348499542.jpg"
   }
  ]
 }
