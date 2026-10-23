@@ -14,6 +14,7 @@ def generate():
     (ROOT/'data/sites.json').write_text(json.dumps(db,indent=1))
     sites=[s for s in db['sites'] if s.get('status')!='dead']
     categories=sorted({s['category'] for s in sites})
+    import shutil; shutil.rmtree(ROOT/'categories',ignore_errors=True)
     sitemap=Element('urlset',xmlns='http://www.sitemaps.org/schemas/sitemap/0.9')
     for url in [BASE+'/']+[BASE+'/categories/'+quote(c.lower())+'/' for c in categories]:
         SubElement(SubElement(sitemap,'url'),'loc').text=url

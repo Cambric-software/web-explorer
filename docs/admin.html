@@ -1,0 +1,22 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Control room — Website Explorer</title><meta name="robots" content="noindex,nofollow"><meta name="description" content="Private control room.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="style.css"><link rel="icon" href="icon.png">
+<style>
+.adm{max-width:1100px;margin:0 auto;padding:1.5rem}.adm table{width:100%;border-collapse:collapse;font-size:.9rem}.adm td,.adm th{padding:.45rem;border-bottom:1px solid #2a2c25;text-align:left;vertical-align:top}
+.adm input,.adm select,.adm textarea{width:100%;box-sizing:border-box}.adm .row{display:flex;gap:.6rem;flex-wrap:wrap;align-items:center;margin:.8rem 0}
+.adm .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:.8rem}.adm .kpis div{border:1px solid #2a2c25;border-radius:12px;padding:.8rem}.adm .kpis b{display:block;font:700 1.6rem "Space Grotesk"}
+.adm .dirty{background:#c6ff3d14}.adm .pill{font-size:.75rem;opacity:.75}.adm tr.dead td{opacity:.5}
+</style></head><body><main class="adm">
+<h1>Control room</h1>
+<section id="login"><p class="muted">Only the owner of the GitHub project can open this. Paste a GitHub access token that can edit <b>Cambric-software/web-explorer</b>. It stays in this browser tab only and is forgotten when you close it.</p>
+<form id="login-form" class="row"><input id="token" type="password" placeholder="github_pat_…" required autocomplete="off" style="flex:1"><button type="submit">Unlock →</button></form>
+<p class="muted">Make one at github.com → Settings → Developer settings → Fine-grained tokens → only this repository → Contents: read &amp; write, Actions: read &amp; write.</p><p id="login-msg" role="status"></p></section>
+<section id="panel" hidden>
+<p id="who" class="muted"></p><div id="kpis" class="kpis"></div>
+<div class="row"><button id="run">▶ Run the robot now</button><button id="save" disabled>✓ Save changes (0)</button><button id="wipe">🗑 Delete all websites</button><button id="logout">Lock</button></div>
+<p id="msg" role="status" class="muted"></p>
+<h2>Recent robot runs</h2><div id="runs" class="muted"></div>
+<h2>Add a website by hand</h2><form id="add" class="row"><input id="add-url" type="url" placeholder="https://…" required style="flex:2"><input id="add-title" placeholder="Name" style="flex:1"><select id="add-cat" style="flex:1"></select><button type="submit">＋ Add</button></form>
+<h2>Websites</h2><div class="row"><input id="filter" type="search" placeholder="Search name or address" style="flex:2"><select id="fcat" style="flex:1"><option value="">All categories</option></select><select id="fstatus" style="flex:1"><option value="">Any status</option><option>ok</option><option>warn</option><option>dead</option></select></div>
+<p id="count" class="muted"></p><table><thead><tr><th>Website</th><th>Name &amp; description</th><th>Category</th><th></th></tr></thead><tbody id="rows"></tbody></table>
+</section></main><script src="admin.js"></script></body></html>
