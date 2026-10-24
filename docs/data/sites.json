@@ -381,7 +381,7 @@
    "load_time": 0.12,
    "https": true,
    "words": 165,
-   "title": "hitogata's blog",
+   "title": "hitogata",
    "description": "I like to write software, make games, and create art, while emphasizing as much of the human aspect of these things as possible.",
    "category": "Personal",
    "confidence": 1,
@@ -554,10 +554,10 @@
    "load_time": 0.34,
    "https": true,
    "words": 1812,
-   "title": "Railway Blogs",
+   "title": "Railway Blog",
    "description": "Blog posts from the Railway team",
    "category": "Developer",
-   "confidence": 1,
+   "confidence": 0.54,
    "tags": [
     "Personal",
     "Technology",
@@ -565,8 +565,7 @@
    ],
    "screenshot_file": "b50ebfa182463e24856e.jpg",
    "archive_checked": "2026-10-23",
-   "first_seen": 2024,
-   "locked": true
+   "first_seen": 2024
   },
   {
    "url": "https://slidum.com",
@@ -865,29 +864,6 @@
    "first_seen": 2026
   },
   {
-   "url": "https://reasonableapproximation.net",
-   "source": "lobsters",
-   "status": "ok",
-   "added": "2026-10-22",
-   "checked": "2026-10-24",
-   "fails": 0,
-   "lang": "?",
-   "load_time": 0.31,
-   "https": true,
-   "words": 3049,
-   "title": "A Reasonable Approximation",
-   "description": "Alice: Are there any examples of X? Bob: Here. Alice: Okay, but are there any examples of X'? Bob: Yes, here. Alice: That has feature Y, which- Bob: Dude, stop moving the goalposts.",
-   "category": "Retro",
-   "confidence": 1,
-   "tags": [
-    "Technology"
-   ],
-   "screenshot_file": "283b9fb3539a3f5d62a5.jpg",
-   "archive_checked": "2026-10-23",
-   "first_seen": 2014,
-   "locked": true
-  },
-  {
    "url": "https://chinaready.co",
    "source": "hacker news",
    "status": "ok",
@@ -920,7 +896,7 @@
    "https": true,
    "words": 1986,
    "title": "Tech Crunch",
-   "description": "TechCrunch | Reporting on the business of technology, startups, venture capital funding, and Silicon Valley",
+   "description": "business of technology, startups, venture capital funding, and Silicon Valley",
    "category": "Technology",
    "confidence": 1,
    "tags": [
@@ -960,16 +936,17 @@
    "load_time": 0.36,
    "https": true,
    "words": 138,
-   "title": "Alberto Denia",
+   "title": "Alberto Denia's blog",
    "description": "I'm an iOS app developer with a passion for building beautiful, functional apps.",
    "category": "Developer",
-   "confidence": 0.62,
+   "confidence": 1,
    "tags": [
     "Personal"
    ],
    "screenshot_file": "dbd981d0c4c5d6c51430.jpg",
    "archive_checked": "2026-10-24",
-   "first_seen": 2024
+   "first_seen": 2024,
+   "locked": true
   },
   {
    "url": "https://spectrum.ieee.org",
@@ -1004,7 +981,7 @@
    "words": 476,
    "title": "Adyen",
    "description": "Run payments, manage your data, and offer financial products in one platform. Adyen is purpose-built for the world's leading businesses.",
-   "category": "Business",
+   "category": "Tools",
    "confidence": 1,
    "tags": [],
    "screenshot_file": "55f82e81d409024ca04d.jpg",
@@ -6415,6 +6392,24 @@
     "Technology"
    ],
    "screenshot_file": "b2d0f1f0eec6ab4d6f56.jpg"
+  },
+  {
+   "url": "https://xn--sr8hvo.ws",
+   "source": "link from aethermug.com",
+   "status": "ok",
+   "added": "2026-10-24",
+   "checked": "2026-10-24",
+   "fails": 0,
+   "lang": "en",
+   "load_time": 0.2,
+   "https": true,
+   "words": 395,
+   "title": "An IndieWeb Webring",
+   "description": "This proof-of-concept webring is a way for folks adding IndieWeb building blocks to their personal websites to find (and be found by) other folks with IndieWeb building blocks on their sites!",
+   "category": "Retro",
+   "confidence": 0.92,
+   "tags": [],
+   "screenshot_file": "9249b50ad260530cff76.jpg"
   },
   {
    "url": "https://creativecommons.org",
