@@ -327,6 +327,26 @@
    "first_seen": 2026
   },
   {
+   "url": "https://aifreetoday.com",
+   "source": "hacker news",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-24",
+   "fails": 0,
+   "lang": "en",
+   "load_time": 0.13,
+   "https": true,
+   "words": 54,
+   "title": "AI Free Today",
+   "description": "IA grátis hoje · Free AI today · IA gratis hoy: o que ChatGPT, Gemini, Claude e outras IAs liberam de graça, conferido todo dia.",
+   "category": "Technology",
+   "confidence": 1,
+   "tags": [],
+   "screenshot_file": "c147c4df1987aab72013.jpg",
+   "archive_checked": "2026-10-23",
+   "first_seen": 2026
+  },
+  {
    "url": "https://globus.software",
    "source": "hacker news",
    "status": "ok",
@@ -359,13 +379,12 @@
    "words": 1415,
    "title": "Jared Forsyth.com",
    "description": "I'm currently a mobile & web developer for Khan Academy, where we're working to bring a free, world-class education to anyone anywhere.",
-   "category": "Personal",
-   "confidence": 1,
+   "category": "Developer",
+   "confidence": 0.74,
    "tags": [],
    "screenshot_file": "abf73fd83939434cbf64.jpg",
    "archive_checked": "2026-10-23",
-   "first_seen": 2009,
-   "locked": true
+   "first_seen": 2009
   },
   {
    "url": "https://hitogata.neocities.org",
@@ -380,8 +399,8 @@
    "words": 165,
    "title": "hitogata",
    "description": "I like to write software, make games, and create art, while emphasizing as much of the human aspect of these things as possible.",
-   "category": "Personal",
-   "confidence": 1,
+   "category": "Retro",
+   "confidence": 0.5,
    "tags": [
     "Personal",
     "Games",
@@ -389,8 +408,7 @@
    ],
    "screenshot_file": "24c3d05bd09f9547bc6b.jpg",
    "archive_checked": "2026-10-23",
-   "first_seen": 2026,
-   "locked": true
+   "first_seen": 2026
   },
   {
    "url": "https://fortinet.com",
@@ -464,16 +482,15 @@
    "https": true,
    "words": 426,
    "title": "SimEdw's Blog",
-   "description": "Personal blog by Simon Edwardsson",
+   "description": "Personal blog by Simon Edwardsson - dd if=/dev/me of=/simedw.com",
    "category": "Personal",
-   "confidence": 1,
+   "confidence": 0.53,
    "tags": [
     "Technology"
    ],
    "screenshot_file": "694b8bb3382623857535.jpg",
    "archive_checked": "2026-10-23",
-   "first_seen": 2018,
-   "locked": true
+   "first_seen": 2018
   },
   {
    "url": "https://rumple.github.io",
@@ -486,15 +503,14 @@
    "load_time": 0.11,
    "https": true,
    "words": 294,
-   "title": "rumple test",
+   "title": "@rumple test",
    "description": "This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish.…",
    "category": "Tools",
-   "confidence": 1,
+   "confidence": 0.71,
    "tags": [],
    "screenshot_file": "091630928041cb39361a.jpg",
    "archive_checked": "2026-10-23",
-   "first_seen": 2016,
-   "locked": true
+   "first_seen": 2016
   },
   {
    "url": "https://labs.eye.security",
@@ -507,17 +523,16 @@
    "load_time": 0.64,
    "https": true,
    "words": 627,
-   "title": "Eye security",
+   "title": "Eye Research",
    "description": "Cyber incidents, malware, threat intel and vulnerabilities.",
    "category": "Technology",
-   "confidence": 1,
+   "confidence": 0.63,
    "tags": [
     "Science"
    ],
    "screenshot_file": "4582b9b8feb57783edbc.jpg",
    "archive_checked": "2026-10-23",
-   "first_seen": 2026,
-   "locked": true
+   "first_seen": 2026
   },
   {
    "url": "https://subst.scsoi.com",
@@ -549,15 +564,14 @@
    "load_time": 0.12,
    "https": true,
    "words": 511,
-   "title": "SutraKey",
+   "title": "SutraKey (Sutra Key)",
    "description": "SutraKey (also known as Sutra Key) is a free, open-source macOS utility. Hold Shift + Select any URL to summon a zero-latency liquid radial wheel that downloads video (4K/1080p MP4), audio (320kbps MP3/M4A),…",
    "category": "Tools",
-   "confidence": 1,
+   "confidence": 0.71,
    "tags": [],
    "screenshot_file": "e1f1e43b663e80d13222.jpg",
    "archive_checked": "2026-10-23",
-   "first_seen": 2026,
-   "locked": true
+   "first_seen": 2026
   },
   {
    "url": "https://blog.railway.com",
@@ -596,13 +610,12 @@
    "words": 534,
    "title": "Slidum",
    "description": "Paste the HTML your AI wrote and it plays as a real presentation — shared with one link, no download, no sign-in.",
-   "category": "Tools",
-   "confidence": 1,
+   "category": "Technology",
+   "confidence": 0.83,
    "tags": [],
    "screenshot_file": "19a2c15f67c85f859a66.jpg",
    "archive_checked": "2026-10-23",
-   "first_seen": 2026,
-   "locked": true
+   "first_seen": 2026
   },
   {
    "url": "https://returnledger.site",
@@ -617,13 +630,12 @@
    "words": 826,
    "title": "Return Ledger",
    "description": "Log contributions, withdrawals and valuation checkpoints; get an approximated time‑weighted and money‑weighted return, computed entirely in this page.",
-   "category": "Business",
-   "confidence": 1,
+   "category": "Developer",
+   "confidence": 0.5,
    "tags": [],
    "screenshot_file": "ce34fbcf45aa4c40fb5b.jpg",
    "archive_checked": "2026-10-23",
-   "first_seen": 2026,
-   "locked": true
+   "first_seen": 2026
   },
   {
    "url": "https://arstechnica.com",
@@ -658,15 +670,14 @@
    "load_time": 0.54,
    "https": true,
    "words": 2492,
-   "title": "AI Quality HQ",
+   "title": "AIQualityHQ",
    "description": "Automated AI Quality Assurance, Security Guardrails, and Token Intelligence for prompts and AI agents. Detect defects, red-team injections, and optimize token costs with browser-native tools.",
    "category": "Technology",
-   "confidence": 1,
+   "confidence": 0.78,
    "tags": [],
    "screenshot_file": "4dc0088f6d3d95acc1bc.jpg",
    "archive_checked": "2026-10-23",
-   "first_seen": 2026,
-   "locked": true
+   "first_seen": 2026
   },
   {
    "url": "https://certavert.com",
@@ -699,15 +710,14 @@
    "load_time": 0.6,
    "https": true,
    "words": 439,
-   "title": "Futhark",
+   "title": "Why Futhark?",
    "description": "A high-performance and high-level purely functional data-parallel array programming language that can execute on the GPU and CPU.",
-   "category": "Tools",
-   "confidence": 1,
+   "category": "Developer",
+   "confidence": 0.73,
    "tags": [],
    "screenshot_file": "d8e5f37b27e724d4a585.jpg",
    "archive_checked": "2026-10-23",
-   "first_seen": 2016,
-   "locked": true
+   "first_seen": 2016
   },
   {
    "url": "https://razer.com",
@@ -722,15 +732,14 @@
    "words": 545,
    "title": "Razer",
    "description": "Cutting-edge technology✅ Excellent engineering✅ Sustainable✅ Shop Razer's catalogue of headsets, laptops and tech gear for gaming, work and leisure.",
-   "category": "Business",
-   "confidence": 1,
+   "category": "Technology",
+   "confidence": 0.62,
    "tags": [
     "Business"
    ],
    "screenshot_file": "19b39eadbd4f303de7b4.jpg",
    "archive_checked": "2026-10-23",
-   "first_seen": 1998,
-   "locked": true
+   "first_seen": 1998
   },
   {
    "url": "https://printpixeltool.com",
@@ -743,15 +752,14 @@
    "load_time": 0.59,
    "https": true,
    "words": 671,
-   "title": "Print Pixel Tool",
+   "title": "PrintPixel Tool",
    "description": "Calculate image print size, resolution and print quality. Upload your photo to check max print dimensions, pixel density and sharpness before printing.",
    "category": "Tools",
-   "confidence": 1,
+   "confidence": 0.85,
    "tags": [],
    "screenshot_file": "6a857da81a8c7ef60f85.jpg",
    "archive_checked": "2026-10-23",
-   "first_seen": 2026,
-   "locked": true
+   "first_seen": 2026
   },
   {
    "url": "https://electronicdjmodel.com",
@@ -766,12 +774,11 @@
    "words": 191,
    "title": "Electronic DJ Model",
    "description": "Choose a Song and I'll Launch a Mix for You!",
-   "category": "Art",
-   "confidence": 1,
+   "category": "Random",
+   "confidence": 0.5,
    "tags": [],
    "screenshot_file": "48174a174fdc4bd45c1b.jpg",
-   "archive_checked": "2026-10-23",
-   "locked": true
+   "archive_checked": "2026-10-23"
   },
   {
    "url": "https://claude.com",
@@ -809,13 +816,12 @@
    "words": 349,
    "title": "The Last Museum",
    "description": "The Last Museum is a semantic search engine for 5.8 million artworks from the world's great museums. Search by theme, style, subject, or any description you can imagine.",
-   "category": "Art",
-   "confidence": 1,
+   "category": "Random",
+   "confidence": 0.5,
    "tags": [],
    "screenshot_file": "315cfe21816f995bdd44.jpg",
    "archive_checked": "2026-10-23",
-   "first_seen": 1999,
-   "locked": true
+   "first_seen": 1999
   },
   {
    "url": "https://voicehug.co",
@@ -912,15 +918,14 @@
    "load_time": 0.25,
    "https": true,
    "words": 886,
-   "title": "China ready",
+   "title": "Chinaready",
    "description": "Assessment-led China market entry for foreign digital products. Find what fails, choose the right route, and launch with engineering delivery and compliance coordination.",
    "category": "Technology",
-   "confidence": 1,
+   "confidence": 0.75,
    "tags": [],
    "screenshot_file": "7bca97e687634a316928.jpg",
    "archive_checked": "2026-10-23",
-   "first_seen": 2026,
-   "locked": true
+   "first_seen": 2026
   },
   {
    "url": "https://techcrunch.com",
@@ -933,17 +938,16 @@
    "load_time": 0.46,
    "https": true,
    "words": 1986,
-   "title": "Tech Crunch",
+   "title": "TechCrunch",
    "description": "TechCrunch | Reporting on the business of technology, startups, venture capital funding, and Silicon Valley",
    "category": "Technology",
-   "confidence": 1,
+   "confidence": 0.65,
    "tags": [
     "Business"
    ],
    "screenshot_file": "06cbaf185cf76fb8c855.jpg",
    "archive_checked": "2026-10-24",
-   "first_seen": 2005,
-   "locked": true
+   "first_seen": 2005
   },
   {
    "url": "https://nucnet.org",
@@ -1016,14 +1020,13 @@
    "load_time": 0.33,
    "https": true,
    "words": 476,
-   "title": "Adyen",
+   "title": "Adyen: Fintech platform for enterprises",
    "description": "Run payments, manage your data, and offer financial products in one platform. Adyen is purpose-built for the world's leading businesses.",
    "category": "Business",
-   "confidence": 1,
+   "confidence": 0.81,
    "tags": [],
    "screenshot_file": "55f82e81d409024ca04d.jpg",
-   "archive_checked": "2026-10-24",
-   "locked": true
+   "archive_checked": "2026-10-24"
   },
   {
    "url": "https://unsw.edu.au",
@@ -1038,13 +1041,12 @@
    "words": 722,
    "title": "UNSW Sites",
    "description": "UNSW is ranked 1st in Australia overall and for employment outcomes. Browse our range of study options and find the perfect one for you.",
-   "category": "Tools",
-   "confidence": 1,
+   "category": "Education",
+   "confidence": 0.81,
    "tags": [],
    "screenshot_file": "620ad99ff51c97237446.jpg",
    "archive_checked": "2026-10-24",
-   "first_seen": 1997,
-   "locked": true
+   "first_seen": 1997
   },
   {
    "url": "https://getastra.com",
@@ -1059,13 +1061,12 @@
    "words": 1421,
    "title": "Astra Security",
    "description": "Astra Security is a one of a kind AI powered automated Pentest Platform that makes chaotic pentests a breeze & continuous with its hacker-style vulnerability scanner.",
-   "category": "Tools",
-   "confidence": 1,
+   "category": "Technology",
+   "confidence": 0.9,
    "tags": [],
    "screenshot_file": "4709696f90eb37a2346e.jpg",
    "archive_checked": "2026-10-24",
-   "first_seen": 2015,
-   "locked": true
+   "first_seen": 2015
   },
   {
    "url": "https://lomenanalytics.com",
@@ -1086,6 +1087,26 @@
     "Technology"
    ],
    "screenshot_file": "70986c3eaa76685048b3.jpg",
+   "archive_checked": "2026-10-24",
+   "first_seen": 2026
+  },
+  {
+   "url": "https://dalerank.github.io",
+   "source": "hacker news",
+   "status": "ok",
+   "added": "2026-10-22",
+   "checked": "2026-10-24",
+   "fails": 0,
+   "lang": "ru",
+   "load_time": 0.09,
+   "https": true,
+   "words": 414,
+   "title": "dalerank",
+   "description": "Эссе о ремесле программирования, реверс-инжиниринге и долгой игре — и книги, которые я пишу.",
+   "category": "Random",
+   "confidence": 0.57,
+   "tags": [],
+   "screenshot_file": "7604f873ec68a6f85925.jpg",
    "archive_checked": "2026-10-24",
    "first_seen": 2026
   },
@@ -1650,29 +1671,6 @@
    "screenshot_file": "bad8ae9564c280407902.jpg",
    "archive_checked": "2026-10-24",
    "first_seen": 2026
-  },
-  {
-   "url": "https://cs.utexas.edu",
-   "source": "hacker news",
-   "status": "warn",
-   "added": "2026-10-23",
-   "checked": "2026-10-24",
-   "fails": 1,
-   "lang": "en",
-   "load_time": 0.66,
-   "https": true,
-   "words": 533,
-   "title": "UT Austin Computer Science",
-   "description": "Consistently ranked one of the nation's top computer science programs, UT Computer Science supplies the people and ideas shaping the digital frontier.",
-   "category": "Science",
-   "confidence": 0.51,
-   "tags": [
-    "Education",
-    "Technology"
-   ],
-   "screenshot_file": "d83b5cf64a5cbd34a250.jpg",
-   "archive_checked": "2026-10-24",
-   "first_seen": 1996
   },
   {
    "url": "https://loudwalk.com",
@@ -2436,26 +2434,6 @@
     "Developer"
    ],
    "screenshot_file": "1f5dc4a2970eadc4bb50.jpg"
-  },
-  {
-   "url": "https://caltech.edu",
-   "source": "hacker news",
-   "status": "warn",
-   "added": "2026-10-23",
-   "checked": "2026-10-24",
-   "fails": 1,
-   "lang": "en",
-   "load_time": 0.07,
-   "https": true,
-   "words": 1128,
-   "title": "California Institute of Technology",
-   "description": "The California Institute of Technology aims to expand human knowledge and benefit society through research integrated with education.",
-   "category": "Science",
-   "confidence": 0.66,
-   "tags": [
-    "Technology"
-   ],
-   "screenshot_file": "00bbb22a1d815b6d50f6.jpg"
   },
   {
    "url": "https://randsinrepose.com",
