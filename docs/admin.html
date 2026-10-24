@@ -8,9 +8,10 @@
 .adm .dirty{background:#c6ff3d14}.adm .pill{font-size:.75rem;opacity:.75}.adm tr.dead td{opacity:.5}
 </style></head><body><main class="adm">
 <h1>Control room</h1>
-<section id="login"><p class="muted">Only the owner of the GitHub project can open this. Paste a GitHub access token that can edit <b>Cambric-software/web-explorer</b>. It stays in this browser tab only and is forgotten when you close it.</p>
-<form id="login-form" class="row"><input id="token" type="password" placeholder="github_pat_…" required autocomplete="off" style="flex:1"><button type="submit">Unlock →</button></form>
-<p class="muted">Make one at github.com → Settings → Developer settings → Fine-grained tokens → only this repository → Contents: read &amp; write, Actions: read &amp; write.</p><p id="login-msg" role="status"></p></section>
+<section id="login"><p class="muted">Private area. Enter the control room password.</p>
+<form id="login-form" class="row"><input id="pass" type="password" placeholder="Password" required autocomplete="current-password" style="flex:1"><button type="submit">Unlock →</button></form>
+<details id="setup" hidden><summary>First-time setup: lock a GitHub key behind the password</summary><p class="muted">Paste a GitHub key that can edit Cambric-software/web-explorer (Contents and Actions: read &amp; write). It is scrambled with your password before it is saved, so it only works after the password is typed.</p><form id="setup-form" class="row"><input id="token" type="password" placeholder="github_pat_…" autocomplete="off" required style="flex:1"><button type="submit">Lock key &amp; save</button></form></details>
+<p id="login-msg" role="status"></p></section>
 <section id="panel" hidden>
 <p id="who" class="muted"></p><div id="kpis" class="kpis"></div>
 <div class="row"><button id="run">▶ Run the robot now</button><button id="save" disabled>✓ Save changes (0)</button><button id="wipe">🗑 Delete all websites</button><button id="logout">Lock</button></div>

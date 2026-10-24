@@ -1,0 +1,120 @@
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+
+Website Explorer
+Copyright (c) 2026 Cambric Software. All rights reserved.
+
+NOTICE: This software and its source code, design, architecture, algorithms,
+documentation, assets, and all associated materials (collectively, the
+"Software") are the exclusive property of Cambric Software ("Cambric"). This
+Software is NOT open source and is NOT licensed under any open-source license.
+
+NOTICE: The source code is published so that anyone can inspect what the
+Software does. Publication does not make it open source, and it grants no
+rights beyond those in Section 2.
+
+1. OWNERSHIP
+
+All right, title, and interest in the Software, including all intellectual
+property rights, are and remain solely and exclusively owned by Cambric. This
+includes the website, the discovery robot, the verification and
+categorization rules, and the compiled website database.
+
+2. GRANT OF RIGHTS
+
+  (a) Personal and internal use. Cambric grants you a non-exclusive,
+      non-transferable, revocable licence to use the hosted Website Explorer
+      service and to run the Software on devices you control for personal,
+      educational, or internal business purposes. No fee is required for this
+      licence.
+
+  (b) Client deliverables. Where Cambric delivers this Software to a client as
+      part of a paid engagement, that client receives a non-exclusive,
+      non-transferable, revocable licence to use the delivered application for
+      its own internal business purposes, subject to the engagement agreement
+      between Cambric and that client. All ownership is retained by Cambric.
+      Shared libraries, tooling, and reusable components remain the property
+      of Cambric and are not licensed to the client except as part of the
+      delivered application.
+
+  (c) No other rights. No right is granted by implication, estoppel, or
+      otherwise. In particular, reading the source code does not grant a
+      licence to reuse it.
+
+3. RESTRICTIONS
+
+Except as expressly permitted by this agreement or by a written agreement
+signed by Cambric, you may not:
+
+  (a) copy, reproduce, or republish the Software or its website database for
+      distribution to anyone else;
+  (b) modify, adapt, translate, or create derivative works of the Software;
+  (c) reverse engineer, decompile, disassemble, or otherwise attempt to derive
+      the source code, structure, or design of the Software, except to the
+      extent such restriction is prohibited by applicable law;
+  (d) distribute, sublicense, lease, rent, sell, or otherwise transfer the
+      Software;
+  (e) remove, alter, or obscure any proprietary notice, label, or mark;
+  (f) use the Software or its database to build or train any competing
+      product or service;
+  (g) attempt to access, bypass, or brute-force the administration area, or
+      remove or circumvent any access control or usage limit.
+
+4. SOURCE AVAILABILITY
+
+The source code is publicly readable. That visibility is for inspection,
+security review, and education. It does not grant a licence to reuse, modify,
+redistribute, or incorporate any part of it beyond the grant in Section 2.
+Non-public materials — credentials, unreleased plans, customer information, and
+private communications — remain confidential and must not be disclosed.
+
+5. YOUR DATA AND THIRD-PARTY SERVICES
+
+  (a) Votes, favorites, lists, history, and settings you create are stored in
+      your own browser. Cambric does not receive them.
+
+  (b) The Software has no account system, no analytics, and no telemetry.
+
+  (c) The Software is hosted on GitHub Pages and its robot runs on GitHub
+      Actions. Website previews are loaded from WordPress mShots and archive
+      years from the Internet Archive. Those services' own privacy terms apply
+      to requests made to them.
+
+  (d) Links in the Software lead to third-party websites. Cambric does not
+      own, control, or endorse those websites or their content.
+
+6. DISCOVERY RESULTS
+
+The Software reports what its automated checks observe; it does not guarantee
+an outcome. A website marked as working was reachable when last checked, not
+necessarily now. Categories, names, and descriptions are chosen automatically
+and may be wrong. A passed safety check means no warning sign was found, not
+that a website is safe. Use your own judgement before visiting or trusting any
+website.
+
+7. TERMINATION
+
+Any unauthorized use, copying, or distribution terminates your rights
+automatically. Upon termination you must immediately cease all use and destroy
+all copies in your possession or control.
+
+8. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+9. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL CAMBRIC BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+10. GOVERNING LAW
+
+This agreement is governed by the laws applicable at Cambric's principal place
+of business, without regard to conflict-of-law provisions.
+
+Where mandatory consumer-protection law grants the user rights that cannot be
+waived, those rights prevail over any conflicting term above.
+
+For licensing enquiries contact Cambric Software.
