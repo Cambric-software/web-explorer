@@ -1,7 +1,7 @@
 {
- "total": 577,
+ "total": 630,
  "dead": 1,
- "runs": 13,
+ "runs": 14,
  "history": [
   {
    "date": "2026-10-22",
@@ -67,9 +67,33 @@
    "date": "2026-10-25",
    "added": 40,
    "total": 577
+  },
+  {
+   "date": "2026-10-25",
+   "added": 53,
+   "total": 630
   }
  ],
  "runs_log": [
+  {
+   "started": "2026-10-25T17:58:21Z",
+   "rejected": {
+    "too little content": 15,
+    "unreachable": 11,
+    "unsafe": 1
+   },
+   "duplicates_removed": 0,
+   "sources": {
+    "hacker news": 84,
+    "lobsters": 9,
+    "wiby": 1
+   },
+   "candidates": 80,
+   "added": 53,
+   "rechecked": 60,
+   "newly_dead": 0,
+   "archive_years": 14
+  },
   {
    "started": "2026-10-25T13:26:55Z",
    "rejected": {
@@ -330,22 +354,22 @@
    "archive_years": 5
   }
  ],
- "last_run": "2026-10-25T13:26:55Z",
- "found_last_run": 40,
+ "last_run": "2026-10-25T17:58:21Z",
+ "found_last_run": 53,
  "beta": true,
  "candidates_checked": 80,
  "categories": {
-  "Developer": 103,
-  "Technology": 143,
-  "Tools": 49,
-  "Personal": 73,
-  "Education": 37,
-  "Random": 41,
-  "Business": 42,
-  "Art": 13,
-  "Communities": 17,
+  "Developer": 117,
+  "Technology": 152,
+  "Tools": 52,
+  "Personal": 82,
+  "Education": 41,
+  "Random": 44,
+  "Business": 47,
+  "Art": 15,
+  "Communities": 19,
   "Games": 25,
-  "Science": 31,
+  "Science": 33,
   "Retro": 3
  },
  "bot_version": 2
