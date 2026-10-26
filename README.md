@@ -74,6 +74,11 @@ Built by **Cambric Software & Hardware Studios**. Founder: Asser Karim.
 - A graveyard of websites that stopped working.
 - **Stumble Bar**: preview a website inside the page with Next, Gem, and
   Save buttons. Websites that refuse previews open in a new tab.
+- **Time Warp** slider (1994–2026): restyles the site like the web of that era
+  (Web 1.0, Y2K, Web 2.0) and shows only websites that already existed then.
+- **Vibe Journeys**: themed trails of 8 websites (Small Web Wander, Maker's
+  Bench, Curious Minds, Play & Make, Time Capsule, Fresh Off the Robot,
+  Wildcard) walked one stop at a time in the Stumble Bar. New trails weekly.
 
 **Keeping**
 - Votes: 👍 Like +1, ❤️ Hidden Gem +3, 👎 Dislike −1, ⭐ Favorite +5.

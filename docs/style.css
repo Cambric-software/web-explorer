@@ -34,3 +34,19 @@ button.ghost{background:transparent;border:1px solid currentColor;margin-left:.6
 #sb-frame{flex:1;width:100%;border:0;background:var(--fg)}
 .sb-blocked{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;text-align:center;padding:5vw}
 .sb-blocked .big{text-decoration:none}
+
+/* Time Warp */
+.warp{max-width:520px;margin:4px 0 22px}.warp label b{color:var(--acc);font-family:"Space Grotesk",sans-serif;margin-left:6px}
+.warp input[type=range]{accent-color:var(--acc);padding:0;margin:8px 0;border:0;background:none}
+html.era-90s{--bg:#c0c0c0;--fg:#000;--muted:#333;--acc:#0000ee;--card:#fff;--line:#808080;--radius:0}
+html.era-90s body{font-family:"Times New Roman",Times,serif}html.era-90s h1,html.era-90s h2,html.era-90s h3,html.era-90s .logo,html.era-90s .big{font-family:"Times New Roman",Times,serif}
+html.era-90s button,html.era-90s .btn,html.era-90s .big{border:2px outset #dfdfdf;background:#c0c0c0;color:#000}html.era-90s a{color:#0000ee}html.era-90s .tag{border-color:#000;color:#000}
+html.era-y2k{--bg:#001a33;--fg:#cfe8ff;--muted:#7fa8cc;--acc:#00ccff;--card:#00264d;--line:#0059b3;--radius:4px}
+html.era-y2k body,html.era-y2k h1,html.era-y2k h2,html.era-y2k h3,html.era-y2k .logo,html.era-y2k .big{font-family:Verdana,Tahoma,sans-serif}
+html.era-y2k .big{background:linear-gradient(#66e0ff,#0099cc);color:#001a33}
+html.era-web2{--bg:#eef3f8;--fg:#1f2a36;--muted:#5b6b7c;--acc:#2f7fe0;--card:#fff;--line:#cdd8e3;--radius:12px}
+html.era-web2 body,html.era-web2 h1,html.era-web2 h2,html.era-web2 h3,html.era-web2 .logo{font-family:"Lucida Grande","Helvetica Neue",Arial,sans-serif}
+html.era-web2 .big,html.era-web2 .sb-next{background:linear-gradient(#7db8ff,#2f7fe0);color:#fff;border-radius:12px;box-shadow:inset 0 1px 0 #ffffff88,0 2px 6px #0003}
+/* Vibe Journeys */
+.trail .stops{margin:10px 0 14px;padding-left:20px;font-size:.85rem;line-height:1.5}.trail .stops li.done{color:var(--acc)}.trail .stops li.done::marker{content:"✓ "}
+.trail progress{margin-bottom:12px}
