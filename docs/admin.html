@@ -2,10 +2,24 @@
 <title>Control room — Website Explorer</title><meta name="robots" content="noindex,nofollow"><meta name="description" content="Private control room.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="style.css"><link rel="icon" href="icon.png">
 <style>
-.adm{max-width:1100px;margin:0 auto;padding:1.5rem}.adm table{width:100%;border-collapse:collapse;font-size:.9rem}.adm td,.adm th{padding:.45rem;border-bottom:1px solid #2a2c25;text-align:left;vertical-align:top}
+.adm{max-width:1200px;margin:0 auto;padding:1.5rem}
 .adm input,.adm select,.adm textarea{width:100%;box-sizing:border-box}.adm .row{display:flex;gap:.6rem;flex-wrap:wrap;align-items:center;margin:.8rem 0}
-.adm .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:.8rem}.adm .kpis div{border:1px solid #2a2c25;border-radius:12px;padding:.8rem}.adm .kpis b{display:block;font:700 1.6rem "Space Grotesk"}
-.adm .dirty{background:#c6ff3d14}.adm .pill{font-size:.75rem;opacity:.75}.adm tr.dead td{opacity:.5}
+.adm .row>input,.adm .row>select{flex:1;min-width:140px}
+.adm .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:.8rem}.adm .kpis div{border:1px solid #2a2c25;border-radius:12px;padding:.8rem}.adm .kpis b{display:block;font:700 1.6rem "Space Grotesk"}
+.adm .pill{font-size:.75rem;opacity:.75}
+.queue{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:1rem}
+.mod{position:relative;border:1px solid #2a2c25;border-radius:14px;overflow:hidden;background:#15160f;display:flex;flex-direction:column}
+.mod.verified{border-color:#c6ff3d66}.mod.flagged{border-color:#ff6b5c99}.mod.sel{outline:2px solid #c6ff3d}.mod.dead{opacity:.5}
+.mod .pick{position:absolute;top:.5rem;left:.5rem;z-index:2;background:#0e0f0ccc;border-radius:8px;padding:.3rem}.mod .pick input{width:1.1rem;height:1.1rem;accent-color:#c6ff3d}
+.mod .shot{display:block;aspect-ratio:16/9;background:#0e0f0c;position:relative;color:#ecead8;text-decoration:none}
+.mod .shot img{width:100%;height:100%;object-fit:cover;object-position:top;display:block}
+.mod .shot span{position:absolute;left:0;right:0;bottom:0;padding:.4rem .6rem;font-size:.8rem;background:linear-gradient(transparent,#0e0f0cee)}
+.mod .fields{padding:.7rem;display:flex;flex-direction:column;gap:.45rem}.mod .fields input{font:600 1rem "Space Grotesk"}
+.mod .line{display:flex;gap:.4rem;flex-wrap:wrap;align-items:center}.mod .line select{flex:1}
+.mod .flags button{font-size:.8rem;padding:6px 9px}.mod .flags button.on{background:#c6ff3d;color:#0e0f0c;border-color:#c6ff3d}
+.mod.flagged .flags button.on[data-rev=flagged]{background:#ff6b5c;border-color:#ff6b5c}
+.danger{border-color:#ff6b5c66!important}
+#batch{position:sticky;top:0;z-index:5;background:#0e0f0cf2;border:1px solid #c6ff3d;border-radius:12px;padding:.6rem}
 </style></head><body><main class="adm">
 <h1>Control room</h1>
 <section id="login"><p class="muted">Private area. Enter the control room password.</p>
@@ -16,8 +30,17 @@
 <p id="who" class="muted"></p><div id="kpis" class="kpis"></div>
 <div class="row"><button id="run">▶ Run the robot now</button><button id="save" disabled>✓ Save changes (0)</button><button id="wipe">🗑 Delete all websites</button><button id="logout">Lock</button></div>
 <p id="msg" role="status" class="muted"></p>
-<h2>Recent robot runs</h2><div id="runs" class="muted"></div>
-<h2>Add a website by hand</h2><form id="add" class="row"><input id="add-url" type="url" placeholder="https://…" required style="flex:2"><input id="add-title" placeholder="Name" style="flex:1"><select id="add-cat" style="flex:1"></select><button type="submit">＋ Add</button></form>
-<h2>Websites</h2><div class="row"><input id="filter" type="search" placeholder="Search name or address" style="flex:2"><select id="fcat" style="flex:1"><option value="">All categories</option></select><select id="fstatus" style="flex:1"><option value="">Any status</option><option>ok</option><option>warn</option><option>dead</option></select></div>
-<p id="count" class="muted"></p><table><thead><tr><th>Website</th><th>Name &amp; description</th><th>Category</th><th></th></tr></thead><tbody id="rows"></tbody></table>
+<details><summary>Recent robot runs</summary><div id="runs" class="muted"></div></details>
+<details><summary>Add a website by hand</summary><form id="add" class="row"><input id="add-url" type="url" placeholder="https://…" required style="flex:2"><input id="add-title" placeholder="Name"><select id="add-cat"></select><button type="submit">＋ Add</button></form></details>
+<h2>Moderation queue</h2>
+<div class="row"><input id="filter" type="search" placeholder="Search name, address or description" style="flex:2">
+<select id="freview"><option value="unreviewed">Unreviewed</option><option value="verified">Verified safe</option><option value="flagged">Flagged</option><option value="locked">Hand-checked 🔒</option><option value="">Everything</option></select>
+<select id="fcat"><option value="">All categories</option></select>
+<select id="fstatus"><option value="">Any status</option><option>ok</option><option>warn</option><option>dead</option></select>
+<select id="fsort"><option value="new">Newest first</option><option value="unsure">Least sure category first</option><option value="old">Oldest first</option></select>
+<label class="check"><input type="checkbox" id="funsure" style="width:auto"> Unsure category only</label></div>
+<div class="row"><p id="count" class="muted" style="margin:0;flex:1"></p><button id="pickall">Select all shown</button></div>
+<div id="batch" class="row" hidden><b id="bcount"></b><button data-b="verified">✓ Approve</button><button data-b="flagged">⚑ Flag</button><button data-b="unreviewed">Back to unreviewed</button><button data-b="lock">🔒 Lock</button><button data-b="unlock">🔓 Unlock</button><button data-b="del" class="danger">Delete</button><button data-b="none">Clear selection</button></div>
+<div id="rows" class="queue"></div><div class="row"><button id="more" hidden>Show more ↓</button></div>
+<p class="muted">Every change you make marks a website as hand-checked 🔒 — the robot will never change its name, description, category, flag or status again. Flagged websites are hidden from visitors.</p>
 </section></main><script src="admin.js"></script></body></html>

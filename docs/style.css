@@ -22,3 +22,15 @@ footer{padding:20px 5vw;border-top:1px solid var(--line);color:var(--muted);font
 #card.pop{animation:pop .35s ease}@keyframes pop{from{opacity:0;transform:translateY(12px) scale(.98)}to{opacity:1;transform:none}}
 button.ghost{background:transparent;border:1px solid currentColor;margin-left:.6rem}#chips small{opacity:.6;font-size:.75em}
 @media (prefers-reduced-motion:reduce){#card.pop{animation:none}}
+
+/* Stumble Bar */
+.stumble{position:fixed;inset:0;z-index:50;background:var(--bg);display:flex;flex-direction:column}
+.stumble[hidden]{display:none}body.stumbling{overflow:hidden}
+.sb-bar{display:flex;align-items:center;gap:10px;padding:10px 14px;border-bottom:1px solid var(--line);background:var(--card);flex-wrap:wrap}
+.sb-info{flex:1;min-width:160px;display:flex;flex-direction:column;line-height:1.2}.sb-info b{font-family:"Space Grotesk",sans-serif}.sb-info span{color:var(--muted);font-size:.85rem}
+.sb-acts{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.sb-next{font-family:"Space Grotesk",sans-serif;font-weight:700;background:var(--acc);color:var(--bg);border-color:var(--acc)}
+#sb-gem.on,#sb-save.on{border-color:var(--acc);color:var(--acc)}
+#sb-frame{flex:1;width:100%;border:0;background:var(--fg)}
+.sb-blocked{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;text-align:center;padding:5vw}
+.sb-blocked .big{text-decoration:none}

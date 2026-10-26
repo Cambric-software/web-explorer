@@ -50,11 +50,11 @@ Built by **Cambric Software & Hardware Studios**. Founder: Asser Karim.
 | Part | Where | State |
 |---|---|---|
 | Website | `docs/` | Live on GitHub Pages |
-| Discovery robot (v2) | `engine/crawl.py` | Runs every 3 hours and on demand |
+| Discovery robot (v3) | `engine/crawl.py` | Runs every hour and on demand |
 | Previews | `engine/screenshots.py` | Caches a picture of each website |
 | Search-engine pages, RSS | `engine/publish.py` | Rebuilt on every run |
 | Tests | `tests/` | Python unit tests for the robot's rules |
-| Database | `docs/data/sites.json` | Reset on 2026-10-22; refilled by robot v2 |
+| Database | `docs/data/sites.json` | Reset on 2026-10-26; refilled by robot v3 |
 
 ## Features
 
@@ -72,6 +72,8 @@ Built by **Cambric Software & Hardware Studios**. Founder: Asser Karim.
   counts), language, and era; sort by newest, A–Z, or oldest archived.
 - A real preview picture and an "online since" year from the Internet Archive.
 - A graveyard of websites that stopped working.
+- **Stumble Bar**: preview a website inside the page with Next, Gem, and
+  Save buttons. Websites that refuse previews open in a new tab.
 
 **Keeping**
 - Votes: 👍 Like +1, ❤️ Hidden Gem +3, 👎 Dislike −1, ⭐ Favorite +5.
@@ -87,25 +89,37 @@ Built by **Cambric Software & Hardware Studios**. Founder: Asser Karim.
 ## The discovery robot
 
 Defined in [`.github/workflows/discover.yml`](.github/workflows/discover.yml).
-It runs every 3 hours, when started by hand from the Actions tab or the control
-room, and when a submission is labelled. Each run does four jobs:
+It runs every hour, when started by hand from the Actions tab or the control
+room, and when a submission is labelled. The repository is public, so GitHub
+Actions minutes are free. Each run does six jobs:
 
 1. **Clean** — merges duplicates. One website per domain, whatever the
-   `http`/`https`, `www`, or page path.
+   `http`/`https`, `www`/`m.`, port, page path, or tracking tags. Two domains
+   with the same name and description count as one website.
 2. **Discover** — gathers candidates from Hacker News, Lobsters, Wiby's random
-   small-web sites, Bear Blog, links on websites already known, and visitor
-   submissions (GitHub issues labelled `submit`). It checks 80 candidates per
-   run during the 10-day beta and 50 after.
-3. **Recheck** — revisits the 60 oldest-checked websites, refreshes their
-   details, and moves a website to the graveyard after 3 failed checks in a row.
-4. **Archive** — looks up the first Internet Archive year for up to 15 websites.
+   small-web sites, Bear Blog, and visitor submissions (GitHub issues labelled
+   `submit`). It checks 100 candidates per run during the 10-day beta and 60
+   after.
+3. **Deep crawl** — visits 25 known websites and their link pages, blogrolls,
+   and webrings to find more of the independent web.
+4. **Recheck** — revisits every website not checked in 30 days (then the
+   oldest), up to 80 per run, and moves a website to the graveyard after 3
+   failed checks in a row.
+5. **Safety** — compares every website with the free URLhaus malware list and
+   re-scans pages for unsafe content. Problem websites are flagged and hidden.
+6. **Archive** — looks up the first Internet Archive year for up to 40
+   websites per run.
+
+Websites edited in the control room are **hand-checked**: the robot never
+changes their name, description, category, flag, or status.
 
 Every run is logged in `docs/data/stats.json`: candidates per source, reasons
 for rejection, websites added, and websites that stopped working.
 
 **Names and descriptions.** The robot decodes symbols, removes filler such as
-"Home |" or a bare domain, prefers the site's own name, and falls back to the
-first real paragraph when a page has no description.
+"Home |", "Welcome to", platform names (Substack, WordPress…) or a bare
+domain, prefers the site's own name, skips cookie banners and keyword lists,
+and shortens long text at the end of a sentence.
 
 ## Verification checks
 
@@ -123,11 +137,13 @@ A candidate is stored only if it passes all of these:
 
 ## Categories
 
-Art, Business, Communities, Developer, Education, Games, Personal, Retro,
-Science, Technology, Tools, and Random.
+Art, Business, Communities, Developer, Education, Games, News, Personal,
+Retro, Science, Technology, Tools, and Random.
 
 The robot reads only what a visitor sees: the title, the description,
-headings, and visible text, never code or scripts. The title counts most,
+headings, and visible text, never code, scripts, menus, or footers. Words with
+more than one meaning ("api", "code", "ai") count only in the name,
+description, and headings. The title counts most,
 then the description, then headings, then body text. Some addresses add a hint
 (`.edu` → Education, `neocities.org` → Retro, `itch.io` → Games). When no
 category clearly wins, the website goes to **Random** rather than a wrong
@@ -144,9 +160,17 @@ the logo five times quickly or typing `cambric` on the site.
   encrypted with the password (PBKDF2, 600,000 rounds, AES-256-GCM) and saved
   as `docs/data/admin-key.json`. After that only the password is needed, on any
   device.
-- Edit any website's name, description, or category; hide, revive, delete, or
-  add websites; start the robot; view recent runs; delete every website.
+- **Moderation queue.** Every website appears as a card with its preview
+  picture and an editable name, description, and category. Each one is
+  *Unreviewed*, *Verified safe*, or *Flagged* (hidden from visitors).
+- **Batch actions.** Select many cards and approve, flag, lock, unlock, or
+  delete them at once. Filter by review state, category, status, or unsure
+  category.
+- Retire, revive, delete, or add websites; start the robot; view recent runs;
+  delete every website.
 - Websites edited by hand are marked 🔒 and the robot will not overwrite them.
+  Saving replays only your changes on top of the newest database, so websites
+  the robot found in the meantime are kept.
 
 ## Repository layout
 

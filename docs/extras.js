@@ -16,8 +16,8 @@
     b.onclick=()=>{const opts=[...$('#cat').options].slice(1);if(!opts.length)return;const o=opts[Math.floor(Math.random()*opts.length)];$('#cat').value=o.value;$('#cat').dispatchEvent(new Event('change'));go.click()};
     go.after(b);document.addEventListener('keydown',e=>{if((e.key==='r'||e.key==='R')&&!e.target.closest('input,textarea,select')&&!e.ctrlKey&&!e.metaKey)b.click()})}
   // Category counts on browse chips + empty-state message
-  fetch('data/sites.json').then(r=>r.json()).then(d=>{const alive=d.sites.filter(s=>s.status!=='dead');const n={};alive.forEach(s=>n[s.category]=(n[s.category]||0)+1);
+  fetch('data/sites.json').then(r=>r.json()).then(d=>{const alive=d.sites.filter(s=>s.status!=='dead'&&s.review!=='flagged');const n={};alive.forEach(s=>n[s.category]=(n[s.category]||0)+1);
     const paint=()=>document.querySelectorAll('#chips [data-c]').forEach(b=>{if(b.dataset.counted)return;b.dataset.counted=1;b.insertAdjacentHTML('beforeend',` <small>${b.dataset.c?n[b.dataset.c]||0:alive.length}</small>`)});
     paint();new MutationObserver(paint).observe($('#chips'),{childList:true});
-    if(!alive.length){$('#card').innerHTML='<p class="muted">🤖 The robot is rebuilding the collection from scratch. Fresh, correctly sorted websites arrive every 3 hours — check back soon!</p>';$('#go').disabled=true}}).catch(()=>{});
+    if(!alive.length){$('#card').innerHTML='<p class="muted">🤖 The robot is rebuilding the collection from scratch. Fresh, correctly sorted websites arrive every hour — check back soon!</p>';$('#go').disabled=true;$('#stumble-go').disabled=true}}).catch(()=>{});
 })();
