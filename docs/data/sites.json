@@ -1055,31 +1055,6 @@
    "screenshot_file": "93f4ac462ceb0e5b893c.jpg"
   },
   {
-   "url": "https://ericekholm.com",
-   "source": "hacker news",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-10-26",
-   "checked": "2026-10-26",
-   "fails": 0,
-   "aliases": [
-    "ericekholm.com"
-   ],
-   "lang": "en",
-   "load_time": 0.43,
-   "https": true,
-   "words": 46,
-   "embed": true,
-   "safety_checked": "2026-10-26",
-   "title": "Eric Ekholm",
-   "description": "",
-   "category": "Random",
-   "confidence": 0,
-   "tags": [],
-   "fingerprint": "",
-   "screenshot_file": "81d210ae0b0b6b36dd57.jpg"
-  },
-  {
    "url": "https://brown.edu",
    "source": "hacker news",
    "status": "ok",
@@ -1676,31 +1651,6 @@
    "tags": [],
    "fingerprint": "usenixusenixisanonprofitorganizationdedicatedtosupportingtheadvancedcomputi",
    "screenshot_file": "46216e6de9cf4f048781.jpg"
-  },
-  {
-   "url": "https://dfarq.homeip.net",
-   "source": "hacker news",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-10-26",
-   "checked": "2026-10-26",
-   "fails": 0,
-   "aliases": [
-    "dfarq.homeip.net"
-   ],
-   "lang": "?",
-   "load_time": 0.27,
-   "https": true,
-   "words": 2743,
-   "embed": false,
-   "safety_checked": "2026-10-26",
-   "title": "Dfarq",
-   "description": "",
-   "category": "Random",
-   "confidence": 0,
-   "tags": [],
-   "fingerprint": "",
-   "screenshot_file": "d64f88c499604a88895d.jpg"
   },
   {
    "url": "https://tomte.run",
