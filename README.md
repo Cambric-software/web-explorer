@@ -79,6 +79,12 @@ Built by **Cambric Software & Hardware Studios**. Founder: Asser Karim.
 - **Vibe Journeys**: themed trails of 8 websites (Small Web Wander, Maker's
   Bench, Curious Minds, Play & Make, Time Capsule, Fresh Off the Robot,
   Wildcard) walked one stop at a time in the Stumble Bar. New trails weekly.
+- **Galaxy map**: every website is a star, grouped into constellations by
+  category. Drag, zoom, and click a star to visit it.
+- **Hall of Fame · Top 25**: a personal ranking from your own votes, and a
+  global ranking. Visitors share their votes with one click (a pre-filled
+  GitHub issue titled `Votes: …`); the robot counts one vote set per GitHub
+  account every hour into `docs/data/votes.json`.
 
 **Keeping**
 - Votes: 👍 Like +1, ❤️ Hidden Gem +3, 👎 Dislike −1, ⭐ Favorite +5.

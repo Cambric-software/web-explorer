@@ -3,7 +3,7 @@ name: Discovery engine
 on:
   schedule: [{cron: "17 * * * *"}]
   workflow_dispatch:
-  issues: {types: [labeled]}
+  issues: {types: [labeled, opened]}
 permissions: {contents: write, issues: read}
 concurrency: {group: website-discovery, cancel-in-progress: false}
 jobs:
@@ -16,6 +16,8 @@ jobs:
         with: {python-version: "3.12"}
       - run: python -m unittest discover -s tests
       - run: python engine/crawl.py
+        env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}
+      - run: python engine/votes.py
         env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}
       - run: python engine/screenshots.py
       - run: python engine/publish.py

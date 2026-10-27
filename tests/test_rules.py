@@ -72,4 +72,16 @@ class Robot(unittest.TestCase):
         self.assertFalse(crawl.embeddable({"Content-Security-Policy": "frame-ancestors 'self'"}))
         self.assertTrue(crawl.embeddable({}))
 
+import votes
+class HallOfFame(unittest.TestCase):
+    def test_each_account_counts_once_newest_wins(self):
+        known = {"https://a.com": "https://a.com"}
+        issues = [{"title": "Votes: x", "user": {"login": "u"}, "created_at": "1", "body": "+3 https://a.com"},
+                  {"title": "Votes: x", "user": {"login": "u"}, "created_at": "2", "body": "+1 https://a.com"},
+                  {"title": "Votes: x", "user": {"login": "v"}, "created_at": "3", "body": "+5 https://www.a.com/"}]
+        score, voters = votes.tally(issues, known)
+        self.assertEqual((score["https://a.com"]["score"], voters), (6, 2))
+    def test_made_up_vote_values_ignored(self):
+        self.assertEqual(votes.parse("+100 https://a.com"), {})
+
 if __name__ == "__main__": unittest.main()
