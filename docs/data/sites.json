@@ -13,7 +13,7 @@
     "unusualwhales.com"
    ],
    "lang": "en",
-   "load_time": 0.17,
+   "load_time": 0.22,
    "https": true,
    "words": 622,
    "embed": true,
@@ -40,7 +40,7 @@
     "spreadprivacy.com"
    ],
    "lang": "en",
-   "load_time": 0.27,
+   "load_time": 0.23,
    "https": true,
    "words": 1120,
    "embed": true,
@@ -69,7 +69,7 @@
     "uipalooza.ai"
    ],
    "lang": "en",
-   "load_time": 0.35,
+   "load_time": 0.18,
    "https": true,
    "words": 595,
    "embed": false,
@@ -96,7 +96,7 @@
     "opensourcealternatives.to"
    ],
    "lang": "en",
-   "load_time": 0.84,
+   "load_time": 0.39,
    "https": true,
    "words": 2507,
    "embed": true,
@@ -123,15 +123,15 @@
     "unite.ai"
    ],
    "lang": "en",
-   "load_time": 0.19,
+   "load_time": 0.14,
    "https": true,
-   "words": 2530,
+   "words": 2515,
    "embed": true,
    "safety_checked": "2026-10-27",
    "title": "Artificial Intelligence News, Research & Analysis",
    "description": "Artificial intelligence news, research, interviews, funding updates, AI tools, machine learning, robotics, cybersecurity, healthcare AI, and emerging technology analysis.",
    "category": "Technology",
-   "confidence": 0.83,
+   "confidence": 0.84,
    "tags": [],
    "fingerprint": "artificialintelligencenewsresearchanalysisartificialintelligencenewsresearchinterviewsfundingupdatesaitoolsm",
    "archive_checked": "2026-10-26",
@@ -150,7 +150,7 @@
     "iroomdesign.com"
    ],
    "lang": "en",
-   "load_time": 0.97,
+   "load_time": 0.63,
    "https": true,
    "words": 803,
    "embed": true,
@@ -180,7 +180,7 @@
     "littlefungames.com"
    ],
    "lang": "en",
-   "load_time": 0.33,
+   "load_time": 0.28,
    "https": true,
    "words": 1608,
    "embed": true,
@@ -207,7 +207,7 @@
     "howthemirrorfixesus.com"
    ],
    "lang": "en",
-   "load_time": 0.15,
+   "load_time": 0.2,
    "https": true,
    "words": 2894,
    "embed": false,
@@ -233,7 +233,7 @@
     "asoclimb.com"
    ],
    "lang": "en",
-   "load_time": 0.37,
+   "load_time": 0.12,
    "https": true,
    "words": 674,
    "embed": false,
@@ -263,7 +263,7 @@
     "proc-cli.com"
    ],
    "lang": "en",
-   "load_time": 0.09,
+   "load_time": 0.1,
    "https": true,
    "words": 397,
    "embed": true,
@@ -290,7 +290,7 @@
     "imaginationlibrary.com"
    ],
    "lang": "en",
-   "load_time": 0.12,
+   "load_time": 0.26,
    "https": true,
    "words": 541,
    "embed": true,
@@ -319,15 +319,15 @@
     "theverge.com"
    ],
    "lang": "en",
-   "load_time": 0.19,
+   "load_time": 0.39,
    "https": true,
-   "words": 2437,
+   "words": 2408,
    "embed": false,
    "safety_checked": "2026-10-27",
    "title": "The Verge",
    "description": "The Verge is about technology and how it makes us feel. Founded in 2011, we offer our audience everything from breaking news to reviews to award-winning features and investigations, on our site, in…",
    "category": "Technology",
-   "confidence": 0.52,
+   "confidence": 0.54,
    "tags": [
     "News"
    ],
@@ -348,7 +348,7 @@
     "dbreunig.com"
    ],
    "lang": "en",
-   "load_time": 0.31,
+   "load_time": 0.24,
    "https": true,
    "words": 293,
    "embed": true,
@@ -375,7 +375,7 @@
     "freedom.press"
    ],
    "lang": "en",
-   "load_time": 0.24,
+   "load_time": 0.17,
    "https": true,
    "words": 409,
    "embed": false,
@@ -403,7 +403,7 @@
     "wails.io"
    ],
    "lang": "en",
-   "load_time": 0.26,
+   "load_time": 0.34,
    "https": true,
    "words": 534,
    "embed": false,
@@ -430,7 +430,7 @@
     "weinholt.se"
    ],
    "lang": "en",
-   "load_time": 0.49,
+   "load_time": 0.45,
    "https": true,
    "words": 187,
    "embed": true,
@@ -457,17 +457,17 @@
     "healthviewer.net"
    ],
    "lang": "en",
-   "load_time": 0.21,
+   "load_time": 0.16,
    "https": true,
-   "words": 891,
+   "words": 894,
    "embed": true,
    "safety_checked": "2026-10-27",
    "title": "HealthViewer",
-   "description": "A private lab results tracker for your desktop. Import lab reports from PDFs or your patient portal, chart every test over time, and keep it all encrypted on your own computer.",
+   "description": "A private blood test and lab results tracker for your desktop. Import lab reports from PDFs or your patient portal, chart every test over time, and keep it all encrypted on your own computer.",
    "category": "Tools",
-   "confidence": 0.86,
+   "confidence": 0.87,
    "tags": [],
-   "fingerprint": "healthvieweraprivatelabresultstrackerforyourdesktopimportlabreportsfrompdfsor",
+   "fingerprint": "healthvieweraprivatebloodtestandlabresultstrackerforyourdesktopimportlabreport",
    "archive_checked": "2026-10-26",
    "first_seen": 2010,
    "screenshot_file": "0aec0d10d9d7b7b5708d.jpg"
@@ -484,7 +484,7 @@
     "dynomight.net"
    ],
    "lang": "en",
-   "load_time": 0.25,
+   "load_time": 0.53,
    "https": true,
    "words": 3027,
    "embed": true,
@@ -513,7 +513,7 @@
     "figshare.com"
    ],
    "lang": "en",
-   "load_time": 2.28,
+   "load_time": 1.9,
    "https": true,
    "words": 307,
    "embed": false,
@@ -540,7 +540,7 @@
     "anthropic.com"
    ],
    "lang": "en",
-   "load_time": 0.27,
+   "load_time": 0.33,
    "https": true,
    "words": 284,
    "embed": false,
@@ -568,7 +568,7 @@
     "dna.hashgrid.ai"
    ],
    "lang": "en",
-   "load_time": 0.41,
+   "load_time": 0.55,
    "https": true,
    "words": 306,
    "embed": true,
@@ -596,7 +596,7 @@
     "font-revival.com"
    ],
    "lang": "en",
-   "load_time": 0.11,
+   "load_time": 0.18,
    "https": true,
    "words": 1642,
    "embed": true,
@@ -622,7 +622,7 @@
     "analoguedesk.co"
    ],
    "lang": "en",
-   "load_time": 0.23,
+   "load_time": 0.47,
    "https": true,
    "words": 163,
    "embed": false,
@@ -676,7 +676,7 @@
     "blog.chocolatey.org"
    ],
    "lang": "en",
-   "load_time": 0.09,
+   "load_time": 0.08,
    "https": true,
    "words": 545,
    "embed": false,
@@ -702,7 +702,7 @@
     "sites.bu.edu"
    ],
    "lang": "en",
-   "load_time": 0.29,
+   "load_time": 0.19,
    "https": true,
    "words": 76,
    "embed": true,
@@ -728,9 +728,9 @@
     "spectrum.ieee.org"
    ],
    "lang": "en",
-   "load_time": 0.13,
+   "load_time": 0.34,
    "https": true,
-   "words": 1110,
+   "words": 1112,
    "embed": false,
    "safety_checked": "2026-10-27",
    "title": "IEEE Spectrum",
@@ -754,7 +754,7 @@
     "estructura.okzgn.com"
    ],
    "lang": "es",
-   "load_time": 0.15,
+   "load_time": 0.28,
    "https": true,
    "words": 422,
    "embed": true,
@@ -780,7 +780,7 @@
     "hallofdreams.org"
    ],
    "lang": "en",
-   "load_time": 0.32,
+   "load_time": 0.34,
    "https": true,
    "words": 462,
    "embed": true,
@@ -808,7 +808,7 @@
     "firmendaten.researchly.at"
    ],
    "lang": "de",
-   "load_time": 1.28,
+   "load_time": 1.33,
    "https": true,
    "words": 481,
    "embed": true,
@@ -834,7 +834,7 @@
     "blog.crossui.com"
    ],
    "lang": "en",
-   "load_time": 0.52,
+   "load_time": 0.55,
    "https": true,
    "words": 3009,
    "embed": true,
@@ -862,7 +862,7 @@
     "frimin.fr"
    ],
    "lang": "en",
-   "load_time": 0.93,
+   "load_time": 0.84,
    "https": true,
    "words": 53,
    "embed": false,
@@ -890,7 +890,7 @@
     "blue-continuum.com"
    ],
    "lang": "en",
-   "load_time": 1.44,
+   "load_time": 1.6,
    "https": true,
    "words": 602,
    "embed": true,
@@ -916,9 +916,9 @@
     "physics.stackexchange.com"
    ],
    "lang": "en",
-   "load_time": 0.23,
+   "load_time": 0.2,
    "https": true,
-   "words": 878,
+   "words": 857,
    "embed": false,
    "safety_checked": "2026-10-27",
    "title": "Physics Stack Exchange",
@@ -942,7 +942,7 @@
     "torchclient.com"
    ],
    "lang": "en",
-   "load_time": 0.18,
+   "load_time": 0.26,
    "https": true,
    "words": 474,
    "embed": true,
@@ -994,7 +994,7 @@
     "wasp.sh"
    ],
    "lang": "en",
-   "load_time": 0.22,
+   "load_time": 0.26,
    "https": true,
    "words": 2646,
    "embed": true,
@@ -1022,7 +1022,7 @@
     "gram-editor.com"
    ],
    "lang": "en",
-   "load_time": 0.51,
+   "load_time": 0.63,
    "https": true,
    "words": 386,
    "embed": true,
@@ -1048,7 +1048,7 @@
     "imageorai.com"
    ],
    "lang": "en",
-   "load_time": 0.19,
+   "load_time": 0.2,
    "https": true,
    "words": 740,
    "embed": true,
@@ -1102,7 +1102,7 @@
     "getrostr.sh"
    ],
    "lang": "en",
-   "load_time": 0.17,
+   "load_time": 0.08,
    "https": true,
    "words": 1413,
    "embed": true,
@@ -1129,9 +1129,9 @@
     "hackaday.com"
    ],
    "lang": "en",
-   "load_time": 0.35,
+   "load_time": 0.11,
    "https": true,
-   "words": 355,
+   "words": 352,
    "embed": true,
    "safety_checked": "2026-10-27",
    "title": "Hackaday",
@@ -1156,7 +1156,7 @@
     "25launches.com"
    ],
    "lang": "en",
-   "load_time": 0.64,
+   "load_time": 0.65,
    "https": true,
    "words": 552,
    "embed": false,
@@ -1183,7 +1183,7 @@
     "geekyants.com"
    ],
    "lang": "en",
-   "load_time": 0.33,
+   "load_time": 0.51,
    "https": true,
    "words": 2137,
    "embed": false,
@@ -1212,7 +1212,7 @@
     "charliegerard.dev"
    ],
    "lang": "en",
-   "load_time": 0.16,
+   "load_time": 0.27,
    "https": true,
    "words": 164,
    "embed": true,
@@ -1241,9 +1241,9 @@
     "frontierlog.ai"
    ],
    "lang": "en",
-   "load_time": 0.16,
+   "load_time": 0.09,
    "https": true,
-   "words": 318,
+   "words": 314,
    "embed": true,
    "safety_checked": "2026-10-27",
    "title": "Frontier Log",
@@ -1268,7 +1268,7 @@
     "shellsprint-dev.pages.dev"
    ],
    "lang": "en",
-   "load_time": 0.14,
+   "load_time": 0.16,
    "https": true,
    "words": 569,
    "embed": true,
@@ -1298,7 +1298,7 @@
     "minilanguage.com"
    ],
    "lang": "?",
-   "load_time": 0.1,
+   "load_time": 0.11,
    "https": true,
    "words": 271,
    "embed": true,
@@ -1325,9 +1325,9 @@
     "morningstar.com"
    ],
    "lang": "en",
-   "load_time": 1.16,
+   "load_time": 0.79,
    "https": true,
-   "words": 1950,
+   "words": 1963,
    "embed": false,
    "safety_checked": "2026-10-27",
    "title": "Morningstar, Inc.",
@@ -1355,7 +1355,7 @@
     "aomedia.org"
    ],
    "lang": "en",
-   "load_time": 0.32,
+   "load_time": 0.17,
    "https": true,
    "words": 212,
    "embed": true,
@@ -1386,7 +1386,7 @@
     "blog.tedivm.com"
    ],
    "lang": "en",
-   "load_time": 0.29,
+   "load_time": 0.28,
    "https": true,
    "words": 659,
    "embed": true,
@@ -1415,7 +1415,7 @@
     "hominidintelligence.org"
    ],
    "lang": "en",
-   "load_time": 1.22,
+   "load_time": 1.2,
    "https": true,
    "words": 629,
    "embed": true,
@@ -1444,7 +1444,7 @@
     "magazine.sebastianraschka.com"
    ],
    "lang": "en",
-   "load_time": 0.11,
+   "load_time": 0.14,
    "https": true,
    "words": 108,
    "embed": false,
@@ -1471,7 +1471,7 @@
     "unix.dog"
    ],
    "lang": "en",
-   "load_time": 0.99,
+   "load_time": 0.78,
    "https": true,
    "words": 429,
    "embed": true,
@@ -1498,17 +1498,17 @@
     "lwn.net"
    ],
    "lang": "en",
-   "load_time": 0.14,
+   "load_time": 0.16,
    "https": true,
-   "words": 2587,
+   "words": 2541,
    "embed": false,
    "safety_checked": "2026-10-27",
    "title": "LWN.net [LWN.net]",
-   "description": "Python's experimental just-in-time (JIT) compiler, which was added to CPython in 2024 for the 3.13 release, is on its way out.",
+   "description": "Alexandre Courbot spends most of his time working on the kernel doing code reviews.",
    "category": "Developer",
-   "confidence": 0.92,
+   "confidence": 0.91,
    "tags": [],
-   "fingerprint": "lwnnetlwnnetpythonsexperimentaljustintimejitcompilerwhichwasaddedtocpythonin",
+   "fingerprint": "lwnnetlwnnetalexandrecourbotspendsmostofhistimeworkingonthekerneldoingcoderevie",
    "screenshot_file": "8235275be4c02c329850.jpg",
    "archive_checked": "2026-10-26",
    "first_seen": 1998
@@ -1525,9 +1525,9 @@
     "hothardware.com"
    ],
    "lang": "en",
-   "load_time": 0.2,
+   "load_time": 0.26,
    "https": true,
-   "words": 1858,
+   "words": 1836,
    "embed": false,
    "safety_checked": "2026-10-27",
    "title": "HotHardware",
@@ -1554,7 +1554,7 @@
     "whisper.tanpreet.xyz"
    ],
    "lang": "en",
-   "load_time": 0.06,
+   "load_time": 0.14,
    "https": true,
    "words": 293,
    "embed": true,
@@ -1581,7 +1581,7 @@
     "pharo.org"
    ],
    "lang": "?",
-   "load_time": 0.4,
+   "load_time": 0.53,
    "https": true,
    "words": 281,
    "embed": true,
@@ -1607,7 +1607,7 @@
     "theopenpresenter.com"
    ],
    "lang": "en",
-   "load_time": 0.81,
+   "load_time": 0.74,
    "https": true,
    "words": 1020,
    "embed": false,
@@ -1636,7 +1636,7 @@
     "apollo.com"
    ],
    "lang": "en",
-   "load_time": 0.23,
+   "load_time": 0.17,
    "https": true,
    "words": 1054,
    "embed": false,
@@ -1662,7 +1662,7 @@
     "blog.veitheller.de"
    ],
    "lang": "en",
-   "load_time": 0.83,
+   "load_time": 0.91,
    "https": true,
    "words": 952,
    "embed": false,
@@ -1688,7 +1688,7 @@
     "usenix.org"
    ],
    "lang": "en",
-   "load_time": 1.08,
+   "load_time": 0.82,
    "https": true,
    "words": 371,
    "embed": false,
@@ -1714,7 +1714,7 @@
     "tomte.run"
    ],
    "lang": "en",
-   "load_time": 0.1,
+   "load_time": 0.35,
    "https": true,
    "words": 582,
    "embed": false,
@@ -1740,7 +1740,7 @@
     "aybabt.me"
    ],
    "lang": "en",
-   "load_time": 0.2,
+   "load_time": 0.15,
    "https": true,
    "words": 127,
    "embed": true,
@@ -1768,7 +1768,7 @@
     "brashandplucky.com"
    ],
    "lang": "en",
-   "load_time": 0.17,
+   "load_time": 0.14,
    "https": true,
    "words": 427,
    "embed": true,
@@ -1794,7 +1794,7 @@
     "blog.jim-nielsen.com"
    ],
    "lang": "en",
-   "load_time": 0.06,
+   "load_time": 0.12,
    "https": true,
    "words": 121,
    "embed": true,
@@ -1820,7 +1820,7 @@
     "bsandro.tech"
    ],
    "lang": "en",
-   "load_time": 0.55,
+   "load_time": 0.48,
    "https": true,
    "words": 185,
    "embed": true,
@@ -1848,7 +1848,7 @@
     "amni-scient.com"
    ],
    "lang": "en",
-   "load_time": 0.17,
+   "load_time": 0.21,
    "https": true,
    "words": 1379,
    "embed": false,
@@ -1878,7 +1878,7 @@
     "brennenputh.me"
    ],
    "lang": "en",
-   "load_time": 0.07,
+   "load_time": 0.08,
    "https": true,
    "words": 215,
    "embed": true,
@@ -1904,7 +1904,7 @@
     "worldsensorium.com"
    ],
    "lang": "en",
-   "load_time": 0.09,
+   "load_time": 0.12,
    "https": true,
    "words": 836,
    "embed": true,
@@ -1932,7 +1932,7 @@
     "griyd.com"
    ],
    "lang": "en",
-   "load_time": 0.54,
+   "load_time": 0.63,
    "https": true,
    "words": 1213,
    "embed": false,
@@ -1960,7 +1960,7 @@
     "docs.docsgpt.cloud"
    ],
    "lang": "en",
-   "load_time": 0.11,
+   "load_time": 0.16,
    "https": true,
    "words": 502,
    "embed": true,
@@ -1989,9 +1989,9 @@
     "muratbuffalo.blogspot.com"
    ],
    "lang": "?",
-   "load_time": 0.22,
+   "load_time": 0.41,
    "https": true,
-   "words": 3067,
+   "words": 3080,
    "embed": true,
    "safety_checked": "2026-10-27",
    "title": "Metadata",
@@ -2015,7 +2015,7 @@
     "militaryaviationmuseum.org"
    ],
    "lang": "en",
-   "load_time": 0.93,
+   "load_time": 1.14,
    "https": true,
    "words": 623,
    "embed": true,
@@ -2043,15 +2043,15 @@
     "petapixel.com"
    ],
    "lang": "en",
-   "load_time": 0.07,
+   "load_time": 0.17,
    "https": true,
-   "words": 3015,
+   "words": 3008,
    "embed": true,
    "safety_checked": "2026-10-27",
    "title": "PetaPixel",
    "description": "PetaPixel is a photography news site that covers photo and camera news, reviews, inspiration, and education.",
    "category": "Art",
-   "confidence": 0.57,
+   "confidence": 0.53,
    "tags": [
     "News"
    ],
@@ -2071,7 +2071,7 @@
     "make0.ai"
    ],
    "lang": "en",
-   "load_time": 1.03,
+   "load_time": 0.98,
    "https": true,
    "words": 77,
    "embed": false,
@@ -2125,17 +2125,18 @@
     "conn3x.org"
    ],
    "lang": "en",
-   "load_time": 0.29,
+   "load_time": 0.31,
    "https": true,
-   "words": 704,
+   "words": 1081,
    "embed": false,
    "safety_checked": "2026-10-27",
    "title": "Conn3x",
    "description": "Conn3x is an open-source tool that creates cloud infrastructure and configures the servers on it, from one binary and one plan.",
-   "category": "Developer",
-   "confidence": 0.5,
+   "category": "Tools",
+   "confidence": 0.53,
    "tags": [
-    "Tools"
+    "Developer",
+    "Technology"
    ],
    "fingerprint": "conn3xconn3xisanopensourcetoolthatcreatescloudinfrastructureandconfigurest",
    "screenshot_file": "e3b0b30eb908cc830544.jpg",
@@ -2145,11 +2146,11 @@
   {
    "url": "https://finance.yahoo.com",
    "source": "hacker news",
-   "status": "ok",
-   "review": "unreviewed",
+   "status": "warn",
+   "review": "flagged",
    "added": "2026-10-26",
    "checked": "2026-10-27",
-   "fails": 0,
+   "fails": 1,
    "aliases": [
     "finance.yahoo.com"
    ],
@@ -2169,7 +2170,9 @@
    "fingerprint": "yahoofinanceatyahoofinanceyougetfreestockquotesuptodatenewsportfoliomanageme",
    "screenshot_file": "844adf50f74b30951a08.jpg",
    "archive_checked": "2026-10-27",
-   "first_seen": 1998
+   "first_seen": 1998,
+   "robot_note": "unsafe (2026-10-27)",
+   "flag_reason": "unsafe words found"
   },
   {
    "url": "https://initlabs.si",
@@ -2184,7 +2187,7 @@
     "initlabs.si"
    ],
    "lang": "en",
-   "load_time": 0.14,
+   "load_time": 0.16,
    "https": true,
    "words": 1316,
    "embed": false,
@@ -5401,7 +5404,9 @@
     "Science"
    ],
    "fingerprint": "cloudflareblogtechnicaldeepdivesproductupdatesandinsightsfromtheteamsthatarehelp",
-   "screenshot_file": "1c00d45aba0c56deed83.jpg"
+   "screenshot_file": "1c00d45aba0c56deed83.jpg",
+   "archive_checked": "2026-10-27",
+   "first_seen": 2010
   },
   {
    "url": "https://t3x.org",
@@ -5430,7 +5435,9 @@
     "Personal"
    ],
    "fingerprint": "t3xorgindexmetawhoamiwhatsnewwelcomenmhnavbooksprogrammingpaper",
-   "screenshot_file": "064d00a76a2e4fa4b17b.jpg"
+   "screenshot_file": "064d00a76a2e4fa4b17b.jpg",
+   "archive_checked": "2026-10-27",
+   "first_seen": 2004
   },
   {
    "url": "https://furrtek.org",
@@ -5455,7 +5462,9 @@
    "confidence": 0,
    "tags": [],
    "fingerprint": "furrtekderniresmisesjourlastupdatesrssfeed",
-   "screenshot_file": "83861d9eaa9fbc46cb39.jpg"
+   "screenshot_file": "83861d9eaa9fbc46cb39.jpg",
+   "archive_checked": "2026-10-27",
+   "first_seen": 2025
   },
   {
    "url": "https://reverse.put.as",
@@ -5480,7 +5489,9 @@
    "confidence": 0.73,
    "tags": [],
    "fingerprint": "reverseengineeringreverseengineeringandsecurityforfun",
-   "screenshot_file": "eebe042963f5bdf98fb0.jpg"
+   "screenshot_file": "eebe042963f5bdf98fb0.jpg",
+   "archive_checked": "2026-10-27",
+   "first_seen": 2008
   },
   {
    "url": "https://phys.org",
@@ -5507,7 +5518,9 @@
     "News"
    ],
    "fingerprint": "newsandarticlesonscienceandtechnologydailysciencenewsonresearchdevelopmentstechnologicalbreakthroughsandthe",
-   "screenshot_file": "bd2f067ee8f8fec2cd84.jpg"
+   "screenshot_file": "bd2f067ee8f8fec2cd84.jpg",
+   "archive_checked": "2026-10-27",
+   "first_seen": 2002
   },
   {
    "url": "https://loopsfinity.com",
@@ -5534,7 +5547,9 @@
     "Tools"
    ],
    "fingerprint": "loopsfinityloopsfinityautomatesyoursoftwaredevelopmentagentsthatlearnyourcodebase",
-   "screenshot_file": "61cc87689fc718e0f38e.jpg"
+   "screenshot_file": "61cc87689fc718e0f38e.jpg",
+   "archive_checked": "2026-10-27",
+   "first_seen": 2026
   },
   {
    "url": "https://hitl.systems",
@@ -5561,7 +5576,9 @@
     "Tools"
    ],
    "fingerprint": "hitlsystemshitlsystemspublishesengineeringauditsofaitoolsandseoclaimswhatsve",
-   "screenshot_file": "3cf1a28b2139a25aa5ba.jpg"
+   "screenshot_file": "3cf1a28b2139a25aa5ba.jpg",
+   "archive_checked": "2026-10-27",
+   "first_seen": 2026
   },
   {
    "url": "https://newbooksnetwork.com",
@@ -5586,7 +5603,9 @@
    "confidence": 1.0,
    "tags": [],
    "fingerprint": "newbooksnetworksupportkritikasupporthnetbuybooksherejointhenbnandnbnenespa",
-   "screenshot_file": "6688f1b2a6a27bc42493.jpg"
+   "screenshot_file": "6688f1b2a6a27bc42493.jpg",
+   "archive_checked": "2026-10-27",
+   "first_seen": 2011
   },
   {
    "url": "https://btxx.org",
@@ -5611,7 +5630,9 @@
    "confidence": 0.71,
    "tags": [],
    "fingerprint": "bradleytauntimbradadeveloperdesignerhybridispendmostofmytimeherewritingab",
-   "screenshot_file": "ec2b0af99b1c0f0035d1.jpg"
+   "screenshot_file": "ec2b0af99b1c0f0035d1.jpg",
+   "archive_checked": "2026-10-27",
+   "first_seen": 2017
   },
   {
    "url": "https://hollywoodreporter.com",
@@ -5636,7 +5657,9 @@
    "confidence": 0.8,
    "tags": [],
    "fingerprint": "thehollywoodreportermovienewstvnewsawardsnewslifestylenewsbusinessnewsandmorefromth",
-   "screenshot_file": "5ef7d2e4bfb58a294c0b.jpg"
+   "screenshot_file": "5ef7d2e4bfb58a294c0b.jpg",
+   "archive_checked": "2026-10-27",
+   "first_seen": 1996
   },
   {
    "url": "https://retronetworking.org",
@@ -5661,7 +5684,9 @@
    "confidence": 0.71,
    "tags": [],
    "fingerprint": "retronetworkinghistoricaltelecommunicationswerealoosecollectiveoffairlytechnicalpeopl",
-   "screenshot_file": "2d194e6dce3d2376cd73.jpg"
+   "screenshot_file": "2d194e6dce3d2376cd73.jpg",
+   "archive_checked": "2026-10-27",
+   "first_seen": 2024
   },
   {
    "url": "https://psi.inc",
@@ -5686,7 +5711,9 @@
    "confidence": 0.75,
    "tags": [],
    "fingerprint": "psiphysicalsuperintelligencetwentyfirstcenturycivilizationrunsontwentiethcenturyphysicsphysicalsu",
-   "screenshot_file": "573dd282e4c5bc3b4d94.jpg"
+   "screenshot_file": "573dd282e4c5bc3b4d94.jpg",
+   "archive_checked": "2026-10-27",
+   "first_seen": 2026
   },
   {
    "url": "https://contextfirst.blog",
@@ -5714,7 +5741,9 @@
     "Education"
    ],
    "fingerprint": "firstcontextiheatuchriswoguonthevaluesthatguideengineeringleadershipevidence",
-   "screenshot_file": "c2beffbd431a4e76f18b.jpg"
+   "screenshot_file": "c2beffbd431a4e76f18b.jpg",
+   "archive_checked": "2026-10-27",
+   "first_seen": 2026
   },
   {
    "url": "https://developers.googleblog.com",
@@ -5739,7 +5768,9 @@
    "confidence": 0.77,
    "tags": [],
    "fingerprint": "googledevelopersbloggoogleworkspacenowoffersnativesupportformarkdownmdfilesallowingde",
-   "screenshot_file": "dd78d09658b5191687c4.jpg"
+   "screenshot_file": "dd78d09658b5191687c4.jpg",
+   "archive_checked": "2026-10-27",
+   "first_seen": 2016
   },
   {
    "url": "https://federalnewsnetwork.com",
@@ -5764,7 +5795,9 @@
    "confidence": 0.94,
    "tags": [],
    "fingerprint": "federalnewsnetworkfederalnewsnetworkcoversthelatestissuesandbreakingstorieswithintheu",
-   "screenshot_file": "05b56b4e3d8327ace182.jpg"
+   "screenshot_file": "05b56b4e3d8327ace182.jpg",
+   "archive_checked": "2026-10-27",
+   "first_seen": 2011
   },
   {
    "url": "https://marathon.sh",
@@ -5791,7 +5824,9 @@
     "Tools"
    ],
    "fingerprint": "marathonenterprisetoolsfrommarathononeofflicencesforteamhudandplumeselfho",
-   "screenshot_file": "fb066d3a8b9354f0d137.jpg"
+   "screenshot_file": "fb066d3a8b9354f0d137.jpg",
+   "archive_checked": "2026-10-27",
+   "first_seen": 2022
   },
   {
    "url": "https://fortune.com",
@@ -5816,7 +5851,9 @@
    "confidence": 0.62,
    "tags": [],
    "fingerprint": "fortuneunrivaledaccesspremierstorytellingandthebestofbusinesssince1930",
-   "screenshot_file": "b19b69648c87845c018f.jpg"
+   "screenshot_file": "b19b69648c87845c018f.jpg",
+   "archive_checked": "2026-10-27",
+   "first_seen": 2001
   },
   {
    "url": "https://tiltmeter.dev",
@@ -5841,7 +5878,9 @@
    "confidence": 0.76,
    "tags": [],
    "fingerprint": "tiltmeterknowwhentheapisunderyouragentsmovetiltmeterlearnstheshapeofthirdp",
-   "screenshot_file": "743c2d7f15496b17ebb8.jpg"
+   "screenshot_file": "743c2d7f15496b17ebb8.jpg",
+   "archive_checked": "2026-10-27",
+   "first_seen": 2026
   },
   {
    "url": "https://techcrunch.com",
@@ -5868,7 +5907,9 @@
     "Business"
    ],
    "fingerprint": "techcrunchreportingonthebusinessoftechnologystartupsventurecapitalfundingand",
-   "screenshot_file": "06cbaf185cf76fb8c855.jpg"
+   "screenshot_file": "06cbaf185cf76fb8c855.jpg",
+   "archive_checked": "2026-10-27",
+   "first_seen": 2005
   },
   {
    "url": "https://bchydro.com",
@@ -5893,7 +5934,9 @@
    "confidence": 0,
    "tags": [],
    "fingerprint": "",
-   "screenshot_file": "9a56062f48902287c7ec.jpg"
+   "screenshot_file": "9a56062f48902287c7ec.jpg",
+   "archive_checked": "2026-10-27",
+   "first_seen": 2001
   },
   {
    "url": "https://collegejournalism.org",
@@ -5918,7 +5961,8 @@
    "confidence": 0.78,
    "tags": [],
    "fingerprint": "collegejournalismresourcestrainingandnewscollegejournalistsareuniqueandtheydeservespecializedresources",
-   "screenshot_file": "75c871c334804f8033eb.jpg"
+   "screenshot_file": "75c871c334804f8033eb.jpg",
+   "archive_checked": "2026-10-27"
   },
   {
    "url": "https://latimes.com",
@@ -5943,7 +5987,8 @@
    "confidence": 0.92,
    "tags": [],
    "fingerprint": "losangelestimesthelatimesisaleadingsourceofbreakingnewsentertainmentsportspoli",
-   "screenshot_file": "cc289ee8b5a76cee4e4c.jpg"
+   "screenshot_file": "cc289ee8b5a76cee4e4c.jpg",
+   "archive_checked": "2026-10-27"
   },
   {
    "url": "https://picttool.com",
@@ -5968,7 +6013,8 @@
    "confidence": 0.6,
    "tags": [],
    "fingerprint": "picttooleditphotosonlinewithpicttoolsaiphotoeditorturnpicturesintocomicsc",
-   "screenshot_file": "5bdbd83952f5656cef96.jpg"
+   "screenshot_file": "5bdbd83952f5656cef96.jpg",
+   "archive_checked": "2026-10-27"
   },
   {
    "url": "https://codeberg.org",
@@ -5995,7 +6041,8 @@
     "Communities"
    ],
    "fingerprint": "softwaredevelopmentbutfreecodebergisanonprofitcommunityledorganizationthataimstohelpfreeando",
-   "screenshot_file": "314da8e62950689fb86d.jpg"
+   "screenshot_file": "314da8e62950689fb86d.jpg",
+   "archive_checked": "2026-10-27"
   },
   {
    "url": "https://nextplatform.com",
@@ -6022,7 +6069,8 @@
     "Business"
    ],
    "fingerprint": "nextplatformindepthcoverageofhighendcomputingatlargeenterprisessupercomputingcen",
-   "screenshot_file": "b29db809836275558e1a.jpg"
+   "screenshot_file": "b29db809836275558e1a.jpg",
+   "archive_checked": "2026-10-27"
   },
   {
    "url": "https://blogs.nvidia.com",
@@ -6050,7 +6098,8 @@
     "Developer"
    ],
    "fingerprint": "nvidiablogkeepuptodatewiththelatestnewsfromtheworldleaderinacceleratedcomput",
-   "screenshot_file": "a494a9839a222d97df7a.jpg"
+   "screenshot_file": "a494a9839a222d97df7a.jpg",
+   "archive_checked": "2026-10-27"
   },
   {
    "url": "https://lexifina.com",
@@ -6075,7 +6124,8 @@
    "confidence": 0.52,
    "tags": [],
    "fingerprint": "lexifinalexifinastreamlineslegaldraftingandworkflowautomationwithaihelpinglaw",
-   "screenshot_file": "9cb745ad1ae5f6fb1eec.jpg"
+   "screenshot_file": "9cb745ad1ae5f6fb1eec.jpg",
+   "archive_checked": "2026-10-27"
   },
   {
    "url": "https://edcapit.com",
@@ -6100,7 +6150,8 @@
    "confidence": 0,
    "tags": [],
    "fingerprint": "edcapiteducationplatformedcapit",
-   "screenshot_file": "613999acf31f29dd06aa.jpg"
+   "screenshot_file": "613999acf31f29dd06aa.jpg",
+   "archive_checked": "2026-10-27"
   },
   {
    "url": "https://hexagonmath.org",
@@ -6125,7 +6176,8 @@
    "confidence": 0.79,
    "tags": [],
    "fingerprint": "hexagonarepositoryforresearchlevelworksinthemathematicalsciencesandtheoretic",
-   "screenshot_file": "8e6827af963619bbc6f2.jpg"
+   "screenshot_file": "8e6827af963619bbc6f2.jpg",
+   "archive_checked": "2026-10-27"
   },
   {
    "url": "https://kothariji.in",
@@ -6150,7 +6202,8 @@
    "confidence": 0.76,
    "tags": [],
    "fingerprint": "kotharijiseniorsoftwareengineerwithadesignerseyereacttypescriptandnodejsd",
-   "screenshot_file": "89faf7e09c9fefbdb962.jpg"
+   "screenshot_file": "89faf7e09c9fefbdb962.jpg",
+   "archive_checked": "2026-10-27"
   },
   {
    "url": "https://anaivebidder.com",
@@ -6175,7 +6228,8 @@
    "confidence": 1.0,
    "tags": [],
    "fingerprint": "anaivebidderaiandinnovationinreallifewithafinancialflavourclicktoreadanaive",
-   "screenshot_file": "950de1e84e4755616e64.jpg"
+   "screenshot_file": "950de1e84e4755616e64.jpg",
+   "archive_checked": "2026-10-27"
   },
   {
    "url": "https://ourpage.social",
@@ -6200,7 +6254,8 @@
    "confidence": 0.67,
    "tags": [],
    "fingerprint": "ourpagepostsdocsandwidgetsforeventspollssignupstasksschedulesprocess",
-   "screenshot_file": "76ae12a43b027dda6d5f.jpg"
+   "screenshot_file": "76ae12a43b027dda6d5f.jpg",
+   "archive_checked": "2026-10-27"
   },
   {
    "url": "https://janni.turunen.in",
@@ -6227,7 +6282,8 @@
     "Personal"
    ],
    "fingerprint": "fromthebottomofmyheartisaluteyoujanniturunenspersonalsite",
-   "screenshot_file": "71978d08c0972fab44d3.jpg"
+   "screenshot_file": "71978d08c0972fab44d3.jpg",
+   "archive_checked": "2026-10-27"
   },
   {
    "url": "https://tailscale.com",
@@ -6254,7 +6310,8 @@
     "Technology"
    ],
    "fingerprint": "tailscaletheconnectivityplatformfordevsitandsecurityteamszerotrustidentity",
-   "screenshot_file": "4075d25399d2f4a3204d.jpg"
+   "screenshot_file": "4075d25399d2f4a3204d.jpg",
+   "archive_checked": "2026-10-27"
   },
   {
    "url": "https://mayberay.bearblog.dev",
@@ -6279,7 +6336,8 @@
    "confidence": 0.9,
    "tags": [],
    "fingerprint": "mayberayhiimraymondistartedthisblogasasideprojecttoexpresssomeofmyide",
-   "screenshot_file": "12baeb9560c15bff3e28.jpg"
+   "screenshot_file": "12baeb9560c15bff3e28.jpg",
+   "archive_checked": "2026-10-27"
   },
   {
    "url": "https://songupai.com",
@@ -6306,7 +6364,8 @@
     "Tools"
    ],
    "fingerprint": "songupaisongupaimakessongswithaidescribeasongorpastelyricsgetafulltrack",
-   "screenshot_file": "a2c390e7c26914b7a3f4.jpg"
+   "screenshot_file": "a2c390e7c26914b7a3f4.jpg",
+   "archive_checked": "2026-10-27"
   },
   {
    "url": "https://allmodels.io",
@@ -6331,7 +6390,8 @@
    "confidence": 0.56,
    "tags": [],
    "fingerprint": "allmodelsroutetexttospeechspeechtotextandrealtimevoicemodelsthroughoneapi",
-   "screenshot_file": "7cabacda5e8f25b32a13.jpg"
+   "screenshot_file": "7cabacda5e8f25b32a13.jpg",
+   "archive_checked": "2026-10-27"
   },
   {
    "url": "https://agentic-meta-journal.pages.dev",
@@ -6358,7 +6418,8 @@
     "Education"
    ],
    "fingerprint": "anopenjournalofagenticmetaalgorithmsapeerreviewedjournalonagentroutingselfimprovementloopstooluseplann",
-   "screenshot_file": "d524a57b20947a920bbb.jpg"
+   "screenshot_file": "d524a57b20947a920bbb.jpg",
+   "archive_checked": "2026-10-27"
   },
   {
    "url": "https://docs.ci-tron.dev",
@@ -6383,7 +6444,8 @@
    "confidence": 0,
    "tags": [],
    "fingerprint": "",
-   "screenshot_file": "1669ed4103603381190f.jpg"
+   "screenshot_file": "1669ed4103603381190f.jpg",
+   "archive_checked": "2026-10-27"
   },
   {
    "url": "https://fusionauth.io",
@@ -6410,7 +6472,8 @@
     "Communities"
    ],
    "fingerprint": "fusionauthfusionauthprovidescompleteauthsoftwareandusermanagementsolutionswithc",
-   "screenshot_file": "4cbb6f0b9d523ace6bac.jpg"
+   "screenshot_file": "4cbb6f0b9d523ace6bac.jpg",
+   "archive_checked": "2026-10-27"
   },
   {
    "url": "https://editsqlite.com",
@@ -8718,6 +8781,1902 @@
    "tags": [],
    "fingerprint": "functionsdefinedtheofficialhomeofthepythonprogramminglanguage",
    "screenshot_file": "25d3e0d8d7300b27b035.jpg"
+  },
+  {
+   "url": "https://poolmoney.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "poolmoney.com"
+   ],
+   "lang": "en",
+   "load_time": 0.24,
+   "https": true,
+   "words": 876,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Pool",
+   "description": "A Pool is a financial accounts built for a purpose. Start one for yourself, a group, or your agent, then assign each member the right role and their own debit card.",
+   "category": "Communities",
+   "confidence": 0.84,
+   "tags": [],
+   "fingerprint": "poolapoolisafinancialaccountsbuiltforapurposestartoneforyourselfagr",
+   "screenshot_file": "d3c8e4c9aaaef6e61abd.jpg"
+  },
+  {
+   "url": "https://thenumb.at",
+   "source": "lobsters",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "thenumb.at"
+   ],
+   "lang": "en",
+   "load_time": 0.19,
+   "https": true,
+   "words": 168,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Max Slater",
+   "description": "",
+   "category": "Random",
+   "confidence": 0,
+   "tags": [],
+   "fingerprint": "",
+   "screenshot_file": "2d84ec156965544b07d5.jpg"
+  },
+  {
+   "url": "https://aclu.org",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "aclu.org"
+   ],
+   "lang": "en",
+   "load_time": 0.26,
+   "https": true,
+   "words": 693,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "American Civil Liberties Union",
+   "description": "The ACLU dares to create a more perfect union — beyond one person, party, or side.",
+   "category": "News",
+   "confidence": 0.63,
+   "tags": [],
+   "fingerprint": "americancivillibertiesuniontheacludarestocreateamoreperfectunionbeyondonepersonpartyorsid",
+   "screenshot_file": "e1f8cfe58a4c8d394df5.jpg"
+  },
+  {
+   "url": "https://entire.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "entire.com"
+   ],
+   "lang": "en",
+   "load_time": 0.73,
+   "https": true,
+   "words": 1286,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "Entire",
+   "description": "Host code and agent sessions together on a fast, distributed Git network. Give your agents the context to understand, collaborate, and ship.",
+   "category": "Developer",
+   "confidence": 0.91,
+   "tags": [],
+   "fingerprint": "entirehostcodeandagentsessionstogetheronafastdistributedgitnetworkgivey",
+   "screenshot_file": "3f870e0ba1ff1273c993.jpg"
+  },
+  {
+   "url": "https://mawrgorshin.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "mawrgorshin.com"
+   ],
+   "lang": "en",
+   "load_time": 0.12,
+   "https": true,
+   "words": 3012,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Infinite Ocean",
+   "description": "Mawr Gorshin's mind-expanding writing.",
+   "category": "Personal",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "infiniteoceanmawrgorshinsmindexpandingwriting",
+   "screenshot_file": "fb46661e2ab1c059b2d2.jpg"
+  },
+  {
+   "url": "https://docperrow.netlify.app",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "docperrow.netlify.app"
+   ],
+   "lang": "en",
+   "load_time": 0.08,
+   "https": true,
+   "words": 617,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "DocPerRow",
+   "description": "Turn every row of an Excel or CSV file into its own Word document, named from a column. Works in the browser, on Mac and on Word for the web users. Files never leave your device.",
+   "category": "Tools",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "docperrowturneveryrowofanexcelorcsvfileintoitsownworddocumentnamedfroma",
+   "screenshot_file": "a041d17e3529858ac6f2.jpg"
+  },
+  {
+   "url": "https://cfsg.axiommath.ai",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "cfsg.axiommath.ai"
+   ],
+   "lang": "en",
+   "load_time": 0.06,
+   "https": true,
+   "words": 474,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Axiom",
+   "description": "A complete formalization in Lean of the first-generation proof of the classification of finite simple groups, with every logical step checked by Lean's kernel.",
+   "category": "Communities",
+   "confidence": 0.67,
+   "tags": [],
+   "fingerprint": "axiomacompleteformalizationinleanofthefirstgenerationproofoftheclassifica",
+   "screenshot_file": "b65c14d25885807af49d.jpg"
+  },
+  {
+   "url": "https://redhat.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "redhat.com"
+   ],
+   "lang": "en",
+   "load_time": 0.2,
+   "https": true,
+   "words": 1299,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "Red Hat",
+   "description": "Red Hat is the world's leading provider of enterprise open source solutions, including high-performing Linux, cloud, container, and Kubernetes technologies.",
+   "category": "Developer",
+   "confidence": 0.77,
+   "tags": [],
+   "fingerprint": "redhatredhatistheworldsleadingproviderofenterpriseopensourcesolutionsinc",
+   "screenshot_file": "ee80e03c4b7759ce193e.jpg"
+  },
+  {
+   "url": "https://gctl.io",
+   "source": "lobsters",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "gctl.io"
+   ],
+   "lang": "en",
+   "load_time": 0.54,
+   "https": true,
+   "words": 198,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Ishwor Gurung",
+   "description": "Notes on AI, software development, systems, Linux/UNIX, networking, and distributed systems.",
+   "category": "Personal",
+   "confidence": 0.55,
+   "tags": [
+    "Technology",
+    "Developer"
+   ],
+   "fingerprint": "ishworgurungnotesonaisoftwaredevelopmentsystemslinuxunixnetworkinganddistribu",
+   "screenshot_file": "080712267c415cf326ce.jpg"
+  },
+  {
+   "url": "https://kadoa.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "kadoa.com"
+   ],
+   "lang": "en",
+   "load_time": 0.41,
+   "https": true,
+   "words": 1130,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "Kadoa",
+   "description": "Kadoa is the web data layer for finance. Our AI agents build, monitor, and maintain mission-critical web data pipelines that produce verified datasets for investors.",
+   "category": "Business",
+   "confidence": 0.8,
+   "tags": [],
+   "fingerprint": "kadoakadoaisthewebdatalayerforfinanceouraiagentsbuildmonitorandmaint",
+   "screenshot_file": "b565c4be19187880bce5.jpg"
+  },
+  {
+   "url": "https://replit.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "replit.com"
+   ],
+   "lang": "en",
+   "load_time": 0.16,
+   "https": true,
+   "words": 1210,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "replit",
+   "description": "Describe what you want. Replit builds it. Get a working app or website in minutes. No coding required.",
+   "category": "Developer",
+   "confidence": 0.65,
+   "tags": [],
+   "fingerprint": "replitdescribewhatyouwantreplitbuildsitgetaworkingapporwebsiteinminute",
+   "screenshot_file": "da732653cd75a1760e4b.jpg"
+  },
+  {
+   "url": "https://aexol.ai",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "aexol.ai"
+   ],
+   "lang": "en",
+   "load_time": 0.93,
+   "https": true,
+   "words": 443,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "Aexol AI",
+   "description": "The agentic development environment: install Spectral on your machines and drive the always-on coding agent from any browser tab — EU-only hosting, no training on your data.",
+   "category": "Technology",
+   "confidence": 0.58,
+   "tags": [
+    "Developer"
+   ],
+   "fingerprint": "aexolaitheagenticdevelopmentenvironmentinstallspectralonyourmachinesanddrive",
+   "screenshot_file": "d3b658f16e0c6dee22ef.jpg"
+  },
+  {
+   "url": "https://lyrixound.app",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "lyrixound.app"
+   ],
+   "lang": "en",
+   "load_time": 0.18,
+   "https": true,
+   "words": 567,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Lyrixound",
+   "description": "Lyrixound is a free lyrics app for Windows. A desktop overlay shows synced lyrics beside Spotify, YouTube, and other players, with no extra plugins.",
+   "category": "Tools",
+   "confidence": 0.97,
+   "tags": [],
+   "fingerprint": "lyrixoundlyrixoundisafreelyricsappforwindowsadesktopoverlayshowssyncedlyric",
+   "screenshot_file": "e655b1d26d81840450c4.jpg"
+  },
+  {
+   "url": "https://coderabbit.ai",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "coderabbit.ai"
+   ],
+   "lang": "en",
+   "load_time": 0.22,
+   "https": true,
+   "words": 1162,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "CodeRabbit",
+   "description": "Ship more software, faster, with code you trust. Independent AI code review, PR triage, change explanations, and continuous security monitoring.",
+   "category": "Developer",
+   "confidence": 0.62,
+   "tags": [
+    "Technology"
+   ],
+   "fingerprint": "coderabbitshipmoresoftwarefasterwithcodeyoutrustindependentaicodereviewpr",
+   "screenshot_file": "22d30239d06ea638dd86.jpg"
+  },
+  {
+   "url": "https://thisiscolossal.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "thisiscolossal.com"
+   ],
+   "lang": "en",
+   "load_time": 0.28,
+   "https": true,
+   "words": 488,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "Colossal",
+   "description": "Colossal is an independent online art magazine celebrating visual culture since 2010. Based in Chicago.",
+   "category": "Art",
+   "confidence": 0.67,
+   "tags": [],
+   "fingerprint": "colossalcolossalisanindependentonlineartmagazinecelebratingvisualculturesince",
+   "screenshot_file": "26bb3f2fd032b4577b9b.jpg"
+  },
+  {
+   "url": "https://agenticbench.org",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "agenticbench.org"
+   ],
+   "lang": "en",
+   "load_time": 0.7,
+   "https": true,
+   "words": 2064,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "AgenticBench",
+   "description": "AgenticBench security leaderboard for AI coding agents: one row per harness version, with the date it was released, the date it was tested and the result.",
+   "category": "Technology",
+   "confidence": 0.6,
+   "tags": [
+    "Developer"
+   ],
+   "fingerprint": "agenticbenchagenticbenchsecurityleaderboardforaicodingagentsonerowperharnessvers",
+   "screenshot_file": "57978a6d1478d5441221.jpg"
+  },
+  {
+   "url": "https://myownlore.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "myownlore.com"
+   ],
+   "lang": "en",
+   "load_time": 0.51,
+   "https": true,
+   "words": 267,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "My Own Lore",
+   "description": "Immersive role-play and world-building you live through your AI agent, in original or fan-fiction worlds.",
+   "category": "Games",
+   "confidence": 0.5,
+   "tags": [],
+   "fingerprint": "myownloreimmersiveroleplayandworldbuildingyoulivethroughyouraiagentinorigin",
+   "screenshot_file": "90a5dffc2d12936b071b.jpg"
+  },
+  {
+   "url": "https://deepmind.google",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "deepmind.google"
+   ],
+   "lang": "?",
+   "load_time": 0.16,
+   "https": true,
+   "words": 1227,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "Deepmind",
+   "description": "",
+   "category": "Random",
+   "confidence": 0,
+   "tags": [],
+   "fingerprint": "",
+   "screenshot_file": "432fffe488bd8cbf5f1e.jpg"
+  },
+  {
+   "url": "https://chessdox.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "chessdox.com"
+   ],
+   "lang": "en",
+   "load_time": 0.52,
+   "https": true,
+   "words": 464,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "chessdox",
+   "description": "Play chess online with a friend or against the computer. Create a private game and share one secure link—no account, ads, lobby, or ratings.",
+   "category": "Games",
+   "confidence": 0.95,
+   "tags": [],
+   "fingerprint": "chessdoxplaychessonlinewithafriendoragainstthecomputercreateaprivategamea",
+   "screenshot_file": "5f234c12f3d1addac652.jpg"
+  },
+  {
+   "url": "https://akshith.io",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "akshith.io"
+   ],
+   "lang": "en",
+   "load_time": 0.47,
+   "https": true,
+   "words": 130,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Akshith Garapati",
+   "description": "My Personal Site - Akshith Garapati",
+   "category": "Personal",
+   "confidence": 0.86,
+   "tags": [],
+   "fingerprint": "akshithgarapatimypersonalsiteakshithgarapati",
+   "screenshot_file": "5637ad58dbf245c8d73b.jpg"
+  },
+  {
+   "url": "https://flightdeck-hq.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "flightdeck-hq.com"
+   ],
+   "lang": "en",
+   "load_time": 0.07,
+   "https": true,
+   "words": 481,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Flightdeck",
+   "description": "Self-hosted observability and control plane for production and coding agents. Every LLM call, MCP event, and tool call streams to a per-agent timeline and a live fleet-wide feed.",
+   "category": "Developer",
+   "confidence": 0.57,
+   "tags": [
+    "Technology",
+    "Tools"
+   ],
+   "fingerprint": "flightdeckselfhostedobservabilityandcontrolplaneforproductionandcodingagentsev",
+   "screenshot_file": "cf001375f7a4438d9a80.jpg"
+  },
+  {
+   "url": "https://cheswick.com",
+   "source": "lobsters",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "cheswick.com"
+   ],
+   "lang": "en",
+   "load_time": 0.11,
+   "https": true,
+   "words": 50,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "The Cheswicks' web pages",
+   "description": "",
+   "category": "Random",
+   "confidence": 0,
+   "tags": [],
+   "fingerprint": "",
+   "screenshot_file": "7adfcfbf4d3ef2cbc000.jpg"
+  },
+  {
+   "url": "https://manualdousuario.net",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "manualdousuario.net"
+   ],
+   "lang": "pt",
+   "load_time": 0.14,
+   "https": true,
+   "words": 1901,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "Manual do Usuário",
+   "description": "Comentários, curiosidades e reflexões sobre tecnologia pessoal. Um lugar legal na internet. Por Rodrigo Ghedin.",
+   "category": "Random",
+   "confidence": 0.5,
+   "tags": [],
+   "fingerprint": "manualdousuriocomentrioscuriosidadesereflexessobretecnologiapessoalumlugarlegaln",
+   "screenshot_file": "ff844e74d62e7c3c25c1.jpg"
+  },
+  {
+   "url": "https://kotaku.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "kotaku.com"
+   ],
+   "lang": "en",
+   "load_time": 0.18,
+   "https": true,
+   "words": 1212,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "Kotaku",
+   "description": "As we mourn BioWare, let's look back at some of the best moments from all four Mass Effect games",
+   "category": "Games",
+   "confidence": 0.76,
+   "tags": [],
+   "fingerprint": "kotakuaswemournbiowareletslookbackatsomeofthebestmomentsfromallfourm",
+   "screenshot_file": "a5e389bc2a3e6615f92c.jpg"
+  },
+  {
+   "url": "https://asahi.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "asahi.com"
+   ],
+   "lang": "ja",
+   "load_time": 0.87,
+   "https": true,
+   "words": 1097,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "朝日新聞",
+   "description": "",
+   "category": "Random",
+   "confidence": 0,
+   "tags": [],
+   "fingerprint": "",
+   "screenshot_file": "9f28bab71ea0f507e7ed.jpg"
+  },
+  {
+   "url": "https://sectr.dev",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "sectr.dev"
+   ],
+   "lang": "en",
+   "load_time": 0.27,
+   "https": true,
+   "words": 725,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Sectr",
+   "description": "Sectr hosts your AI agent — any framework, one-click deploy, and a built-in AG-UI endpoint for CopilotKit frontends. Durable sessions, streaming, and human-in-the-loop approvals included.",
+   "category": "Developer",
+   "confidence": 0.76,
+   "tags": [],
+   "fingerprint": "sectrsectrhostsyouraiagentanyframeworkoneclickdeployandabuiltinagu",
+   "screenshot_file": "3a87d20fe5706a151b0b.jpg"
+  },
+  {
+   "url": "https://storerouter.ai",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "storerouter.ai"
+   ],
+   "lang": "en",
+   "load_time": 0.3,
+   "https": true,
+   "words": 1296,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "StoreRouter",
+   "description": "Search across stores, parse any product page, and find alternatives — in one enriched schema agents can comprehend without scraping.",
+   "category": "Business",
+   "confidence": 0.75,
+   "tags": [],
+   "fingerprint": "storeroutersearchacrossstoresparseanyproductpageandfindalternativesinoneenr",
+   "screenshot_file": "bca1774875f74aaa49b6.jpg"
+  },
+  {
+   "url": "https://chat-brawlers.kottos.ai",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "chat-brawlers.kottos.ai"
+   ],
+   "lang": "en",
+   "load_time": 0.21,
+   "https": true,
+   "words": 218,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "Chat Brawlers",
+   "description": "Three AI models, one from Anthropic, one from OpenAI and one open-weights, debate your question, vote, and settle on one answer.",
+   "category": "Communities",
+   "confidence": 0.73,
+   "tags": [],
+   "fingerprint": "chatbrawlersthreeaimodelsonefromanthropiconefromopenaiandoneopenweightsdebat",
+   "screenshot_file": "e457ca3920a572f69381.jpg"
+  },
+  {
+   "url": "https://search2o.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "search2o.com"
+   ],
+   "lang": "en",
+   "load_time": 0.08,
+   "https": true,
+   "words": 556,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Search2o",
+   "description": "A platform to build, run, and use AI microagents through search. Microagents run in the agent runtime on your own agent servers, with one conversation carrying context between them.",
+   "category": "Business",
+   "confidence": 0.62,
+   "tags": [
+    "Technology"
+   ],
+   "fingerprint": "search2oaplatformtobuildrunanduseaimicroagentsthroughsearchmicroagentsrun",
+   "screenshot_file": "b4ce029ab2318b414e67.jpg"
+  },
+  {
+   "url": "https://thegit.ai",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "thegit.ai"
+   ],
+   "lang": "en",
+   "load_time": 0.21,
+   "https": true,
+   "words": 737,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "TheGitAI",
+   "description": "TheGitAI is an agentic AI coding tool for your terminal. It investigates, edits, tests, and documents your code. No provider account or API keys, and every AI edit is reversible.",
+   "category": "Developer",
+   "confidence": 0.6,
+   "tags": [
+    "Technology"
+   ],
+   "fingerprint": "thegitaithegitaiisanagenticaicodingtoolforyourterminalitinvestigatesedits",
+   "screenshot_file": "f328632a8588c3347339.jpg"
+  },
+  {
+   "url": "https://microsoft.ai",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "microsoft.ai"
+   ],
+   "lang": "en",
+   "load_time": 0.1,
+   "https": true,
+   "words": 1069,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Microsoft AI",
+   "description": "A new cybersecurity model built into MDASH, our multi-agent vulnerability identification and remediation harness.",
+   "category": "Technology",
+   "confidence": 0.74,
+   "tags": [],
+   "fingerprint": "microsoftaianewcybersecuritymodelbuiltintomdashourmultiagentvulnerabilityidenti",
+   "screenshot_file": "0c6e19a4f0611cfe267d.jpg"
+  },
+  {
+   "url": "https://filmcraft.tools",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "filmcraft.tools"
+   ],
+   "lang": "en",
+   "load_time": 0.24,
+   "https": true,
+   "words": 2114,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "filmcraft",
+   "description": "Annual billing filmcraft annual plans cost about 50% less than 12 monthly payments",
+   "category": "Tools",
+   "confidence": 0.67,
+   "tags": [],
+   "fingerprint": "filmcraftannualbillingfilmcraftannualplanscostabout50lessthan12monthlypaymen",
+   "screenshot_file": "7a5e62038f809d69910c.jpg"
+  },
+  {
+   "url": "https://skipdx.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "skipdx.com"
+   ],
+   "lang": "en",
+   "load_time": 0.13,
+   "https": true,
+   "words": 322,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "SkipDX",
+   "description": "Find out how far your CW signal is really going, automatically, every activation.",
+   "category": "Random",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "skipdxfindouthowfaryourcwsignalisreallygoingautomaticallyeveryactivation",
+   "screenshot_file": "65cfdfa8bb64ae813de5.jpg"
+  },
+  {
+   "url": "https://api.sirenic.eu",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "api.sirenic.eu"
+   ],
+   "lang": "fr",
+   "load_time": 0.65,
+   "https": true,
+   "words": 1587,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "Sirenic",
+   "description": "L'API de données officielles d'entreprises, France et Europe : registre, dirigeants, comptes, score de défaillance, sanctions. Payée à l'appel, réponse signée.",
+   "category": "Developer",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "sireniclapidedonnesofficiellesdentreprisesfranceeteuroperegistredirigea",
+   "screenshot_file": "7a1a779a070c73cb5089.jpg"
+  },
+  {
+   "url": "https://foxio.io",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "foxio.io"
+   ],
+   "lang": "en",
+   "load_time": 0.22,
+   "https": true,
+   "words": 121,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "FoxIO",
+   "description": "We solve the world's toughest cyber challenges—creating breakthrough technology and embedding it into the systems that run everything.",
+   "category": "Technology",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "foxiowesolvetheworldstoughestcyberchallengescreatingbreakthroughtechnology",
+   "screenshot_file": "0de274bb36da0888941a.jpg"
+  },
+  {
+   "url": "https://independent.co.uk",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "independent.co.uk"
+   ],
+   "lang": "en",
+   "load_time": 0.47,
+   "https": true,
+   "words": 1585,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "The Independent",
+   "description": "Latest news, comment and features from The Independent US",
+   "category": "News",
+   "confidence": 0.74,
+   "tags": [],
+   "fingerprint": "theindependentlatestnewscommentandfeaturesfromtheindependentus",
+   "screenshot_file": "41400b9c47c22af5d80c.jpg"
+  },
+  {
+   "url": "https://getkavel.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "getkavel.com"
+   ],
+   "lang": "en",
+   "load_time": 0.15,
+   "https": true,
+   "words": 434,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Kavel",
+   "description": "AI agents are starting to research, compare and buy for people and businesses. Kavel builds simple tools that get your business ready for them.",
+   "category": "Tools",
+   "confidence": 0.52,
+   "tags": [
+    "Business"
+   ],
+   "fingerprint": "kavelaiagentsarestartingtoresearchcompareandbuyforpeopleandbusinessesk",
+   "screenshot_file": "15aa05e1ee9fd80637cb.jpg"
+  },
+  {
+   "url": "https://usejog.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "usejog.com"
+   ],
+   "lang": "en",
+   "load_time": 0.18,
+   "https": true,
+   "words": 339,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "Jog",
+   "description": "Change runs-on to jog and pay 80% less. GitHub Actions runners for private repositories at $0.0012 a minute for 2 vCPUs, against GitHub's $0.006.",
+   "category": "Random",
+   "confidence": 0,
+   "tags": [],
+   "fingerprint": "jogchangerunsontojogandpay80lessgithubactionsrunnersforprivaterepos",
+   "screenshot_file": "c761fd76b1b4009d6c52.jpg"
+  },
+  {
+   "url": "https://blog.piotrnalepa.pl",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "blog.piotrnalepa.pl"
+   ],
+   "lang": "pl",
+   "load_time": 0.59,
+   "https": true,
+   "words": 502,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Piotr Nalepa",
+   "description": "Stack trace z produkcji, fragment kodu klienta, mail z wymaganiami do streszczenia. Każdą z tych rzeczy można w kilka sekund wkleić do czatu z AI i w tym samym momencie",
+   "category": "Technology",
+   "confidence": 0.68,
+   "tags": [],
+   "fingerprint": "piotrnalepastacktracezprodukcjifragmentkoduklientamailzwymaganiamidostreszczen",
+   "screenshot_file": "c5c7c4c2345ee00b3471.jpg"
+  },
+  {
+   "url": "https://liquid.ai",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "liquid.ai"
+   ],
+   "lang": "en",
+   "load_time": 0.49,
+   "https": true,
+   "words": 1095,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "Liquid AI",
+   "description": "Liquid AI builds efficient Liquid Foundation Models (LFMs) for on-device, edge, and cloud AI with low latency, privacy, and hardware-aware deployment.",
+   "category": "Technology",
+   "confidence": 0.95,
+   "tags": [],
+   "fingerprint": "liquidailiquidaibuildsefficientliquidfoundationmodelslfmsforondeviceedge",
+   "screenshot_file": "24973cf33fc31af274ad.jpg"
+  },
+  {
+   "url": "https://giotto.ai",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "giotto.ai"
+   ],
+   "lang": "en",
+   "load_time": 0.21,
+   "https": true,
+   "words": 621,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Giotto",
+   "description": "Intelligence You Control. Hosted in Europe.",
+   "category": "Technology",
+   "confidence": 0.67,
+   "tags": [],
+   "fingerprint": "giottointelligenceyoucontrolhostedineurope",
+   "screenshot_file": "35d40eef045fa9d004dc.jpg"
+  },
+  {
+   "url": "https://trychannel3.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "trychannel3.com"
+   ],
+   "lang": "en",
+   "load_time": 0.16,
+   "https": true,
+   "words": 192,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "Channel3",
+   "description": "One product graph for developers, brands, and enterprises. Access 100M+ products, publish to AI shopping applications, or power experiences without building the infrastructure.",
+   "category": "Developer",
+   "confidence": 0.56,
+   "tags": [
+    "Technology",
+    "Business"
+   ],
+   "fingerprint": "channel3oneproductgraphfordevelopersbrandsandenterprisesaccess100mproducts",
+   "screenshot_file": "7c3c1d31aceb3b85ee77.jpg"
+  },
+  {
+   "url": "https://snippet.wacht.dev",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "snippet.wacht.dev"
+   ],
+   "lang": "en",
+   "load_time": 0.32,
+   "https": true,
+   "words": 477,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Snippet",
+   "description": "Snippet is an open-source team of coding agents that runs on your computer. Ask from your phone, desktop or terminal; Mission Control hands the work out and brings back what's done.",
+   "category": "Developer",
+   "confidence": 0.75,
+   "tags": [],
+   "fingerprint": "snippetsnippetisanopensourceteamofcodingagentsthatrunsonyourcomputerask",
+   "screenshot_file": "71c2aef97fa6dc70caf2.jpg"
+  },
+  {
+   "url": "https://simonwillison.net",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "simonwillison.net"
+   ],
+   "lang": "en",
+   "load_time": 0.45,
+   "https": true,
+   "words": 3001,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Simon Willison's Weblog",
+   "description": "GPT-6.1 Terra (via) It's always interesting to note which aspects of a new model are emphasized in the release announcement.",
+   "category": "Personal",
+   "confidence": 0.66,
+   "tags": [
+    "Developer"
+   ],
+   "fingerprint": "simonwillisonswebloggpt61terraviaitsalwaysinterestingtonotewhichaspectsofanewmodel",
+   "screenshot_file": "cc10c2d73d7140bbbdef.jpg"
+  },
+  {
+   "url": "https://healeycodes.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "healeycodes.com"
+   ],
+   "lang": "en",
+   "load_time": 0.08,
+   "https": true,
+   "words": 640,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Andrew Healey",
+   "description": "Andrew Healey's blog and personal website. Software engineer, writer, creator.",
+   "category": "Developer",
+   "confidence": 0.57,
+   "tags": [
+    "Personal"
+   ],
+   "fingerprint": "andrewhealeyandrewhealeysblogandpersonalwebsitesoftwareengineerwritercreator",
+   "screenshot_file": "76df566a71ecdedb0928.jpg"
+  },
+  {
+   "url": "https://replicated.live",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "replicated.live"
+   ],
+   "lang": "en",
+   "load_time": 0.15,
+   "https": true,
+   "words": 192,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Beagle wiki",
+   "description": "Beagle: git-compatible LLM-age source code management system. Project management docs.",
+   "category": "Developer",
+   "confidence": 0.74,
+   "tags": [],
+   "fingerprint": "beaglewikibeaglegitcompatiblellmagesourcecodemanagementsystemprojectmanagement",
+   "screenshot_file": "e9a625d37db4366d8836.jpg"
+  },
+  {
+   "url": "https://gracefulliberty.com",
+   "source": "lobsters",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "gracefulliberty.com"
+   ],
+   "lang": "en",
+   "load_time": 0.46,
+   "https": true,
+   "words": 149,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Anna Liberty",
+   "description": "I'm a physics and applied computing student focused on making software more understandable. Feel free to reach out or learn more about me.",
+   "category": "Personal",
+   "confidence": 0.77,
+   "tags": [],
+   "fingerprint": "annalibertyimaphysicsandappliedcomputingstudentfocusedonmakingsoftwaremoreunde",
+   "screenshot_file": "317239cfe4fb473e0ca2.jpg"
+  },
+  {
+   "url": "https://alphapixeldev.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "alphapixeldev.com"
+   ],
+   "lang": "en",
+   "load_time": 0.18,
+   "https": true,
+   "words": 991,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "AlphaPixel Software Development",
+   "description": "AlphaPixel is a veteran OpenGL, Vulkan and OpenSceneGraph software development firm solving hard 3D graphics, simulation and GPU performance problems since 2004.",
+   "category": "Developer",
+   "confidence": 0.52,
+   "tags": [
+    "Business",
+    "Technology"
+   ],
+   "fingerprint": "alphapixelsoftwaredevelopmentalphapixelisaveteranopenglvulkanandopenscenegraphsoftwaredevelopmentf",
+   "screenshot_file": "06230bb13bb8082d75d8.jpg"
+  },
+  {
+   "url": "https://redmonk.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "redmonk.com"
+   ],
+   "lang": "en",
+   "load_time": 0.21,
+   "https": true,
+   "words": 377,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "RedMonk",
+   "description": "The developer-focused analyst firm",
+   "category": "Developer",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "redmonkthedeveloperfocusedanalystfirm",
+   "screenshot_file": "20480b56b0522f95ab8c.jpg"
+  },
+  {
+   "url": "https://getclonecode.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "getclonecode.com"
+   ],
+   "lang": "en",
+   "load_time": 0.32,
+   "https": true,
+   "words": 1168,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "Clonecode",
+   "description": "Paste a URL and get a kit for your AI: a mirror that runs with one double-click, DESIGN.md with the exact colors, fonts and spacing, and prompts for Claude Code, Cursor, Lovable and v0.",
+   "category": "Developer",
+   "confidence": 0.56,
+   "tags": [
+    "Business",
+    "Technology"
+   ],
+   "fingerprint": "clonecodepasteaurlandgetakitforyouraiamirrorthatrunswithonedoubleclick",
+   "screenshot_file": "668da8f865e4df4eb733.jpg"
+  },
+  {
+   "url": "https://tanstack.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "tanstack.com"
+   ],
+   "lang": "en",
+   "load_time": 0.41,
+   "https": true,
+   "words": 380,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "TanStack",
+   "description": "Headless, type-safe, composable tools for building modern web applications that work naturally for developers and reliably for agents.",
+   "category": "Developer",
+   "confidence": 0.77,
+   "tags": [],
+   "fingerprint": "tanstackheadlesstypesafecomposabletoolsforbuildingmodernwebapplicationsthat",
+   "screenshot_file": "3ecea9e30c78f53d44c9.jpg"
+  },
+  {
+   "url": "https://crulon.ai",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "crulon.ai"
+   ],
+   "lang": "en",
+   "load_time": 0.28,
+   "https": true,
+   "words": 1301,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "Crulon",
+   "description": "An AI agent answers your business line, does the work, and hands the call to your team, who see every live call and can take over. From $24 a seat.",
+   "category": "Business",
+   "confidence": 0.8,
+   "tags": [],
+   "fingerprint": "crulonanaiagentanswersyourbusinesslinedoestheworkandhandsthecalltoyou",
+   "screenshot_file": "108828c6c39f2949722e.jpg"
+  },
+  {
+   "url": "https://tailworm.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "tailworm.com"
+   ],
+   "lang": "en",
+   "load_time": 0.29,
+   "https": true,
+   "words": 3015,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Tailworm",
+   "description": "Updated 2026-10-27. The researchers thank Tailscale Inc. for a rapid and substantive response to this report.",
+   "category": "Developer",
+   "confidence": 0.56,
+   "tags": [
+    "Business"
+   ],
+   "fingerprint": "tailwormupdated20261027theresearchersthanktailscaleincforarapidandsubstan",
+   "screenshot_file": "4e49b7c4e0a4d92b7f71.jpg"
+  },
+  {
+   "url": "https://equireason.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "equireason.com"
+   ],
+   "lang": "en",
+   "load_time": 0.36,
+   "https": true,
+   "words": 1374,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "EquiReason",
+   "description": "An entire research department running as software: it reads every SEC filing, traces what is changing to the companies it reaches, and holds a verdict on each.",
+   "category": "Science",
+   "confidence": 0.7,
+   "tags": [],
+   "fingerprint": "equireasonanentireresearchdepartmentrunningassoftwareitreadseverysecfilingtr",
+   "screenshot_file": "bcc14675eea3d2a2ba79.jpg"
+  },
+  {
+   "url": "https://pokerbot.sequoiacap.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "pokerbot.sequoiacap.com"
+   ],
+   "lang": "en",
+   "load_time": 0.66,
+   "https": true,
+   "words": 662,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "No Limit",
+   "description": "No Limit is a pokerbot building tournament for university students and '25/'26 grads, hosted by Sequoia, Citadel Securities and OpenAI. 60 minutes to build, thousands of games, $100K grand prize.",
+   "category": "Education",
+   "confidence": 0.56,
+   "tags": [
+    "Games"
+   ],
+   "fingerprint": "nolimitnolimitisapokerbotbuildingtournamentforuniversitystudentsand2526g",
+   "screenshot_file": "ae3d5059dffb98fbcaa5.jpg"
+  },
+  {
+   "url": "https://feaefe371424d0725b266468856c9101.ctonew.app",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "feaefe371424d0725b266468856c9101.ctonew.app"
+   ],
+   "lang": "en",
+   "load_time": 0.68,
+   "https": true,
+   "words": 1114,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "AuditReady",
+   "description": "AuditReady scans a web page for real accessibility problems and turns them into a white-label report an agency can hand to its client.",
+   "category": "Business",
+   "confidence": 0.92,
+   "tags": [],
+   "fingerprint": "auditreadyauditreadyscansawebpageforrealaccessibilityproblemsandturnstheminto",
+   "screenshot_file": "a8249ca7aef14e196c68.jpg"
+  },
+  {
+   "url": "https://boardflight.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "boardflight.com"
+   ],
+   "lang": "en",
+   "load_time": 0.3,
+   "https": true,
+   "words": 512,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "BoardFlight",
+   "description": "Not boarding time: the time to get to the airport. Enter a US flight number for one arrive-by time built for that airport, terminal and hour.",
+   "category": "Developer",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "boardflightnotboardingtimethetimetogettotheairportenterausflightnumberfor",
+   "screenshot_file": "9d203afda8ae736da360.jpg"
+  },
+  {
+   "url": "http://corsix.org",
+   "source": "lobsters",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "corsix.org"
+   ],
+   "lang": "en",
+   "load_time": 0.39,
+   "https": false,
+   "words": 3030,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Precedence levels are dead; long live precedence sets",
+   "description": "It was recently pointed out on lobste.rs that Zig has overhauled how its parser does operator precedence.",
+   "category": "Developer",
+   "confidence": 0.52,
+   "tags": [
+    "Games"
+   ],
+   "fingerprint": "precedencelevelsaredeadlongliveprecedencesetsitwasrecentlypointedoutonlobstersthatzighasoverhauledhowitsparser",
+   "screenshot_file": "f9ccaf3f5492a1ac8ff1.jpg"
+  },
+  {
+   "url": "https://futurism.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "futurism.com"
+   ],
+   "lang": "en",
+   "load_time": 0.1,
+   "https": true,
+   "words": 788,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Futurism",
+   "description": "Discover the latest science and technology news on breakthroughs that are shaping the world of tomorrow with Futurism.",
+   "category": "Technology",
+   "confidence": 0.5,
+   "tags": [
+    "News",
+    "Science"
+   ],
+   "fingerprint": "futurismdiscoverthelatestscienceandtechnologynewsonbreakthroughsthatareshapin",
+   "screenshot_file": "d4d4c0fcd2a69ca78a79.jpg"
+  },
+  {
+   "url": "https://withnative.ai",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "withnative.ai"
+   ],
+   "lang": "en",
+   "load_time": 0.42,
+   "https": true,
+   "words": 611,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Native",
+   "description": "As your context grows, Markdown makes agents inaccurate and token-hungry. With Native, your vault moves to SQLite.",
+   "category": "Science",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "nativeasyourcontextgrowsmarkdownmakesagentsinaccurateandtokenhungrywithn",
+   "screenshot_file": "59ec3074234caf9fac45.jpg"
+  },
+  {
+   "url": "https://justinmath.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "justinmath.com"
+   ],
+   "lang": "en",
+   "load_time": 0.28,
+   "https": true,
+   "words": 574,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Justin Skycak",
+   "description": "Chief Quant & Director of Analytics at MathAcademy.com. Built the engine behind the world's most efficient math learning system. Created Fractional Implicit Repetition (FIRe).",
+   "category": "Education",
+   "confidence": 0.71,
+   "tags": [],
+   "fingerprint": "justinskycakchiefquantdirectorofanalyticsatmathacademycombuilttheenginebehind",
+   "screenshot_file": "914c4fe41a5a5e34b229.jpg"
+  },
+  {
+   "url": "https://techrights.org",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "techrights.org"
+   ],
+   "lang": "en",
+   "load_time": 0.74,
+   "https": true,
+   "words": 1242,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Techrights",
+   "description": "Welcome to the current iteration of Techrights, online since 2006 with a major infrastructural upgrade in late 2022. Here you will find our latest posts.",
+   "category": "Personal",
+   "confidence": 0.71,
+   "tags": [],
+   "fingerprint": "techrightswelcometothecurrentiterationoftechrightsonlinesince2006withamajori",
+   "screenshot_file": "1fe31c21989ba9fda6ce.jpg"
+  },
+  {
+   "url": "https://harpers.org",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "harpers.org"
+   ],
+   "lang": "en",
+   "load_time": 0.45,
+   "https": true,
+   "words": 1283,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Harper's Magazine",
+   "description": "Harper's Magazine, the oldest general-interest monthly in America, explores the issues that drive our national conversation, through long-form narrative journalism and essays, and such celebrated…",
+   "category": "News",
+   "confidence": 0.76,
+   "tags": [],
+   "fingerprint": "harpersmagazineharpersmagazinetheoldestgeneralinterestmonthlyinamericaexploresthe",
+   "screenshot_file": "cad0be68c25ec8938bae.jpg"
+  },
+  {
+   "url": "https://blazle.io",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "blazle.io"
+   ],
+   "lang": "en",
+   "load_time": 0.4,
+   "https": true,
+   "words": 1478,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "BLAZLE",
+   "description": "BLAZLE is an in-flight security interceptor for AI agents by Kolerr Lab, Inc., powered by the Blazil engine.",
+   "category": "Technology",
+   "confidence": 0.62,
+   "tags": [
+    "Developer"
+   ],
+   "fingerprint": "blazleblazleisaninflightsecurityinterceptorforaiagentsbykolerrlabincp",
+   "screenshot_file": "66afce3c07af92d706e8.jpg"
+  },
+  {
+   "url": "https://planet.igalia.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "planet.igalia.com"
+   ],
+   "lang": "en",
+   "load_time": 1.72,
+   "https": true,
+   "words": 3027,
+   "embed": false,
+   "safety_checked": "2026-10-27",
+   "title": "Planet Igalia",
+   "description": "Update on what happened in WebKit in the week from October 19 to October 26.",
+   "category": "Science",
+   "confidence": 0.65,
+   "tags": [],
+   "fingerprint": "planetigaliaupdateonwhathappenedinwebkitintheweekfromoctober19tooctober26",
+   "screenshot_file": "d000ae1a3dbe05b68e98.jpg"
+  },
+  {
+   "url": "https://opencomply.thecompound.tech",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "opencomply.thecompound.tech"
+   ],
+   "lang": "en",
+   "load_time": 0.51,
+   "https": true,
+   "words": 1726,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "OpenComply",
+   "description": "OpenComply reads the documents you upload and drafts each section of the filing. Every sentence cites the page it came from. Nothing is filed until your reviewer approves it.",
+   "category": "Business",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "opencomplyopencomplyreadsthedocumentsyouuploadanddraftseachsectionofthefiling",
+   "screenshot_file": "68e7dfce357611068ee9.jpg"
+  },
+  {
+   "url": "https://alsterrunde.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "alsterrunde.com"
+   ],
+   "lang": "en",
+   "load_time": 0.11,
+   "https": true,
+   "words": 729,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Alsterrunde – Hamburg City Newsletter",
+   "description": "A local's take on Hamburg city life, from local politics to everyday moments, new discoveries, hidden gems, and the latest from the Franzbrötchen app.",
+   "category": "Personal",
+   "confidence": 0.62,
+   "tags": [
+    "News"
+   ],
+   "fingerprint": "alsterrundehamburgcitynewsletteralocalstakeonhamburgcitylifefromlocalpoliticstoeverydaymomentsne",
+   "screenshot_file": "e7df6534e73f2403ab02.jpg"
+  },
+  {
+   "url": "https://tapemusicsuite.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "tapemusicsuite.com"
+   ],
+   "lang": "en",
+   "load_time": 0.16,
+   "https": true,
+   "words": 851,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Tape Music Suite",
+   "description": "An advanced, cohesive library manager and personal streaming server for the collection on your desktop or NAS.",
+   "category": "Art",
+   "confidence": 0.69,
+   "tags": [],
+   "fingerprint": "tapemusicsuiteanadvancedcohesivelibrarymanagerandpersonalstreamingserverforthecoll",
+   "screenshot_file": "c144c9e19e0d60ef35b2.jpg"
+  },
+  {
+   "url": "https://idratherbewriting.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "idratherbewriting.com"
+   ],
+   "lang": "en",
+   "load_time": 0.24,
+   "https": true,
+   "words": 2368,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "I'd Rather Be Writing Blog and API doc course",
+   "description": "{% for post in paginator.posts %} {{ post.title }} {{ post.date | date:",
+   "category": "Personal",
+   "confidence": 0.74,
+   "tags": [],
+   "fingerprint": "idratherbewritingblogandapidoccourseforpostinpaginatorpostsposttitlepostdatedate",
+   "screenshot_file": "820772c42e2d7f3853a9.jpg"
+  },
+  {
+   "url": "https://cloudsleuth.io",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "cloudsleuth.io"
+   ],
+   "lang": "en",
+   "load_time": 0.27,
+   "https": true,
+   "words": 2166,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Cloud Sleuth",
+   "description": "Cloud Sleuth maps your AWS and Azure accounts, finds the owner of every resource even when it isn't tagged, and shows what's safe to remove. Free CLI, flat-priced Cloud.",
+   "category": "Technology",
+   "confidence": 0.83,
+   "tags": [],
+   "fingerprint": "cloudsleuthcloudsleuthmapsyourawsandazureaccountsfindstheownerofeveryresource",
+   "screenshot_file": "b50bd220f9c7afdaee56.jpg"
+  },
+  {
+   "url": "https://techpolicy.press",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "techpolicy.press"
+   ],
+   "lang": "en",
+   "load_time": 0.42,
+   "https": true,
+   "words": 401,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Tech Policy Press",
+   "description": "Tech Policy Press is a nonprofit media and community venture intended to provoke new ideas, debate and discussion at the intersection of technology and democracy. We publish opinion and analysis.",
+   "category": "Technology",
+   "confidence": 0.54,
+   "tags": [
+    "Communities"
+   ],
+   "fingerprint": "techpolicypresstechpolicypressisanonprofitmediaandcommunityventureintendedtoprovoke",
+   "screenshot_file": "be5bc00d7d6d558f5ce2.jpg"
+  },
+  {
+   "url": "https://blog.invisiblethings.org",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "blog.invisiblethings.org"
+   ],
+   "lang": "?",
+   "load_time": 0.26,
+   "https": true,
+   "words": 1153,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "The Invisible Things Blog",
+   "description": "My personal blog and website (see",
+   "category": "Personal",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "theinvisiblethingsblogmypersonalblogandwebsitesee",
+   "screenshot_file": "bf74306d9d66beab0ddf.jpg"
+  },
+  {
+   "url": "https://silverlang.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "silverlang.com"
+   ],
+   "lang": "en",
+   "load_time": 0.4,
+   "https": true,
+   "words": 314,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "Silver",
+   "description": "Start coding in interpreted mode for rapid development, then seamlessly scale to compiled mode - without changing languages.",
+   "category": "Developer",
+   "confidence": 0.88,
+   "tags": [],
+   "fingerprint": "silverstartcodingininterpretedmodeforrapiddevelopmentthenseamlesslyscaleto",
+   "screenshot_file": "073769bc0254c89fb63a.jpg"
+  },
+  {
+   "url": "https://blog.yaso.is",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-27",
+   "checked": "2026-10-27",
+   "fails": 0,
+   "aliases": [
+    "blog.yaso.is"
+   ],
+   "lang": "en",
+   "load_time": 0.71,
+   "https": true,
+   "words": 593,
+   "embed": true,
+   "safety_checked": "2026-10-27",
+   "title": "pckt",
+   "description": "Brazil's Central Bank, the Banco Central do Brasil (BCB), is responsible for Pix. It is the country's instant payment rail, launched in November 2020, that reduced peer-to-peer transaction costs to",
+   "category": "Random",
+   "confidence": 0.5,
+   "tags": [],
+   "fingerprint": "pcktbrazilscentralbankthebancocentraldobrasilbcbisresponsibleforpix",
+   "screenshot_file": "41ccc0c42153a3db262a.jpg"
   }
  ]
 }
