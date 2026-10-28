@@ -41,7 +41,7 @@
   const next=$('#sb-next');next.onclick=null;
   next.addEventListener('click',()=>{if(!J){explore();stumble(current);return}
     J.i++;progress[J.k]=J.i;store.set('journeys',progress);
-    if(J.i>=J.stops.length){notice(`🎉 You finished “${J.t.name}”!`);J=null;$('#sb-close').click();return}step()});
+    if(J.i>=J.stops.length){store.set('trails_done',store.get('trails_done',0)+1);notice(`🎉 You finished “${J.t.name}”!`);J=null;$('#sb-close').click();return}step()});
   $('#sb-close').addEventListener('click',()=>{J=null;$('#sb-next').textContent='NEXT →';if(location.hash==='#journeys')renderJourneys()});
   window.addEventListener('hashchange',()=>{if(location.hash==='#journeys')renderJourneys()});
   // Wait for the website data, then restore the warp and paint the trails

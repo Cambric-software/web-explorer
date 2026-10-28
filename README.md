@@ -82,6 +82,8 @@ Built by **Cambric Software & Hardware Studios**. Founder: Asser Karim.
 - **Galaxy map**: every website is a star, grouped into constellations by
   category. Drag, zoom, and click a star to visit it.
 - **Hall of Fame · Top 25**: a personal ranking from your own votes, and a
+- **Arcade Mode** — optional little 8-bit sound effects for exploring, voting and saving (turn on in Settings; sounds are made in your browser, no files).
+- **Explorer Passport & Badges** — a personal passport page with your rank, stats, category stamps and 16 badges to unlock. Stored only in your browser.
   global ranking. Visitors share their votes with one click (a pre-filled
   GitHub issue titled `Votes: …`); the robot counts one vote set per GitHub
   account every hour into `docs/data/votes.json`.

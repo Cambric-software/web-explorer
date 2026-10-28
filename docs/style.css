@@ -61,3 +61,11 @@ html.era-web2 .big,html.era-web2 .sb-next{background:linear-gradient(#7db8ff,#2f
 .fame-rank{font-family:"Space Grotesk",sans-serif;font-weight:700;font-size:1.3rem;width:52px;color:var(--acc)}
 .fame-info{flex:1;display:flex;flex-direction:column;min-width:0}.fame-info b{font-family:"Space Grotesk",sans-serif}
 .fame-score{font-family:"Space Grotesk",sans-serif;color:var(--muted);white-space:nowrap;font-size:.9rem}
+/* Explorer Passport */
+.passport-card{border:1px solid var(--line);border-radius:var(--radius);background:var(--card);padding:20px;margin:12px 0 24px;max-width:900px}
+.passport-head{display:flex;gap:20px;align-items:center;justify-content:space-between;flex-wrap:wrap}.passport-head h3{margin:4px 0;font-size:1.8rem}
+.passport-seal{width:110px;height:110px;border-radius:50%;border:3px dashed var(--acc);color:var(--acc);display:flex;flex-direction:column;align-items:center;justify-content:center;font-family:"Space Grotesk",sans-serif;font-size:2rem;font-weight:700;transform:rotate(-8deg)}
+.passport-seal span{font-size:.7rem;font-weight:400}
+.badges{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:12px;margin:12px 0}
+.badge{border:1px solid var(--line);border-radius:var(--radius);padding:14px;display:flex;flex-direction:column;gap:4px;opacity:.55;font-size:.85rem}
+.badge.got{opacity:1;border-color:var(--acc)}.badge b{font-family:"Space Grotesk",sans-serif;font-size:1rem}.badge-icon{font-size:1.8rem}
