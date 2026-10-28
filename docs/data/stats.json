@@ -1,24 +1,24 @@
 {
- "total": 701,
+ "total": 762,
  "dead": 1,
  "flagged": 1,
- "runs": 11,
- "last_run": "2026-10-28T18:54:17Z",
- "found_last_run": 69,
+ "runs": 12,
+ "last_run": "2026-10-28T23:16:52Z",
+ "found_last_run": 61,
  "beta": true,
  "categories": {
-  "Technology": 123,
-  "Art": 11,
-  "Developer": 141,
-  "Games": 17,
-  "Tools": 60,
-  "Education": 32,
-  "Personal": 71,
-  "News": 52,
-  "Random": 85,
-  "Science": 38,
-  "Business": 52,
-  "Retro": 4,
+  "Technology": 129,
+  "Art": 13,
+  "Developer": 152,
+  "Games": 19,
+  "Tools": 66,
+  "Education": 33,
+  "Personal": 80,
+  "News": 58,
+  "Random": 92,
+  "Science": 42,
+  "Business": 58,
+  "Retro": 5,
   "Communities": 15
  },
  "bot_version": 3,
@@ -77,9 +77,37 @@
    "date": "2026-10-28",
    "added": 69,
    "total": 701
+  },
+  {
+   "date": "2026-10-28",
+   "added": 61,
+   "total": 762
   }
  ],
  "runs_log": [
+  {
+   "started": "2026-10-28T23:16:52Z",
+   "rejected": {
+    "too little content": 22,
+    "unreachable": 12,
+    "duplicate": 3,
+    "parked": 2
+   },
+   "duplicates_removed": 0,
+   "sources": {
+    "hacker news": 88,
+    "lobsters": 3
+   },
+   "candidates": 100,
+   "deep_links": 43,
+   "added": 61,
+   "rechecked": 80,
+   "stale_rechecked": 0,
+   "newly_dead": 0,
+   "flagged": 0,
+   "malware_list": 0,
+   "archive_years": 20
+  },
   {
    "started": "2026-10-28T18:54:17Z",
    "rejected": {
