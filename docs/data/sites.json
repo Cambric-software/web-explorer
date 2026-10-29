@@ -1,4 +1,2398 @@
 {
  "beta_start": "2026-10-29",
- "sites": []
+ "sites": [
+  {
+   "url": "https://strictllm.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "strictllm.com"
+   ],
+   "lang": "en",
+   "load_time": 0.34,
+   "https": true,
+   "words": 991,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Tailwind",
+    "Hand-coded"
+   ],
+   "title": "StrictLLM",
+   "description": "StrictLLM is the best LLM client for secure AI chat with persona orchestration, sandboxed MCP servers, and fine-grained permission controls.",
+   "category": "Technology",
+   "confidence": 0.71,
+   "tags": [],
+   "fingerprint": "strictllmstrictllmisthebestllmclientforsecureaichatwithpersonaorchestration",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-10-29",
+   "first_seen": 2024,
+   "screenshot_file": "6cc525c9f6cb42c76f71.jpg"
+  },
+  {
+   "url": "https://ourspacevibes.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "ourspacevibes.com"
+   ],
+   "lang": "en",
+   "load_time": 0.61,
+   "https": true,
+   "words": 40,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "React"
+   ],
+   "title": "OurSpace — The MySpace Alternative",
+   "description": "Miss MySpace? OurSpace brings it back, better — design your own profile, set your Top 8, add a profile anthem, and scroll a chronological feed with no algorithms. Join free.",
+   "category": "Art",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "ourspacethemyspacealternativemissmyspaceourspacebringsitbackbetterdesignyourownprofilesetyou",
+   "vibes": [
+    "artsy",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-29",
+   "first_seen": 2026,
+   "screenshot_file": "5cf85ab57864d497f927.jpg"
+  },
+  {
+   "url": "https://divagr.com",
+   "source": "lobsters",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "divagr.com"
+   ],
+   "lang": "en",
+   "load_time": 0.2,
+   "https": true,
+   "words": 352,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Next.js"
+   ],
+   "title": "Divyansh Agrawal",
+   "description": "Research notes and experiments on machine learning systems, reinforcement learning, evaluations, and language models.",
+   "category": "Education",
+   "confidence": 0.53,
+   "tags": [
+    "Science",
+    "Technology"
+   ],
+   "fingerprint": "divyanshagrawalresearchnotesandexperimentsonmachinelearningsystemsreinforcementlearni",
+   "vibes": [
+    "nerdy"
+   ],
+   "archive_checked": "2026-10-29",
+   "first_seen": 2026,
+   "screenshot_file": "bc056450101801e4cf9f.jpg"
+  },
+  {
+   "url": "https://finance.yahoo.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "finance.yahoo.com"
+   ],
+   "lang": "en",
+   "load_time": 0.65,
+   "https": true,
+   "words": 1007,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Svelte"
+   ],
+   "title": "Yahoo Finance",
+   "description": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",
+   "category": "Business",
+   "confidence": 0.56,
+   "tags": [
+    "News"
+   ],
+   "fingerprint": "yahoofinanceatyahoofinanceyougetfreestockquotesuptodatenewsportfoliomanageme",
+   "vibes": [
+    "nerdy"
+   ],
+   "archive_checked": "2026-10-29",
+   "first_seen": 1998,
+   "screenshot_file": "844adf50f74b30951a08.jpg"
+  },
+  {
+   "url": "https://matklad.github.io",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "matklad.github.io"
+   ],
+   "lang": "en",
+   "load_time": 0.13,
+   "https": true,
+   "words": 1420,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "GitHub Pages",
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "title": "matklad",
+   "description": "",
+   "category": "Developer",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-10-29",
+   "first_seen": 2018,
+   "screenshot_file": "ec82226eede5523097c8.jpg"
+  },
+  {
+   "url": "https://runstructure.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "runstructure.com"
+   ],
+   "lang": "en",
+   "load_time": 0.51,
+   "https": true,
+   "words": 1057,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Structure",
+   "description": "Structure is where your company is written down, reviewed and decided, and turned into what every AI tool you use works from.",
+   "category": "Business",
+   "confidence": 0.62,
+   "tags": [
+    "Tools",
+    "Education"
+   ],
+   "fingerprint": "structurestructureiswhereyourcompanyiswrittendownreviewedanddecidedandturne",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-10-29",
+   "first_seen": 2026,
+   "screenshot_file": "51f4d0996d64cf36a08b.jpg"
+  },
+  {
+   "url": "https://memgraph.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "memgraph.com"
+   ],
+   "lang": "en",
+   "load_time": 0.09,
+   "https": true,
+   "words": 756,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Next.js",
+    "Tailwind"
+   ],
+   "title": "Memgraph",
+   "description": "The in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time analytics such as fraud detection. Cypher-compatible and free to start.",
+   "category": "Technology",
+   "confidence": 0.69,
+   "tags": [],
+   "fingerprint": "memgraphtheinmemorygraphdatabaseforgraphragaimemoryagenticaiandrealtime",
+   "vibes": [
+    "nerdy"
+   ],
+   "archive_checked": "2026-10-29",
+   "first_seen": 2013,
+   "screenshot_file": "fc50a2dbe33d75bdef0b.jpg"
+  },
+  {
+   "url": "https://catalogkite.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "catalogkite.com"
+   ],
+   "lang": "en",
+   "load_time": 0.16,
+   "https": true,
+   "words": 1299,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Tailwind",
+    "Hand-coded"
+   ],
+   "title": "CatalogKite",
+   "description": "Make a product catalog, wholesale line sheet or price list in minutes. Download a print-ready PDF or share a link buyers can order from. Free, no signup.",
+   "category": "Tools",
+   "confidence": 0.7,
+   "tags": [],
+   "fingerprint": "catalogkitemakeaproductcatalogwholesalelinesheetorpricelistinminutesdownload",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-10-29",
+   "first_seen": 2026,
+   "screenshot_file": "5ce4dd8a21c72abacc30.jpg"
+  },
+  {
+   "url": "https://trakkr.ai",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "trakkr.ai"
+   ],
+   "lang": "en",
+   "load_time": 0.28,
+   "https": true,
+   "words": 3009,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Trakkr",
+   "description": "Track your visibility, citations, competitors and perception across eight AI models. Ship approved fixes and measure the AI visits and revenue that follow.",
+   "category": "Technology",
+   "confidence": 0.79,
+   "tags": [],
+   "fingerprint": "trakkrtrackyourvisibilitycitationscompetitorsandperceptionacrosseightaimod",
+   "vibes": [
+    "deep read"
+   ],
+   "archive_checked": "2026-10-29",
+   "first_seen": 2025,
+   "screenshot_file": "1020dde4363d8834483a.jpg"
+  },
+  {
+   "url": "https://zodwick.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "zodwick.com"
+   ],
+   "lang": "en",
+   "load_time": 0.39,
+   "https": true,
+   "words": 124,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Astro"
+   ],
+   "title": "zodwick",
+   "description": "Anand (zodwick) — a self-taught developer in Kochi and a founding engineer at getdot.ai, building Dot, an AI data analyst.",
+   "category": "Technology",
+   "confidence": 0.62,
+   "tags": [
+    "Developer"
+   ],
+   "fingerprint": "zodwickanandzodwickaselftaughtdeveloperinkochiandafoundingengineeratge",
+   "vibes": [
+    "nerdy",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-29",
+   "first_seen": 2025,
+   "screenshot_file": "223ce430676315d0e00c.jpg"
+  },
+  {
+   "url": "https://globatics.live",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "globatics.live"
+   ],
+   "lang": "en",
+   "load_time": 0.1,
+   "https": true,
+   "words": 1972,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Next.js",
+    "Tailwind"
+   ],
+   "title": "Globatics",
+   "description": "Real-time, privacy-first analytics on a living globe. Every visitor, click and sale, under a second after it happens.",
+   "category": "Random",
+   "confidence": 0.56,
+   "tags": [],
+   "fingerprint": "globaticsrealtimeprivacyfirstanalyticsonalivingglobeeveryvisitorclickands",
+   "vibes": [
+    "nerdy"
+   ],
+   "archive_checked": "2026-10-29",
+   "first_seen": 2026,
+   "screenshot_file": "9ff94fd05c9f784bba62.jpg"
+  },
+  {
+   "url": "https://smsofdeath.com",
+   "source": "lobsters",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "smsofdeath.com"
+   ],
+   "lang": "en",
+   "load_time": 0.24,
+   "https": true,
+   "words": 1109,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "SMS of Death",
+   "description": "A single malformed WAP Push SMS crashes com.android.phone on Android, dropping calls including emergency calls, with zero interaction from the victim.",
+   "category": "Random",
+   "confidence": 0,
+   "tags": [],
+   "fingerprint": "smsofdeathasinglemalformedwappushsmscrashescomandroidphoneonandroiddroppingc",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "archive_checked": "2026-10-29",
+   "first_seen": 2026,
+   "screenshot_file": "59ce7e1667ec3916583c.jpg"
+  },
+  {
+   "url": "https://scopedb.io",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "scopedb.io"
+   ],
+   "lang": "en",
+   "load_time": 1.01,
+   "https": true,
+   "words": 618,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Next.js"
+   ],
+   "title": "ScopeDB",
+   "description": "Store, search, and analyze all your events in one serverless database.",
+   "category": "Developer",
+   "confidence": 0.54,
+   "tags": [
+    "Business"
+   ],
+   "fingerprint": "scopedbstoresearchandanalyzeallyoureventsinoneserverlessdatabase",
+   "vibes": [],
+   "archive_checked": "2026-10-29",
+   "first_seen": 2024,
+   "screenshot_file": "ab15732c314680cf0c54.jpg"
+  },
+  {
+   "url": "https://deadapis.dev",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "deadapis.dev"
+   ],
+   "lang": "en",
+   "load_time": 0.12,
+   "https": true,
+   "words": 230,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "The API Graveyard",
+   "description": "Here lie the APIs we loved and the integrations that broke us. Light a candle, bury your own integration horror story, and win a $200 gift card this Halloween.",
+   "category": "Developer",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "theapigraveyardherelietheapiswelovedandtheintegrationsthatbrokeuslightacandleb",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-29",
+   "first_seen": 2026,
+   "screenshot_file": "38c6aaca30e2ae2aead0.jpg"
+  },
+  {
+   "url": "https://diffy.run",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "diffy.run"
+   ],
+   "lang": "en",
+   "load_time": 0.56,
+   "https": true,
+   "words": 575,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Diffy",
+   "description": "Diffy is a native Git diff viewer built in Rust with GPUI Kit. Review live changes, keep worktrees together, and read GitHub pull requests without checking out a branch.",
+   "category": "Developer",
+   "confidence": 0.62,
+   "tags": [
+    "Tools"
+   ],
+   "fingerprint": "diffydiffyisanativegitdiffviewerbuiltinrustwithgpuikitreviewlivechang",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "archive_checked": "2026-10-29",
+   "first_seen": 2026,
+   "screenshot_file": "3da39be29f92c706caf9.jpg"
+  },
+  {
+   "url": "https://concordia.davidveksler.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "concordia.davidveksler.com"
+   ],
+   "lang": "en",
+   "load_time": 0.26,
+   "https": true,
+   "words": 755,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Concordia",
+   "description": "Concordia is a rotating space city at Earth-Moon L5, descended from the O'Neill cylinder: four rotor cities, a shipyard and a spaceport on a 21 km axis. Learn how it works, then walk its streets.",
+   "category": "Science",
+   "confidence": 0.63,
+   "tags": [
+    "Education"
+   ],
+   "fingerprint": "concordiaconcordiaisarotatingspacecityatearthmoonl5descendedfromtheoneill",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "archive_checked": "2026-10-29",
+   "first_seen": 2026,
+   "screenshot_file": "4343c7e68a1f5e5c259f.jpg"
+  },
+  {
+   "url": "https://safeguards.anthropic.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "safeguards.anthropic.com"
+   ],
+   "lang": "en",
+   "load_time": 0.24,
+   "https": true,
+   "words": 111,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "title": "Anthropic Safeguards Blog",
+   "description": "Research and notes from Anthropic's Safeguards team.",
+   "category": "Personal",
+   "confidence": 0.68,
+   "tags": [],
+   "fingerprint": "anthropicsafeguardsblogresearchandnotesfromanthropicssafeguardsteam",
+   "vibes": [
+    "nerdy",
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-29",
+   "first_seen": 2026,
+   "screenshot_file": "65bb26d3d5472b634cdc.jpg"
+  },
+  {
+   "url": "https://variety.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "variety.com"
+   ],
+   "lang": "en",
+   "load_time": 0.3,
+   "https": true,
+   "words": 1809,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "WordPress",
+    "jQuery"
+   ],
+   "title": "Variety",
+   "description": "Entertainment news, film reviews, awards, film festivals, box office, entertainment industry conferences",
+   "category": "News",
+   "confidence": 0.86,
+   "tags": [],
+   "fingerprint": "varietyentertainmentnewsfilmreviewsawardsfilmfestivalsboxofficeentertainm",
+   "vibes": [],
+   "archive_checked": "2026-10-29",
+   "first_seen": 1996,
+   "screenshot_file": "6f842de1719bd5fadc09.jpg"
+  },
+  {
+   "url": "https://facetshelf.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "facetshelf.com"
+   ],
+   "lang": "en",
+   "load_time": 0.57,
+   "https": true,
+   "words": 159,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "FacetShelf",
+   "description": "An interesting e-book reader and multilingual reading platform with AI assistance: whole-book translation, bilingual side-by-side, answers anchored to the source.",
+   "category": "Technology",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "facetshelfaninterestingebookreaderandmultilingualreadingplatformwithaiassistanc",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-29",
+   "first_seen": 2026,
+   "screenshot_file": "763152a8d63416f2f1e0.jpg"
+  },
+  {
+   "url": "https://nixtamal.toast.al",
+   "source": "lobsters",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "nixtamal.toast.al"
+   ],
+   "lang": "en",
+   "load_time": 1.68,
+   "https": true,
+   "words": 631,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "title": "Nixtamal",
+   "description": "Automate hashing and pinning of Nix source inputs with a declarative KDL manifest.",
+   "category": "Random",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "nixtamalautomatehashingandpinningofnixsourceinputswithadeclarativekdlmanifes",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-10-29",
+   "first_seen": 2026,
+   "screenshot_file": "58e4c27396978491bf53.jpg"
+  },
+  {
+   "url": "https://coryd.dev",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "coryd.dev"
+   ],
+   "lang": "en",
+   "load_time": 0.68,
+   "https": true,
+   "words": 339,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Cory Dransfeldt",
+   "description": "I'm a software developer in Camarillo, California. I write about software development, technology and music.",
+   "category": "Personal",
+   "confidence": 0.75,
+   "tags": [],
+   "fingerprint": "corydransfeldtimasoftwaredeveloperincamarillocaliforniaiwriteaboutsoftwaredevelo",
+   "vibes": [
+    "artsy",
+    "handmade"
+   ],
+   "archive_checked": "2026-10-29",
+   "screenshot_file": "05e005a390a915736e77.jpg"
+  },
+  {
+   "url": "https://nostringtheory.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "nostringtheory.com"
+   ],
+   "lang": "en",
+   "load_time": 0.41,
+   "https": true,
+   "words": 233,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Tailwind",
+    "Hand-coded"
+   ],
+   "title": "No String Theory",
+   "description": "No String Theory sells air guitars that ship in empty boxes — an absurd experiment in e-commerce, AI, and existential dread. That's the joke.",
+   "category": "Science",
+   "confidence": 0.5,
+   "tags": [
+    "Business"
+   ],
+   "fingerprint": "nostringtheorynostringtheorysellsairguitarsthatshipinemptyboxesanabsurdexperime",
+   "vibes": [
+    "weird",
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-29",
+   "screenshot_file": "02975b05bc97b97d312e.jpg"
+  },
+  {
+   "url": "https://withpanta.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "withpanta.com"
+   ],
+   "lang": "en",
+   "load_time": 1.54,
+   "https": true,
+   "words": 538,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Panta",
+   "description": "Find your next role in Panta's Swiss job index. Turn your experience into a tailored CV and cover letter, and keep every application moving.",
+   "category": "Random",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "pantafindyournextroleinpantasswissjobindexturnyourexperienceintoatail",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-10-29",
+   "screenshot_file": "7e7078fbf05c91a3ab4e.jpg"
+  },
+  {
+   "url": "https://skypilot.ai",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "skypilot.ai"
+   ],
+   "lang": "en",
+   "load_time": 0.14,
+   "https": true,
+   "words": 1252,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Next.js",
+    "Tailwind"
+   ],
+   "title": "SkyPilot",
+   "description": "Your AI infrastructure, frontier velocity. The AI Compute Platform that turns your fragmented AI compute into frontier intelligence.",
+   "category": "Technology",
+   "confidence": 0.83,
+   "tags": [],
+   "fingerprint": "skypilotyouraiinfrastructurefrontiervelocitytheaicomputeplatformthatturnsyo",
+   "vibes": [],
+   "archive_checked": "2026-10-29",
+   "screenshot_file": "cbc1c32f0ee8ee4cbc91.jpg"
+  },
+  {
+   "url": "https://lagomor.ph",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "lagomor.ph"
+   ],
+   "lang": "en",
+   "load_time": 0.21,
+   "https": true,
+   "words": 528,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Lagomorph",
+   "description": "Personal blog of Alex S. — writing about technology, languages, and the web.",
+   "category": "Personal",
+   "confidence": 0.8,
+   "tags": [],
+   "fingerprint": "lagomorphpersonalblogofalexswritingabouttechnologylanguagesandtheweb",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-10-29",
+   "screenshot_file": "41086c82c381d0b6d076.jpg"
+  },
+  {
+   "url": "https://regbase.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "regbase.com"
+   ],
+   "lang": "en",
+   "load_time": 0.17,
+   "https": true,
+   "words": 1431,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Astro",
+    "Tailwind"
+   ],
+   "title": "Regbase",
+   "description": "Regbase is a regulatory horizon scanning and grant availability tracking tool, designed for lawyers, researchers, and companies that sell to the government.",
+   "category": "Tools",
+   "confidence": 0.53,
+   "tags": [
+    "Science",
+    "Technology"
+   ],
+   "fingerprint": "regbaseregbaseisaregulatoryhorizonscanningandgrantavailabilitytrackingtoold",
+   "vibes": [
+    "nerdy"
+   ],
+   "archive_checked": "2026-10-29",
+   "screenshot_file": "47b10af30d3e6e23908c.jpg"
+  },
+  {
+   "url": "https://asashepard.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "asashepard.com"
+   ],
+   "lang": "en",
+   "load_time": 0.27,
+   "https": true,
+   "words": 521,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Asa Shepard",
+   "description": "Researcher and Co-Founder of Sediment. Essays and research on language models, memory, and autonomous agents.",
+   "category": "Science",
+   "confidence": 0.5,
+   "tags": [
+    "Personal"
+   ],
+   "fingerprint": "asashepardresearcherandcofounderofsedimentessaysandresearchonlanguagemodelsm",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "archive_checked": "2026-10-29",
+   "screenshot_file": "dea1b486cbf373d4f83a.jpg"
+  },
+  {
+   "url": "https://iptrust.co",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "iptrust.co"
+   ],
+   "lang": "en",
+   "load_time": 0.93,
+   "https": true,
+   "words": 940,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "IP Trust",
+   "description": "Accurate IP intelligence via API and database downloads. Detect VPNs, proxies, and bots. Enrich IP data with geolocation, ASN, and company info. EU-hosted. Start free.",
+   "category": "Developer",
+   "confidence": 0.64,
+   "tags": [
+    "Business"
+   ],
+   "fingerprint": "iptrustaccurateipintelligenceviaapianddatabasedownloadsdetectvpnsproxiesa",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "archive_checked": "2026-10-29",
+   "screenshot_file": "5d241323ea91714e33e0.jpg"
+  },
+  {
+   "url": "https://pressaudit.org",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "pressaudit.org"
+   ],
+   "lang": "en",
+   "load_time": 0.64,
+   "https": true,
+   "words": 270,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "PressAudit",
+   "description": "Compare how major news outlets cover the same stories. Coverage heatmaps, side-by-side viewpoints, underreported news, and alignment patterns, news structured for the overload era.",
+   "category": "News",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "pressauditcomparehowmajornewsoutletscoverthesamestoriescoverageheatmapssideb",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-29",
+   "screenshot_file": "bf1af4fbdf21a184dab0.jpg"
+  },
+  {
+   "url": "https://kadoa.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "kadoa.com"
+   ],
+   "lang": "en",
+   "load_time": 1.45,
+   "https": true,
+   "words": 1120,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Next.js",
+    "Tailwind"
+   ],
+   "title": "Kadoa",
+   "description": "Kadoa is the web data layer for finance. Our AI agents build, monitor, and maintain mission-critical web data pipelines that produce verified datasets for investors.",
+   "category": "Business",
+   "confidence": 0.79,
+   "tags": [],
+   "fingerprint": "kadoakadoaisthewebdatalayerforfinanceouraiagentsbuildmonitorandmaint",
+   "vibes": [
+    "nerdy"
+   ],
+   "archive_checked": "2026-10-29",
+   "screenshot_file": "b565c4be19187880bce5.jpg"
+  },
+  {
+   "url": "https://logfolio.co",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "logfolio.co"
+   ],
+   "lang": "en",
+   "load_time": 1.14,
+   "https": true,
+   "words": 1005,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Next.js",
+    "Tailwind"
+   ],
+   "title": "Logfolio",
+   "description": "Keep track of books, films, TV shows, games, music, gear, projects and collections. Import your history from 21 apps and share everything on one page.",
+   "category": "Games",
+   "confidence": 0.61,
+   "tags": [
+    "Tools",
+    "Business"
+   ],
+   "fingerprint": "logfoliokeeptrackofbooksfilmstvshowsgamesmusicgearprojectsandcollectio",
+   "vibes": [
+    "playful",
+    "artsy"
+   ],
+   "archive_checked": "2026-10-29",
+   "screenshot_file": "47f66801798fa2c22ef9.jpg"
+  },
+  {
+   "url": "https://thenation.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "thenation.com"
+   ],
+   "lang": "en",
+   "load_time": 0.2,
+   "https": true,
+   "words": 1231,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "WordPress",
+    "jQuery"
+   ],
+   "title": "The Nation",
+   "description": "Sure, a Democratic win next Tuesday would be a relief—but we still need to repudiate all facets of MAGA authoritarianism.",
+   "category": "Random",
+   "confidence": 0,
+   "tags": [],
+   "fingerprint": "thenationsureademocraticwinnexttuesdaywouldbeareliefbutwestillneedtorepud",
+   "vibes": [],
+   "archive_checked": "2026-10-29",
+   "screenshot_file": "3617a59f4cc34429ff1a.jpg"
+  },
+  {
+   "url": "https://jules.google",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "jules.google"
+   ],
+   "lang": "en",
+   "load_time": 0.24,
+   "https": true,
+   "words": 344,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Astro",
+    "React",
+    "Tailwind"
+   ],
+   "title": "Jules",
+   "description": "Jules is an Autonomous agent that gets out of your way. It lets you focus on the coding you want to do, meanwhile picking up all the other random tasks that you rather not do.",
+   "category": "Developer",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "julesjulesisanautonomousagentthatgetsoutofyourwayitletsyoufocusonthe",
+   "vibes": [],
+   "archive_checked": "2026-10-29",
+   "screenshot_file": "eb99861dd6494a53089b.jpg"
+  },
+  {
+   "url": "https://decode.bg",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "decode.bg"
+   ],
+   "lang": "en",
+   "load_time": 0.19,
+   "https": true,
+   "words": 62,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Extract text from images",
+   "description": "Turn photos and screenshots into editable text. Upload, drop or paste an image to get started.",
+   "category": "Random",
+   "confidence": 0,
+   "tags": [],
+   "fingerprint": "extracttextfromimagesturnphotosandscreenshotsintoeditabletextuploaddroporpasteanimaget",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-29",
+   "screenshot_file": "6f3dcf5747ac82fa8afd.jpg"
+  },
+  {
+   "url": "https://boil.brint.dev",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "boil.brint.dev"
+   ],
+   "lang": "en",
+   "load_time": 0.25,
+   "https": true,
+   "words": 332,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Tailwind",
+    "Hand-coded"
+   ],
+   "title": "Boil",
+   "description": "Drop in your SVG, pick how it moves, and download it. Use it as a Lottie on your website or in your app, or share it as a GIF or video.",
+   "category": "Tools",
+   "confidence": 0.76,
+   "tags": [],
+   "fingerprint": "boildropinyoursvgpickhowitmovesanddownloadituseitasalottieonyour",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-10-29",
+   "screenshot_file": "b1d8341184b5e0698161.jpg"
+  },
+  {
+   "url": "https://mit.teil.space",
+   "source": "lobsters",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "mit.teil.space"
+   ],
+   "lang": "en",
+   "load_time": 0.94,
+   "https": true,
+   "words": 338,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "title": "mit.teil.space A Guix' blog",
+   "description": "Somewhere in our struggles for ideological superiority we lost track, got lost, forgot about the essence of community.",
+   "category": "Personal",
+   "confidence": 0.56,
+   "tags": [
+    "Science",
+    "Communities"
+   ],
+   "fingerprint": "mitteilspaceaguixblogsomewhereinourstrugglesforideologicalsuperioritywelosttrackgotlost",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-10-29",
+   "screenshot_file": "e3950befdf9797a85d59.jpg"
+  },
+  {
+   "url": "https://vut.cz",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "vut.cz"
+   ],
+   "lang": "cs",
+   "load_time": 2.27,
+   "https": true,
+   "words": 386,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "jQuery",
+    "Hand-coded"
+   ],
+   "title": "Vysoké učení technické v Brně",
+   "description": "Vysoké učení technické v Brně je česká vysoká škola s více než 120letou tradicí, která neustále posiluje svou pozici špičkové vědecko-výzkumné instituce.",
+   "category": "Random",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "vysokuentechnickvbrnvysokuentechnickvbrnjeeskvysokkolasvcene120letoutradic",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-10-29",
+   "screenshot_file": "77d426a93ba2dc798582.jpg"
+  },
+  {
+   "url": "https://recto.design",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "recto.design"
+   ],
+   "lang": "en",
+   "load_time": 0.13,
+   "https": true,
+   "words": 1982,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "title": "Recto",
+   "description": "Recto is a native AI design tool for Windows, Mac, and Linux. Design on a real canvas, work with Claude Code, Codex, Cursor or OpenCode, and bring your ideas into 3D and motion.",
+   "category": "Developer",
+   "confidence": 0.63,
+   "tags": [
+    "Art"
+   ],
+   "fingerprint": "rectorectoisanativeaidesigntoolforwindowsmacandlinuxdesignonarealc",
+   "vibes": [
+    "artsy",
+    "calm",
+    "handmade"
+   ],
+   "archive_checked": "2026-10-29",
+   "screenshot_file": "849872c563f29202544c.jpg"
+  },
+  {
+   "url": "https://percona.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "percona.com"
+   ],
+   "lang": "en",
+   "load_time": 0.57,
+   "https": true,
+   "words": 852,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "WordPress",
+    "jQuery"
+   ],
+   "title": "Percona",
+   "description": "Enterprise-class open source database software, support and services for MySQL, PostgreSQL, MongoDB, Redis and MariaDB.",
+   "category": "Developer",
+   "confidence": 0.81,
+   "tags": [],
+   "fingerprint": "perconaenterpriseclassopensourcedatabasesoftwaresupportandservicesformysql",
+   "vibes": [],
+   "archive_checked": "2026-10-29",
+   "screenshot_file": "8eb4b500cdb38bf784c6.jpg"
+  },
+  {
+   "url": "https://redmonk.com",
+   "source": "lobsters",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "redmonk.com"
+   ],
+   "lang": "en",
+   "load_time": 0.24,
+   "https": true,
+   "words": 371,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "WordPress",
+    "jQuery"
+   ],
+   "title": "RedMonk",
+   "description": "The developer-focused analyst firm",
+   "category": "Developer",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "redmonkthedeveloperfocusedanalystfirm",
+   "vibes": [],
+   "archive_checked": "2026-10-29",
+   "screenshot_file": "20480b56b0522f95ab8c.jpg"
+  },
+  {
+   "url": "https://terroir.systems",
+   "source": "lobsters",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "terroir.systems"
+   ],
+   "lang": "en",
+   "load_time": 0.06,
+   "https": true,
+   "words": 42,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "André Terroir",
+   "description": "Thinking About Systems Recent posts: {{ posts|limit:5 }}",
+   "category": "Personal",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "andrterroirthinkingaboutsystemsrecentpostspostslimit5",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "screenshot_file": "1f018ee57a7a37706ed2.jpg"
+  },
+  {
+   "url": "https://motherjones.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "motherjones.com"
+   ],
+   "lang": "en",
+   "load_time": 1.56,
+   "https": true,
+   "words": 1140,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "WordPress",
+    "React",
+    "jQuery"
+   ],
+   "title": "Mother Jones",
+   "description": "Text by Hanna Stolzer; Photography by Mackenzie Calle",
+   "category": "Art",
+   "confidence": 0.52,
+   "tags": [
+    "Personal"
+   ],
+   "fingerprint": "motherjonestextbyhannastolzerphotographybymackenziecalle",
+   "vibes": [
+    "artsy"
+   ],
+   "screenshot_file": "a003cf30aef8974b4274.jpg"
+  },
+  {
+   "url": "https://builder.aws.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "builder.aws.com"
+   ],
+   "lang": "en",
+   "load_time": 0.09,
+   "https": true,
+   "words": 84,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "AWS Builder Center",
+   "description": "Connect with builders who understand your journey. Share solutions, influence AWS product development, and access useful content that accelerates your growth. Your community starts here.",
+   "category": "Tools",
+   "confidence": 0.64,
+   "tags": [
+    "Communities"
+   ],
+   "fingerprint": "awsbuildercenterconnectwithbuilderswhounderstandyourjourneysharesolutionsinfluenceaw",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "screenshot_file": "eca7db95f5610bf8079e.jpg"
+  },
+  {
+   "url": "https://blinkwell.netlify.app",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "blinkwell.netlify.app"
+   ],
+   "lang": "en",
+   "load_time": 0.06,
+   "https": true,
+   "words": 598,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "blinkwell",
+   "description": "Blinkwell watches for eye fatigue while you work — periodic 60-second camera windows, fully on-device. No uploads, no accounts.",
+   "category": "Tools",
+   "confidence": 0.62,
+   "tags": [],
+   "fingerprint": "blinkwellblinkwellwatchesforeyefatiguewhileyouworkperiodic60secondcamerawin",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "screenshot_file": "e926c6a703dd1382c2e8.jpg"
+  },
+  {
+   "url": "https://gettaxnomad.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "gettaxnomad.com"
+   ],
+   "lang": "en",
+   "load_time": 0.57,
+   "https": true,
+   "words": 698,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Astro",
+    "Tailwind"
+   ],
+   "title": "GetTaxNomad",
+   "description": "Compare twelve illustrative digital nomad visa and tax scenarios, review route assumptions, and explore tax residence questions before checking current rules.",
+   "category": "Science",
+   "confidence": 0.65,
+   "tags": [],
+   "fingerprint": "gettaxnomadcomparetwelveillustrativedigitalnomadvisaandtaxscenariosreviewroutea",
+   "vibes": [],
+   "screenshot_file": "b5df84d96b5944d4c66b.jpg"
+  },
+  {
+   "url": "https://agno.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "agno.com"
+   ],
+   "lang": "en",
+   "load_time": 0.32,
+   "https": true,
+   "words": 1462,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Tailwind",
+    "Hand-coded"
+   ],
+   "title": "Agno",
+   "description": "Agno is a self-driving agent platform that runs in your cloud. Build, deploy and improve customer-facing and internal agents with coding agents.",
+   "category": "Developer",
+   "confidence": 0.65,
+   "tags": [],
+   "fingerprint": "agnoagnoisaselfdrivingagentplatformthatrunsinyourcloudbuilddeployand",
+   "vibes": [
+    "handmade"
+   ],
+   "screenshot_file": "9cf7838846acd3176910.jpg"
+  },
+  {
+   "url": "https://dinonames.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "dinonames.com"
+   ],
+   "lang": "en",
+   "load_time": 0.35,
+   "https": true,
+   "words": 81,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Dinosaur Name Meanings",
+   "description": "Look up what a dinosaur's name means: the Greek and Latin roots, how to say it, when it lived, and who named it.",
+   "category": "Education",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "dinosaurnamemeaningslookupwhatadinosaursnamemeansthegreekandlatinrootshowtosayit",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "screenshot_file": "f1be223c67d237a49b87.jpg"
+  },
+  {
+   "url": "https://mistral.ai",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "mistral.ai"
+   ],
+   "lang": "en",
+   "load_time": 0.05,
+   "https": true,
+   "words": 748,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Tailwind",
+    "Hand-coded"
+   ],
+   "title": "Mistral",
+   "description": "Frontier open-weight models you own and control. Customize with Forge, deploy with Studio, run on-prem, your VPC, or our cloud.",
+   "category": "Technology",
+   "confidence": 0.89,
+   "tags": [],
+   "fingerprint": "mistralfrontieropenweightmodelsyouownandcontrolcustomizewithforgedeploywi",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "screenshot_file": "3bf4857877dc21ebe545.jpg"
+  },
+  {
+   "url": "https://hollywoodreporter.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "hollywoodreporter.com"
+   ],
+   "lang": "en",
+   "load_time": 0.26,
+   "https": true,
+   "words": 1700,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "WordPress",
+    "jQuery"
+   ],
+   "title": "The Hollywood Reporter",
+   "description": "Movie news, TV news, awards news, lifestyle news, business news and more from The Hollywood Reporter.",
+   "category": "News",
+   "confidence": 0.87,
+   "tags": [],
+   "fingerprint": "thehollywoodreportermovienewstvnewsawardsnewslifestylenewsbusinessnewsandmorefromth",
+   "vibes": [
+    "playful"
+   ],
+   "screenshot_file": "5ef7d2e4bfb58a294c0b.jpg"
+  },
+  {
+   "url": "https://about.doordash.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "about.doordash.com"
+   ],
+   "lang": "en",
+   "load_time": 0.37,
+   "https": true,
+   "words": 871,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Next.js"
+   ],
+   "title": "Products",
+   "description": "Learn more about what DoorDash offers to help you get the most out of your neighborhood.",
+   "category": "Education",
+   "confidence": 0.67,
+   "tags": [],
+   "fingerprint": "productslearnmoreaboutwhatdoordashofferstohelpyougetthemostoutofyourneigh",
+   "vibes": [],
+   "screenshot_file": "17a8a859034f893db2a8.jpg"
+  },
+  {
+   "url": "https://newscientist.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "newscientist.com"
+   ],
+   "lang": "en",
+   "load_time": 1.85,
+   "https": true,
+   "words": 1085,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "WordPress"
+   ],
+   "title": "New Scientist",
+   "description": "Science news and long reads from expert journalists, covering developments in science, technology, health and the environment on the website and the magazine.",
+   "category": "News",
+   "confidence": 0.52,
+   "tags": [
+    "Science",
+    "Technology"
+   ],
+   "fingerprint": "newscientistsciencenewsandlongreadsfromexpertjournalistscoveringdevelopmentsinsc",
+   "vibes": [],
+   "screenshot_file": "1db0c04281da1dbea18a.jpg"
+  },
+  {
+   "url": "https://bendingspoons.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "bendingspoons.com"
+   ],
+   "lang": "en",
+   "load_time": 0.29,
+   "https": true,
+   "words": 399,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Next.js",
+    "Tailwind"
+   ],
+   "title": "Bending Spoons",
+   "description": "We acquire and improve iconic products. Supported by dozens of proprietary technologies and an elite team of engineers, scientists, and designers",
+   "category": "Business",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "bendingspoonsweacquireandimproveiconicproductssupportedbydozensofproprietarytechn",
+   "vibes": [],
+   "screenshot_file": "c12034b69a7c157d79a9.jpg"
+  },
+  {
+   "url": "https://mikroverk.github.io",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "mikroverk.github.io"
+   ],
+   "lang": "en",
+   "load_time": 0.13,
+   "https": true,
+   "words": 515,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "GitHub Pages",
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "title": "Mikroverk",
+   "description": "Mikroverk is an open-source collective building software and tools for embedded systems and small machines.",
+   "category": "Developer",
+   "confidence": 0.65,
+   "tags": [
+    "Tools"
+   ],
+   "fingerprint": "mikroverkmikroverkisanopensourcecollectivebuildingsoftwareandtoolsforembedded",
+   "vibes": [
+    "artsy",
+    "handmade"
+   ],
+   "screenshot_file": "002f6230210d0c5a9c01.jpg"
+  },
+  {
+   "url": "https://wavefunction.si",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "wavefunction.si"
+   ],
+   "lang": "en",
+   "load_time": 0.39,
+   "https": true,
+   "words": 1135,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Next.js",
+    "Tailwind"
+   ],
+   "title": "Wavefunction",
+   "description": "A fast, open-source coding agent for your Mac. It works on several tasks at once, while you keep the conversation going.",
+   "category": "Developer",
+   "confidence": 0.92,
+   "tags": [],
+   "fingerprint": "wavefunctionafastopensourcecodingagentforyourmacitworksonseveraltasksatonce",
+   "vibes": [],
+   "screenshot_file": "f3e47d844c3b83375ee5.jpg"
+  },
+  {
+   "url": "https://kinlab.ai",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "kinlab.ai"
+   ],
+   "lang": "en",
+   "load_time": 0.24,
+   "https": true,
+   "words": 1383,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Kin",
+   "description": "Kin is the control layer between your AI apps and your accounts. Connect once, set your rules, and approve what matters from anywhere.",
+   "category": "Technology",
+   "confidence": 0.5,
+   "tags": [
+    "Tools"
+   ],
+   "fingerprint": "kinkinisthecontrollayerbetweenyouraiappsandyouraccountsconnectonces",
+   "vibes": [
+    "handmade"
+   ],
+   "screenshot_file": "bd4aff1d0cbf6fada682.jpg"
+  },
+  {
+   "url": "https://engineering.fb.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "engineering.fb.com"
+   ],
+   "lang": "en",
+   "load_time": 0.14,
+   "https": true,
+   "words": 426,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "WordPress"
+   ],
+   "title": "Engineering at Meta",
+   "description": "Meta believes in building community through open source technology.",
+   "category": "Technology",
+   "confidence": 0.61,
+   "tags": [
+    "Developer"
+   ],
+   "fingerprint": "engineeringatmetametabelievesinbuildingcommunitythroughopensourcetechnology",
+   "vibes": [],
+   "screenshot_file": "42955123a9134bbc2622.jpg"
+  },
+  {
+   "url": "https://abhishekr3.github.io",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "abhishekr3.github.io"
+   ],
+   "lang": "?",
+   "load_time": 0.13,
+   "https": true,
+   "words": 122,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "GitHub Pages",
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "title": "Abhishek's Projects",
+   "description": "",
+   "category": "Random",
+   "confidence": 0,
+   "tags": [],
+   "fingerprint": "",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "screenshot_file": "5cc703b5a5ed079afceb.jpg"
+  },
+  {
+   "url": "https://united24media.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "united24media.com"
+   ],
+   "lang": "en",
+   "load_time": 1.89,
+   "https": true,
+   "words": 1682,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Tailwind",
+    "Hand-coded"
+   ],
+   "title": "UNITED24 Media",
+   "description": "Read Ukraine news today. Deep analysis of the Russia-Ukraine war, global affairs, Ukraine's economy, business trends, and cultural resilience.",
+   "category": "News",
+   "confidence": 0.82,
+   "tags": [],
+   "fingerprint": "united24mediareadukrainenewstodaydeepanalysisoftherussiaukrainewarglobalaffairs",
+   "vibes": [
+    "handmade"
+   ],
+   "screenshot_file": "3c40da247859a60cd78e.jpg"
+  },
+  {
+   "url": "https://bigchecklist.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "bigchecklist.com"
+   ],
+   "lang": "en",
+   "load_time": 0.28,
+   "https": true,
+   "words": 205,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Next.js"
+   ],
+   "title": "BigChecklist",
+   "description": "A checklist too big to ignore. Check it off, watch it fill, get it done.",
+   "category": "Business",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "bigchecklistachecklisttoobigtoignorecheckitoffwatchitfillgetitdone",
+   "vibes": [
+    "minimal"
+   ],
+   "screenshot_file": "d67ce30f48e51761577f.jpg"
+  },
+  {
+   "url": "https://nypost.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "nypost.com"
+   ],
+   "lang": "en",
+   "load_time": 0.2,
+   "https": true,
+   "words": 847,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "WordPress"
+   ],
+   "title": "California Post",
+   "description": "California Post brings you the latest California news, politics, sports, and opinion. Bold coverage, strong voices, and stories that matter to Californians.",
+   "category": "News",
+   "confidence": 0.88,
+   "tags": [],
+   "fingerprint": "californiapostcaliforniapostbringsyouthelatestcalifornianewspoliticssportsandopi",
+   "vibes": [],
+   "screenshot_file": "2bf7531a128d871ac4c4.jpg"
+  },
+  {
+   "url": "https://spicermatthews.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "spicermatthews.com"
+   ],
+   "lang": "en",
+   "load_time": 0.42,
+   "https": true,
+   "words": 333,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Tailwind",
+    "Hand-coded"
+   ],
+   "title": "Spicer Matthews Personal Site",
+   "description": "Spicer Matthews is a software developer, entrepreneur, and options trader in Newberg, Oregon. I write about AI-first development with Claude Code, building products, and trading options.",
+   "category": "Personal",
+   "confidence": 0.63,
+   "tags": [
+    "Developer"
+   ],
+   "fingerprint": "spicermatthewspersonalsitespicermatthewsisasoftwaredeveloperentrepreneurandoptionstraderinnew",
+   "vibes": [
+    "handmade"
+   ],
+   "screenshot_file": "fe1e01091f22d5e631b4.jpg"
+  },
+  {
+   "url": "https://bestboy.dev",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "bestboy.dev"
+   ],
+   "lang": "en",
+   "load_time": 0.31,
+   "https": true,
+   "words": 1125,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Svelte"
+   ],
+   "title": "Bestboy",
+   "description": "A suite of open source Mac apps for ambitious people who build with agents: Tony dictates, Malini runs agents side by side, Grip gets you quality feedback.",
+   "category": "Tools",
+   "confidence": 0.53,
+   "tags": [
+    "Developer"
+   ],
+   "fingerprint": "bestboyasuiteofopensourcemacappsforambitiouspeoplewhobuildwithagentstony",
+   "vibes": [],
+   "screenshot_file": "90cc5e592ae8897a2ebe.jpg"
+  },
+  {
+   "url": "https://blog.greenflagged.dev",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "blog.greenflagged.dev"
+   ],
+   "lang": "en",
+   "load_time": 0.26,
+   "https": true,
+   "words": 168,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Greenflagged Blog",
+   "description": "Notes from the front line of npm supply-chain security — what we catch, how the pipeline works, and the interesting things hiding in the registry.",
+   "category": "Personal",
+   "confidence": 0.65,
+   "tags": [
+    "Technology"
+   ],
+   "fingerprint": "greenflaggedblognotesfromthefrontlineofnpmsupplychainsecuritywhatwecatchhowthe",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "screenshot_file": "ed43446942bc4d2ed8b0.jpg"
+  },
+  {
+   "url": "https://ohmlens.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "ohmlens.com"
+   ],
+   "lang": "en",
+   "load_time": 0.2,
+   "https": true,
+   "words": 359,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Tailwind",
+    "Hand-coded"
+   ],
+   "title": "OhmLens",
+   "description": "Try it right here: this little circuit is live.",
+   "category": "Education",
+   "confidence": 0.62,
+   "tags": [
+    "Technology"
+   ],
+   "fingerprint": "ohmlenstryitrightherethislittlecircuitislive",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "screenshot_file": "7ffe98cf91a96da41e7c.jpg"
+  },
+  {
+   "url": "https://pypi.org",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "pypi.org"
+   ],
+   "lang": "en",
+   "load_time": 0.04,
+   "https": true,
+   "words": 161,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "PyPI",
+   "description": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
+   "category": "Developer",
+   "confidence": 0.86,
+   "tags": [],
+   "fingerprint": "pypithepythonpackageindexpypiisarepositoryofsoftwareforthepythonprogr",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "screenshot_file": "b4c93a4591f5e6ddfc66.jpg"
+  },
+  {
+   "url": "https://martinfowler.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "martinfowler.com"
+   ],
+   "lang": "?",
+   "load_time": 0.35,
+   "https": true,
+   "words": 1904,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "jQuery",
+    "Hand-coded"
+   ],
+   "title": "A website on building software effectively",
+   "description": "Software development is a young profession, and we are still learning the techniques and building the tools to do it effectively.",
+   "category": "Education",
+   "confidence": 0.57,
+   "tags": [
+    "Games",
+    "Tools"
+   ],
+   "fingerprint": "awebsiteonbuildingsoftwareeffectivelysoftwaredevelopmentisayoungprofessionandwearestilllearningthetechni",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "screenshot_file": "3b9fa123a4187ea29a6d.jpg"
+  },
+  {
+   "url": "https://pidgeon.ai",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "pidgeon.ai"
+   ],
+   "lang": "en",
+   "load_time": 0.26,
+   "https": true,
+   "words": 485,
+   "embed": false,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Next.js",
+    "Tailwind"
+   ],
+   "title": "Pidgeon",
+   "description": "Email inboxes for AI agents, in the EU, and never trained on your mail's content. Threads, webhooks, IMAP, MCP and the Firewall, with your own domain free.",
+   "category": "Technology",
+   "confidence": 0.75,
+   "tags": [],
+   "fingerprint": "pidgeonemailinboxesforaiagentsintheeuandnevertrainedonyourmailscontent",
+   "vibes": [],
+   "screenshot_file": "559ef9c0dd6f00aa41da.jpg"
+  },
+  {
+   "url": "https://vigo.alexander4.io",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "vigo.alexander4.io"
+   ],
+   "lang": "en",
+   "load_time": 0.33,
+   "https": true,
+   "words": 1325,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Vigo",
+   "description": "Vigo is a Distributed State Enforcement Engine. One server, one binary agent, seven operating systems, 69 resource types.",
+   "category": "Developer",
+   "confidence": 0.67,
+   "tags": [],
+   "fingerprint": "vigovigoisadistributedstateenforcementengineoneserveronebinaryagentse",
+   "vibes": [
+    "calm",
+    "nerdy",
+    "handmade"
+   ],
+   "screenshot_file": "91b45296a212148820fc.jpg"
+  },
+  {
+   "url": "https://blog.yoshuawuyts.com",
+   "source": "lobsters",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "blog.yoshuawuyts.com"
+   ],
+   "lang": "?",
+   "load_time": 0.29,
+   "https": true,
+   "words": 514,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Yosh Wuyts",
+   "description": "",
+   "category": "Random",
+   "confidence": 0,
+   "tags": [],
+   "fingerprint": "",
+   "vibes": [
+    "handmade"
+   ],
+   "screenshot_file": "e479337537f7d0c626a1.jpg"
+  },
+  {
+   "url": "https://lumi.codeberg.page",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "lumi.codeberg.page"
+   ],
+   "lang": "en",
+   "load_time": 0.65,
+   "https": true,
+   "words": 84,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "title": "lumi's code spelunking adventures",
+   "description": "Where lumi pokes at things and then writes about it",
+   "category": "Developer",
+   "confidence": 0.64,
+   "tags": [],
+   "fingerprint": "lumiscodespelunkingadventureswherelumipokesatthingsandthenwritesaboutit",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "screenshot_file": "b59dd4d09e997658d5a5.jpg"
+  },
+  {
+   "url": "https://cryptoskeptics.org",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "cryptoskeptics.org"
+   ],
+   "lang": "en",
+   "load_time": 0.31,
+   "https": true,
+   "words": 181,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Cryptoskeptics Forum",
+   "description": "A group of retired professionals examining how the crypto industry is structured and the dangers it poses to the financial system and the public.",
+   "category": "Communities",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "cryptoskepticsforumagroupofretiredprofessionalsexamininghowthecryptoindustryisstructured",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "screenshot_file": "9e7401534d65af7c4e45.jpg"
+  },
+  {
+   "url": "https://sidbala.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-29",
+   "checked": "2026-10-29",
+   "fails": 0,
+   "aliases": [
+    "sidbala.com"
+   ],
+   "lang": "en",
+   "load_time": 0.24,
+   "https": true,
+   "words": 61,
+   "embed": true,
+   "safety_checked": "2026-10-29",
+   "tech": [
+    "Ghost",
+    "jQuery"
+   ],
+   "title": "Sid Bala",
+   "description": "",
+   "category": "Random",
+   "confidence": 0,
+   "tags": [],
+   "fingerprint": "",
+   "vibes": [
+    "minimal"
+   ],
+   "screenshot_file": "b58f2675e42ad5e1e33a.jpg"
+  }
+ ]
 }
