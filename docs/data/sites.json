@@ -5,7 +5,7 @@
    "url": "https://strictllm.com",
    "source": "hacker news",
    "status": "ok",
-   "review": "unreviewed",
+   "review": "verified",
    "added": "2026-10-29",
    "checked": "2026-10-29",
    "fails": 0,
@@ -23,9 +23,9 @@
     "Hand-coded"
    ],
    "title": "StrictLLM",
-   "description": "StrictLLM is the best LLM client for secure AI chat with persona orchestration, sandboxed MCP servers, and fine-grained permission controls.",
-   "category": "Technology",
-   "confidence": 0.71,
+   "description": "StrictLLM is a client for secure AI chat with persona orchestration, sandboxed MCP servers, and fine-grained permission controls.",
+   "category": "Tools",
+   "confidence": 1,
    "tags": [],
    "fingerprint": "strictllmstrictllmisthebestllmclientforsecureaichatwithpersonaorchestration",
    "vibes": [
@@ -33,13 +33,14 @@
    ],
    "archive_checked": "2026-10-29",
    "first_seen": 2024,
-   "screenshot_file": "6cc525c9f6cb42c76f71.jpg"
+   "screenshot_file": "6cc525c9f6cb42c76f71.jpg",
+   "locked": true
   },
   {
    "url": "https://ourspacevibes.com",
    "source": "hacker news",
    "status": "ok",
-   "review": "unreviewed",
+   "review": "verified",
    "added": "2026-10-29",
    "checked": "2026-10-29",
    "fails": 0,
@@ -56,9 +57,9 @@
     "React"
    ],
    "title": "OurSpace — The MySpace Alternative",
-   "description": "Miss MySpace? OurSpace brings it back, better — design your own profile, set your Top 8, add a profile anthem, and scroll a chronological feed with no algorithms. Join free.",
-   "category": "Art",
-   "confidence": 1.0,
+   "description": "Design your own profile, set your Top 8, add a profile anthem, and scroll a chronological feed with no algorithms. Join free.",
+   "category": "Communities",
+   "confidence": 1,
    "tags": [],
    "fingerprint": "ourspacethemyspacealternativemissmyspaceourspacebringsitbackbetterdesignyourownprofilesetyou",
    "vibes": [
@@ -67,7 +68,8 @@
    ],
    "archive_checked": "2026-10-29",
    "first_seen": 2026,
-   "screenshot_file": "5cf85ab57864d497f927.jpg"
+   "screenshot_file": "5cf85ab57864d497f927.jpg",
+   "locked": true
   },
   {
    "url": "https://divagr.com",
@@ -141,41 +143,6 @@
    "screenshot_file": "844adf50f74b30951a08.jpg"
   },
   {
-   "url": "https://matklad.github.io",
-   "source": "hacker news",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-10-29",
-   "checked": "2026-10-29",
-   "fails": 0,
-   "aliases": [
-    "matklad.github.io"
-   ],
-   "lang": "en",
-   "load_time": 0.13,
-   "https": true,
-   "words": 1420,
-   "embed": true,
-   "safety_checked": "2026-10-29",
-   "tech": [
-    "GitHub Pages",
-    "Hand-coded",
-    "No JavaScript"
-   ],
-   "title": "matklad",
-   "description": "",
-   "category": "Developer",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "",
-   "vibes": [
-    "handmade"
-   ],
-   "archive_checked": "2026-10-29",
-   "first_seen": 2018,
-   "screenshot_file": "ec82226eede5523097c8.jpg"
-  },
-  {
    "url": "https://runstructure.com",
    "source": "hacker news",
    "status": "ok",
@@ -244,40 +211,6 @@
    "archive_checked": "2026-10-29",
    "first_seen": 2013,
    "screenshot_file": "fc50a2dbe33d75bdef0b.jpg"
-  },
-  {
-   "url": "https://catalogkite.com",
-   "source": "hacker news",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-10-29",
-   "checked": "2026-10-29",
-   "fails": 0,
-   "aliases": [
-    "catalogkite.com"
-   ],
-   "lang": "en",
-   "load_time": 0.16,
-   "https": true,
-   "words": 1299,
-   "embed": false,
-   "safety_checked": "2026-10-29",
-   "tech": [
-    "Tailwind",
-    "Hand-coded"
-   ],
-   "title": "CatalogKite",
-   "description": "Make a product catalog, wholesale line sheet or price list in minutes. Download a print-ready PDF or share a link buyers can order from. Free, no signup.",
-   "category": "Tools",
-   "confidence": 0.7,
-   "tags": [],
-   "fingerprint": "catalogkitemakeaproductcatalogwholesalelinesheetorpricelistinminutesdownload",
-   "vibes": [
-    "handmade"
-   ],
-   "archive_checked": "2026-10-29",
-   "first_seen": 2026,
-   "screenshot_file": "5ce4dd8a21c72abacc30.jpg"
   },
   {
    "url": "https://trakkr.ai",
@@ -472,7 +405,7 @@
    "title": "The API Graveyard",
    "description": "Here lie the APIs we loved and the integrations that broke us. Light a candle, bury your own integration horror story, and win a $200 gift card this Halloween.",
    "category": "Developer",
-   "confidence": 1.0,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "theapigraveyardherelietheapiswelovedandtheintegrationsthatbrokeuslightacandleb",
    "vibes": [
@@ -518,42 +451,6 @@
    "archive_checked": "2026-10-29",
    "first_seen": 2026,
    "screenshot_file": "3da39be29f92c706caf9.jpg"
-  },
-  {
-   "url": "https://concordia.davidveksler.com",
-   "source": "hacker news",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-10-29",
-   "checked": "2026-10-29",
-   "fails": 0,
-   "aliases": [
-    "concordia.davidveksler.com"
-   ],
-   "lang": "en",
-   "load_time": 0.26,
-   "https": true,
-   "words": 755,
-   "embed": false,
-   "safety_checked": "2026-10-29",
-   "tech": [
-    "Hand-coded"
-   ],
-   "title": "Concordia",
-   "description": "Concordia is a rotating space city at Earth-Moon L5, descended from the O'Neill cylinder: four rotor cities, a shipyard and a spaceport on a 21 km axis. Learn how it works, then walk its streets.",
-   "category": "Science",
-   "confidence": 0.63,
-   "tags": [
-    "Education"
-   ],
-   "fingerprint": "concordiaconcordiaisarotatingspacecityatearthmoonl5descendedfromtheoneill",
-   "vibes": [
-    "nerdy",
-    "handmade"
-   ],
-   "archive_checked": "2026-10-29",
-   "first_seen": 2026,
-   "screenshot_file": "4343c7e68a1f5e5c259f.jpg"
   },
   {
    "url": "https://safeguards.anthropic.com",
@@ -646,7 +543,7 @@
    "title": "FacetShelf",
    "description": "An interesting e-book reader and multilingual reading platform with AI assistance: whole-book translation, bilingual side-by-side, answers anchored to the source.",
    "category": "Technology",
-   "confidence": 1.0,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "facetshelfaninterestingebookreaderandmultilingualreadingplatformwithaiassistanc",
    "vibes": [
@@ -681,7 +578,7 @@
    "title": "Nixtamal",
    "description": "Automate hashing and pinning of Nix source inputs with a declarative KDL manifest.",
    "category": "Random",
-   "confidence": 1.0,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "nixtamalautomatehashingandpinningofnixsourceinputswithadeclarativekdlmanifes",
    "vibes": [
@@ -784,7 +681,7 @@
    "title": "Panta",
    "description": "Find your next role in Panta's Swiss job index. Turn your experience into a tailored CV and cover letter, and keep every application moving.",
    "category": "Random",
-   "confidence": 1.0,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "pantafindyournextroleinpantasswissjobindexturnyourexperienceintoatail",
    "vibes": [
@@ -893,41 +790,6 @@
    "screenshot_file": "47b10af30d3e6e23908c.jpg"
   },
   {
-   "url": "https://asashepard.com",
-   "source": "hacker news",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-10-29",
-   "checked": "2026-10-29",
-   "fails": 0,
-   "aliases": [
-    "asashepard.com"
-   ],
-   "lang": "en",
-   "load_time": 0.27,
-   "https": true,
-   "words": 521,
-   "embed": true,
-   "safety_checked": "2026-10-29",
-   "tech": [
-    "Hand-coded"
-   ],
-   "title": "Asa Shepard",
-   "description": "Researcher and Co-Founder of Sediment. Essays and research on language models, memory, and autonomous agents.",
-   "category": "Science",
-   "confidence": 0.5,
-   "tags": [
-    "Personal"
-   ],
-   "fingerprint": "asashepardresearcherandcofounderofsedimentessaysandresearchonlanguagemodelsm",
-   "vibes": [
-    "nerdy",
-    "handmade"
-   ],
-   "archive_checked": "2026-10-29",
-   "screenshot_file": "dea1b486cbf373d4f83a.jpg"
-  },
-  {
    "url": "https://iptrust.co",
    "source": "hacker news",
    "status": "ok",
@@ -985,7 +847,7 @@
    "title": "PressAudit",
    "description": "Compare how major news outlets cover the same stories. Coverage heatmaps, side-by-side viewpoints, underreported news, and alignment patterns, news structured for the overload era.",
    "category": "News",
-   "confidence": 1.0,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "pressauditcomparehowmajornewsoutletscoverthesamestoriescoverageheatmapssideb",
    "vibes": [
@@ -1121,45 +983,12 @@
    "title": "Jules",
    "description": "Jules is an Autonomous agent that gets out of your way. It lets you focus on the coding you want to do, meanwhile picking up all the other random tasks that you rather not do.",
    "category": "Developer",
-   "confidence": 1.0,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "julesjulesisanautonomousagentthatgetsoutofyourwayitletsyoufocusonthe",
    "vibes": [],
    "archive_checked": "2026-10-29",
    "screenshot_file": "eb99861dd6494a53089b.jpg"
-  },
-  {
-   "url": "https://decode.bg",
-   "source": "hacker news",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-10-29",
-   "checked": "2026-10-29",
-   "fails": 0,
-   "aliases": [
-    "decode.bg"
-   ],
-   "lang": "en",
-   "load_time": 0.19,
-   "https": true,
-   "words": 62,
-   "embed": false,
-   "safety_checked": "2026-10-29",
-   "tech": [
-    "Hand-coded"
-   ],
-   "title": "Extract text from images",
-   "description": "Turn photos and screenshots into editable text. Upload, drop or paste an image to get started.",
-   "category": "Random",
-   "confidence": 0,
-   "tags": [],
-   "fingerprint": "extracttextfromimagesturnphotosandscreenshotsintoeditabletextuploaddroporpasteanimaget",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-10-29",
-   "screenshot_file": "6f3dcf5747ac82fa8afd.jpg"
   },
   {
    "url": "https://boil.brint.dev",
@@ -1254,7 +1083,7 @@
    "title": "Vysoké učení technické v Brně",
    "description": "Vysoké učení technické v Brně je česká vysoká škola s více než 120letou tradicí, která neustále posiluje svou pozici špičkové vědecko-výzkumné instituce.",
    "category": "Random",
-   "confidence": 1.0,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "vysokuentechnickvbrnvysokuentechnickvbrnjeeskvysokkolasvcene120letoutradic",
    "vibes": [
@@ -1355,44 +1184,12 @@
    "title": "RedMonk",
    "description": "The developer-focused analyst firm",
    "category": "Developer",
-   "confidence": 1.0,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "redmonkthedeveloperfocusedanalystfirm",
    "vibes": [],
    "archive_checked": "2026-10-29",
    "screenshot_file": "20480b56b0522f95ab8c.jpg"
-  },
-  {
-   "url": "https://terroir.systems",
-   "source": "lobsters",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-10-29",
-   "checked": "2026-10-29",
-   "fails": 0,
-   "aliases": [
-    "terroir.systems"
-   ],
-   "lang": "en",
-   "load_time": 0.06,
-   "https": true,
-   "words": 42,
-   "embed": true,
-   "safety_checked": "2026-10-29",
-   "tech": [
-    "Hand-coded"
-   ],
-   "title": "André Terroir",
-   "description": "Thinking About Systems Recent posts: {{ posts|limit:5 }}",
-   "category": "Personal",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "andrterroirthinkingaboutsystemsrecentpostspostslimit5",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "screenshot_file": "1f018ee57a7a37706ed2.jpg"
   },
   {
    "url": "https://motherjones.com",
@@ -1580,7 +1377,7 @@
    "title": "Dinosaur Name Meanings",
    "description": "Look up what a dinosaur's name means: the Greek and Latin roots, how to say it, when it lived, and who named it.",
    "category": "Education",
-   "confidence": 1.0,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "dinosaurnamemeaningslookupwhatadinosaursnamemeansthegreekandlatinrootshowtosayit",
    "vibes": [
@@ -1739,7 +1536,7 @@
    "title": "Bending Spoons",
    "description": "We acquire and improve iconic products. Supported by dozens of proprietary technologies and an elite team of engineers, scientists, and designers",
    "category": "Business",
-   "confidence": 1.0,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "bendingspoonsweacquireandimproveiconicproductssupportedbydozensofproprietarytechn",
    "vibes": [],
@@ -1876,40 +1673,6 @@
    "screenshot_file": "42955123a9134bbc2622.jpg"
   },
   {
-   "url": "https://abhishekr3.github.io",
-   "source": "hacker news",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-10-29",
-   "checked": "2026-10-29",
-   "fails": 0,
-   "aliases": [
-    "abhishekr3.github.io"
-   ],
-   "lang": "?",
-   "load_time": 0.13,
-   "https": true,
-   "words": 122,
-   "embed": true,
-   "safety_checked": "2026-10-29",
-   "tech": [
-    "GitHub Pages",
-    "Hand-coded",
-    "No JavaScript"
-   ],
-   "title": "Abhishek's Projects",
-   "description": "",
-   "category": "Random",
-   "confidence": 0,
-   "tags": [],
-   "fingerprint": "",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "screenshot_file": "5cc703b5a5ed079afceb.jpg"
-  },
-  {
    "url": "https://united24media.com",
    "source": "hacker news",
    "status": "ok",
@@ -1964,7 +1727,7 @@
    "title": "BigChecklist",
    "description": "A checklist too big to ignore. Check it off, watch it fill, get it done.",
    "category": "Business",
-   "confidence": 1.0,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "bigchecklistachecklisttoobigtoignorecheckitoffwatchitfillgetitdone",
    "vibes": [
@@ -2353,7 +2116,7 @@
    "title": "Cryptoskeptics Forum",
    "description": "A group of retired professionals examining how the crypto industry is structured and the dangers it poses to the financial system and the public.",
    "category": "Communities",
-   "confidence": 1.0,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "cryptoskepticsforumagroupofretiredprofessionalsexamininghowthecryptoindustryisstructured",
    "vibes": [
