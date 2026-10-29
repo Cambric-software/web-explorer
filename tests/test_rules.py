@@ -72,6 +72,22 @@ class Robot(unittest.TestCase):
         self.assertFalse(crawl.embeddable({"Content-Security-Policy": "frame-ancestors 'self'"}))
         self.assertTrue(crawl.embeddable({}))
 
+class VibesAndTech(unittest.TestCase):
+    def test_wordpress_detected_and_not_hand_coded(self):
+        t = crawl.tech_tags('<link href="/wp-content/themes/x.css"><script src="a.js"></script>')
+        self.assertIn("WordPress", t); self.assertNotIn("Hand-coded", t)
+    def test_plain_page_is_hand_coded_without_javascript(self):
+        self.assertEqual(crawl.tech_tags("<html><body><p>hi</p></body></html>"), ["Hand-coded", "No JavaScript"])
+    def test_vibes_come_from_words_not_code(self):
+        v = crawl.vibes("My Cozy Garden", "Tea, baking and my cat", "garden journal", 500, 0, "<script>game play fun</script>", ["Hand-coded"])
+        self.assertIn("cozy", v); self.assertNotIn("playful", v)
+    def test_old_site_is_retro(self):
+        self.assertIn("retro", crawl.vibes("A", "b", "c", 500, 1999))
+    def test_locked_site_keeps_its_vibes(self):
+        s = {"locked": True, "vibes": ["calm"]}
+        crawl.apply(s, {"lang": "en", "load_time": 1, "https": True, "words": 9, "embed": True, "tech": ["Hugo"], "vibes": ["weird"]})
+        self.assertEqual((s["vibes"], s["tech"]), (["calm"], ["Hugo"]))
+
 import votes
 class HallOfFame(unittest.TestCase):
     def test_each_account_counts_once_newest_wins(self):

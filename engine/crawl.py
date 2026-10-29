@@ -8,7 +8,8 @@ Jobs on every run:
   3. deep     - read known websites' link pages / blogrolls for more candidates
   4. recheck  - re-verify websites not checked for 30 days (then the oldest), refresh details
   5. safety   - compare every website with a public malware list, re-scan the oldest-scanned pages
-  6. archive  - look up the first Internet Archive year for websites that lack one
+  6. tags     - vibe check (cozy, playful, retro...) and tech tags (WordPress, hand-coded...) per website
+  7. archive  - look up the first Internet Archive year for websites that lack one
 Websites edited by hand in the control room are "locked": the robot never changes their
 name, description, category, review flag or status.
 """
@@ -273,6 +274,43 @@ def categorize(title, desc, heads, body, h):
     return top, confidence, tags
 
 # ---------------------------------------------------------------- verification
+# ---------------------------------------------------------------- vibe check + tech tags
+# Tech tags come from the raw page source (that is where the tools leave their fingerprints);
+# vibes come only from visible words, the archive year and page size - never from code.
+TECH = [("WordPress", r"wp-content/|wp-includes/|generator\" content=\"wordpress"), ("Next.js", r"__next_data__|/_next/static"),
+        ("Nuxt", r"__nuxt__|/_nuxt/"), ("Gatsby", r"___gatsby|generator\" content=\"gatsby"), ("Astro", r"astro-island|generator\" content=\"astro"),
+        ("Hugo", r"generator\" content=\"hugo"), ("Jekyll", r"generator\" content=\"jekyll"), ("Eleventy", r"generator\" content=\"eleventy"),
+        ("Ghost", r"generator\" content=\"ghost|ghost-portal"), ("Squarespace", r"squarespace\.com|static1\.squarespace"),
+        ("Wix", r"wixstatic\.com|x-wix"), ("Shopify", r"cdn\.shopify\.com"), ("Webflow", r"webflow\.(js|com)|data-wf-page"),
+        ("Svelte", r"svelte-[a-z0-9]{5,}|__sveltekit"), ("React", r"data-reactroot|react-dom|_reactlistening"),
+        ("Vue", r"data-v-[a-f0-9]{6,}|vue(\.min)?\.js"), ("jQuery", r"jquery(\.min)?\.js|jquery-\d"),
+        ("Bootstrap", r"bootstrap(\.min)?\.(css|js)"), ("Tailwind", r"tailwindcss|class=\"[^\"]*\b(?:flex|grid) [^\"]*\b(?:px|py|mx|my)-\d")]
+BUILDERS = {"WordPress", "Next.js", "Nuxt", "Gatsby", "Astro", "Hugo", "Jekyll", "Eleventy", "Ghost", "Squarespace", "Wix", "Shopify", "Webflow", "Svelte", "React", "Vue"}
+def tech_tags(html, h=""):
+    low = (html or "")[:400_000].lower(); out = [n for n, rx in TECH if re.search(rx, low)]
+    if h.endswith("neocities.org"): out.append("Neocities")
+    if h.endswith("github.io"): out.append("GitHub Pages")
+    if not set(out) & BUILDERS: out.append("Hand-coded")
+    if "<script" not in low: out.append("No JavaScript")
+    return out[:6]
+
+VIBE_WORDS = {"cozy": ["cozy", "cosy", "garden", "tea", "knit", "baking", "recipe", "my cat", "journal", "diary", "comfort", "homemade"],
+              "playful": ["game", "play", "toy", "puzzle", "fun", "interactive", "silly", "doodle", "arcade", "quiz"],
+              "calm": ["calm", "quiet", "slow", "peaceful", "meditation", "ambient", "relax", "nature", "breathe", "mindful"],
+              "weird": ["weird", "strange", "odd", "absurd", "bizarre", "surreal", "curious", "oddity", "eerie", "mystery"],
+              "nerdy": ["algorithm", "physics", "math", "theorem", "compiler", "linux", "electronics", "astronomy", "data", "research"],
+              "artsy": ["art", "illustration", "painting", "poetry", "photography", "zine", "sketch", "gallery", "music", "design"]}
+def vibes(title, desc, body, words, first_seen=0, html="", tech=()):
+    text = " " + " ".join([title, title, desc, desc, body[:6000]]).lower() + " "
+    score = {v: sum(len(re.findall(r"(?<![a-z])" + w + r"(?![a-z])", text)) for w in ws) for v, ws in VIBE_WORDS.items()}
+    out = [v for v, n in sorted(score.items(), key=lambda x: -x[1]) if n >= 2][:2]
+    low = (html or "")[:200_000].lower()
+    if (first_seen and int(first_seen) <= 2005) or re.search(r"<(marquee|blink|font |center>)|<table[^>]+bgcolor", low): out.append("retro")
+    if "Hand-coded" in tech and words < 2500: out.append("handmade")
+    if words >= 2500: out.append("deep read")
+    elif words < 300: out.append("minimal")
+    return out[:4]
+
 def verify(url):
     """Run every check. Returns details for a working website, or None with a reason."""
     try: st, final, html, ctype, secs, headers = get(url)
@@ -295,6 +333,7 @@ def verify(url):
     desc = best_description(p, title)
     body = " ".join(p.heads + p.paras)
     cat, conf, tags = categorize(title, desc, p.heads, body, h)
+    tech = tech_tags(html, h); vibe = vibes(title, desc, body, len(p.words), 0, html, tech)
     lang = p.lang or (p.meta.get("og:locale", "")[:2].lower()) or "?"
     alias = {h}
     for extra in (p.canonical, p.meta.get("og:url", "")):
@@ -302,7 +341,7 @@ def verify(url):
         if n and allowed(n): alias.add(key(n))
     anchors = [(urllib.parse.urljoin(final, a), t) for a, t in p.anchors if a and not a.startswith(("#", "mailto:", "javascript:"))]
     return {"url": ("https://" if final.startswith("https") else "http://") + h, "title": title, "description": desc,
-            "category": cat, "confidence": conf, "tags": tags, "lang": lang, "load_time": secs,
+            "category": cat, "confidence": conf, "tags": tags, "tech": tech, "vibes": vibe, "lang": lang, "load_time": secs,
             "https": final.startswith("https"), "words": len(p.words), "embed": embeddable(headers),
             "aliases": sorted(alias), "fingerprint": fingerprint(title, desc),
             "links": [a for a, _ in anchors if a.startswith("http")][:120], "anchors": anchors}, "ok"
@@ -401,8 +440,13 @@ def apply(site, r):
     """Copy fresh details onto a stored site unless the admin locked it."""
     for f in ("lang", "load_time", "https", "words", "embed"): site[f] = r[f]
     site["safety_checked"] = TODAY
+    if "tech" in r: site["tech"] = r["tech"]
     if not site.get("locked"):
         for f in ("title", "description", "category", "confidence", "tags", "fingerprint"): site[f] = r[f]
+        if "vibes" in r:
+            v = [x for x in r["vibes"] if x != "retro"]
+            if site.get("first_seen") and int(site["first_seen"]) <= 2005 or "retro" in r["vibes"]: v.append("retro")
+            site["vibes"] = v[:4]
 
 def days_since(d):
     try: return (datetime.date.today() - datetime.date.fromisoformat(d)).days
@@ -451,7 +495,8 @@ def main():
     # Recheck: everything older than 30 days first, then the oldest-checked
     old = sorted([s for s in sites if s.get("added") != TODAY], key=lambda s: s.get("checked", ""))
     stale = [s for s in old if days_since(s.get("checked", "")) >= STALE_DAYS]
-    old = (stale + [s for s in old if s not in stale])[:80]
+    untagged = [s for s in old if "tech" not in s and s not in stale][:120]  # one-off catch-up: give older sites vibes/tech tags
+    old = (stale + untagged + [s for s in old if s not in stale and s not in untagged])[:80 + len(untagged)]
     with ThreadPoolExecutor(12) as ex: chk = list(ex.map(lambda s: safe_verify(s["url"]), old))
     died = 0; flagged = 0
     for s, (r, why) in zip(old, chk):
