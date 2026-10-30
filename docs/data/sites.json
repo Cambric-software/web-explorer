@@ -13,7 +13,7 @@
     "strictllm.com"
    ],
    "lang": "en",
-   "load_time": 0.36,
+   "load_time": 0.21,
    "https": true,
    "words": 991,
    "embed": true,
@@ -48,7 +48,7 @@
     "ourspacevibes.com"
    ],
    "lang": "en",
-   "load_time": 0.79,
+   "load_time": 0.42,
    "https": true,
    "words": 40,
    "embed": false,
@@ -83,7 +83,7 @@
     "divagr.com"
    ],
    "lang": "en",
-   "load_time": 0.17,
+   "load_time": 0.24,
    "https": true,
    "words": 352,
    "embed": true,
@@ -119,9 +119,9 @@
     "finance.yahoo.com"
    ],
    "lang": "en",
-   "load_time": 0.46,
+   "load_time": 0.77,
    "https": true,
-   "words": 839,
+   "words": 1079,
    "embed": false,
    "safety_checked": "2026-10-30",
    "tech": [
@@ -155,7 +155,7 @@
     "runstructure.com"
    ],
    "lang": "en",
-   "load_time": 1.11,
+   "load_time": 0.32,
    "https": true,
    "words": 1057,
    "embed": true,
@@ -191,9 +191,9 @@
     "memgraph.com"
    ],
    "lang": "en",
-   "load_time": 0.09,
+   "load_time": 0.26,
    "https": true,
-   "words": 760,
+   "words": 761,
    "embed": false,
    "safety_checked": "2026-10-30",
    "tech": [
@@ -225,7 +225,7 @@
     "trakkr.ai"
    ],
    "lang": "en",
-   "load_time": 0.2,
+   "load_time": 0.3,
    "https": true,
    "words": 3009,
    "embed": false,
@@ -258,7 +258,7 @@
     "zodwick.com"
    ],
    "lang": "en",
-   "load_time": 0.07,
+   "load_time": 0.31,
    "https": true,
    "words": 124,
    "embed": true,
@@ -294,7 +294,7 @@
     "globatics.live"
    ],
    "lang": "en",
-   "load_time": 0.57,
+   "load_time": 0.39,
    "https": true,
    "words": 1972,
    "embed": false,
@@ -328,9 +328,9 @@
     "smsofdeath.com"
    ],
    "lang": "en",
-   "load_time": 0.14,
+   "load_time": 0.31,
    "https": true,
-   "words": 1109,
+   "words": 1185,
    "embed": true,
    "safety_checked": "2026-10-30",
    "tech": [
@@ -339,7 +339,7 @@
    "title": "SMS of Death",
    "description": "A single malformed WAP Push SMS crashes com.android.phone on Android, dropping calls including emergency calls, with zero interaction from the victim.",
    "category": "Random",
-   "confidence": 0,
+   "confidence": 1.0,
    "tags": [],
    "fingerprint": "smsofdeathasinglemalformedwappushsmscrashescomandroidphoneonandroiddroppingc",
    "vibes": [
@@ -362,7 +362,7 @@
     "scopedb.io"
    ],
    "lang": "en",
-   "load_time": 0.87,
+   "load_time": 0.88,
    "https": true,
    "words": 618,
    "embed": true,
@@ -395,20 +395,20 @@
     "deadapis.dev"
    ],
    "lang": "en",
-   "load_time": 0.29,
+   "load_time": 0.27,
    "https": true,
-   "words": 230,
+   "words": 241,
    "embed": true,
    "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
    "title": "The API Graveyard",
-   "description": "Here lie the APIs we loved and the integrations that broke us. Light a candle, bury your own integration horror story, and win a $200 gift card this Halloween.",
+   "description": "Deprecated and retired APIs, with shutdown dates and causes: HubSpot API keys, Exchange Basic Auth, Google+ and more. Bury your own integration horror story.",
    "category": "Developer",
    "confidence": 1.0,
    "tags": [],
-   "fingerprint": "theapigraveyardherelietheapiswelovedandtheintegrationsthatbrokeuslightacandleb",
+   "fingerprint": "theapigraveyarddeprecatedandretiredapiswithshutdowndatesandcauseshubspotapikeyse",
    "vibes": [
     "handmade",
     "minimal"
@@ -429,7 +429,7 @@
     "diffy.run"
    ],
    "lang": "en",
-   "load_time": 0.26,
+   "load_time": 0.37,
    "https": true,
    "words": 575,
    "embed": false,
@@ -465,7 +465,7 @@
     "safeguards.anthropic.com"
    ],
    "lang": "en",
-   "load_time": 0.2,
+   "load_time": 0.23,
    "https": true,
    "words": 111,
    "embed": false,
@@ -501,9 +501,9 @@
     "variety.com"
    ],
    "lang": "en",
-   "load_time": 0.82,
+   "load_time": 0.37,
    "https": true,
-   "words": 1817,
+   "words": 1739,
    "embed": true,
    "safety_checked": "2026-10-30",
    "tech": [
@@ -569,7 +569,7 @@
     "nixtamal.toast.al"
    ],
    "lang": "en",
-   "load_time": 2.22,
+   "load_time": 2.0,
    "https": true,
    "words": 631,
    "embed": false,
@@ -603,7 +603,7 @@
     "coryd.dev"
    ],
    "lang": "en",
-   "load_time": 0.47,
+   "load_time": 0.84,
    "https": true,
    "words": 331,
    "embed": false,
@@ -636,7 +636,7 @@
     "nostringtheory.com"
    ],
    "lang": "en",
-   "load_time": 0.28,
+   "load_time": 0.25,
    "https": true,
    "words": 232,
    "embed": false,
@@ -673,7 +673,7 @@
     "withpanta.com"
    ],
    "lang": "en",
-   "load_time": 0.72,
+   "load_time": 0.18,
    "https": true,
    "words": 538,
    "embed": true,
@@ -705,7 +705,7 @@
     "skypilot.ai"
    ],
    "lang": "en",
-   "load_time": 0.29,
+   "load_time": 0.28,
    "https": true,
    "words": 1250,
    "embed": true,
@@ -736,7 +736,7 @@
     "lagomor.ph"
    ],
    "lang": "en",
-   "load_time": 0.12,
+   "load_time": 0.35,
    "https": true,
    "words": 540,
    "embed": false,
@@ -768,7 +768,7 @@
     "regbase.com"
    ],
    "lang": "en",
-   "load_time": 0.19,
+   "load_time": 0.24,
    "https": true,
    "words": 1469,
    "embed": true,
@@ -804,7 +804,7 @@
     "iptrust.co"
    ],
    "lang": "en",
-   "load_time": 0.59,
+   "load_time": 0.81,
    "https": true,
    "words": 940,
    "embed": true,
@@ -839,9 +839,9 @@
     "pressaudit.org"
    ],
    "lang": "en",
-   "load_time": 0.59,
+   "load_time": 0.69,
    "https": true,
-   "words": 269,
+   "words": 264,
    "embed": false,
    "safety_checked": "2026-10-30",
    "tech": [
@@ -872,7 +872,7 @@
     "kadoa.com"
    ],
    "lang": "en",
-   "load_time": 0.56,
+   "load_time": 0.52,
    "https": true,
    "words": 1120,
    "embed": false,
@@ -905,7 +905,7 @@
     "logfolio.co"
    ],
    "lang": "en",
-   "load_time": 0.79,
+   "load_time": 0.39,
    "https": true,
    "words": 1005,
    "embed": false,
@@ -942,9 +942,9 @@
     "thenation.com"
    ],
    "lang": "en",
-   "load_time": 0.34,
+   "load_time": 0.26,
    "https": true,
-   "words": 1226,
+   "words": 1236,
    "embed": false,
    "safety_checked": "2026-10-30",
    "tech": [
@@ -2725,17 +2725,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "academicancestry.org"
    ],
    "lang": "en",
-   "load_time": 0.38,
+   "load_time": 0.05,
    "https": true,
    "words": 353,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -2758,17 +2758,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "pgrs.net"
    ],
    "lang": "en",
-   "load_time": 0.24,
+   "load_time": 0.35,
    "https": true,
    "words": 234,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -2795,17 +2795,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "jjsboyce.ca"
    ],
    "lang": "en",
-   "load_time": 1.01,
+   "load_time": 1.18,
    "https": true,
    "words": 2527,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "WordPress"
    ],
@@ -2830,17 +2830,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "blog.torproject.org"
    ],
    "lang": "?",
-   "load_time": 0.39,
+   "load_time": 0.42,
    "https": true,
    "words": 356,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded",
     "No JavaScript"
@@ -2864,26 +2864,26 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "sidekeysapp.com"
    ],
    "lang": "en",
-   "load_time": 0.13,
+   "load_time": 0.08,
    "https": true,
-   "words": 945,
+   "words": 1136,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
    "title": "Sidekeys",
-   "description": "Sidekeys turns your iPhone into a second screen for your Mac, and a control deck that knows what you're doing. Built for iPhone Duo. 7 days free, then $9.99 once.",
-   "category": "Random",
-   "confidence": 0,
+   "description": "Turn your iPhone or iPad into a second display for your Mac, a control deck that changes with the app you're using, and a dashboard for Claude Code agents. Built for iPhone Duo.",
+   "category": "Tools",
+   "confidence": 0.69,
    "tags": [],
-   "fingerprint": "sidekeyssidekeysturnsyouriphoneintoasecondscreenforyourmacandacontroldeck",
+   "fingerprint": "sidekeysturnyouriphoneoripadintoaseconddisplayforyourmacacontroldeckthat",
    "vibes": [
     "handmade"
    ],
@@ -2897,17 +2897,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "scraping.club"
    ],
    "lang": "en",
-   "load_time": 0.91,
+   "load_time": 0.65,
    "https": true,
    "words": 77,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -2933,17 +2933,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "bugsink.com"
    ],
    "lang": "en",
-   "load_time": 1.1,
+   "load_time": 0.5,
    "https": true,
    "words": 579,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Tailwind",
     "Hand-coded"
@@ -2967,17 +2967,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "usesimple.ai"
    ],
    "lang": "en",
-   "load_time": 0.35,
+   "load_time": 0.3,
    "https": true,
    "words": 1294,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -3002,17 +3002,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "automatiagame.com"
    ],
    "lang": "en",
-   "load_time": 0.43,
+   "load_time": 0.16,
    "https": true,
    "words": 410,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -3036,18 +3036,18 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "mockmagic.com",
     "studio.mockmagic.com"
    ],
    "lang": "en",
-   "load_time": 1.2,
+   "load_time": 1.12,
    "https": true,
    "words": 58,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Next.js",
     "Tailwind"
@@ -3071,17 +3071,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "arcblock.io"
    ],
    "lang": "en",
-   "load_time": 0.77,
+   "load_time": 0.6,
    "https": true,
    "words": 471,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -3105,17 +3105,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "projects.freehackers.org"
    ],
    "lang": "en",
-   "load_time": 3.46,
+   "load_time": 3.22,
    "https": true,
    "words": 52,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Bootstrap",
     "Hand-coded",
@@ -3141,17 +3141,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "16colo.rs"
    ],
    "lang": "en",
-   "load_time": 1.01,
+   "load_time": 0.69,
    "https": true,
-   "words": 425,
+   "words": 419,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "jQuery",
     "Hand-coded"
@@ -3178,17 +3178,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "earndraft.com"
    ],
    "lang": "en",
-   "load_time": 0.39,
+   "load_time": 0.43,
    "https": true,
    "words": 925,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Next.js",
     "Tailwind"
@@ -3214,17 +3214,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "catalogkite.com"
    ],
    "lang": "en",
-   "load_time": 0.39,
+   "load_time": 0.08,
    "https": true,
    "words": 1299,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Tailwind",
     "Hand-coded"
@@ -3248,17 +3248,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "metergraph.dev"
    ],
    "lang": "en",
-   "load_time": 0.31,
+   "load_time": 0.49,
    "https": true,
    "words": 1051,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -3280,17 +3280,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "fastmail.com"
    ],
    "lang": "en",
-   "load_time": 0.44,
+   "load_time": 0.22,
    "https": true,
    "words": 761,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -3312,17 +3312,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "entropicthoughts.com"
    ],
    "lang": "?",
-   "load_time": 1.26,
+   "load_time": 0.88,
    "https": true,
    "words": 478,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -3344,28 +3344,30 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "usenua.com"
    ],
    "lang": "en",
-   "load_time": 0.2,
+   "load_time": 0.13,
    "https": true,
    "words": 301,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Next.js",
     "Tailwind"
    ],
    "title": "Nua",
-   "description": "Nua builds video decision models. Ask for a moment in plain language and Nua pinpoints where it happens in hours of footage. Backed by Y Combinator.",
-   "category": "Random",
-   "confidence": 0,
+   "description": "Nua builds video decision models. Artificer, our 4B robotics model, judges task success and progress from video at frontier level, for robot evaluation, data labelling and VLA training.",
+   "category": "Technology",
+   "confidence": 0.69,
    "tags": [],
-   "fingerprint": "nuanuabuildsvideodecisionmodelsaskforamomentinplainlanguageandnuapin",
-   "vibes": [],
+   "fingerprint": "nuanuabuildsvideodecisionmodelsartificerour4broboticsmodeljudgestask",
+   "vibes": [
+    "nerdy"
+   ],
    "screenshot_file": "1de44d5f91b2e9c93d46.jpg",
    "archive_checked": "2026-10-30"
   },
@@ -3375,26 +3377,26 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "virtuallyfun.com"
    ],
    "lang": "en",
-   "load_time": 1.15,
+   "load_time": 0.84,
    "https": true,
-   "words": 3018,
+   "words": 3008,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "WordPress"
    ],
    "title": "Virtually Fun",
-   "description": "So today I reached a nice milestone in one of my projects: my work porting classic Mac OS to PowerPC systems with what I affectionately call ArtX chipsets (Nintendo GameCube, Wii, eventually Wii U…",
-   "category": "Personal",
-   "confidence": 0.71,
+   "description": "(This is a guest post from Antoni Sawicki aka Tenox)",
+   "category": "Developer",
+   "confidence": 0.5,
    "tags": [],
-   "fingerprint": "virtuallyfunsotodayireachedanicemilestoneinoneofmyprojectsmyworkportingclass",
+   "fingerprint": "virtuallyfunthisisaguestpostfromantonisawickiakatenox",
    "vibes": [
     "playful",
     "deep read"
@@ -3408,17 +3410,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "elementary.codes"
    ],
    "lang": "en",
-   "load_time": 0.25,
+   "load_time": 0.35,
    "https": true,
    "words": 110,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Vue"
    ],
@@ -3440,17 +3442,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "seqora.dev"
    ],
    "lang": "en",
-   "load_time": 0.48,
+   "load_time": 0.23,
    "https": true,
    "words": 1003,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -3474,17 +3476,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "pulsetoday.co.uk"
    ],
    "lang": "en",
-   "load_time": 2.78,
+   "load_time": 2.63,
    "https": true,
-   "words": 581,
+   "words": 579,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "WordPress",
     "jQuery",
@@ -3506,17 +3508,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "fig.blue"
    ],
    "lang": "en",
-   "load_time": 0.58,
+   "load_time": 0.25,
    "https": true,
    "words": 73,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -3539,17 +3541,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "duotext.io"
    ],
    "lang": "en",
-   "load_time": 0.94,
+   "load_time": 0.61,
    "https": true,
    "words": 1328,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Next.js",
     "Tailwind"
@@ -3570,17 +3572,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "carnewschina.com"
    ],
    "lang": "en",
-   "load_time": 0.42,
+   "load_time": 0.09,
    "https": true,
-   "words": 709,
+   "words": 715,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "WordPress",
     "jQuery"
@@ -3601,17 +3603,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "getlivewire.app"
    ],
    "lang": "en",
-   "load_time": 0.54,
+   "load_time": 0.37,
    "https": true,
    "words": 73,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -3634,17 +3636,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "sunlight.software"
    ],
    "lang": "en",
-   "load_time": 0.73,
+   "load_time": 0.09,
    "https": true,
    "words": 231,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -3667,17 +3669,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "newsstocks.live"
    ],
    "lang": "en",
-   "load_time": 0.16,
+   "load_time": 0.13,
    "https": true,
-   "words": 3022,
+   "words": 3019,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Next.js",
     "Tailwind"
@@ -3700,17 +3702,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "terroir.systems"
    ],
    "lang": "en",
-   "load_time": 0.14,
+   "load_time": 0.23,
    "https": true,
    "words": 42,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -3733,17 +3735,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "nick-liu.com"
    ],
    "lang": "en",
-   "load_time": 0.52,
+   "load_time": 0.24,
    "https": true,
    "words": 836,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Tailwind",
     "Hand-coded"
@@ -3766,17 +3768,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "editsqlite.com"
    ],
    "lang": "en",
-   "load_time": 0.37,
+   "load_time": 0.16,
    "https": true,
    "words": 1383,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -3801,17 +3803,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "labs.ycombinator.com"
    ],
    "lang": "?",
-   "load_time": 0.16,
+   "load_time": 0.33,
    "https": true,
    "words": 242,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded",
     "No JavaScript"
@@ -3835,17 +3837,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "tryroal.com"
    ],
    "lang": "en",
-   "load_time": 1.33,
+   "load_time": 0.69,
    "https": true,
    "words": 1102,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Next.js"
    ],
@@ -3865,17 +3867,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "trickortake.com"
    ],
    "lang": "en",
-   "load_time": 0.46,
+   "load_time": 0.35,
    "https": true,
    "words": 940,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -3900,17 +3902,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "asashepard.com"
    ],
    "lang": "en",
-   "load_time": 0.31,
+   "load_time": 0.29,
    "https": true,
    "words": 521,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -3926,7 +3928,9 @@
     "nerdy",
     "handmade"
    ],
-   "screenshot_file": "dea1b486cbf373d4f83a.jpg"
+   "screenshot_file": "dea1b486cbf373d4f83a.jpg",
+   "archive_checked": "2026-10-30",
+   "first_seen": 2024
   },
   {
    "url": "https://flipper.net",
@@ -3934,17 +3938,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "flipper.net"
    ],
    "lang": "en",
-   "load_time": 0.55,
+   "load_time": 0.37,
    "https": true,
    "words": 49,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Shopify"
    ],
@@ -3957,7 +3961,9 @@
    "vibes": [
     "minimal"
    ],
-   "screenshot_file": "80b9e7189a15501b9542.jpg"
+   "screenshot_file": "80b9e7189a15501b9542.jpg",
+   "archive_checked": "2026-10-30",
+   "first_seen": 2010
   },
   {
    "url": "https://synthtopia.com",
@@ -3965,17 +3971,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "synthtopia.com"
    ],
    "lang": "en",
-   "load_time": 1.23,
+   "load_time": 1.03,
    "https": true,
    "words": 614,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "WordPress",
     "jQuery"
@@ -3990,7 +3996,9 @@
     "artsy",
     "retro"
    ],
-   "screenshot_file": "8b69393ac9993d842ea5.jpg"
+   "screenshot_file": "8b69393ac9993d842ea5.jpg",
+   "archive_checked": "2026-10-30",
+   "first_seen": 2003
   },
   {
    "url": "https://genesisdb.io",
@@ -3998,17 +4006,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "genesisdb.io"
    ],
    "lang": "en",
-   "load_time": 1.26,
+   "load_time": 0.46,
    "https": true,
    "words": 689,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Next.js",
     "Tailwind"
@@ -4022,7 +4030,9 @@
    "vibes": [
     "nerdy"
    ],
-   "screenshot_file": "9c47477587692df12656.jpg"
+   "screenshot_file": "9c47477587692df12656.jpg",
+   "archive_checked": "2026-10-30",
+   "first_seen": 2025
   },
   {
    "url": "https://zenodo.org",
@@ -4030,31 +4040,35 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "zenodo.org"
    ],
    "lang": "en",
-   "load_time": 1.5,
+   "load_time": 0.77,
    "https": true,
-   "words": 1022,
+   "words": 1126,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
    "title": "Zenodo",
    "description": "Scheduled maintenance: On Tuesday, November 3rd, Zenodo will be unavailable between 08:00 and 08:15 UTC for an infrastructure upgrade.",
    "category": "Education",
-   "confidence": 0.57,
-   "tags": [],
+   "confidence": 0.5,
+   "tags": [
+    "Science"
+   ],
    "fingerprint": "zenodoscheduledmaintenanceontuesdaynovember3rdzenodowillbeunavailablebetw",
    "vibes": [
     "nerdy",
     "handmade"
    ],
-   "screenshot_file": "9b99754c8a8f836444e1.jpg"
+   "screenshot_file": "9b99754c8a8f836444e1.jpg",
+   "archive_checked": "2026-10-30",
+   "first_seen": 2013
   },
   {
    "url": "https://aiknowsus.com",
@@ -4062,17 +4076,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "aiknowsus.com"
    ],
    "lang": "en",
-   "load_time": 0.6,
+   "load_time": 0.35,
    "https": true,
    "words": 1177,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Next.js"
    ],
@@ -4083,7 +4097,9 @@
    "tags": [],
    "fingerprint": "aiknowsusbethenameaiknowswhenbuyersaskchatgptgeminiperplexityclaudeandgoo",
    "vibes": [],
-   "screenshot_file": "b47557cf539b3307b185.jpg"
+   "screenshot_file": "b47557cf539b3307b185.jpg",
+   "archive_checked": "2026-10-30",
+   "first_seen": 2026
   },
   {
    "url": "https://carfreeapp.com",
@@ -4091,17 +4107,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "carfreeapp.com"
    ],
    "lang": "en",
-   "load_time": 0.12,
+   "load_time": 0.1,
    "https": true,
    "words": 1179,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Bootstrap",
     "Hand-coded"
@@ -4115,7 +4131,9 @@
    "vibes": [
     "handmade"
    ],
-   "screenshot_file": "3c67ce2506a460546b3d.jpg"
+   "screenshot_file": "3c67ce2506a460546b3d.jpg",
+   "archive_checked": "2026-10-30",
+   "first_seen": 2026
   },
   {
    "url": "https://piccalil.li",
@@ -4123,17 +4141,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "piccalil.li"
    ],
    "lang": "en",
-   "load_time": 0.31,
+   "load_time": 0.09,
    "https": true,
    "words": 970,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Astro"
    ],
@@ -4148,7 +4166,9 @@
    ],
    "fingerprint": "piccalillipremiumcoursesarticleslinksandnewslettersthatgiveyouarealworldind",
    "vibes": [],
-   "screenshot_file": "29fa3c3b86af650da2ac.jpg"
+   "screenshot_file": "29fa3c3b86af650da2ac.jpg",
+   "archive_checked": "2026-10-30",
+   "first_seen": 2009
   },
   {
    "url": "https://outcrop.rocks",
@@ -4156,17 +4176,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "outcrop.rocks"
    ],
    "lang": "en",
-   "load_time": 0.34,
+   "load_time": 0.29,
    "https": true,
    "words": 487,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -4181,7 +4201,9 @@
    "vibes": [
     "handmade"
    ],
-   "screenshot_file": "03f5466c138730dc7e98.jpg"
+   "screenshot_file": "03f5466c138730dc7e98.jpg",
+   "archive_checked": "2026-10-30",
+   "first_seen": 2026
   },
   {
    "url": "https://blog.silentsignal.eu",
@@ -4189,17 +4211,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "blog.silentsignal.eu"
    ],
    "lang": "en",
-   "load_time": 0.85,
+   "load_time": 0.69,
    "https": true,
    "words": 510,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "jQuery",
     "Hand-coded"
@@ -4215,7 +4237,9 @@
    "vibes": [
     "handmade"
    ],
-   "screenshot_file": "4436039bf7b853ea3a20.jpg"
+   "screenshot_file": "4436039bf7b853ea3a20.jpg",
+   "archive_checked": "2026-10-30",
+   "first_seen": 2014
   },
   {
    "url": "https://wired.com",
@@ -4223,17 +4247,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "wired.com"
    ],
    "lang": "en",
-   "load_time": 0.32,
+   "load_time": 0.39,
    "https": true,
    "words": 744,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -4249,7 +4273,9 @@
    "vibes": [
     "handmade"
    ],
-   "screenshot_file": "b5b02bb6610290bb44bc.jpg"
+   "screenshot_file": "b5b02bb6610290bb44bc.jpg",
+   "archive_checked": "2026-10-30",
+   "first_seen": 2000
   },
   {
    "url": "https://dreamgroup.com",
@@ -4257,7 +4283,7 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "dreamgroup.com"
@@ -4267,7 +4293,7 @@
    "https": true,
    "words": 680,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Webflow",
     "jQuery"
@@ -4281,7 +4307,9 @@
    "vibes": [
     "nerdy"
    ],
-   "screenshot_file": "b49beb726f4a69d8044c.jpg"
+   "screenshot_file": "b49beb726f4a69d8044c.jpg",
+   "archive_checked": "2026-10-30",
+   "first_seen": 2001
   },
   {
    "url": "https://theverge.com",
@@ -4289,17 +4317,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "theverge.com"
    ],
    "lang": "en",
-   "load_time": 0.26,
+   "load_time": 0.44,
    "https": true,
-   "words": 3024,
+   "words": 3019,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "WordPress",
     "Next.js"
@@ -4317,7 +4345,9 @@
     "playful",
     "deep read"
    ],
-   "screenshot_file": "b1eb8af8980938cbbba9.jpg"
+   "screenshot_file": "b1eb8af8980938cbbba9.jpg",
+   "archive_checked": "2026-10-30",
+   "first_seen": 2000
   },
   {
    "url": "https://concordia.davidveksler.com",
@@ -4325,17 +4355,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "concordia.davidveksler.com"
    ],
    "lang": "en",
-   "load_time": 0.33,
+   "load_time": 0.14,
    "https": true,
    "words": 755,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -4351,7 +4381,9 @@
     "nerdy",
     "handmade"
    ],
-   "screenshot_file": "4343c7e68a1f5e5c259f.jpg"
+   "screenshot_file": "4343c7e68a1f5e5c259f.jpg",
+   "archive_checked": "2026-10-30",
+   "first_seen": 2026
   },
   {
    "url": "https://binarysecurity.no",
@@ -4359,17 +4391,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "binarysecurity.no"
    ],
    "lang": "en",
-   "load_time": 0.37,
+   "load_time": 0.28,
    "https": true,
    "words": 278,
    "embed": false,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Jekyll",
     "jQuery"
@@ -4383,7 +4415,9 @@
    "vibes": [
     "minimal"
    ],
-   "screenshot_file": "f48c4705f78a1d10a8ac.jpg"
+   "screenshot_file": "f48c4705f78a1d10a8ac.jpg",
+   "archive_checked": "2026-10-30",
+   "first_seen": 2019
   },
   {
    "url": "https://tminuslabs.space",
@@ -4391,17 +4425,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "tminuslabs.space"
    ],
    "lang": "en",
-   "load_time": 0.36,
+   "load_time": 0.16,
    "https": true,
-   "words": 606,
+   "words": 625,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "Hand-coded"
    ],
@@ -4415,7 +4449,9 @@
     "artsy",
     "handmade"
    ],
-   "screenshot_file": "b0f00a77435fa9f02ade.jpg"
+   "screenshot_file": "b0f00a77435fa9f02ade.jpg",
+   "archive_checked": "2026-10-30",
+   "first_seen": 2026
   },
   {
    "url": "https://jorgecolonconsulting.com",
@@ -4423,17 +4459,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-29",
-   "checked": "2026-10-29",
+   "checked": "2026-10-30",
    "fails": 0,
    "aliases": [
     "jorgecolonconsulting.com"
    ],
    "lang": "en",
-   "load_time": 0.85,
+   "load_time": 0.8,
    "https": true,
    "words": 218,
    "embed": true,
-   "safety_checked": "2026-10-29",
+   "safety_checked": "2026-10-30",
    "tech": [
     "WordPress",
     "jQuery"
@@ -4449,7 +4485,9 @@
    "vibes": [
     "minimal"
    ],
-   "screenshot_file": "f069cb3bab696f95bee9.jpg"
+   "screenshot_file": "f069cb3bab696f95bee9.jpg",
+   "archive_checked": "2026-10-30",
+   "first_seen": 2020
   },
   {
    "url": "https://empirical.health",
@@ -4479,7 +4517,9 @@
    "tags": [],
    "fingerprint": "empiricalhealthtrack100highsignalbiomarkersbuildcustomnutritionplansandreceivepe",
    "vibes": [],
-   "screenshot_file": "84fd59611324cbf86a5b.jpg"
+   "screenshot_file": "84fd59611324cbf86a5b.jpg",
+   "archive_checked": "2026-10-30",
+   "first_seen": 2022
   },
   {
    "url": "https://sanityos.com",
@@ -4510,7 +4550,9 @@
    ],
    "fingerprint": "sanityosexplorepracticaldesktopsoftwarefromsanityosownfocusedbusinesstoolsth",
    "vibes": [],
-   "screenshot_file": "621d7351c38da896ceec.jpg"
+   "screenshot_file": "621d7351c38da896ceec.jpg",
+   "archive_checked": "2026-10-30",
+   "first_seen": 2015
   },
   {
    "url": "https://terrytao.wordpress.com",
@@ -4545,7 +4587,9 @@
     "artsy",
     "deep read"
    ],
-   "screenshot_file": "56b0a4dcb7ce2342e90c.jpg"
+   "screenshot_file": "56b0a4dcb7ce2342e90c.jpg",
+   "archive_checked": "2026-10-30",
+   "first_seen": 2007
   },
   {
    "url": "https://ptrtoliam.dev",
@@ -4578,7 +4622,8 @@
     "handmade",
     "minimal"
    ],
-   "screenshot_file": "a6bb59e3374ef87284a5.jpg"
+   "screenshot_file": "a6bb59e3374ef87284a5.jpg",
+   "archive_checked": "2026-10-30"
   },
   {
    "url": "https://cormacmccarthy.lib.utk.edu",
@@ -4610,7 +4655,8 @@
     "handmade",
     "minimal"
    ],
-   "screenshot_file": "563ff106a8caf76ff88e.jpg"
+   "screenshot_file": "563ff106a8caf76ff88e.jpg",
+   "archive_checked": "2026-10-30"
   },
   {
    "url": "https://noyb.eu",
@@ -4642,7 +4688,8 @@
     "nerdy",
     "handmade"
    ],
-   "screenshot_file": "b6ebba2704b04da18960.jpg"
+   "screenshot_file": "b6ebba2704b04da18960.jpg",
+   "archive_checked": "2026-10-30"
   },
   {
    "url": "https://casco.com",
@@ -4674,7 +4721,8 @@
    ],
    "fingerprint": "cascobringcontinuousaipentestingthreatmodelingbugbountytriagecodesecurit",
    "vibes": [],
-   "screenshot_file": "af6c6d6f3fd34ca2c917.jpg"
+   "screenshot_file": "af6c6d6f3fd34ca2c917.jpg",
+   "archive_checked": "2026-10-30"
   },
   {
    "url": "https://graphics-programming.org",
@@ -4709,7 +4757,8 @@
     "handmade",
     "minimal"
    ],
-   "screenshot_file": "7161416adb8319cacff1.jpg"
+   "screenshot_file": "7161416adb8319cacff1.jpg",
+   "archive_checked": "2026-10-30"
   },
   {
    "url": "https://journal.animationstudies.org",
@@ -4747,7 +4796,8 @@
     "handmade",
     "minimal"
    ],
-   "screenshot_file": "3d9b01bbea1e864ad17e.jpg"
+   "screenshot_file": "3d9b01bbea1e864ad17e.jpg",
+   "archive_checked": "2026-10-30"
   },
   {
    "url": "https://businessinsider.com",
@@ -4780,7 +4830,8 @@
    "vibes": [
     "handmade"
    ],
-   "screenshot_file": "90a0cda2c4455ab5ea77.jpg"
+   "screenshot_file": "90a0cda2c4455ab5ea77.jpg",
+   "archive_checked": "2026-10-30"
   },
   {
    "url": "https://hotrepo.ai",
@@ -4810,7 +4861,8 @@
    "tags": [],
    "fingerprint": "hotrepotodaysfastestrisingopensourceprojectsongithubtrendingrankedbystars",
    "vibes": [],
-   "screenshot_file": "2b1eace9bf2632c0fb81.jpg"
+   "screenshot_file": "2b1eace9bf2632c0fb81.jpg",
+   "archive_checked": "2026-10-30"
   },
   {
    "url": "https://danfountain.com",
@@ -4845,7 +4897,8 @@
     "artsy",
     "handmade"
    ],
-   "screenshot_file": "1c825e7a725e281e7f7d.jpg"
+   "screenshot_file": "1c825e7a725e281e7f7d.jpg",
+   "archive_checked": "2026-10-30"
   },
   {
    "url": "https://evanjconrad.com",
@@ -4877,7 +4930,8 @@
    "vibes": [
     "minimal"
    ],
-   "screenshot_file": "4ec79091e9015cce752c.jpg"
+   "screenshot_file": "4ec79091e9015cce752c.jpg",
+   "archive_checked": "2026-10-30"
   },
   {
    "url": "https://novelhive.ai",
@@ -4913,7 +4967,8 @@
     "playful",
     "handmade"
    ],
-   "screenshot_file": "bc6230d005212e167ca9.jpg"
+   "screenshot_file": "bc6230d005212e167ca9.jpg",
+   "archive_checked": "2026-10-30"
   },
   {
    "url": "https://wheelsup.io",
@@ -4945,7 +5000,8 @@
     "playful",
     "handmade"
    ],
-   "screenshot_file": "6bd37e7eea74c22b3517.jpg"
+   "screenshot_file": "6bd37e7eea74c22b3517.jpg",
+   "archive_checked": "2026-10-30"
   },
   {
    "url": "https://openteams.com",
@@ -4980,7 +5036,8 @@
    "vibes": [
     "nerdy"
    ],
-   "screenshot_file": "1a24de751e13b1fa4633.jpg"
+   "screenshot_file": "1a24de751e13b1fa4633.jpg",
+   "archive_checked": "2026-10-30"
   },
   {
    "url": "https://coreauto.com",
@@ -5015,7 +5072,8 @@
     "handmade",
     "minimal"
    ],
-   "screenshot_file": "c9eb442cc21d034812db.jpg"
+   "screenshot_file": "c9eb442cc21d034812db.jpg",
+   "archive_checked": "2026-10-30"
   },
   {
    "url": "https://lapcatsoftware.com",
@@ -5047,7 +5105,8 @@
    "vibes": [
     "handmade"
    ],
-   "screenshot_file": "342a4194b035b80ec508.jpg"
+   "screenshot_file": "342a4194b035b80ec508.jpg",
+   "archive_checked": "2026-10-30"
   },
   {
    "url": "https://bonkmay.kr",
@@ -5081,7 +5140,8 @@
     "handmade",
     "minimal"
    ],
-   "screenshot_file": "a7152b14f211da31c61b.jpg"
+   "screenshot_file": "a7152b14f211da31c61b.jpg",
+   "archive_checked": "2026-10-30"
   },
   {
    "url": "https://4rknova.com",
@@ -5118,7 +5178,8 @@
     "artsy",
     "deep read"
    ],
-   "screenshot_file": "1f31dbae225fd546f48e.jpg"
+   "screenshot_file": "1f31dbae225fd546f48e.jpg",
+   "archive_checked": "2026-10-30"
   },
   {
    "url": "https://tinygyn.com",
@@ -5151,7 +5212,8 @@
     "handmade",
     "minimal"
    ],
-   "screenshot_file": "a3ce708e9f744515bc7d.jpg"
+   "screenshot_file": "a3ce708e9f744515bc7d.jpg",
+   "archive_checked": "2026-10-30"
   },
   {
    "url": "https://politico.com",
@@ -5185,7 +5247,8 @@
     "playful",
     "handmade"
    ],
-   "screenshot_file": "bb616571b307e3cf42d0.jpg"
+   "screenshot_file": "bb616571b307e3cf42d0.jpg",
+   "archive_checked": "2026-10-30"
   },
   {
    "url": "https://letsencrypt.org",
@@ -5221,7 +5284,8 @@
    "vibes": [
     "nerdy"
    ],
-   "screenshot_file": "37e99b32b6312711aaf4.jpg"
+   "screenshot_file": "37e99b32b6312711aaf4.jpg",
+   "archive_checked": "2026-10-30"
   },
   {
    "url": "https://pytorch.org",
@@ -6514,6 +6578,2103 @@
     "handmade"
    ],
    "screenshot_file": "369ce113c98c388281f6.jpg"
+  },
+  {
+   "url": "https://haydenbleasel.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "haydenbleasel.com"
+   ],
+   "lang": "en",
+   "load_time": 0.86,
+   "https": true,
+   "words": 157,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Astro"
+   ],
+   "title": "Hayden Bleasel",
+   "description": "Australian software engineer and product designer at OpenAI. Creator of Ultracite, Files SDK and Blume, based in San Francisco.",
+   "category": "Developer",
+   "confidence": 0.85,
+   "tags": [],
+   "fingerprint": "haydenbleaselaustraliansoftwareengineerandproductdesigneratopenaicreatorofultracit",
+   "vibes": [
+    "minimal"
+   ],
+   "screenshot_file": "f733dde55ef9c43798b9.jpg"
+  },
+  {
+   "url": "https://trmlabs.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "trmlabs.com"
+   ],
+   "lang": "en",
+   "load_time": 0.39,
+   "https": true,
+   "words": 790,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Next.js",
+    "Tailwind"
+   ],
+   "title": "TRM Labs",
+   "description": "Uncover illicit activity and disrupt threats with TRM. Bring AI and all-source intelligence into every investigation.",
+   "category": "Technology",
+   "confidence": 0.62,
+   "tags": [],
+   "fingerprint": "trmlabsuncoverillicitactivityanddisruptthreatswithtrmbringaiandallsourcei",
+   "vibes": [
+    "nerdy"
+   ],
+   "screenshot_file": "2e880c3e47b615754f2b.jpg"
+  },
+  {
+   "url": "https://tildeweb.nl",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "tildeweb.nl"
+   ],
+   "lang": "nl",
+   "load_time": 0.63,
+   "https": true,
+   "words": 117,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "title": "~~ tildeweb.nl ~~",
+   "description": "Tildeweb.nl is een gezamenlijk stukje internetruimte. Het is van ons, de gebruikers.",
+   "category": "Random",
+   "confidence": 0,
+   "tags": [],
+   "fingerprint": "tildewebnltildewebnliseengezamenlijkstukjeinternetruimtehetisvanonsdegebruik",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "screenshot_file": "196d88bc4093fbd0de97.jpg"
+  },
+  {
+   "url": "https://felixringe.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "felixringe.com"
+   ],
+   "lang": "en",
+   "load_time": 0.72,
+   "https": true,
+   "words": 148,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Felix Ringe",
+   "description": "I use computational methods to study legal questions. I am particularly interested in evaluating legal reasoning and bargaining capabilities of LLMs.",
+   "category": "Technology",
+   "confidence": 0.68,
+   "tags": [],
+   "fingerprint": "felixringeiusecomputationalmethodstostudylegalquestionsiamparticularlyinterest",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "screenshot_file": "7b084a29413f8b1695ba.jpg"
+  },
+  {
+   "url": "https://808bits.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "808bits.com"
+   ],
+   "lang": "en",
+   "load_time": 0.19,
+   "https": true,
+   "words": 803,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "808bits",
+   "description": "808bits. 101 bytes. The quiet infrastructure of trustless systems: notes on keys, proofs, and continuity.",
+   "category": "Personal",
+   "confidence": 0.57,
+   "tags": [],
+   "fingerprint": "808bits808bits101bytesthequietinfrastructureoftrustlesssystemsnotesonkeys",
+   "vibes": [
+    "calm",
+    "handmade"
+   ],
+   "screenshot_file": "ef20ba50a7bd40925964.jpg"
+  },
+  {
+   "url": "https://seangoedecke.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "seangoedecke.com"
+   ],
+   "lang": "en",
+   "load_time": 0.15,
+   "https": true,
+   "words": 246,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Gatsby"
+   ],
+   "title": "All posts",
+   "description": "Sean Goedecke's personal blog",
+   "category": "Personal",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "",
+   "vibes": [
+    "minimal"
+   ],
+   "screenshot_file": "ad8a047b11f007a076d8.jpg"
+  },
+  {
+   "url": "https://gvisor.dev",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "gvisor.dev"
+   ],
+   "lang": "en",
+   "load_time": 0.27,
+   "https": true,
+   "words": 562,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "jQuery",
+    "Bootstrap",
+    "Hand-coded"
+   ],
+   "title": "gVisor",
+   "description": "Improve your container security, deliver security-imperative apps, increase security productivity, and enforce compliance.",
+   "category": "Technology",
+   "confidence": 0.63,
+   "tags": [
+    "Tools"
+   ],
+   "fingerprint": "gvisorimproveyourcontainersecuritydeliversecurityimperativeappsincreasesecu",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "screenshot_file": "9d9eab4c4897d1c51bfe.jpg"
+  },
+  {
+   "url": "https://dockshift.org",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "dockshift.org"
+   ],
+   "lang": "en",
+   "load_time": 0.37,
+   "https": true,
+   "words": 345,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Tailwind",
+    "Hand-coded"
+   ],
+   "title": "DockShift",
+   "description": "Instant in-browser Docker Run to Docker Compose converter, reverse Compose to Run CLI, and export structured JSON AST for AI agents. 100% client-side privacy.",
+   "category": "Developer",
+   "confidence": 0.82,
+   "tags": [],
+   "fingerprint": "dockshiftinstantinbrowserdockerruntodockercomposeconverterreversecomposetoru",
+   "vibes": [
+    "handmade"
+   ],
+   "screenshot_file": "5acdf9de7e2a7ecbab34.jpg"
+  },
+  {
+   "url": "https://videocardz.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "videocardz.com"
+   ],
+   "lang": "en",
+   "load_time": 0.09,
+   "https": true,
+   "words": 1470,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "WordPress",
+    "jQuery"
+   ],
+   "title": "Graphics Cards, Video Cards, GPUs",
+   "description": "VideoCardz.com - Home of graphics cards, video cards, GPUs. Latest news, rumors, leaks and specifications. All graphics cards related.",
+   "category": "Technology",
+   "confidence": 0.63,
+   "tags": [
+    "News"
+   ],
+   "fingerprint": "graphicscardsvideocardsgpusvideocardzcomhomeofgraphicscardsvideocardsgpuslatestnewsrumors",
+   "vibes": [],
+   "screenshot_file": "1584ae1f8c70a383d20d.jpg"
+  },
+  {
+   "url": "https://samueleast.co.uk",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "samueleast.co.uk"
+   ],
+   "lang": "en",
+   "load_time": 0.18,
+   "https": true,
+   "words": 2603,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Next.js",
+    "Tailwind"
+   ],
+   "title": "Samuel East",
+   "description": "Senior Software Engineer with 15+ years experience in React Native and media streaming. Plex, NBC PeacockTV, Vodafone, 3SS, Nagra.",
+   "category": "Developer",
+   "confidence": 0.76,
+   "tags": [],
+   "fingerprint": "samueleastseniorsoftwareengineerwith15yearsexperienceinreactnativeandmediastr",
+   "vibes": [
+    "deep read"
+   ],
+   "screenshot_file": "34b69f72caa9c9c256ba.jpg"
+  },
+  {
+   "url": "https://gadgetsteal.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "gadgetsteal.com"
+   ],
+   "lang": "en",
+   "load_time": 0.42,
+   "https": true,
+   "words": 1543,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Tailwind",
+    "Hand-coded"
+   ],
+   "title": "GadgetSteal",
+   "description": "Price-checked deals on well-rated kitchen appliances, vacuums, air purifiers, personal care, TV and audio, and smart home gadgets. Find the steal before you buy.",
+   "category": "Technology",
+   "confidence": 0.75,
+   "tags": [],
+   "fingerprint": "gadgetstealpricecheckeddealsonwellratedkitchenappliancesvacuumsairpurifierspe",
+   "vibes": [
+    "handmade"
+   ],
+   "screenshot_file": "7ad87f805380acc52083.jpg"
+  },
+  {
+   "url": "https://blog.dnsimple.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "blog.dnsimple.com"
+   ],
+   "lang": "?",
+   "load_time": 0.25,
+   "https": true,
+   "words": 350,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "DNSimple Blog",
+   "description": "Latest news and updates from DNSimple, domain name management, and DNS hosting.",
+   "category": "News",
+   "confidence": 0.76,
+   "tags": [],
+   "fingerprint": "dnsimplebloglatestnewsandupdatesfromdnsimpledomainnamemanagementanddnshosting",
+   "vibes": [
+    "handmade"
+   ],
+   "screenshot_file": "b18a38720ad73eefe9af.jpg"
+  },
+  {
+   "url": "https://historytoday.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "historytoday.com"
+   ],
+   "lang": "en",
+   "load_time": 1.05,
+   "https": true,
+   "words": 587,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "jQuery",
+    "Hand-coded"
+   ],
+   "title": "History Today",
+   "description": "History Today is the world's leading history magazine for in-depth articles, reviews, and research by the foremost historians in their fields.",
+   "category": "Science",
+   "confidence": 0.5,
+   "tags": [
+    "News"
+   ],
+   "fingerprint": "historytodayhistorytodayistheworldsleadinghistorymagazineforindeptharticlesrev",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "screenshot_file": "93bc59daaedbd9473ed2.jpg"
+  },
+  {
+   "url": "https://winder.ai",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "winder.ai"
+   ],
+   "lang": "?",
+   "load_time": 0.32,
+   "https": true,
+   "words": 1138,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "title": "Winder",
+   "description": "",
+   "category": "Random",
+   "confidence": 0,
+   "tags": [],
+   "fingerprint": "",
+   "vibes": [
+    "handmade"
+   ],
+   "screenshot_file": "7325f84ed145e04bb46a.jpg"
+  },
+  {
+   "url": "https://send21.io",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "send21.io"
+   ],
+   "lang": "en",
+   "load_time": 0.22,
+   "https": true,
+   "words": 1091,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "send21",
+   "description": "Pay links and a payment API for people and AI agents. BTC, Lightning, USDC, USDT, EURC, SOL and ETH, paid straight to your own wallet.",
+   "category": "Technology",
+   "confidence": 0.57,
+   "tags": [
+    "Developer"
+   ],
+   "fingerprint": "send21paylinksandapaymentapiforpeopleandaiagentsbtclightningusdcusdt",
+   "vibes": [
+    "handmade"
+   ],
+   "screenshot_file": "d3d0fbcb7c91707520e2.jpg"
+  },
+  {
+   "url": "https://arsaze.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "arsaze.com"
+   ],
+   "lang": "en",
+   "load_time": 0.39,
+   "https": true,
+   "words": 1408,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Next.js",
+    "Tailwind"
+   ],
+   "title": "Arsaze",
+   "description": "Arsaze is Cursor for video editing: the AI-native video editor for agents and humans.",
+   "category": "Technology",
+   "confidence": 0.67,
+   "tags": [],
+   "fingerprint": "arsazearsazeiscursorforvideoeditingtheainativevideoeditorforagentsandhu",
+   "vibes": [
+    "nerdy"
+   ],
+   "screenshot_file": "17e86fe0debb7653730e.jpg"
+  },
+  {
+   "url": "https://lesswrong.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "lesswrong.com"
+   ],
+   "lang": "?",
+   "load_time": 0.69,
+   "https": true,
+   "words": 316,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Next.js"
+   ],
+   "title": "LessWrong",
+   "description": "A community blog devoted to refining the art of rationality",
+   "category": "Communities",
+   "confidence": 0.56,
+   "tags": [],
+   "fingerprint": "lesswrongacommunityblogdevotedtorefiningtheartofrationality",
+   "vibes": [
+    "nerdy",
+    "artsy"
+   ],
+   "screenshot_file": "e936bb44b4d24d0a6754.jpg"
+  },
+  {
+   "url": "https://hipathai.me",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "hipathai.me"
+   ],
+   "lang": "en",
+   "load_time": 0.26,
+   "https": true,
+   "words": 647,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Next.js",
+    "Tailwind"
+   ],
+   "title": "HiPath AI",
+   "description": "HiPath AI builds you a personalized roadmap, guides you day by day with AI tutoring, adapts to your weaknesses, and keeps you motivated — like having a mentor in your pocket.",
+   "category": "Education",
+   "confidence": 0.54,
+   "tags": [
+    "Technology"
+   ],
+   "fingerprint": "hipathaihipathaibuildsyouapersonalizedroadmapguidesyoudaybydaywithaitutor",
+   "vibes": [
+    "playful"
+   ],
+   "screenshot_file": "a5c5fcfe84e34a6af50d.jpg"
+  },
+  {
+   "url": "https://bleepingcomputer.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "bleepingcomputer.com"
+   ],
+   "lang": "en",
+   "load_time": 0.57,
+   "https": true,
+   "words": 1265,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "jQuery",
+    "Bootstrap",
+    "Hand-coded"
+   ],
+   "title": "BleepingComputer",
+   "description": "BleepingComputer is a premier destination for cybersecurity news for over 20 years, delivering breaking stories on the latest hacks, malware threats, and how to protect your devices.",
+   "category": "Technology",
+   "confidence": 0.58,
+   "tags": [
+    "News",
+    "Education"
+   ],
+   "fingerprint": "bleepingcomputerbleepingcomputerisapremierdestinationforcybersecuritynewsforover20yea",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "screenshot_file": "ec7dac2ca2fa231ad259.jpg"
+  },
+  {
+   "url": "https://nyc.streetsblog.org",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "nyc.streetsblog.org"
+   ],
+   "lang": "en",
+   "load_time": 0.25,
+   "https": true,
+   "words": 580,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "WordPress",
+    "Tailwind"
+   ],
+   "title": "Streetsblog New York City",
+   "description": "Covering the fight for livable streets and the battle against car dependency.",
+   "category": "News",
+   "confidence": 0.77,
+   "tags": [],
+   "fingerprint": "streetsblognewyorkcitycoveringthefightforlivablestreetsandthebattleagainstcardependency",
+   "vibes": [],
+   "screenshot_file": "29cbd606f76e395d567a.jpg"
+  },
+  {
+   "url": "https://discourse.imfreedom.org",
+   "source": "lobsters",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "discourse.imfreedom.org"
+   ],
+   "lang": "en",
+   "load_time": 0.41,
+   "https": true,
+   "words": 220,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Instant Messaging Freedom's Discourse",
+   "description": "A place for Instant Messaging Freedom and all the project it supports",
+   "category": "Random",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "instantmessagingfreedomsdiscourseaplaceforinstantmessagingfreedomandalltheprojectitsupports",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "screenshot_file": "2dcc30482c14522ebbba.jpg"
+  },
+  {
+   "url": "https://phorion.io",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "phorion.io"
+   ],
+   "lang": "en",
+   "load_time": 0.1,
+   "https": true,
+   "words": 918,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "jQuery",
+    "Tailwind",
+    "Hand-coded"
+   ],
+   "title": "Phorion | macOS Endpoint Detection and Response (EDR)",
+   "description": "Phorion delivers macOS-first endpoint detection and response tooling built without compromise.",
+   "category": "Tools",
+   "confidence": 0.71,
+   "tags": [],
+   "fingerprint": "phorionmacosendpointdetectionandresponseedrphoriondeliversmacosfirstendpointdetectionandresponsetoolingbuiltwitho",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "screenshot_file": "652410f5f4dbd11d0df5.jpg"
+  },
+  {
+   "url": "https://hinoki.security",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "hinoki.security"
+   ],
+   "lang": "en",
+   "load_time": 0.43,
+   "https": true,
+   "words": 158,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Next.js"
+   ],
+   "title": "Hinoki",
+   "description": "Hinoki Offensive One is the first open-access cyber model, post-trained for exploit development. Use it from Claude Code, Codex and other coding agents.",
+   "category": "Developer",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "hinokihinokioffensiveoneisthefirstopenaccesscybermodelposttrainedforexpl",
+   "vibes": [
+    "minimal"
+   ],
+   "screenshot_file": "de0c6feeec8f467b9fca.jpg"
+  },
+  {
+   "url": "https://pennmedicine.org",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "pennmedicine.org"
+   ],
+   "lang": "en",
+   "load_time": 0.45,
+   "https": true,
+   "words": 321,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Next.js"
+   ],
+   "title": "Penn Medicine",
+   "description": "For more than two centuries, Penn Medicine has cared for the people of Pennsylvania and New Jersey.",
+   "category": "Random",
+   "confidence": 0.5,
+   "tags": [],
+   "fingerprint": "pennmedicineformorethantwocenturiespennmedicinehascaredforthepeopleofpennsylva",
+   "vibes": [],
+   "screenshot_file": "b88110ae119808bfef70.jpg"
+  },
+  {
+   "url": "https://desksprite.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "desksprite.com"
+   ],
+   "lang": "en",
+   "load_time": 0.45,
+   "https": true,
+   "words": 1438,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "DeskSprite",
+   "description": "Free desktop pet app for Windows and macOS. DeskSprite answers your clicks, follows your cursor, naps while you focus — upload photos for an AI pet of your own.",
+   "category": "Tools",
+   "confidence": 0.74,
+   "tags": [],
+   "fingerprint": "deskspritefreedesktoppetappforwindowsandmacosdeskspriteanswersyourclicksfoll",
+   "vibes": [
+    "handmade"
+   ],
+   "screenshot_file": "7238ccee913f1983563c.jpg"
+  },
+  {
+   "url": "https://2tinteractive.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "2tinteractive.com"
+   ],
+   "lang": "en",
+   "load_time": 0.28,
+   "https": true,
+   "words": 43,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Next.js"
+   ],
+   "title": "2TInteractive",
+   "description": "One studio connecting Beirut and Portugal. Software engineering, AI, brand strategy and media production shaped around your business.",
+   "category": "Technology",
+   "confidence": 0.55,
+   "tags": [
+    "Developer",
+    "Business"
+   ],
+   "fingerprint": "2tinteractiveonestudioconnectingbeirutandportugalsoftwareengineeringaibrandstrat",
+   "vibes": [
+    "minimal"
+   ],
+   "screenshot_file": "70636a06199cff2944df.jpg"
+  },
+  {
+   "url": "https://paulbakker.io",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "paulbakker.io"
+   ],
+   "lang": "en",
+   "load_time": 0.4,
+   "https": true,
+   "words": 191,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Astro"
+   ],
+   "title": "Paul Bakker",
+   "description": "Staff software engineer on the Java Platform team at Netflix, author, and conference speaker.",
+   "category": "Developer",
+   "confidence": 0.62,
+   "tags": [
+    "Technology"
+   ],
+   "fingerprint": "paulbakkerstaffsoftwareengineeronthejavaplatformteamatnetflixauthorandconfer",
+   "vibes": [
+    "minimal"
+   ],
+   "screenshot_file": "76cebe71febb5cb47283.jpg"
+  },
+  {
+   "url": "https://cuis.st",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "cuis.st"
+   ],
+   "lang": "en",
+   "load_time": 0.31,
+   "https": true,
+   "words": 321,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Jekyll"
+   ],
+   "title": "Cuis Smalltalk",
+   "description": "Cuis is a free Smalltalk-80 environment with a specific set of goals: being simple and powerful.It is also portable to any platform, fast and efficient.",
+   "category": "News",
+   "confidence": 0.79,
+   "tags": [],
+   "fingerprint": "cuissmalltalkcuisisafreesmalltalk80environmentwithaspecificsetofgoalsbeingsimp",
+   "vibes": [],
+   "screenshot_file": "3b09ea03b7f11fd380fe.jpg"
+  },
+  {
+   "url": "https://invoicingpro.org",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "invoicingpro.org"
+   ],
+   "lang": "en",
+   "load_time": 0.89,
+   "https": true,
+   "words": 600,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "InvoicingPro",
+   "description": "InvoicingPro offers desktop and mobile invoicing apps with offline operation, cross-device synchronization, and a one-time payment with no subscription.",
+   "category": "Business",
+   "confidence": 0.59,
+   "tags": [
+    "Tools"
+   ],
+   "fingerprint": "invoicingproinvoicingprooffersdesktopandmobileinvoicingappswithofflineoperationcr",
+   "vibes": [
+    "handmade"
+   ],
+   "screenshot_file": "2fb952e895f4d4d6aa5a.jpg"
+  },
+  {
+   "url": "https://zyvop.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "zyvop.com"
+   ],
+   "lang": "en",
+   "load_time": 0.18,
+   "https": true,
+   "words": 1850,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Next.js",
+    "Tailwind"
+   ],
+   "title": "ZyVOP",
+   "description": "Write technical articles, grow an audience around your work, and syndicate to connected developer platforms and social channels.",
+   "category": "Developer",
+   "confidence": 0.56,
+   "tags": [],
+   "fingerprint": "zyvopwritetechnicalarticlesgrowanaudiencearoundyourworkandsyndicatetoco",
+   "vibes": [],
+   "screenshot_file": "d1c1ea607a74eddb58a0.jpg"
+  },
+  {
+   "url": "https://sigreturn.com",
+   "source": "lobsters",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "sigreturn.com"
+   ],
+   "lang": "en",
+   "load_time": 0.47,
+   "https": true,
+   "words": 308,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Sigreturn Labs",
+   "description": "Independent cybersecurity company in Paris: digital forensics, malware reverse engineering, vulnerability research and training, plus public research.",
+   "category": "Technology",
+   "confidence": 0.62,
+   "tags": [
+    "Science"
+   ],
+   "fingerprint": "sigreturnlabsindependentcybersecuritycompanyinparisdigitalforensicsmalwarereversee",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "screenshot_file": "e50a1429a8a6e6343a92.jpg"
+  },
+  {
+   "url": "https://nestenius.se",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "nestenius.se"
+   ],
+   "lang": "en",
+   "load_time": 0.29,
+   "https": true,
+   "words": 704,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Astro"
+   ],
+   "title": "Tore Nestenius",
+   "description": "Under the hood of .NET, identity and security. Tore Nestenius writes about ASP.NET Core, C#, OpenID Connect, OAuth, IdentityServer and Azure.",
+   "category": "Developer",
+   "confidence": 0.72,
+   "tags": [],
+   "fingerprint": "torenesteniusunderthehoodofnetidentityandsecuritytorenesteniuswritesaboutaspn",
+   "vibes": [],
+   "screenshot_file": "8bce80472f766b7d87f4.jpg"
+  },
+  {
+   "url": "https://medicine.washu.edu",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "medicine.washu.edu"
+   ],
+   "lang": "en",
+   "load_time": 0.21,
+   "https": true,
+   "words": 396,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "WordPress",
+    "jQuery"
+   ],
+   "title": "WashU Medicine",
+   "description": "Leaders in medical education, research and patient care, WashU Medicine is among the top medical schools in the nation.",
+   "category": "Education",
+   "confidence": 0.63,
+   "tags": [
+    "Science"
+   ],
+   "fingerprint": "washumedicineleadersinmedicaleducationresearchandpatientcarewashumedicineisamong",
+   "vibes": [
+    "nerdy"
+   ],
+   "screenshot_file": "d3701f7775393f9c9f44.jpg"
+  },
+  {
+   "url": "https://noworklabs.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "noworklabs.com"
+   ],
+   "lang": "en",
+   "load_time": 0.26,
+   "https": true,
+   "words": 1086,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "No Work Labs",
+   "description": "We build small software that does one useful thing, and we build it for people who need it. Open a window, or play the game.",
+   "category": "Games",
+   "confidence": 0.76,
+   "tags": [],
+   "fingerprint": "noworklabswebuildsmallsoftwarethatdoesoneusefulthingandwebuilditforpeoplew",
+   "vibes": [
+    "playful",
+    "handmade"
+   ],
+   "screenshot_file": "a5c195946abd252ee058.jpg"
+  },
+  {
+   "url": "https://victoriametrics.com",
+   "source": "lobsters",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "victoriametrics.com"
+   ],
+   "lang": "en",
+   "load_time": 0.17,
+   "https": true,
+   "words": 1001,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "VictoriaMetrics",
+   "description": "Monitoring & observability for metrics, logs and traces. Fast, high-performance, open source database solutions from VictoriaMetrics.",
+   "category": "Developer",
+   "confidence": 0.62,
+   "tags": [
+    "Business"
+   ],
+   "fingerprint": "victoriametricsmonitoringobservabilityformetricslogsandtracesfasthighperformance",
+   "vibes": [
+    "handmade"
+   ],
+   "screenshot_file": "a2d55d294e82d22c2b78.jpg"
+  },
+  {
+   "url": "https://waymo.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "waymo.com"
+   ],
+   "lang": "en",
+   "load_time": 0.41,
+   "https": true,
+   "words": 1097,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Waymo",
+   "description": "Formerly the Google self-driving car project—makes it safe and easy for people & things to get around with autonomous vehicles. Take a ride now.",
+   "category": "Random",
+   "confidence": 0,
+   "tags": [],
+   "fingerprint": "waymoformerlythegoogleselfdrivingcarprojectmakesitsafeandeasyforpeople",
+   "vibes": [
+    "handmade"
+   ],
+   "screenshot_file": "8026b296456235637776.jpg"
+  },
+  {
+   "url": "https://mail-archive.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "mail-archive.com"
+   ],
+   "lang": "en",
+   "load_time": 0.14,
+   "https": true,
+   "words": 85,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "The Mail Archive",
+   "description": "The Mail Archive turns your mailing list into a searchable archive",
+   "category": "Communities",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "themailarchivethemailarchiveturnsyourmailinglistintoasearchablearchive",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "screenshot_file": "c9d5949f3f936c1a8c53.jpg"
+  },
+  {
+   "url": "https://euronews.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "euronews.com"
+   ],
+   "lang": "en",
+   "load_time": 0.48,
+   "https": true,
+   "words": 1540,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "euronews",
+   "description": "Latest breaking news available as free video on demand. Stay informed on European and world news about economy, politics, diplomacy… with Euronews.",
+   "category": "News",
+   "confidence": 0.95,
+   "tags": [],
+   "fingerprint": "euronewslatestbreakingnewsavailableasfreevideoondemandstayinformedoneuropea",
+   "vibes": [
+    "handmade"
+   ],
+   "screenshot_file": "7e36838cc63ae7698efa.jpg"
+  },
+  {
+   "url": "https://nbcnews.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "nbcnews.com"
+   ],
+   "lang": "en",
+   "load_time": 0.95,
+   "https": true,
+   "words": 2723,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Next.js"
+   ],
+   "title": "NBC News",
+   "description": "Go to NBCNews.com for breaking news, videos, and the latest top stories in world news, business, politics, health and pop culture.",
+   "category": "News",
+   "confidence": 0.87,
+   "tags": [],
+   "fingerprint": "nbcnewsgotonbcnewscomforbreakingnewsvideosandthelatesttopstoriesinworld",
+   "vibes": [
+    "playful",
+    "deep read"
+   ],
+   "screenshot_file": "421f9db688fcb997b113.jpg"
+  },
+  {
+   "url": "https://akos.ma",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "akos.ma"
+   ],
+   "lang": "en",
+   "load_time": 0.63,
+   "https": true,
+   "words": 509,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Patterns in AI Driven Software Development",
+   "description": "Written by Adrian Kosmaczewski since 1996. Updated every Friday.",
+   "category": "Technology",
+   "confidence": 0.58,
+   "tags": [
+    "Tools"
+   ],
+   "fingerprint": "patternsinaidrivensoftwaredevelopmentwrittenbyadriankosmaczewskisince1996updatedeveryfriday",
+   "vibes": [
+    "playful",
+    "handmade"
+   ],
+   "screenshot_file": "91e6665c95a34f6a6d71.jpg"
+  },
+  {
+   "url": "https://blog.apify.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "blog.apify.com"
+   ],
+   "lang": "en",
+   "load_time": 0.07,
+   "https": true,
+   "words": 383,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Ghost",
+    "Bootstrap"
+   ],
+   "title": "Apify Blog",
+   "description": "Learn how to use Apify Actors to get real-time web data, generate leads, monitor social media, and integrate your apps and agents.",
+   "category": "Education",
+   "confidence": 0.56,
+   "tags": [
+    "Tools"
+   ],
+   "fingerprint": "apifybloglearnhowtouseapifyactorstogetrealtimewebdatagenerateleadsmonitor",
+   "vibes": [
+    "nerdy"
+   ],
+   "screenshot_file": "59249a68d59243762e93.jpg"
+  },
+  {
+   "url": "https://theainewsreport.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "theainewsreport.com"
+   ],
+   "lang": "en",
+   "load_time": 0.27,
+   "https": true,
+   "words": 1834,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "AI News Report",
+   "description": "Claude Code sends each background agent's whole transcript to its model about every 30 seconds, usually Opus, only to write a 3 to 5 word status line in the agents panel.",
+   "category": "News",
+   "confidence": 0.56,
+   "tags": [
+    "Technology"
+   ],
+   "fingerprint": "ainewsreportclaudecodesendseachbackgroundagentswholetranscripttoitsmodelaboutev",
+   "vibes": [
+    "handmade"
+   ],
+   "screenshot_file": "97fb55914a4d52cd5b3f.jpg"
+  },
+  {
+   "url": "https://cursor.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "cursor.com"
+   ],
+   "lang": "en",
+   "load_time": 0.39,
+   "https": true,
+   "words": 2299,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Next.js",
+    "Tailwind"
+   ],
+   "title": "Cursor",
+   "description": "Built to make you extraordinarily productive, agents turn ideas into code. Accelerate development by handing off tasks to Cursor.",
+   "category": "Developer",
+   "confidence": 0.73,
+   "tags": [],
+   "fingerprint": "cursorbuilttomakeyouextraordinarilyproductiveagentsturnideasintocodeaccel",
+   "vibes": [
+    "playful"
+   ],
+   "screenshot_file": "d8864b187c866fa6c67e.jpg"
+  },
+  {
+   "url": "https://institute.deepmind.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "institute.deepmind.com"
+   ],
+   "lang": "?",
+   "load_time": 0.23,
+   "https": true,
+   "words": 573,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "title": "Institute",
+   "description": "",
+   "category": "Random",
+   "confidence": 0,
+   "tags": [],
+   "fingerprint": "",
+   "vibes": [
+    "handmade"
+   ],
+   "screenshot_file": "b3dfc40d16309a438fee.jpg"
+  },
+  {
+   "url": "https://yedhu.me",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "yedhu.me"
+   ],
+   "lang": "en",
+   "load_time": 0.19,
+   "https": true,
+   "words": 200,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Jekyll"
+   ],
+   "title": "Yedhu Krishnan",
+   "description": "Notes on programming, books, and things I'm learning.",
+   "category": "Education",
+   "confidence": 0.64,
+   "tags": [
+    "Developer"
+   ],
+   "fingerprint": "yedhukrishnannotesonprogrammingbooksandthingsimlearning",
+   "vibes": [
+    "minimal"
+   ],
+   "screenshot_file": "2102f5dc1495e80d1d95.jpg"
+  },
+  {
+   "url": "https://trezor.io",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "trezor.io"
+   ],
+   "lang": "en",
+   "load_time": 0.31,
+   "https": true,
+   "words": 1196,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Next.js",
+    "Tailwind"
+   ],
+   "title": "Trezor",
+   "description": "The safest cold storage wallets for crypto security and financial independence. Easily use, store, and protect Bitcoins.",
+   "category": "Technology",
+   "confidence": 0.62,
+   "tags": [],
+   "fingerprint": "trezorthesafestcoldstoragewalletsforcryptosecurityandfinancialindependence",
+   "vibes": [],
+   "screenshot_file": "8683d10a9b24215bb3f6.jpg"
+  },
+  {
+   "url": "https://paradedb.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "paradedb.com"
+   ],
+   "lang": "en",
+   "load_time": 0.47,
+   "https": true,
+   "words": 725,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Next.js",
+    "Tailwind"
+   ],
+   "title": "ParadeDB",
+   "description": "Just use Postgres. ParadeDB makes text and vector search, filters, facets, and joins fast in Postgres. Home of the pg_search extension.",
+   "category": "Developer",
+   "confidence": 0.73,
+   "tags": [],
+   "fingerprint": "paradedbjustusepostgresparadedbmakestextandvectorsearchfiltersfacetsandj",
+   "vibes": [
+    "nerdy"
+   ],
+   "screenshot_file": "3ac3a5f96a9742b6601b.jpg"
+  },
+  {
+   "url": "https://oqtadrive.org",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "oqtadrive.org"
+   ],
+   "lang": "en",
+   "load_time": 0.43,
+   "https": true,
+   "words": 92,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Jekyll"
+   ],
+   "title": "OqtaDrive",
+   "description": "OqtaDrive is a hardware emulator of the Sinclair Microdrive, that can be used with the Sinclair ZX Spectrum and Sinclair QL computers",
+   "category": "Technology",
+   "confidence": 0.73,
+   "tags": [],
+   "fingerprint": "oqtadriveoqtadriveisahardwareemulatorofthesinclairmicrodrivethatcanbeusedwi",
+   "vibes": [
+    "minimal"
+   ],
+   "screenshot_file": "a6a8fb633a9500dcc5f3.jpg"
+  },
+  {
+   "url": "https://nchagnet.eu",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "nchagnet.eu"
+   ],
+   "lang": "en",
+   "load_time": 0.79,
+   "https": true,
+   "words": 570,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Nicolas Chagnet's Homepage",
+   "description": "Welcome to my corner of the internet!",
+   "category": "Personal",
+   "confidence": 0.82,
+   "tags": [],
+   "fingerprint": "nicolaschagnetshomepagewelcometomycorneroftheinternet",
+   "vibes": [
+    "nerdy",
+    "cozy",
+    "handmade"
+   ],
+   "screenshot_file": "bc064babbfe43036f49a.jpg"
+  },
+  {
+   "url": "https://getgreenpos.vercel.app",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "getgreenpos.vercel.app"
+   ],
+   "lang": "en",
+   "load_time": 0.36,
+   "https": true,
+   "words": 834,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Next.js",
+    "Tailwind"
+   ],
+   "title": "GreenPOS",
+   "description": "GreenPOS is offline-first point of sale (POS) software for small shops on Windows, macOS, and Linux. Sales, inventory, khata (credit), reports, and team management - free 14-day trial.",
+   "category": "Business",
+   "confidence": 0.75,
+   "tags": [],
+   "fingerprint": "greenposgreenposisofflinefirstpointofsalepossoftwareforsmallshopsonwindow",
+   "vibes": [
+    "nerdy"
+   ],
+   "screenshot_file": "143b62abc0f03a6283d9.jpg"
+  },
+  {
+   "url": "https://marutpandya.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "marutpandya.com",
+    "pandyamarut.github.io"
+   ],
+   "lang": "en",
+   "load_time": 0.34,
+   "https": true,
+   "words": 242,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Marut Pandya",
+   "description": "Marut Pandya's personal website and blog",
+   "category": "Personal",
+   "confidence": 0.9,
+   "tags": [],
+   "fingerprint": "marutpandyamarutpandyaspersonalwebsiteandblog",
+   "vibes": [
+    "nerdy",
+    "handmade",
+    "minimal"
+   ],
+   "screenshot_file": "de96ac0bc5f7e0c4d81f.jpg"
+  },
+  {
+   "url": "https://seriot.ch",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "seriot.ch"
+   ],
+   "lang": "?",
+   "load_time": 0.77,
+   "https": true,
+   "words": 275,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "title": "Nicolas Seriot",
+   "description": "I'm a software security engineer, and this is my personal website. I love hunting for beauty and accidental logic where neither belongs.",
+   "category": "Personal",
+   "confidence": 0.82,
+   "tags": [],
+   "fingerprint": "nicolasseriotimasoftwaresecurityengineerandthisismypersonalwebsiteilovehuntin",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "screenshot_file": "6d1575cfaab98279fef4.jpg"
+  },
+  {
+   "url": "https://tiberava.online",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "tiberava.online"
+   ],
+   "lang": "es",
+   "load_time": 0.24,
+   "https": true,
+   "words": 105,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "TIBERAVA",
+   "description": "Construí una ciudad romana. Un juego de estrategia con población, economía y catástrofes, diseñado para el navegador y el móvil.",
+   "category": "Random",
+   "confidence": 0,
+   "tags": [],
+   "fingerprint": "tiberavaconstruunaciudadromanaunjuegodeestrategiaconpoblacineconomaycat",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "screenshot_file": "fc9427a26b8a9d0ecc6f.jpg"
+  },
+  {
+   "url": "https://githubnext.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "githubnext.com"
+   ],
+   "lang": "en",
+   "load_time": 0.16,
+   "https": true,
+   "words": 348,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Astro",
+    "Tailwind"
+   ],
+   "title": "GitHub Next",
+   "description": "A team of researchers and engineers at GitHub prototyping the tools, workflows, and ideas that will shape the future of software development.",
+   "category": "Tools",
+   "confidence": 0.61,
+   "tags": [
+    "Developer",
+    "Games"
+   ],
+   "fingerprint": "githubnextateamofresearchersandengineersatgithubprototypingthetoolsworkflows",
+   "vibes": [],
+   "screenshot_file": "5e100c35df91f5f6d1fb.jpg"
+  },
+  {
+   "url": "https://blog.adafruit.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "blog.adafruit.com"
+   ],
+   "lang": "en",
+   "load_time": 0.58,
+   "https": true,
+   "words": 746,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "WordPress",
+    "jQuery",
+    "Bootstrap"
+   ],
+   "title": "Adafruit Industries",
+   "description": "Electronics, open source hardware, hacking and more",
+   "category": "Technology",
+   "confidence": 0.57,
+   "tags": [
+    "Developer"
+   ],
+   "fingerprint": "adafruitindustrieselectronicsopensourcehardwarehackingandmore",
+   "vibes": [
+    "nerdy"
+   ],
+   "screenshot_file": "8d8ca36d9bf19eeb5bdd.jpg"
+  },
+  {
+   "url": "https://thenationalnews.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "thenationalnews.com"
+   ],
+   "lang": "en",
+   "load_time": 0.3,
+   "https": true,
+   "words": 747,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "The National",
+   "description": "The latest international news, headlines and events from around the world",
+   "category": "News",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "thenationalthelatestinternationalnewsheadlinesandeventsfromaroundtheworld",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "screenshot_file": "a9523cb39a0175992db0.jpg"
+  },
+  {
+   "url": "https://arstechnica.com",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "arstechnica.com"
+   ],
+   "lang": "en",
+   "load_time": 0.3,
+   "https": true,
+   "words": 1303,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "WordPress",
+    "jQuery",
+    "Tailwind"
+   ],
+   "title": "Ars Technica",
+   "description": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\"",
+   "category": "Science",
+   "confidence": 0.75,
+   "tags": [],
+   "fingerprint": "arstechnicanasadesperatelyneedsspacexandspacexknowsitandelonknowsit",
+   "vibes": [],
+   "screenshot_file": "e620c1e06ff8915c3ea9.jpg"
+  },
+  {
+   "url": "https://toji.dev",
+   "source": "hacker news",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "toji.dev"
+   ],
+   "lang": "en",
+   "load_time": 0.1,
+   "https": true,
+   "words": 373,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Jekyll"
+   ],
+   "title": "Brandon Jones",
+   "description": "Graphics and XR on the web",
+   "category": "Technology",
+   "confidence": 0.64,
+   "tags": [],
+   "fingerprint": "",
+   "vibes": [],
+   "screenshot_file": "c57455a7c8428a4d359f.jpg"
+  },
+  {
+   "url": "https://fastmail.help",
+   "source": "link from fastmail.com",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "fastmail.help"
+   ],
+   "lang": "en",
+   "load_time": 1.0,
+   "https": true,
+   "words": 304,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Fastmail",
+   "description": "Tools for managing your Fastmail account, whether you have one user or many.",
+   "category": "Tools",
+   "confidence": 0.62,
+   "tags": [
+    "Education"
+   ],
+   "fingerprint": "fastmailtoolsformanagingyourfastmailaccountwhetheryouhaveoneuserormany",
+   "vibes": [
+    "handmade"
+   ],
+   "screenshot_file": "7109f6c237422cf8323f.jpg"
+  },
+  {
+   "url": "https://fastmailstatus.com",
+   "source": "link from fastmail.com",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "fastmailstatus.com"
+   ],
+   "lang": "en",
+   "load_time": 0.31,
+   "https": true,
+   "words": 113,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Next.js",
+    "Tailwind"
+   ],
+   "title": "Fastmail",
+   "description": "",
+   "category": "Random",
+   "confidence": 0,
+   "tags": [],
+   "fingerprint": "",
+   "vibes": [
+    "minimal"
+   ],
+   "screenshot_file": "db21af93614710e0e017.jpg"
+  },
+  {
+   "url": "https://app.fastmail.com",
+   "source": "link from fastmail.com",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "app.fastmail.com"
+   ],
+   "lang": "?",
+   "load_time": 0.13,
+   "https": true,
+   "words": 80,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Bootstrap",
+    "Hand-coded"
+   ],
+   "title": "Fastmail",
+   "description": "This could be due to a slow or unresponsive internet connection. Please check your internet connection and try again.",
+   "category": "Random",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "fastmailthiscouldbeduetoasloworunresponsiveinternetconnectionpleasecheckyo",
+   "vibes": [
+    "calm",
+    "handmade",
+    "minimal"
+   ],
+   "screenshot_file": "2ce1c863f12a88fdfb0f.jpg"
+  },
+  {
+   "url": "https://cisoservices.no",
+   "source": "link from binarysecurity.no",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "cisoservices.no"
+   ],
+   "lang": "en",
+   "load_time": 0.35,
+   "https": true,
+   "words": 45,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Wix"
+   ],
+   "title": "Ciso Services",
+   "description": "CISO Services offer consulting services in CISO as a Service, Governance, Risk, Compliance, Secure Software Development lifecycle, DevSecOps from experienced CISO's through virtual CISO offerings.",
+   "category": "Business",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "cisoservicescisoservicesofferconsultingservicesincisoasaservicegovernancerisk",
+   "vibes": [
+    "minimal"
+   ],
+   "screenshot_file": "6a9db87f21f4556992b7.jpg"
+  },
+  {
+   "url": "https://tagore.no",
+   "source": "link from binarysecurity.no",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "tagore.no"
+   ],
+   "lang": "en",
+   "load_time": 0.48,
+   "https": true,
+   "words": 263,
+   "embed": true,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Wix"
+   ],
+   "title": "Tagore",
+   "description": "Tagore is a certified Vanta Managed Service Provider offering vCISO services, ISO 27001, SOC 2, and GDPR compliance for SaaS, fintech, and healthtech companies across EMEA. Get audit-ready faster.",
+   "category": "Business",
+   "confidence": 0.57,
+   "tags": [
+    "Technology"
+   ],
+   "fingerprint": "tagoretagoreisacertifiedvantamanagedserviceproviderofferingvcisoservicesis",
+   "vibes": [
+    "minimal"
+   ],
+   "screenshot_file": "3c838d449a8596f78a54.jpg"
+  },
+  {
+   "url": "https://marketplace.china-crunch.com",
+   "source": "link from carnewschina.com",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "marketplace.china-crunch.com"
+   ],
+   "lang": "en",
+   "load_time": 0.67,
+   "https": true,
+   "words": 829,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Shopify",
+    "Bootstrap"
+   ],
+   "title": "EV Marketplace",
+   "description": "Found a cheaper Chinese EV elsewhere? We'll match the price",
+   "category": "Random",
+   "confidence": 0,
+   "tags": [],
+   "fingerprint": "evmarketplacefoundacheaperchineseevelsewherewellmatchtheprice",
+   "vibes": [],
+   "screenshot_file": "75b13882ee2ecddf5392.jpg"
+  },
+  {
+   "url": "https://data.carnewschina.com",
+   "source": "link from carnewschina.com",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "aliases": [
+    "data.carnewschina.com"
+   ],
+   "lang": "en",
+   "load_time": 0.75,
+   "https": true,
+   "words": 636,
+   "embed": false,
+   "safety_checked": "2026-10-30",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Daily updated database of Chinese EVs and sales data.",
+   "description": "Daily updated information about Chinese electric cars and their sales data.",
+   "category": "Developer",
+   "confidence": 0.53,
+   "tags": [
+    "News"
+   ],
+   "fingerprint": "dailyupdateddatabaseofchineseevsandsalesdatadailyupdatedinformationaboutchineseelectriccarsandtheirsalesdata",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "screenshot_file": "75e86cf4544156d3c365.jpg"
   }
  ]
 }
