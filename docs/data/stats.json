@@ -1,27 +1,27 @@
 {
- "total": 260,
+ "total": 267,
  "dead": 0,
  "flagged": 0,
- "runs": 20,
- "last_run": "2026-10-30T08:43:34Z",
- "found_last_run": 65,
+ "runs": 21,
+ "last_run": "2026-10-30T15:59:05Z",
+ "found_last_run": 5,
  "beta": true,
  "categories": {
   "Tools": 21,
-  "Communities": 6,
-  "Education": 18,
+  "Communities": 8,
+  "Education": 19,
   "Business": 18,
   "Technology": 45,
-  "Random": 37,
+  "Random": 38,
   "Developer": 48,
-  "Personal": 19,
-  "News": 26,
+  "Personal": 20,
+  "News": 28,
   "Science": 14,
   "Games": 3,
-  "Art": 3,
-  "Retro": 2
+  "Retro": 3,
+  "Art": 2
  },
- "bot_version": 3,
+ "bot_version": 4,
  "history": [
   {
    "date": "2026-10-26",
@@ -122,9 +122,46 @@
    "date": "2026-10-30",
    "added": 65,
    "total": 260
+  },
+  {
+   "date": "2026-10-30",
+   "added": 5,
+   "total": 267
   }
  ],
  "runs_log": [
+  {
+   "started": "2026-10-30T15:59:05Z",
+   "rejected": {
+    "over run cap": 2,
+    "unreachable": 11,
+    "empty javascript shell": 18,
+    "too few words": 9,
+    "lazy title": 34,
+    "starter template": 1,
+    "http 247": 1,
+    "unsure category": 6,
+    "parked": 4,
+    "bot challenge": 4,
+    "link farm": 1,
+    "weak description": 3,
+    "slow": 1
+   },
+   "duplicates_removed": 0,
+   "sources": {
+    "hacker news": 104,
+    "lobsters": 6
+   },
+   "candidates": 100,
+   "deep_links": 121,
+   "added": 5,
+   "rechecked": 132,
+   "stale_rechecked": 0,
+   "newly_dead": 0,
+   "flagged": 0,
+   "malware_list": 0,
+   "archive_years": 19
+  },
   {
    "started": "2026-10-30T08:43:34Z",
    "rejected": {
