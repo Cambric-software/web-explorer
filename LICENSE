@@ -70,7 +70,9 @@ private communications — remain confidential and must not be disclosed.
 5. YOUR DATA AND THIRD-PARTY SERVICES
 
   (a) Votes, favorites, lists, history, and settings you create are stored in
-      your own browser. Cambric does not receive them.
+      your own browser. If you choose to share votes for the Hall of Fame,
+      those votes and your GitHub username are published in a GitHub issue
+      and counted in the public leaderboard. Sharing is optional.
 
   (b) The Software has no account system, no analytics, and no telemetry.
 

@@ -72,3 +72,17 @@ html.era-web2 .big,html.era-web2 .sb-next{background:linear-gradient(#7db8ff,#2f
 .vibe,.tech{display:inline-block;margin-left:6px;padding:2px 8px;font-size:.72rem;border-radius:999px}.vibe{background:var(--acc);color:var(--bg)}.tech{border:1px dashed var(--line);color:var(--muted)}
 .mystery .clues{padding-left:20px;line-height:1.7}.mystery .clues .locked{color:var(--muted)}.choices{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px;margin:18px 0}.choices button{text-align:left;font-family:'Space Grotesk',sans-serif}.choices small{display:block;color:var(--muted);font-family:'DM Sans',sans-serif}.choices .wrong{opacity:.4;text-decoration:line-through}.mystery .result{font-family:'Space Grotesk',sans-serif;font-size:1.2rem;color:var(--acc)}
 .cal-head{display:flex;align-items:center;gap:12px;margin:8px 0}.cal{display:grid;grid-template-columns:repeat(7,1fr);gap:6px;max-width:420px}.cal i{font-style:normal;color:var(--muted);font-size:.75rem;text-align:center}.cal button{padding:8px 0;min-height:44px}.cal small{display:block;font-size:.65rem}.cal .won{background:var(--acc);color:var(--bg)}.cal .lost{border-color:var(--danger);color:var(--danger)}.cal .started{border-style:dashed}.cal .future{opacity:.3}.cal .on{outline:2px solid var(--acc);outline-offset:2px}
+
+/* Themes preserve the brand palette and Space Grotesk / DM Sans fonts. */
+html[data-theme=index] .grid{display:block}
+html[data-theme=index] .grid .site{display:grid;grid-template-columns:180px minmax(0,1fr);margin:0;border:0;border-bottom:1px solid var(--line);border-radius:0;background:none}
+html[data-theme=index] .grid .site:not(:has(.thumb)){grid-template-columns:1fr}
+html[data-theme=index] .grid .thumb{height:100%;min-height:160px;aspect-ratio:auto}
+html[data-theme=index] .grid .site h3{font-size:1.3rem}
+html[data-theme=terminal] .site,html[data-theme=terminal] button,html[data-theme=terminal] select,html[data-theme=terminal] input,html[data-theme=terminal] .btn{border-radius:0}
+html[data-theme=terminal] .site{background:none;border-style:dashed}
+html[data-theme=terminal] h2::before,html[data-theme=terminal] .site h3::before{content:"> ";color:var(--acc)}
+html[data-theme=terminal] .tag{border-style:dashed;border-radius:0}
+.chill #card.pop{animation:none}.chill .rank progress{height:3px}.chill .site-body{line-height:1.7}.chill .meta{line-height:1.5}
+#setting-volume{accent-color:var(--acc);padding:0;border:0;background:none;max-width:420px}#ambient-volume{float:right;color:var(--fg)}
+@media(max-width:700px){html[data-theme=index] .grid .site{grid-template-columns:1fr}html[data-theme=index] .grid .thumb{aspect-ratio:16/10;min-height:0}}

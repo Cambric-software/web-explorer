@@ -1,5 +1,5 @@
 name: Discovery engine
-# Every hour (public repository: GitHub Actions minutes are free and unlimited).
+# Every hour (public repository: standard GitHub-hosted runners are free).
 on:
   schedule: [{cron: "17 * * * *"}]
   workflow_dispatch:
@@ -15,6 +15,7 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - run: python -m unittest discover -s tests
+      - run: node --test tests/*.test.cjs
       - run: python engine/crawl.py
         env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}
       - run: python engine/votes.py

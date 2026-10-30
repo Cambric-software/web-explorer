@@ -82,11 +82,18 @@ Built by **Cambric Software & Hardware Studios**. Founder: Asser Karim.
 - **Galaxy map**: every website is a star, grouped into constellations by
   category. Drag, zoom, and click a star to visit it.
 - **Hall of Fame · Top 25**: a personal ranking from your own votes, and a
+  global ranking. Visitors share their votes with a pre-filled GitHub issue;
+  the robot counts one vote set per account every hour.
 - **Arcade Mode** — optional little 8-bit sound effects for exploring, voting and saving (turn on in Settings; sounds are made in your browser, no files).
 - **Explorer Passport & Badges** — a personal passport page with your rank, stats, category stamps and 16 badges to unlock. Stored only in your browser.
-  global ranking. Visitors share their votes with one click (a pre-filled
-  GitHub issue titled `Votes: …`); the robot counts one vote set per GitHub
-  account every hour into `docs/data/votes.json`.
+- **Daily Mystery & Calendar**: a date-seeded website puzzle with clues, scoring,
+  past-day replay, and browser-local progress.
+- **Vibe Check & Tech Tags**: mood and technology labels with Browse filters.
+- **Themes & Ambient Lounge**: Original, Library index, and Terminal layouts,
+  all keeping the original palette and fonts. Optional chill mode and locally
+  generated Soft rain / Slow drift audio, with a volume slider. Choose these
+  in Settings; choices save immediately, but audio always needs an explicit
+  Play click and stops when the tab is hidden. No downloads or paid services.
 
 **Keeping**
 - Votes: 👍 Like +1, ❤️ Hidden Gem +3, 👎 Dislike −1, ⭐ Favorite +5.
@@ -104,7 +111,7 @@ Built by **Cambric Software & Hardware Studios**. Founder: Asser Karim.
 Defined in [`.github/workflows/discover.yml`](.github/workflows/discover.yml).
 It runs every hour, when started by hand from the Actions tab or the control
 room, and when a submission is labelled. The repository is public, so GitHub
-Actions minutes are free. Each run does six jobs:
+Actions usage is free for standard GitHub-hosted runners. Each run does six jobs:
 
 1. **Clean** — merges duplicates. One website per domain, whatever the
    `http`/`https`, `www`/`m.`, port, page path, or tracking tags. Two domains
