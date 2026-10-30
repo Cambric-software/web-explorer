@@ -1,4 +1,4 @@
-"""Website Explorer discovery robot (v3).
+"""Website Explorer discovery robot (v4 - "guilty until proven innocent").
 Runs inside GitHub Actions with only the Python standard library.
 Database = docs/data/sites.json, statistics = docs/data/stats.json.
 
@@ -10,6 +10,9 @@ Jobs on every run:
   5. safety   - compare every website with a public malware list, re-scan the oldest-scanned pages
   6. tags     - vibe check (cozy, playful, retro...) and tech tags (WordPress, hand-coded...) per website
   7. archive  - look up the first Internet Archive year for websites that lack one
+New websites must pass strict quality gates (enough real words, not a link farm, not an empty
+JavaScript shell, not a starter template, cookie wall, login gate, bot challenge or parked domain,
+a real name, a real description and a confident category). At most MAX_NEW are accepted per run.
 Websites edited by hand in the control room are "locked": the robot never changes their
 name, description, category, review flag or status.
 """
@@ -35,6 +38,46 @@ PARKED = ["domain for sale","buy this domain","this domain is for sale","domain 
           "hugedomains","dan.com","afternic","godaddy.com/domains"]
 BLOCKED = ["just a moment","attention required","access denied","verify you are human","enable javascript and cookies",
            "403 forbidden","404 not found","page not found","site not found","error 404","bad gateway","forbidden"]
+MAX_NEW = 5            # newly accepted websites per run (quality over quantity)
+MIN_WORDS = 200        # visible meaningful words a new website needs
+MAX_LINK_RATIO = 0.40  # share of visible text that may be link text
+MIN_CONTENT_CHARS = 200  # text inside <p>, <h1>-<h6>, <article>, <li>; less = empty JavaScript shell
+MIN_DESC = 45
+CAT_MIN_SCORE = 6; CAT_MIN_CONF = 0.6
+# Commercial / big-tech platforms we never index or crawl
+BIG |= {"ebay.com","etsy.com","aliexpress.com","alibaba.com","walmart.com","target.com","bestbuy.com","temu.com","shein.com",
+        "shopify.com","myshopify.com","booking.com","tripadvisor.com","yelp.com","quora.com","yahoo.com","bing.com","msn.com",
+        "netflix.com","spotify.com","twitch.tv","vimeo.com","dailymotion.com","tumblr.com","snapchat.com","vk.com","weibo.com",
+        "godaddy.com","namecheap.com","dan.com","afternic.com","sedo.com","hugedomains.com","bodis.com","parkingcrew.net",
+        "doubleclick.net","googlesyndication.com","adnxs.com","taboola.com","outbrain.com","criteo.com","amazon-adsystem.com",
+        "beacons.ai","lnk.bio","bio.link","campsite.bio","carrd.co","about.me","sharepoint.com","office.com","atlassian.net",
+        "slack.com","zoom.us","salesforce.com","hubspot.com","wix.com","squarespace.com","webflow.io","notion.site","forbes.com",
+        "businessinsider.com","huffpost.com","buzzfeed.com","gofundme.com","onlyfans.com","fiverr.com","upwork.com","glassdoor.com",
+        "indeed.com","play.google.com","apps.apple.com"}
+PARKED += ["bodis","parked domain","this domain may be for sale","domain name is for sale","make an offer on this domain",
+           "related searches","sponsored listings","this web page is parked","inquire about this domain"]
+CHALLENGE = ["just a moment...","checking your browser","verify you are human","attention required! | cloudflare",
+             "ddos protection by cloudflare","cf-browser-verification","cf-turnstile","challenge-platform","please complete the security check",
+             "are you a robot","enable javascript and cookies to continue"]
+TEMPLATE = ["just another wordpress site","welcome to wordpress","this is your first post","welcome to ghost",
+            "thoughts, stories and ideas","welcome to strapi","built with webflow","this is a placeholder",
+            "made with squarespace","this is your about page","welcome to our website","welcome to my website","under construction",
+            "coming soon","site under maintenance","website is under maintenance","welcome to nginx","apache2 ubuntu default page",
+            "apache2 debian default page","it works!","test page for the apache","iis windows server","lorem ipsum","your site description",
+            "edit this page to","start editing to see some magic","create-react-app","vite + react","welcome to your new site"]
+TEMPLATE_HEAD = ["hello world!", "hello world"]  # only a template when it is the page's title or heading
+COOKIE = ["we use cookies","accept all cookies","accept cookies","by clicking accept","by clicking \"accept","you agree to our use of cookies",
+          "gdpr","manage cookie preferences","cookie preferences","cookie settings","this site uses cookies","this website uses cookies",
+          "consent to the use of cookies","your privacy choices"]
+LOGIN = ["sign in to continue","log in to continue","login to continue","log in to view","sign in to view","log in to see",
+         "subscribe to read","subscribe to continue reading","subscribe to read the full story","members only","create an account to continue",
+         "you must be logged in","please log in","please sign in","enter your password","this content is password protected"]
+FLIP = ["casino","betting","sportsbook","slot online","slot gacor","togel","judi","poker online","crypto giveaway","free bitcoin",
+        "porn","xxx","adult cams","escort","viagra","payday loan","replica watches"]
+CORPORATE = {"facebook.com","instagram.com","linkedin.com","medium.com","godaddy.com","dan.com","afternic.com","sedo.com",
+             "hugedomains.com","twitter.com","x.com","tiktok.com","linktr.ee","substack.com","wix.com","squarespace.com","namecheap.com"}
+INDIE = re.compile(r"(neocities\.org|bearblog\.dev|github\.io|codeberg\.page|pages\.dev|tilde\.[a-z]+|ctrl-c\.club|"
+                   r"sdf\.org|envs\.net|nekoweb\.org|omg\.lol|smol\.pub|prose\.sh|mataroa\.blog|micro\.blog)$")
 UNSAFE = ["casino","betting","porn","xxx","escort","viagra","crypto giveaway","free bitcoin","loan approval","hack account"]
 
 # ---------------------------------------------------------------- addresses
@@ -69,8 +112,13 @@ def norm(u):
     if re.fullmatch(r"[\d.]+", h): return None
     return "https://" + h
 
+# Hosting platforms whose own homepage is commercial, while their users' subdomains are indie websites.
+PLATFORM_ROOTS = {"wordpress.com","neocities.org","github.io","bearblog.dev","blogspot.com","tumblr.com","codeberg.page",
+                  "pages.dev","netlify.app","vercel.app","micro.blog","omg.lol","nekoweb.org","substack.com"}
+
 def allowed(u):
     h = host(u)
+    if h in PLATFORM_ROOTS: return False
     return bool(h) and not any(h == b or h.endswith("." + b) and b not in ("bearblog.dev",) for b in BIG)
 
 def embeddable(headers):
@@ -102,6 +150,7 @@ class Page(HTMLParser):
         super().__init__(convert_charrefs=True)
         s.title = ""; s.meta = {}; s.lang = ""; s.links = []; s.anchors = []; s.heads = []; s.paras = []; s.words = []
         s.canonical = ""; s._stack = []; s._skip = 0; s._buf = ""; s._a = None; s._atext = ""
+        s.link_words = 0; s.link_counts = {}; s.content_chars = 0; s.passwords = 0; s.forms = 0; s._hdr = 0; s._content = 0
     def handle_starttag(s, tag, a):
         a = {k: (v or "") for k, v in a}
         if tag in s.VOID:
@@ -109,7 +158,11 @@ class Page(HTMLParser):
                 k = (a.get("name") or a.get("property") or "").lower()
                 if k and a.get("content") and k not in s.meta: s.meta[k] = a["content"]
             if tag == "link" and "canonical" in a.get("rel", "").lower() and not s.canonical: s.canonical = a.get("href", "")
+            if tag == "input" and a.get("type", "").lower() == "password": s.passwords += 1
             return
+        if tag == "form": s.forms += 1
+        if tag == "header": s._hdr += 1
+        if tag in ("p", "h1", "h2", "h3", "h4", "h5", "h6", "article", "li", "blockquote") and not s._skip: s._content += 1
         if tag in s.SKIP: s._skip += 1
         if tag == "html": s.lang = a.get("lang", "")[:2].lower()
         if tag == "a":
@@ -118,6 +171,8 @@ class Page(HTMLParser):
         if tag in ("title", "h1", "h2", "p", "li") and not s._skip: s._stack.append(tag); s._buf = ""
     def handle_endtag(s, tag):
         if tag in s.SKIP and s._skip: s._skip -= 1
+        if tag == "header" and s._hdr: s._hdr -= 1
+        if tag in ("p", "h1", "h2", "h3", "h4", "h5", "h6", "article", "li", "blockquote") and s._content: s._content -= 1
         if tag == "a" and s._a is not None:
             if len(s.anchors) < 300: s.anchors.append((s._a, clean(s._atext)))
             s._a = None
@@ -131,7 +186,13 @@ class Page(HTMLParser):
         if s._a is not None: s._atext += d
         if s._skip and not (s._stack and s._stack[-1] == "title"): return
         if s._stack: s._buf += d
-        if len(s.words) < 3000: s.words.extend(d.split())
+        if s._stack and s._stack[-1] == "title": return  # the <title> is not page content
+        if s._content: s.content_chars += len(d.strip())
+        if s._hdr: return
+        w = [x for x in d.split() if re.search(r"[^\W\d_]{2,}", x)]
+        if len(s.words) < 3000:
+            if s._a is not None: s.link_words += len(w); s.link_counts[s._a] = s.link_counts.get(s._a, 0) + len(w)
+            s.words.extend(w)
 
 def clean(t):
     """Readable single-line text: entities decoded, tags/control characters removed, spaces collapsed."""
@@ -163,10 +224,17 @@ def pretty_domain(h):
     stem = labels[0] if len(labels) > 1 else h
     return re.sub(r"[-_]+", " ", stem).strip().title() or h
 
-def best_title(p, h):
+BRANDING = re.compile(r"\s*([|•·–—-]|::)\s*(powered by\b.*|just another\b.*|official (web)?site\b.*|proudly powered\b.*|"
+                      r"built with\b.*|made with\b.*|a wordpress site\b.*)$|\s+(powered|proudly powered) by\b.*$", re.I)
+
+def page_title(p, h):
+    """Name taken from the page itself, or "" when the page offers no real name."""
+    return best_title(p, h, fallback=False)
+
+def best_title(p, h, fallback=True):
     stem = re.sub(r"[^a-z0-9]", "", h.split(".")[0])
     def pick(raw):
-        parts = [good_name(x) for x in re.split(SEP, clean(raw))]; parts = [x for x in parts if x]
+        parts = [good_name(x) for x in re.split(SEP, BRANDING.sub("", clean(raw)))]; parts = [x for x in parts if x]
         if not parts: return ""
         match = [x for x in parts if stem and len(stem) > 2 and stem in re.sub(r"[^a-z0-9]", "", x.lower())]
         if match: return min(match, key=len)
@@ -175,7 +243,7 @@ def best_title(p, h):
     site = good_name(p.meta.get("og:site_name", ""))
     title = (site if site and len(site) <= 60 else "") or pick(p.title) or pick(p.meta.get("og:title", "")) \
         or pick(p.meta.get("twitter:title", "")) or next((good_name(x) for x in p.heads[:2] if good_name(x) and len(x) <= 60), "") \
-        or pretty_domain(h)
+        or (pretty_domain(h) if fallback else "")
     if len(title) > 70: title = title[:70].rsplit(" ", 1)[0].rstrip(",;:-") + "…"
     return title
 
@@ -211,6 +279,85 @@ def best_description(p, title):
         d = tidy_description(raw, title)
         if d: return d
     return ""
+
+# ---------------------------------------------------------------- quality gates (new websites)
+SELF_REF = re.compile(r"^(welcome to (my|our|the)\b|welcome!|click here|find out more|official (home|site|website) of|"
+                      r"this is (my|our) (web)?site|home of the official|visit our|learn more about us|just another)", re.I)
+
+def lazy_title(t, h=""):
+    """Generic, empty or bare-domain names are not good enough for a new website."""
+    low = clean(t).lower().strip(" .!")
+    if not low or low in GENERIC or low in PLATFORM or DOMAINLIKE.fullmatch(low): return True
+    bare = re.sub(r"[^a-z0-9]", "", low)
+    if h and bare in (re.sub(r"[^a-z0-9]", "", h.lower()), re.sub(r"[^a-z0-9]", "", h.lower().split(".")[0])): return True
+    if not re.search(r"[^\W\d_]{3,}", low): return True
+    return False
+
+def good_description(d):
+    """At least MIN_DESC characters of real, capitalised sentences with a natural mix of vowels."""
+    d = (d or "").strip()
+    if len(d) < MIN_DESC or not d[0].isupper() or SELF_REF.search(d): return False
+    if any(w in d.lower() for w in COOKIE + LOGIN + TEMPLATE): return False
+    letters = [c for c in d.lower() if c.isalpha()]
+    if not letters: return False
+    if all(ord(c) < 128 for c in letters):  # vowel check only makes sense for Latin text
+        v = sum(c in "aeiouy" for c in letters) / len(letters)
+        if not 0.25 <= v <= 0.6: return False
+    words = d.split()
+    if len(words) < 7: return False
+    if sum(1 for w in words if w[:1].isupper()) > len(words) * 0.6: return False  # Menu Item Lists Like This
+    return True
+
+def link_ratio(p, h=""):
+    """Share of visible words that are link text pointing to OTHER websites (link farms, directories).
+    Links to the website's own posts are not counted: a blog index is not a link farm."""
+    out = sum(n for a, n in p.link_counts.items() if a.startswith(("http://", "https://", "//")) and (not h or key(a if "//" != a[:2] else "https:" + a) != key(h)))
+    return out / max(1, len(p.words))
+
+def junk_reason(p, html, title="", h=""):
+    """Why a page is a dead end / junk, or "" when it looks like a real human website."""
+    low_html = (html or "")[:300_000].lower()
+    visible = " ".join(p.words); vlow = visible.lower()
+    ptitle = clean(p.title).lower()
+    first = " ".join(p.words[:150]).lower()
+    heads = " ".join([ptitle] + [x.lower() for x in p.heads])
+    if any(w in ptitle or w in first for w in CHALLENGE) or re.search(r"cf-turnstile|challenge-platform|cf_chl_", low_html): return "bot challenge"
+    if any(w in ptitle or w in vlow[:6000] or w in low_html[:20000] for w in PARKED): return "parked"
+    if any(w in ptitle or w in vlow[:6000] for w in TEMPLATE) or any(heads.startswith(w) or (" " + w) in (" " + ptitle) for w in TEMPLATE_HEAD):
+        return "starter template"
+    desc = " ".join([p.meta.get("description", ""), p.meta.get("og:description", "")]).lower()
+    if any(w in first or w in desc for w in COOKIE): return "cookie wall"
+    if any(w in first or w in ptitle for w in LOGIN) or (p.passwords and len(p.words) < 400): return "login gate"
+    if p.content_chars < MIN_CONTENT_CHARS and (len(p.words) < 40 or re.search(r'<div[^>]+id=["\']?(app|root|__next|__nuxt|svelte)["\' >]', low_html)):
+        return "empty javascript shell"
+    if len(p.words) < MIN_WORDS: return "too few words"
+    if p.content_chars < MIN_CONTENT_CHARS: return "empty javascript shell"
+    if link_ratio(p, h) > MAX_LINK_RATIO: return "link farm"
+    return ""
+
+def strict_category(title, desc, heads, body, h):
+    """(category, confidence, tags) only when one category clearly wins, else None. Never "Random"."""
+    cat, conf, tags, score = _categorize(title, desc, heads, body, h)
+    if cat == "Random" or score < CAT_MIN_SCORE or conf < CAT_MIN_CONF: return None
+    return cat, conf, tags
+
+def priority(u):
+    """Higher = check first. Indie platforms and personal domains beat everything else."""
+    h = host(u)
+    if INDIE.search(h): return 3
+    if h.count(".") == 1 and not re.search(r"\.(com|net|biz|info|shop|store|online|site|xyz|top|club)$", h): return 2  # personal-style domains (.me, .dev, .page, country TLDs...)
+    if h.count(".") == 1: return 1
+    return 0
+
+def flipped(p):
+    """Old personal site taken over by casino / betting / crypto / adult spam?"""
+    text = (clean(p.title) + " " + " ".join(p.heads) + " " + " ".join(p.words[:800])).lower()
+    hits = sum(len(re.findall(r"(?<![a-z])" + re.escape(w) + r"(?![a-z])", text)) for w in FLIP)
+    return hits >= 3
+
+def corporate_redirect(url, final):
+    a, b = host(url), host(final)
+    return bool(b) and a != b and any(b == c or b.endswith("." + c) for c in CORPORATE)
 
 # ---------------------------------------------------------------- categories
 # "~word" = ambiguous word: only counted in the name, description and headings, never body text.
@@ -256,6 +403,9 @@ _PATS = {c: [(re.compile(r"(?<![a-z0-9])" + re.escape(w.lstrip("~")) + r"(?:s|es
 
 def categorize(title, desc, heads, body, h):
     """Score only human-visible text, weighting the name and description far above body text."""
+    return _categorize(title, desc, heads, body, h)[:3]
+
+def _categorize(title, desc, heads, body, h):
     zones = [(title.lower(), 5, False), (desc.lower(), 4, False), (" ".join(heads).lower(), 2, False), (body.lower()[:4000], 1, True)]
     scores = {c: 0.0 for c in CATS}
     for c, pats in _PATS.items():
@@ -269,9 +419,9 @@ def categorize(title, desc, heads, body, h):
     ranked = sorted(scores.items(), key=lambda x: -x[1])
     (top, s1), (second, s2) = ranked[0], ranked[1]
     confidence = round(s1 / (s1 + s2), 2) if s1 else 0
-    if s1 < 3: return "Random", confidence, []
+    if s1 < 3: return "Random", confidence, [], s1
     tags = [c for c, s in ranked[1:4] if s >= max(4, s1 * 0.5)]
-    return top, confidence, tags
+    return top, confidence, tags, s1
 
 # ---------------------------------------------------------------- verification
 # ---------------------------------------------------------------- vibe check + tech tags
@@ -311,8 +461,10 @@ def vibes(title, desc, body, words, first_seen=0, html="", tech=()):
     elif words < 300: out.append("minimal")
     return out[:4]
 
-def verify(url):
-    """Run every check. Returns details for a working website, or None with a reason."""
+def verify(url, strict=True):
+    """Run every check. Returns details for a working website, or None with a reason.
+    strict=True (new candidates): every quality gate must pass. strict=False (re-checks of stored
+    websites): only "is it still alive and still the same website" checks."""
     try: st, final, html, ctype, secs, headers = get(url)
     except Exception: return None, "unreachable"
     if st != 200: return None, f"http {st}"
@@ -322,17 +474,28 @@ def verify(url):
     try: p.feed(html)
     except Exception: pass
     h = host(final) or host(url)
+    if corporate_redirect(url, final): return None, "corporate redirect"
     if not allowed("https://" + h): return None, "big platform"
     title = best_title(p, h)
     visible = " ".join(p.words)
     low = (title + " " + clean(p.title) + " " + visible[:4000]).lower()
     if any(w in low for w in PARKED): return None, "parked"
     if any(w in clean(p.title).lower() for w in BLOCKED): return None, "blocked"
+    if flipped(p): return None, "flipped"
     if any(re.search(r"(?<![a-z])" + w + r"(?![a-z])", low) for w in UNSAFE): return None, "unsafe"
-    if len(p.words) < 40: return None, "too little content"
+    if strict:
+        why = junk_reason(p, html, title, h)
+        if why: return None, why
+        if lazy_title(page_title(p, h), h): return None, "lazy title"
+    elif len(p.words) < 40: return None, "too little content"
     desc = best_description(p, title)
+    if strict and not good_description(desc): return None, "weak description"
     body = " ".join(p.heads + p.paras)
-    cat, conf, tags = categorize(title, desc, p.heads, body, h)
+    if strict:
+        sc = strict_category(title, desc, p.heads, body, h)
+        if not sc: return None, "unsure category"
+        cat, conf, tags = sc
+    else: cat, conf, tags = categorize(title, desc, p.heads, body, h)
     tech = tech_tags(html, h); vibe = vibes(title, desc, body, len(p.words), 0, html, tech)
     lang = p.lang or (p.meta.get("og:locale", "")[:2].lower()) or "?"
     alias = {h}
@@ -346,8 +509,8 @@ def verify(url):
             "aliases": sorted(alias), "fingerprint": fingerprint(title, desc),
             "links": [a for a, _ in anchors if a.startswith("http")][:120], "anchors": anchors}, "ok"
 
-def safe_verify(u):
-    try: return verify(u)
+def safe_verify(u, strict=True):
+    try: return verify(u, strict)
     except Exception: return None, "error"
 
 def fingerprint(title, desc):
@@ -385,15 +548,20 @@ def sources(known):
     except Exception as e: print("issues", e)
     return found
 
-LINKPAGE = re.compile(r"\b(links|blogroll|friends|webring|cool sites|neighbou?rs|bookmarks|recommend|elsewhere|other sites|link ?list)\b", re.I)
+LINKPAGE = re.compile(r"\b(links|blogroll|friends|webring|cool sites|neighbou?rs|bookmarks|recommend|elsewhere|other sites|link ?list|"
+                      r"about|now|favou?rites|ideas|resources)\b", re.I)
+LINKPATH = re.compile(r"/(about|blogroll|links|favou?rites|now|ideas|resources|friends|webring|bookmarks)(/|\.html?)?$", re.I)
 
 def link_pages(r):
     """Same-website pages that usually list other websites (blogrolls, link pages, webrings)."""
     h = host(r["url"])
     out = []
     for a, t in r.get("anchors", []):
-        if host(a) == h and LINKPAGE.search(t or "") and a.rstrip("/") != r["url"].rstrip("/"): out.append(a)
-    return list(dict.fromkeys(out))[:2]
+        path = urllib.parse.urlparse(a).path
+        if host(a) == h and (LINKPATH.search(path) or LINKPAGE.fullmatch((t or "").strip())) and a.rstrip("/") != r["url"].rstrip("/"):
+            out.append(a)
+    out.sort(key=lambda a: 0 if LINKPATH.search(urllib.parse.urlparse(a).path) else 1)
+    return list(dict.fromkeys(out))[:3]
 
 def harvest(url):
     try:
@@ -469,7 +637,7 @@ def main():
     # Deep crawl: outbound links + blogroll/link pages of random known websites
     alive = [s for s in sites if s.get("status") != "dead" and s.get("review") != "flagged"]
     seeds = random.sample(alive, min(25, len(alive)))
-    with ThreadPoolExecutor(10) as ex: res = [r for r, _ in ex.map(safe_verify, [s["url"] for s in seeds]) if r]
+    with ThreadPoolExecutor(10) as ex: res = [r for r, _ in ex.map(lambda u: safe_verify(u, False), [s["url"] for s in seeds]) if r]
     pages = [p for r in res for p in link_pages(r)][:30]
     with ThreadPoolExecutor(8) as ex: extra = list(ex.map(harvest, pages))
     have = {key(c) for c, _ in cand}; deep = 0
@@ -479,12 +647,14 @@ def main():
             if n and allowed(n) and key(n) not in known and key(n) not in have:
                 have.add(key(n)); deep += 1
                 cand.append((n, "link from " + host(r["url"]) if r else "link page"))
-    cand = cand[:limit]
+    random.shuffle(cand); cand.sort(key=lambda c: -priority(c[0])); cand = cand[:limit]
     bad_hosts = malware_hosts()
     with ThreadPoolExecutor(12) as ex: results = list(ex.map(lambda c: safe_verify(c[0]) if key(c[0]) not in bad_hosts else (None, "malware list"), cand))
     added = 0
-    for (u, src), (r, why) in zip(cand, results):
+    ranked = sorted(zip(cand, results), key=lambda x: -(x[1][0]["confidence"] + priority(x[0][0]) / 10 if x[1][0] else -1))
+    for (u, src), (r, why) in ranked:
         if not r: count(log, why); continue
+        if added >= MAX_NEW: count(log, "over run cap"); continue
         if any(a in known for a in r["aliases"]) or (r["fingerprint"] and r["fingerprint"] in fps) or key(r["url"]) in bad_hosts:
             count(log, "duplicate"); continue
         known.update(r["aliases"]); fps.add(r["fingerprint"]); added += 1
@@ -496,8 +666,8 @@ def main():
     old = sorted([s for s in sites if s.get("added") != TODAY], key=lambda s: s.get("checked", ""))
     stale = [s for s in old if days_since(s.get("checked", "")) >= STALE_DAYS]
     untagged = [s for s in old if "tech" not in s and s not in stale][:120]  # one-off catch-up: give older sites vibes/tech tags
-    old = (stale + untagged + [s for s in old if s not in stale and s not in untagged])[:80 + len(untagged)]
-    with ThreadPoolExecutor(12) as ex: chk = list(ex.map(lambda s: safe_verify(s["url"]), old))
+    old = (stale + untagged + [s for s in old if s not in stale and s not in untagged])[:200 + len(untagged)]
+    with ThreadPoolExecutor(12) as ex: chk = list(ex.map(lambda s: safe_verify(s["url"], False), old))
     died = 0; flagged = 0
     for s, (r, why) in zip(old, chk):
         s["checked"] = TODAY
@@ -505,6 +675,11 @@ def main():
         s["fails"] = s.get("fails", 0) + 1; s["robot_note"] = f"{why} ({TODAY})"
         if why == "unsafe" and not s.get("locked"): s["review"] = "flagged"; s["flag_reason"] = "unsafe words found"; flagged += 1
         if s.get("locked"): continue  # hand-checked: report only, never change status
+        if why in ("flipped", "corporate redirect"):  # domain taken over or redirected away: purge at once
+            if s.get("status") != "dead": died += 1
+            s["status"] = "dead"; s["review"] = "flagged"; flagged += 1
+            s["flag_reason"] = "domain taken over by spam" if why == "flipped" else "now redirects to a big platform"
+            continue  # hand-checked: report only, never change status
         if s["fails"] >= 3 and s.get("status") != "dead": died += 1
         s["status"] = "dead" if s["fails"] >= 3 else "warn"
 
@@ -530,7 +705,7 @@ def main():
                newly_dead=died, flagged=flagged, malware_list=len(bad_hosts), archive_years=sum(1 for y in years if y))
     st.update(total=len(visible), dead=len(sites) - len(alive), flagged=sum(1 for s in sites if s.get("review") == "flagged"),
               runs=st.get("runs", 0) + 1, last_run=log["started"], found_last_run=added, beta=beta,
-              candidates_checked=len(cand), categories=cats, bot_version=3)
+              candidates_checked=len(cand), categories=cats, bot_version=4)
     st["history"] = (st.get("history", []) + [{"date": TODAY, "added": added, "total": len(visible)}])[-240:]
     st["runs_log"] = ([log] + st.get("runs_log", []))[:30]
     json.dump(db, open(DB, "w"), indent=1, ensure_ascii=False); json.dump(st, open(STATS, "w"), indent=1, ensure_ascii=False)

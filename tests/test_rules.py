@@ -88,6 +88,109 @@ class VibesAndTech(unittest.TestCase):
         crawl.apply(s, {"lang": "en", "load_time": 1, "https": True, "words": 9, "embed": True, "tech": ["Hugo"], "vibes": ["weird"]})
         self.assertEqual((s["vibes"], s["tech"]), (["calm"], ["Hugo"]))
 
+GOOD_TEXT = ("I grow tomatoes, beans and far too many herbs on a tiny city balcony, and this journal is where I write down "
+             "what worked, what failed and what the pigeons stole this week. ") * 8
+def good_html(title="Balcony Tomato Journal", desc="A slow, hand-written journal about growing tomatoes and herbs on a tiny city balcony.", body=GOOD_TEXT, extra=""):
+    return (f'<html lang="en"><head><title>{title}</title><meta name="description" content="{desc}"></head><body>'
+            f'<h1>{title}</h1><p>{body}</p>{extra}</body></html>')
+
+class QualityGates(unittest.TestCase):
+    def test_real_human_page_passes(self):
+        self.assertEqual(crawl.junk_reason(page(good_html()), good_html()), "")
+    def test_low_word_count_rejected(self):
+        h = good_html(body="Only a few real words about my balcony garden. " * 9)
+        self.assertEqual(crawl.junk_reason(page(h), h), "too few words")
+    def test_header_and_nav_words_do_not_count(self):
+        filler = "<header>" + "menu word " * 300 + "</header><nav>" + "nav word " * 300 + "</nav>"
+        h = good_html(body="Only a few real words about my balcony garden. " * 9, extra=filler)
+        self.assertEqual(crawl.junk_reason(page(h), h), "too few words")
+    def test_link_heavy_directory_rejected(self):
+        links = "".join(f'<li><a href="https://site{i}.com">Wonderful hand made website number {i}</a></li>' for i in range(80))
+        h = good_html(body="A list of websites I like.", extra="<ul>" + links + "</ul>")
+        self.assertEqual(crawl.junk_reason(page(h), h), "link farm")
+    def test_empty_javascript_shell_rejected(self):
+        h = '<html><head><title>Cool App</title></head><body><div id="root"></div><script src="/app.js"></script></body></html>'
+        self.assertEqual(crawl.junk_reason(page(h), h), "empty javascript shell")
+    def test_wordpress_starter_rejected(self):
+        h = good_html(title="Sunny Days", extra="<p>Just another WordPress site</p>")
+        self.assertEqual(crawl.junk_reason(page(h), h), "starter template")
+    def test_default_server_page_rejected(self):
+        for t in ["Welcome to nginx!", "Apache2 Ubuntu Default Page: It works"]:
+            h = good_html(title=t)
+            self.assertIn(crawl.junk_reason(page(h), h), ("starter template", "parked"), t)
+    def test_cookie_wall_rejected(self):
+        h = good_html(body="We use cookies to give you the best experience. Accept all cookies to continue. " + GOOD_TEXT)
+        self.assertEqual(crawl.junk_reason(page(h), h), "cookie wall")
+    def test_cookie_banner_description_rejected(self):
+        self.assertFalse(crawl.good_description("We use cookies to improve your experience on this website, please accept."))
+    def test_login_gate_rejected(self):
+        h = good_html(body="Sign in to continue reading this page. " + GOOD_TEXT)
+        self.assertEqual(crawl.junk_reason(page(h), h), "login gate")
+    def test_bot_challenge_rejected(self):
+        h = good_html(title="Just a moment...")
+        self.assertEqual(crawl.junk_reason(page(h), h), "bot challenge")
+    def test_parked_domain_rejected(self):
+        h = good_html(extra="<p>This domain is for sale. Powered by sedoparking.</p>")
+        self.assertEqual(crawl.junk_reason(page(h), h), "parked")
+
+class LazyTitles(unittest.TestCase):
+    def test_generic_titles_rejected(self):
+        for t in ["Home", "Index", "Welcome", "Main Page", "Untitled", "example.com", "Example"]:
+            self.assertTrue(crawl.lazy_title(t, "example.com"), t)
+    def test_real_name_accepted(self):
+        self.assertFalse(crawl.lazy_title("Moss Hollow Press", "mosshollow.net"))
+    def test_bare_domain_page_has_no_title(self):
+        self.assertEqual(crawl.page_title(page("<title>Home</title>"), "zzz.com"), "")
+    def test_branding_suffix_stripped(self):
+        self.assertEqual(crawl.best_title(page("<title>Moss Hollow | Powered by WordPress</title>"), "mh.net"), "Moss Hollow")
+
+class StrictDescriptions(unittest.TestCase):
+    def test_short_description_rejected(self):
+        self.assertFalse(crawl.good_description("A tiny zine about tomatoes."))
+    def test_self_referential_rejected(self):
+        self.assertFalse(crawl.good_description("Welcome to my website, where you can find out more about everything here."))
+        self.assertFalse(crawl.good_description("Click here to find out more about our wonderful little hand made shop."))
+    def test_lowercase_or_gibberish_rejected(self):
+        self.assertFalse(crawl.good_description("a slow, hand-drawn zine about growing tomatoes on a tiny balcony."))
+        self.assertFalse(crawl.good_description("Xkcdrt bvnmw qrtzp lkjhg sdfgh trwqp mnbvc zxcvb plkjh qwrtz."))
+    def test_real_description_accepted(self):
+        self.assertTrue(crawl.good_description("A slow, hand-drawn zine about growing tomatoes on a tiny city balcony."))
+
+class StrictCategories(unittest.TestCase):
+    def test_low_confidence_site_rejected(self):
+        self.assertIsNone(crawl.strict_category("Zzz", "", [], "nothing here", "zzz.com"))
+    def test_tied_categories_rejected(self):
+        self.assertIsNone(crawl.strict_category("Game Art", "Games and art", ["game", "art"], "", "x.com"))
+    def test_clear_category_accepted(self):
+        r = crawl.strict_category("Pixel Garden", "A gallery of paintings and illustration by an artist", ["Illustration gallery"], "painting drawing", "pixel.garden")
+        self.assertEqual(r[0], "Art")
+
+class SelfHealing(unittest.TestCase):
+    def test_casino_takeover_detected(self):
+        h = "<title>Best Casino Online</title><h1>Online casino and sports betting</h1><p>Play slot gacor casino, betting bonus every day for you.</p>"
+        self.assertTrue(crawl.flipped(page(h)))
+        self.assertFalse(crawl.flipped(page(good_html())))
+    def test_redirect_to_big_platform_detected(self):
+        self.assertTrue(crawl.corporate_redirect("https://oldblog.net", "https://www.facebook.com/oldblog"))
+        self.assertTrue(crawl.corporate_redirect("https://oldblog.net", "https://dan.com/buy-domain/oldblog.net"))
+        self.assertFalse(crawl.corporate_redirect("https://oldblog.net", "https://www.oldblog.net/home"))
+
+class Sourcing(unittest.TestCase):
+    def test_indie_platforms_come_first(self):
+        self.assertGreater(crawl.priority("https://tomato.neocities.org"), crawl.priority("https://shop.bigcorp.com"))
+        self.assertGreater(crawl.priority("https://mosshollow.me"), crawl.priority("https://mosshollow.com"))
+    def test_commercial_platforms_blocked(self):
+        for u in ["https://www.etsy.com", "https://linktr.ee", "https://shop.ebay.com", "https://wordpress.com"]:
+            self.assertFalse(crawl.allowed(u), u)
+        self.assertTrue(crawl.allowed("https://tomato.wordpress.com"))
+    def test_endorsement_pages_followed(self):
+        r = {"url": "https://me.net", "anchors": [("https://me.net/blogroll", "Blogroll"), ("https://me.net/now", "Now"),
+                                                    ("https://me.net/shop", "Shop")]}
+        pages = crawl.link_pages(r)
+        self.assertIn("https://me.net/blogroll", pages); self.assertNotIn("https://me.net/shop", pages)
+    def test_run_cap_is_small(self):
+        self.assertTrue(3 <= crawl.MAX_NEW <= 5)
+
 import votes
 class HallOfFame(unittest.TestCase):
     def test_each_account_counts_once_newest_wins(self):
