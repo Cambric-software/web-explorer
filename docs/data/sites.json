@@ -5700,16 +5700,17 @@
    "tech": [
     "Hand-coded"
    ],
-   "title": "Danluu",
-   "description": "",
-   "category": "Random",
-   "confidence": 0,
+   "title": "Dan Luu",
+   "description": "Dan Luu's famously plain, deeply researched essays on software, hardware performance, tech careers and how the industry really works.",
+   "category": "Developer",
+   "confidence": 1,
    "tags": [],
-   "fingerprint": "",
+   "fingerprint": "danluudanluusfamouslyplaindeeplyresearchedessaysonsoftwarehardwareperform",
    "vibes": [
     "handmade"
    ],
-   "screenshot_file": "6eeec2fb5a99ab769257.jpg"
+   "screenshot_file": "6eeec2fb5a99ab769257.jpg",
+   "locked": true
   },
   {
    "url": "https://claremontreviewofbooks.com",
@@ -8675,6 +8676,75 @@
     "handmade"
    ],
    "screenshot_file": "75e86cf4544156d3c365.jpg"
+  },
+  {
+   "url": "https://sadgrl.online",
+   "lang": "en",
+   "load_time": 0.08,
+   "https": true,
+   "words": 198,
+   "embed": true,
+   "aliases": [
+    "sadgrl.online"
+   ],
+   "tech": [
+    "Astro"
+   ],
+   "vibes": [
+    "minimal"
+   ],
+   "source": "admin pick",
+   "status": "ok",
+   "review": "verified",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "safety_checked": "2026-10-30",
+   "title": "Sadgrl Online",
+   "description": "A beloved handmade corner of the web by Sadgrl: layout editors, web revival guides, writing and links for building your own personal site.",
+   "category": "Retro",
+   "confidence": 1,
+   "tags": [
+    "indieweb",
+    "web revival",
+    "neocities"
+   ],
+   "fingerprint": "sadgrlonlineabelovedhandmadecornerofthewebbysadgrllayouteditorswebrevivalguid",
+   "locked": true
+  },
+  {
+   "url": "https://maya.land",
+   "lang": "en",
+   "load_time": 0.78,
+   "https": true,
+   "words": 103,
+   "embed": true,
+   "aliases": [
+    "maya.land"
+   ],
+   "tech": [
+    "Jekyll"
+   ],
+   "vibes": [
+    "minimal"
+   ],
+   "source": "admin pick",
+   "status": "ok",
+   "review": "verified",
+   "added": "2026-10-30",
+   "checked": "2026-10-30",
+   "fails": 0,
+   "safety_checked": "2026-10-30",
+   "title": "maya.land",
+   "description": "The personal web home of Maya, an enthusiasm enthusiast: essays and notes on astrology, culture, books and whatever catches her eye.",
+   "category": "Personal",
+   "confidence": 1,
+   "tags": [
+    "essays",
+    "digital garden"
+   ],
+   "fingerprint": "mayalandthepersonalwebhomeofmayaanenthusiasmenthusiastessaysandnotesonast",
+   "locked": true
   }
  ]
 }

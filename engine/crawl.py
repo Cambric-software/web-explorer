@@ -25,7 +25,7 @@ UA = {"User-Agent": "Mozilla/5.0 (compatible; WebsiteExplorerBot/3.0; +https://c
       "Accept": "text/html,application/xhtml+xml", "Accept-Language": "en;q=0.9,*;q=0.5"}
 TODAY = datetime.date.today().isoformat()
 STALE_DAYS = 30
-BIG = {"google.com","youtube.com","youtu.be","facebook.com","twitter.com","x.com","instagram.com","github.com","reddit.com",
+BIG = {"google.com","youtube.com","youtu.be","facebook.com","twitter.com","//x.com","instagram.com","github.com","reddit.com",
        "amazon.com","wikipedia.org","linkedin.com","tiktok.com","medium.com","apple.com","microsoft.com","t.co","bit.ly",
        "news.ycombinator.com","lobste.rs","docs.google.com","drive.google.com","sites.google.com","archive.org","arxiv.org",
        "nytimes.com","bbc.co.uk","bbc.com","theguardian.com","cnn.com","bloomberg.com","substack.com","imgur.com",
@@ -39,8 +39,12 @@ PARKED = ["domain for sale","buy this domain","this domain is for sale","domain 
 BLOCKED = ["just a moment","attention required","access denied","verify you are human","enable javascript and cookies",
            "403 forbidden","404 not found","page not found","site not found","error 404","bad gateway","forbidden"]
 MAX_NEW = 5            # newly accepted websites per run (quality over quantity)
-MIN_WORDS = 200        # visible meaningful words a new website needs
-MAX_LINK_RATIO = 0.40  # share of visible text that may be link text
+MIN_WORDS = 100        # visible meaningful words a new website needs (small handmade home pages count)
+MAX_LINK_RATIO = 0.50  # share of visible text that may be link text to other websites
+# Creator / profile / support links never count toward the link-farm ratio
+FRIENDLY_LINKS = ("patreon.com","ko-fi.com","github.com","gitlab.com","codeberg.org","buymeacoffee.com","liberapay.com",
+                  "mastodon","fosstodon.org","hachyderm.io","bsky.app","twitter.com","//x.com","linkedin.com","youtube.com","instagram.com",
+                  "neocities.org","web.archive.org","creativecommons.org","/rss","/feed")
 MIN_CONTENT_CHARS = 200  # text inside <p>, <h1>-<h6>, <article>, <li>; less = empty JavaScript shell
 MIN_DESC = 45
 CAT_MIN_SCORE = 6; CAT_MIN_CONF = 0.6
@@ -75,7 +79,7 @@ LOGIN = ["sign in to continue","log in to continue","login to continue","log in 
 FLIP = ["casino","betting","sportsbook","slot online","slot gacor","togel","judi","poker online","crypto giveaway","free bitcoin",
         "porn","xxx","adult cams","escort","viagra","payday loan","replica watches"]
 CORPORATE = {"facebook.com","instagram.com","linkedin.com","medium.com","godaddy.com","dan.com","afternic.com","sedo.com",
-             "hugedomains.com","twitter.com","x.com","tiktok.com","linktr.ee","substack.com","wix.com","squarespace.com","namecheap.com"}
+             "hugedomains.com","twitter.com","//x.com","tiktok.com","linktr.ee","substack.com","wix.com","squarespace.com","namecheap.com"}
 INDIE = re.compile(r"(neocities\.org|bearblog\.dev|github\.io|codeberg\.page|pages\.dev|tilde\.[a-z]+|ctrl-c\.club|"
                    r"sdf\.org|envs\.net|nekoweb\.org|omg\.lol|smol\.pub|prose\.sh|mataroa\.blog|micro\.blog)$")
 UNSAFE = ["casino","betting","porn","xxx","escort","viagra","crypto giveaway","free bitcoin","loan approval","hack account"]
@@ -311,7 +315,8 @@ def good_description(d):
 def link_ratio(p, h=""):
     """Share of visible words that are link text pointing to OTHER websites (link farms, directories).
     Links to the website's own posts are not counted: a blog index is not a link farm."""
-    out = sum(n for a, n in p.link_counts.items() if a.startswith(("http://", "https://", "//")) and (not h or key(a if "//" != a[:2] else "https:" + a) != key(h)))
+    out = sum(n for a, n in p.link_counts.items() if a.startswith(("http://", "https://", "//")) and (not h or key(a if "//" != a[:2] else "https:" + a) != key(h))
+              and not any(f in a.lower() for f in FRIENDLY_LINKS))
     return out / max(1, len(p.words))
 
 def junk_reason(p, html, title="", h=""):

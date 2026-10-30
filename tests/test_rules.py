@@ -104,6 +104,13 @@ class QualityGates(unittest.TestCase):
         filler = "<header>" + "menu word " * 300 + "</header><nav>" + "nav word " * 300 + "</nav>"
         h = good_html(body="Only a few real words about my balcony garden. " * 9, extra=filler)
         self.assertEqual(crawl.junk_reason(page(h), h), "too few words")
+    def test_small_handmade_page_with_100_plus_words_passes(self):
+        h = good_html(body="My little corner of the web where I share pixel art and zines. " * 10)
+        self.assertEqual(crawl.junk_reason(page(h), h), "")
+    def test_creator_and_social_links_are_not_a_link_farm(self):
+        links = "".join(f'<a href="https://{d}/me">support me on {d} please thank you</a>' for d in ["patreon.com","ko-fi.com","github.com","bsky.app"] * 6)
+        h = good_html(body="I write long essays about software and performance. " * 25, extra=links)
+        self.assertEqual(crawl.junk_reason(page(h), h), "")
     def test_link_heavy_directory_rejected(self):
         links = "".join(f'<li><a href="https://site{i}.com">Wonderful hand made website number {i}</a></li>' for i in range(80))
         h = good_html(body="A list of websites I like.", extra="<ul>" + links + "</ul>")
