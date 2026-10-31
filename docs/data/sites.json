@@ -13,7 +13,7 @@
     "strictllm.com"
    ],
    "lang": "en",
-   "load_time": 0.4,
+   "load_time": 0.32,
    "https": true,
    "words": 936,
    "embed": true,
@@ -43,7 +43,7 @@
    "review": "verified",
    "added": "2026-10-29",
    "checked": "2026-10-31",
-   "fails": 3,
+   "fails": 4,
    "aliases": [
     "ourspacevibes.com"
    ],
@@ -84,7 +84,7 @@
     "divagr.com"
    ],
    "lang": "en",
-   "load_time": 0.36,
+   "load_time": 0.21,
    "https": true,
    "words": 288,
    "embed": true,
@@ -116,7 +116,7 @@
    "review": "unreviewed",
    "added": "2026-10-29",
    "checked": "2026-10-31",
-   "fails": 3,
+   "fails": 4,
    "aliases": [
     "finance.yahoo.com"
    ],
@@ -158,7 +158,7 @@
     "runstructure.com"
    ],
    "lang": "en",
-   "load_time": 0.74,
+   "load_time": 0.66,
    "https": true,
    "words": 975,
    "embed": true,
@@ -194,7 +194,7 @@
     "memgraph.com"
    ],
    "lang": "en",
-   "load_time": 0.3,
+   "load_time": 0.2,
    "https": true,
    "words": 701,
    "embed": false,
@@ -228,7 +228,7 @@
     "trakkr.ai"
    ],
    "lang": "en",
-   "load_time": 0.15,
+   "load_time": 0.11,
    "https": true,
    "words": 2532,
    "embed": false,
@@ -261,7 +261,7 @@
     "zodwick.com"
    ],
    "lang": "en",
-   "load_time": 0.24,
+   "load_time": 0.28,
    "https": true,
    "words": 103,
    "embed": true,
@@ -297,7 +297,7 @@
     "globatics.live"
    ],
    "lang": "en",
-   "load_time": 0.44,
+   "load_time": 1.95,
    "https": true,
    "words": 1765,
    "embed": false,
@@ -331,7 +331,7 @@
     "smsofdeath.com"
    ],
    "lang": "en",
-   "load_time": 0.11,
+   "load_time": 0.23,
    "https": true,
    "words": 1049,
    "embed": true,
@@ -365,7 +365,7 @@
     "scopedb.io"
    ],
    "lang": "en",
-   "load_time": 1.24,
+   "load_time": 0.8,
    "https": true,
    "words": 565,
    "embed": true,
@@ -398,7 +398,7 @@
     "deadapis.dev"
    ],
    "lang": "en",
-   "load_time": 0.18,
+   "load_time": 0.15,
    "https": true,
    "words": 161,
    "embed": true,
@@ -432,7 +432,7 @@
     "diffy.run"
    ],
    "lang": "en",
-   "load_time": 0.4,
+   "load_time": 0.17,
    "https": true,
    "words": 530,
    "embed": false,
@@ -468,7 +468,7 @@
     "safeguards.anthropic.com"
    ],
    "lang": "en",
-   "load_time": 0.23,
+   "load_time": 0.15,
    "https": true,
    "words": 105,
    "embed": false,
@@ -504,9 +504,9 @@
     "variety.com"
    ],
    "lang": "en",
-   "load_time": 0.75,
+   "load_time": 0.19,
    "https": true,
-   "words": 1629,
+   "words": 1675,
    "embed": true,
    "safety_checked": "2026-10-31",
    "tech": [
@@ -538,7 +538,7 @@
     "facetshelf.com"
    ],
    "lang": "en",
-   "load_time": 0.55,
+   "load_time": 0.69,
    "https": true,
    "words": 141,
    "embed": false,
@@ -572,7 +572,7 @@
     "nixtamal.toast.al"
    ],
    "lang": "en",
-   "load_time": 1.74,
+   "load_time": 1.59,
    "https": true,
    "words": 563,
    "embed": false,
@@ -606,7 +606,7 @@
     "coryd.dev"
    ],
    "lang": "en",
-   "load_time": 0.92,
+   "load_time": 0.77,
    "https": true,
    "words": 276,
    "embed": false,
@@ -640,7 +640,7 @@
     "nostringtheory.com"
    ],
    "lang": "en",
-   "load_time": 0.49,
+   "load_time": 0.22,
    "https": true,
    "words": 207,
    "embed": false,
@@ -677,7 +677,7 @@
     "withpanta.com"
    ],
    "lang": "en",
-   "load_time": 0.14,
+   "load_time": 0.52,
    "https": true,
    "words": 507,
    "embed": true,
@@ -709,7 +709,7 @@
     "skypilot.ai"
    ],
    "lang": "en",
-   "load_time": 0.21,
+   "load_time": 0.27,
    "https": true,
    "words": 1089,
    "embed": true,
@@ -740,7 +740,7 @@
     "lagomor.ph"
    ],
    "lang": "en",
-   "load_time": 0.32,
+   "load_time": 0.28,
    "https": true,
    "words": 466,
    "embed": false,
@@ -772,7 +772,7 @@
     "regbase.com"
    ],
    "lang": "en",
-   "load_time": 0.25,
+   "load_time": 0.17,
    "https": true,
    "words": 1329,
    "embed": true,
@@ -808,7 +808,7 @@
     "iptrust.co"
    ],
    "lang": "en",
-   "load_time": 1.47,
+   "load_time": 1.22,
    "https": true,
    "words": 843,
    "embed": true,
@@ -843,9 +843,9 @@
     "pressaudit.org"
    ],
    "lang": "en",
-   "load_time": 0.57,
+   "load_time": 0.67,
    "https": true,
-   "words": 200,
+   "words": 206,
    "embed": false,
    "safety_checked": "2026-10-31",
    "tech": [
@@ -876,7 +876,7 @@
     "kadoa.com"
    ],
    "lang": "en",
-   "load_time": 0.6,
+   "load_time": 0.49,
    "https": true,
    "words": 1038,
    "embed": false,
@@ -909,7 +909,7 @@
     "logfolio.co"
    ],
    "lang": "en",
-   "load_time": 1.15,
+   "load_time": 0.81,
    "https": true,
    "words": 820,
    "embed": false,
@@ -946,9 +946,9 @@
     "thenation.com"
    ],
    "lang": "en",
-   "load_time": 0.29,
+   "load_time": 0.13,
    "https": true,
-   "words": 1217,
+   "words": 1187,
    "embed": false,
    "safety_checked": "2026-10-31",
    "tech": [
@@ -976,26 +976,24 @@
    "aliases": [
     "jules.google"
    ],
-   "lang": "?",
-   "load_time": 0.24,
+   "lang": "en",
+   "load_time": 0.21,
    "https": true,
-   "words": 179,
+   "words": 305,
    "embed": false,
    "safety_checked": "2026-10-31",
    "tech": [
-    "Hand-coded",
-    "No JavaScript"
+    "Astro",
+    "React",
+    "Tailwind"
    ],
    "title": "Jules",
-   "description": "",
-   "category": "Random",
-   "confidence": 0,
+   "description": "Jules is an Autonomous agent that gets out of your way. It lets you focus on the coding you want to do, meanwhile picking up all the other random tasks that you rather not do.",
+   "category": "Developer",
+   "confidence": 1.0,
    "tags": [],
-   "fingerprint": "",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
+   "fingerprint": "julesjulesisanautonomousagentthatgetsoutofyourwayitletsyoufocusonthe",
+   "vibes": [],
    "archive_checked": "2026-10-29",
    "screenshot_file": "eb99861dd6494a53089b.jpg"
   },
@@ -1011,7 +1009,7 @@
     "boil.brint.dev"
    ],
    "lang": "en",
-   "load_time": 0.24,
+   "load_time": 0.32,
    "https": true,
    "words": 304,
    "embed": true,
@@ -1044,7 +1042,7 @@
     "mit.teil.space"
    ],
    "lang": "en",
-   "load_time": 0.8,
+   "load_time": 0.66,
    "https": true,
    "words": 314,
    "embed": true,
@@ -1080,7 +1078,7 @@
     "vut.cz"
    ],
    "lang": "cs",
-   "load_time": 2.29,
+   "load_time": 1.87,
    "https": true,
    "words": 292,
    "embed": false,
@@ -1114,7 +1112,7 @@
     "recto.design"
    ],
    "lang": "en",
-   "load_time": 0.31,
+   "load_time": 0.32,
    "https": true,
    "words": 1678,
    "embed": true,
@@ -1151,7 +1149,7 @@
     "percona.com"
    ],
    "lang": "en",
-   "load_time": 0.62,
+   "load_time": 0.25,
    "https": true,
    "words": 802,
    "embed": false,
@@ -1182,7 +1180,7 @@
     "redmonk.com"
    ],
    "lang": "en",
-   "load_time": 0.36,
+   "load_time": 0.15,
    "https": true,
    "words": 290,
    "embed": true,
@@ -1215,7 +1213,7 @@
     "motherjones.com"
    ],
    "lang": "en",
-   "load_time": 1.06,
+   "load_time": 0.9,
    "https": true,
    "words": 1119,
    "embed": true,
@@ -1253,7 +1251,7 @@
     "builder.aws.com"
    ],
    "lang": "en",
-   "load_time": 0.19,
+   "load_time": 0.32,
    "https": true,
    "words": 97,
    "embed": false,
@@ -1289,7 +1287,7 @@
     "blinkwell.netlify.app"
    ],
    "lang": "en",
-   "load_time": 0.7,
+   "load_time": 0.28,
    "https": true,
    "words": 562,
    "embed": true,
@@ -1322,7 +1320,7 @@
     "gettaxnomad.com"
    ],
    "lang": "en",
-   "load_time": 0.72,
+   "load_time": 0.38,
    "https": true,
    "words": 616,
    "embed": false,
@@ -1354,7 +1352,7 @@
     "agno.com"
    ],
    "lang": "en",
-   "load_time": 0.29,
+   "load_time": 0.38,
    "https": true,
    "words": 1382,
    "embed": true,
@@ -1389,7 +1387,7 @@
     "dinonames.com"
    ],
    "lang": "en",
-   "load_time": 0.34,
+   "load_time": 0.19,
    "https": true,
    "words": 70,
    "embed": false,
@@ -1423,7 +1421,7 @@
     "mistral.ai"
    ],
    "lang": "en",
-   "load_time": 0.04,
+   "load_time": 0.34,
    "https": true,
    "words": 660,
    "embed": false,
@@ -1458,9 +1456,9 @@
     "hollywoodreporter.com"
    ],
    "lang": "en",
-   "load_time": 0.67,
+   "load_time": 0.51,
    "https": true,
-   "words": 1485,
+   "words": 1498,
    "embed": true,
    "safety_checked": "2026-10-31",
    "tech": [
@@ -1493,7 +1491,7 @@
     "about.doordash.com"
    ],
    "lang": "en",
-   "load_time": 0.49,
+   "load_time": 0.71,
    "https": true,
    "words": 816,
    "embed": true,
@@ -1523,9 +1521,9 @@
     "newscientist.com"
    ],
    "lang": "en",
-   "load_time": 2.33,
+   "load_time": 2.1,
    "https": true,
-   "words": 1006,
+   "words": 1008,
    "embed": true,
    "safety_checked": "2026-10-31",
    "tech": [
@@ -1559,7 +1557,7 @@
     "bendingspoons.com"
    ],
    "lang": "en",
-   "load_time": 0.27,
+   "load_time": 0.51,
    "https": true,
    "words": 362,
    "embed": false,
@@ -1593,7 +1591,7 @@
     "mikroverk.github.io"
    ],
    "lang": "en",
-   "load_time": 0.18,
+   "load_time": 0.15,
    "https": true,
    "words": 474,
    "embed": true,
@@ -1631,7 +1629,7 @@
     "wavefunction.si"
    ],
    "lang": "en",
-   "load_time": 0.47,
+   "load_time": 0.89,
    "https": true,
    "words": 1068,
    "embed": true,
@@ -1658,7 +1656,7 @@
    "review": "unreviewed",
    "added": "2026-10-29",
    "checked": "2026-10-31",
-   "fails": 3,
+   "fails": 4,
    "aliases": [
     "kinlab.ai"
    ],
@@ -1699,7 +1697,7 @@
     "engineering.fb.com"
    ],
    "lang": "en",
-   "load_time": 0.41,
+   "load_time": 0.29,
    "https": true,
    "words": 223,
    "embed": true,
@@ -1734,9 +1732,9 @@
     "united24media.com"
    ],
    "lang": "en",
-   "load_time": 1.33,
+   "load_time": 1.26,
    "https": true,
-   "words": 1449,
+   "words": 1451,
    "embed": false,
    "safety_checked": "2026-10-31",
    "tech": [
@@ -1768,9 +1766,9 @@
     "bigchecklist.com"
    ],
    "lang": "en",
-   "load_time": 0.65,
+   "load_time": 0.79,
    "https": true,
-   "words": 164,
+   "words": 166,
    "embed": false,
    "safety_checked": "2026-10-31",
    "tech": [
@@ -1801,20 +1799,22 @@
     "nypost.com"
    ],
    "lang": "en",
-   "load_time": 1.84,
+   "load_time": 1.16,
    "https": true,
-   "words": 824,
+   "words": 1115,
    "embed": false,
    "safety_checked": "2026-10-31",
    "tech": [
     "WordPress"
    ],
-   "title": "California Post",
-   "description": "California Post brings you the latest California news, politics, sports, and opinion. Bold coverage, strong voices, and stories that matter to Californians.",
+   "title": "New York Post",
+   "description": "Your source for breaking news, photos, and videos about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more.",
    "category": "News",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "californiapostcaliforniapostbringsyouthelatestcalifornianewspoliticssportsandopi",
+   "confidence": 0.58,
+   "tags": [
+    "Business"
+   ],
+   "fingerprint": "newyorkpostyoursourceforbreakingnewsphotosandvideosaboutnewyorksportsbusine",
    "vibes": [
     "retro"
    ],
@@ -1834,7 +1834,7 @@
     "spicermatthews.com"
    ],
    "lang": "en",
-   "load_time": 0.35,
+   "load_time": 0.25,
    "https": true,
    "words": 284,
    "embed": true,
@@ -1871,7 +1871,7 @@
     "bestboy.dev"
    ],
    "lang": "en",
-   "load_time": 0.28,
+   "load_time": 0.34,
    "https": true,
    "words": 1017,
    "embed": false,
@@ -1904,7 +1904,7 @@
     "blog.greenflagged.dev"
    ],
    "lang": "en",
-   "load_time": 0.22,
+   "load_time": 0.2,
    "https": true,
    "words": 167,
    "embed": false,
@@ -1939,7 +1939,7 @@
     "ohmlens.com"
    ],
    "lang": "en",
-   "load_time": 0.19,
+   "load_time": 0.33,
    "https": true,
    "words": 310,
    "embed": true,
@@ -1975,7 +1975,7 @@
     "pypi.org"
    ],
    "lang": "en",
-   "load_time": 0.06,
+   "load_time": 0.11,
    "https": true,
    "words": 144,
    "embed": false,
@@ -2008,7 +2008,7 @@
     "martinfowler.com"
    ],
    "lang": "?",
-   "load_time": 0.36,
+   "load_time": 0.16,
    "https": true,
    "words": 1636,
    "embed": false,
@@ -2045,7 +2045,7 @@
     "pidgeon.ai"
    ],
    "lang": "en",
-   "load_time": 0.46,
+   "load_time": 0.28,
    "https": true,
    "words": 418,
    "embed": false,
@@ -2076,7 +2076,7 @@
     "vigo.alexander4.io"
    ],
    "lang": "en",
-   "load_time": 0.38,
+   "load_time": 0.19,
    "https": true,
    "words": 1211,
    "embed": true,
@@ -2110,7 +2110,7 @@
     "blog.yoshuawuyts.com"
    ],
    "lang": "?",
-   "load_time": 0.28,
+   "load_time": 0.32,
    "https": true,
    "words": 362,
    "embed": true,
@@ -2142,7 +2142,7 @@
     "lumi.codeberg.page"
    ],
    "lang": "en",
-   "load_time": 0.63,
+   "load_time": 0.44,
    "https": true,
    "words": 72,
    "embed": true,
@@ -2176,7 +2176,7 @@
     "cryptoskeptics.org"
    ],
    "lang": "en",
-   "load_time": 0.29,
+   "load_time": 0.23,
    "https": true,
    "words": 109,
    "embed": true,
@@ -2209,7 +2209,7 @@
     "sidbala.com"
    ],
    "lang": "en",
-   "load_time": 0.29,
+   "load_time": 0.08,
    "https": true,
    "words": 44,
    "embed": true,
@@ -2275,7 +2275,7 @@
     "enlightpixel.com"
    ],
    "lang": "en",
-   "load_time": 1.77,
+   "load_time": 0.82,
    "https": true,
    "words": 1054,
    "embed": false,
@@ -2306,7 +2306,7 @@
     "malisper.me"
    ],
    "lang": "en",
-   "load_time": 0.69,
+   "load_time": 0.32,
    "https": true,
    "words": 427,
    "embed": true,
@@ -2337,7 +2337,7 @@
     "sitespin.app"
    ],
    "lang": "en",
-   "load_time": 0.13,
+   "load_time": 0.17,
    "https": true,
    "words": 1004,
    "embed": false,
@@ -2364,7 +2364,7 @@
    "review": "unreviewed",
    "added": "2026-10-29",
    "checked": "2026-10-31",
-   "fails": 3,
+   "fails": 4,
    "aliases": [
     "witnessory.org"
    ],
@@ -2403,7 +2403,7 @@
     "jmmv.dev"
    ],
    "lang": "en",
-   "load_time": 0.2,
+   "load_time": 0.17,
    "https": true,
    "words": 1905,
    "embed": true,
@@ -2439,7 +2439,7 @@
     "dynomight.net"
    ],
    "lang": "en",
-   "load_time": 0.25,
+   "load_time": 0.24,
    "https": true,
    "words": 3032,
    "embed": true,
@@ -2473,7 +2473,7 @@
     "axoris.app"
    ],
    "lang": "en",
-   "load_time": 0.45,
+   "load_time": 0.58,
    "https": true,
    "words": 588,
    "embed": true,
@@ -2505,7 +2505,7 @@
     "abhishekr3.github.io"
    ],
    "lang": "?",
-   "load_time": 0.11,
+   "load_time": 0.17,
    "https": true,
    "words": 89,
    "embed": true,
@@ -2540,9 +2540,9 @@
     "techcrunch.com"
    ],
    "lang": "en",
-   "load_time": 0.33,
+   "load_time": 0.6,
    "https": true,
-   "words": 1570,
+   "words": 1582,
    "embed": false,
    "safety_checked": "2026-10-31",
    "tech": [
@@ -2574,7 +2574,7 @@
     "ollama-mock.kinduff.com"
    ],
    "lang": "en",
-   "load_time": 0.27,
+   "load_time": 0.43,
    "https": true,
    "words": 57,
    "embed": true,
@@ -2608,7 +2608,7 @@
     "uji.sh"
    ],
    "lang": "en",
-   "load_time": 0.21,
+   "load_time": 0.33,
    "https": true,
    "words": 76,
    "embed": false,
@@ -2637,7 +2637,7 @@
    "review": "unreviewed",
    "added": "2026-10-29",
    "checked": "2026-10-31",
-   "fails": 3,
+   "fails": 4,
    "aliases": [
     "yahoo.com"
    ],
@@ -2670,7 +2670,7 @@
    "review": "unreviewed",
    "added": "2026-10-29",
    "checked": "2026-10-31",
-   "fails": 3,
+   "fails": 4,
    "aliases": [
     "notboring.co"
    ],
@@ -2710,7 +2710,7 @@
     "nvidia-holoscan.github.io"
    ],
    "lang": "en",
-   "load_time": 0.28,
+   "load_time": 0.19,
    "https": true,
    "words": 834,
    "embed": true,
@@ -2747,7 +2747,7 @@
     "academicancestry.org"
    ],
    "lang": "en",
-   "load_time": 0.4,
+   "load_time": 0.23,
    "https": true,
    "words": 330,
    "embed": true,
@@ -2780,7 +2780,7 @@
     "pgrs.net"
    ],
    "lang": "en",
-   "load_time": 0.24,
+   "load_time": 0.38,
    "https": true,
    "words": 193,
    "embed": false,
@@ -2817,7 +2817,7 @@
     "jjsboyce.ca"
    ],
    "lang": "en",
-   "load_time": 0.87,
+   "load_time": 2.6,
    "https": true,
    "words": 2216,
    "embed": true,
@@ -2850,7 +2850,7 @@
     "blog.torproject.org"
    ],
    "lang": "?",
-   "load_time": 0.28,
+   "load_time": 0.61,
    "https": true,
    "words": 259,
    "embed": false,
@@ -2885,7 +2885,7 @@
     "sidekeysapp.com"
    ],
    "lang": "en",
-   "load_time": 0.11,
+   "load_time": 0.23,
    "https": true,
    "words": 884,
    "embed": true,
@@ -2918,7 +2918,7 @@
     "scraping.club"
    ],
    "lang": "en",
-   "load_time": 0.84,
+   "load_time": 0.42,
    "https": true,
    "words": 61,
    "embed": false,
@@ -2954,7 +2954,7 @@
     "bugsink.com"
    ],
    "lang": "en",
-   "load_time": 1.27,
+   "load_time": 0.63,
    "https": true,
    "words": 514,
    "embed": false,
@@ -2988,7 +2988,7 @@
     "usesimple.ai"
    ],
    "lang": "en",
-   "load_time": 0.52,
+   "load_time": 0.62,
    "https": true,
    "words": 1214,
    "embed": true,
@@ -3023,7 +3023,7 @@
     "automatiagame.com"
    ],
    "lang": "en",
-   "load_time": 0.33,
+   "load_time": 0.25,
    "https": true,
    "words": 363,
    "embed": true,
@@ -3058,9 +3058,9 @@
     "studio.mockmagic.com"
    ],
    "lang": "en",
-   "load_time": 2.25,
+   "load_time": 1.22,
    "https": true,
-   "words": 50,
+   "words": 48,
    "embed": true,
    "safety_checked": "2026-10-31",
    "tech": [
@@ -3092,7 +3092,7 @@
     "arcblock.io"
    ],
    "lang": "en",
-   "load_time": 0.72,
+   "load_time": 0.5,
    "https": true,
    "words": 373,
    "embed": false,
@@ -3126,7 +3126,7 @@
     "projects.freehackers.org"
    ],
    "lang": "en",
-   "load_time": 7.46,
+   "load_time": 3.34,
    "https": true,
    "words": 45,
    "embed": false,
@@ -3162,9 +3162,9 @@
     "16colo.rs"
    ],
    "lang": "en",
-   "load_time": 0.69,
+   "load_time": 0.52,
    "https": true,
-   "words": 389,
+   "words": 391,
    "embed": false,
    "safety_checked": "2026-10-31",
    "tech": [
@@ -3199,7 +3199,7 @@
     "earndraft.com"
    ],
    "lang": "en",
-   "load_time": 0.37,
+   "load_time": 0.47,
    "https": true,
    "words": 848,
    "embed": false,
@@ -3235,7 +3235,7 @@
     "catalogkite.com"
    ],
    "lang": "en",
-   "load_time": 0.38,
+   "load_time": 0.12,
    "https": true,
    "words": 1191,
    "embed": false,
@@ -3269,7 +3269,7 @@
     "metergraph.dev"
    ],
    "lang": "en",
-   "load_time": 0.28,
+   "load_time": 0.57,
    "https": true,
    "words": 963,
    "embed": true,
@@ -3301,7 +3301,7 @@
     "fastmail.com"
    ],
    "lang": "en",
-   "load_time": 0.54,
+   "load_time": 0.4,
    "https": true,
    "words": 560,
    "embed": false,
@@ -3333,7 +3333,7 @@
     "entropicthoughts.com"
    ],
    "lang": "?",
-   "load_time": 1.17,
+   "load_time": 0.9,
    "https": true,
    "words": 432,
    "embed": true,
@@ -3365,7 +3365,7 @@
     "usenua.com"
    ],
    "lang": "en",
-   "load_time": 0.13,
+   "load_time": 0.34,
    "https": true,
    "words": 257,
    "embed": true,
@@ -3399,7 +3399,7 @@
     "virtuallyfun.com"
    ],
    "lang": "en",
-   "load_time": 0.74,
+   "load_time": 0.87,
    "https": true,
    "words": 3025,
    "embed": false,
@@ -3432,7 +3432,7 @@
     "elementary.codes"
    ],
    "lang": "en",
-   "load_time": 0.5,
+   "load_time": 0.53,
    "https": true,
    "words": 99,
    "embed": true,
@@ -3464,7 +3464,7 @@
     "seqora.dev"
    ],
    "lang": "en",
-   "load_time": 0.4,
+   "load_time": 0.27,
    "https": true,
    "words": 861,
    "embed": false,
@@ -3498,9 +3498,9 @@
     "pulsetoday.co.uk"
    ],
    "lang": "en",
-   "load_time": 2.74,
+   "load_time": 3.85,
    "https": true,
-   "words": 536,
+   "words": 540,
    "embed": true,
    "safety_checked": "2026-10-31",
    "tech": [
@@ -3530,7 +3530,7 @@
     "fig.blue"
    ],
    "lang": "en",
-   "load_time": 0.43,
+   "load_time": 0.52,
    "https": true,
    "words": 63,
    "embed": true,
@@ -3554,11 +3554,11 @@
   {
    "url": "https://duotext.io",
    "source": "hacker news",
-   "status": "ok",
+   "status": "warn",
    "review": "unreviewed",
    "added": "2026-10-29",
    "checked": "2026-10-31",
-   "fails": 0,
+   "fails": 1,
    "aliases": [
     "duotext.io"
    ],
@@ -3580,7 +3580,8 @@
    "fingerprint": "duotextfreebilingualbooks342storiesin17languageswiththetranslationbesideev",
    "vibes": [],
    "screenshot_file": "85681c719d5b30e06bd5.jpg",
-   "archive_checked": "2026-10-30"
+   "archive_checked": "2026-10-30",
+   "robot_note": "slow (2026-10-31)"
   },
   {
    "url": "https://carnewschina.com",
@@ -3594,7 +3595,7 @@
     "carnewschina.com"
    ],
    "lang": "en",
-   "load_time": 0.13,
+   "load_time": 0.08,
    "https": true,
    "words": 579,
    "embed": true,
@@ -3625,7 +3626,7 @@
     "getlivewire.app"
    ],
    "lang": "en",
-   "load_time": 0.63,
+   "load_time": 0.47,
    "https": true,
    "words": 52,
    "embed": true,
@@ -3658,7 +3659,7 @@
     "sunlight.software"
    ],
    "lang": "en",
-   "load_time": 0.15,
+   "load_time": 0.12,
    "https": true,
    "words": 204,
    "embed": true,
@@ -3691,9 +3692,9 @@
     "newsstocks.live"
    ],
    "lang": "en",
-   "load_time": 0.6,
+   "load_time": 0.75,
    "https": true,
-   "words": 3090,
+   "words": 3006,
    "embed": false,
    "safety_checked": "2026-10-31",
    "tech": [
@@ -3703,7 +3704,7 @@
    "title": "The Market in 5 Minutes",
    "description": "Understand what happened in the market and why it matters for the stocks you follow, in five minutes.",
    "category": "News",
-   "confidence": 0.7,
+   "confidence": 0.81,
    "tags": [],
    "fingerprint": "themarketin5minutesunderstandwhathappenedinthemarketandwhyitmattersforthestocksyoufol",
    "vibes": [
@@ -3720,7 +3721,7 @@
    "review": "unreviewed",
    "added": "2026-10-29",
    "checked": "2026-10-31",
-   "fails": 3,
+   "fails": 4,
    "aliases": [
     "terroir.systems"
    ],
@@ -3759,7 +3760,7 @@
     "nick-liu.com"
    ],
    "lang": "en",
-   "load_time": 0.18,
+   "load_time": 0.12,
    "https": true,
    "words": 646,
    "embed": false,
@@ -3792,7 +3793,7 @@
     "editsqlite.com"
    ],
    "lang": "en",
-   "load_time": 0.36,
+   "load_time": 0.26,
    "https": true,
    "words": 1211,
    "embed": true,
@@ -3827,7 +3828,7 @@
     "labs.ycombinator.com"
    ],
    "lang": "?",
-   "load_time": 0.2,
+   "load_time": 0.29,
    "https": true,
    "words": 152,
    "embed": true,
@@ -3861,7 +3862,7 @@
     "tryroal.com"
    ],
    "lang": "en",
-   "load_time": 0.85,
+   "load_time": 0.52,
    "https": true,
    "words": 987,
    "embed": true,
@@ -3891,7 +3892,7 @@
     "trickortake.com"
    ],
    "lang": "en",
-   "load_time": 0.23,
+   "load_time": 0.22,
    "https": true,
    "words": 860,
    "embed": true,
@@ -3926,7 +3927,7 @@
     "asashepard.com"
    ],
    "lang": "en",
-   "load_time": 0.22,
+   "load_time": 0.28,
    "https": true,
    "words": 450,
    "embed": true,
@@ -3957,7 +3958,7 @@
    "review": "unreviewed",
    "added": "2026-10-29",
    "checked": "2026-10-31",
-   "fails": 3,
+   "fails": 4,
    "aliases": [
     "flipper.net"
    ],
@@ -3996,7 +3997,7 @@
     "synthtopia.com"
    ],
    "lang": "en",
-   "load_time": 1.04,
+   "load_time": 0.94,
    "https": true,
    "words": 364,
    "embed": false,
@@ -4034,7 +4035,7 @@
     "genesisdb.io"
    ],
    "lang": "en",
-   "load_time": 0.21,
+   "load_time": 0.95,
    "https": true,
    "words": 604,
    "embed": true,
@@ -4068,9 +4069,9 @@
     "zenodo.org"
    ],
    "lang": "en",
-   "load_time": 1.3,
+   "load_time": 0.78,
    "https": true,
-   "words": 856,
+   "words": 720,
    "embed": false,
    "safety_checked": "2026-10-31",
    "tech": [
@@ -4078,11 +4079,9 @@
    ],
    "title": "Zenodo",
    "description": "Scheduled maintenance: On Tuesday, November 3rd, Zenodo will be unavailable between 08:00 and 08:15 UTC for an infrastructure upgrade.",
-   "category": "Developer",
-   "confidence": 0.5,
-   "tags": [
-    "Education"
-   ],
+   "category": "Education",
+   "confidence": 0.57,
+   "tags": [],
    "fingerprint": "zenodoscheduledmaintenanceontuesdaynovember3rdzenodowillbeunavailablebetw",
    "vibes": [
     "nerdy",
@@ -4135,7 +4134,7 @@
     "carfreeapp.com"
    ],
    "lang": "en",
-   "load_time": 0.2,
+   "load_time": 0.12,
    "https": true,
    "words": 1109,
    "embed": false,
@@ -4169,7 +4168,7 @@
     "piccalil.li"
    ],
    "lang": "en",
-   "load_time": 0.46,
+   "load_time": 0.29,
    "https": true,
    "words": 886,
    "embed": true,
@@ -4204,7 +4203,7 @@
     "outcrop.rocks"
    ],
    "lang": "en",
-   "load_time": 0.27,
+   "load_time": 0.32,
    "https": true,
    "words": 407,
    "embed": false,
@@ -4239,7 +4238,7 @@
     "blog.silentsignal.eu"
    ],
    "lang": "en",
-   "load_time": 1.11,
+   "load_time": 0.88,
    "https": true,
    "words": 439,
    "embed": false,
@@ -4275,7 +4274,7 @@
     "wired.com"
    ],
    "lang": "en",
-   "load_time": 0.33,
+   "load_time": 0.39,
    "https": true,
    "words": 667,
    "embed": false,
@@ -4312,7 +4311,7 @@
     "dreamgroup.com"
    ],
    "lang": "en",
-   "load_time": 0.13,
+   "load_time": 0.14,
    "https": true,
    "words": 659,
    "embed": false,
@@ -4347,9 +4346,9 @@
     "theverge.com"
    ],
    "lang": "en",
-   "load_time": 0.44,
+   "load_time": 0.09,
    "https": true,
-   "words": 2715,
+   "words": 2676,
    "embed": false,
    "safety_checked": "2026-10-31",
    "tech": [
@@ -6846,17 +6845,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "seangoedecke.com"
    ],
    "lang": "en",
-   "load_time": 0.15,
+   "load_time": 0.37,
    "https": true,
-   "words": 246,
+   "words": 79,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Gatsby"
    ],
@@ -6879,17 +6878,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "gvisor.dev"
    ],
    "lang": "en",
-   "load_time": 0.27,
+   "load_time": 0.23,
    "https": true,
-   "words": 562,
+   "words": 535,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "jQuery",
     "Bootstrap",
@@ -6917,17 +6916,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "dockshift.org"
    ],
    "lang": "en",
-   "load_time": 0.37,
+   "load_time": 0.3,
    "https": true,
-   "words": 345,
+   "words": 289,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Tailwind",
     "Hand-coded"
@@ -6939,7 +6938,8 @@
    "tags": [],
    "fingerprint": "dockshiftinstantinbrowserdockerruntodockercomposeconverterreversecomposetoru",
    "vibes": [
-    "handmade"
+    "handmade",
+    "minimal"
    ],
    "screenshot_file": "5acdf9de7e2a7ecbab34.jpg",
    "archive_checked": "2026-10-30",
@@ -6951,17 +6951,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "videocardz.com"
    ],
    "lang": "en",
-   "load_time": 0.09,
+   "load_time": 0.08,
    "https": true,
-   "words": 1470,
+   "words": 1189,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "WordPress",
     "jQuery"
@@ -6969,12 +6969,14 @@
    "title": "Graphics Cards, Video Cards, GPUs",
    "description": "VideoCardz.com - Home of graphics cards, video cards, GPUs. Latest news, rumors, leaks and specifications. All graphics cards related.",
    "category": "Technology",
-   "confidence": 0.63,
+   "confidence": 0.6,
    "tags": [
     "News"
    ],
    "fingerprint": "graphicscardsvideocardsgpusvideocardzcomhomeofgraphicscardsvideocardsgpuslatestnewsrumors",
-   "vibes": [],
+   "vibes": [
+    "retro"
+   ],
    "screenshot_file": "1584ae1f8c70a383d20d.jpg",
    "archive_checked": "2026-10-30",
    "first_seen": 2000
@@ -6985,17 +6987,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "samueleast.co.uk"
    ],
    "lang": "en",
-   "load_time": 0.18,
+   "load_time": 0.16,
    "https": true,
-   "words": 2603,
+   "words": 2415,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Next.js",
     "Tailwind"
@@ -7006,9 +7008,7 @@
    "confidence": 0.76,
    "tags": [],
    "fingerprint": "samueleastseniorsoftwareengineerwith15yearsexperienceinreactnativeandmediastr",
-   "vibes": [
-    "deep read"
-   ],
+   "vibes": [],
    "screenshot_file": "34b69f72caa9c9c256ba.jpg",
    "archive_checked": "2026-10-30",
    "first_seen": 2012
@@ -7019,17 +7019,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "gadgetsteal.com"
    ],
    "lang": "en",
-   "load_time": 0.42,
+   "load_time": 0.6,
    "https": true,
-   "words": 1543,
+   "words": 1269,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Tailwind",
     "Hand-coded"
@@ -7037,7 +7037,7 @@
    "title": "GadgetSteal",
    "description": "Price-checked deals on well-rated kitchen appliances, vacuums, air purifiers, personal care, TV and audio, and smart home gadgets. Find the steal before you buy.",
    "category": "Technology",
-   "confidence": 0.75,
+   "confidence": 0.84,
    "tags": [],
    "fingerprint": "gadgetstealpricecheckeddealsonwellratedkitchenappliancesvacuumsairpurifierspe",
    "vibes": [
@@ -7053,17 +7053,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "blog.dnsimple.com"
    ],
    "lang": "?",
-   "load_time": 0.25,
+   "load_time": 0.27,
    "https": true,
-   "words": 350,
+   "words": 313,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
@@ -7086,17 +7086,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "historytoday.com"
    ],
    "lang": "en",
-   "load_time": 1.05,
+   "load_time": 1.11,
    "https": true,
-   "words": 587,
+   "words": 544,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "jQuery",
     "Hand-coded"
@@ -7111,7 +7111,8 @@
    "fingerprint": "historytodayhistorytodayistheworldsleadinghistorymagazineforindeptharticlesrev",
    "vibes": [
     "nerdy",
-    "handmade"
+    "handmade",
+    "retro"
    ],
    "screenshot_file": "93bc59daaedbd9473ed2.jpg",
    "archive_checked": "2026-10-30",
@@ -7123,17 +7124,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "winder.ai"
    ],
    "lang": "?",
-   "load_time": 0.32,
+   "load_time": 0.4,
    "https": true,
-   "words": 1138,
+   "words": 746,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded",
     "No JavaScript"
@@ -7157,17 +7158,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "send21.io"
    ],
    "lang": "en",
-   "load_time": 0.22,
+   "load_time": 0.38,
    "https": true,
-   "words": 1091,
+   "words": 1022,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
@@ -7192,17 +7193,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "arsaze.com"
    ],
    "lang": "en",
-   "load_time": 0.39,
+   "load_time": 0.28,
    "https": true,
-   "words": 1408,
+   "words": 1303,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Next.js",
     "Tailwind"
@@ -7226,17 +7227,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "lesswrong.com"
    ],
    "lang": "?",
-   "load_time": 0.69,
+   "load_time": 0.52,
    "https": true,
-   "words": 316,
+   "words": 176,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Next.js"
    ],
@@ -7247,8 +7248,9 @@
    "tags": [],
    "fingerprint": "lesswrongacommunityblogdevotedtorefiningtheartofrationality",
    "vibes": [
-    "nerdy",
-    "artsy"
+    "artsy",
+    "minimal",
+    "retro"
    ],
    "screenshot_file": "e936bb44b4d24d0a6754.jpg",
    "archive_checked": "2026-10-30",
@@ -7260,17 +7262,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "hipathai.me"
    ],
    "lang": "en",
-   "load_time": 0.26,
+   "load_time": 0.59,
    "https": true,
-   "words": 647,
+   "words": 558,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Next.js",
     "Tailwind"
@@ -7296,17 +7298,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "bleepingcomputer.com"
    ],
    "lang": "en",
-   "load_time": 0.57,
+   "load_time": 0.84,
    "https": true,
-   "words": 1265,
+   "words": 1111,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "jQuery",
     "Bootstrap",
@@ -7315,15 +7317,14 @@
    "title": "BleepingComputer",
    "description": "BleepingComputer is a premier destination for cybersecurity news for over 20 years, delivering breaking stories on the latest hacks, malware threats, and how to protect your devices.",
    "category": "Technology",
-   "confidence": 0.58,
+   "confidence": 0.64,
    "tags": [
-    "News",
-    "Education"
+    "News"
    ],
    "fingerprint": "bleepingcomputerbleepingcomputerisapremierdestinationforcybersecuritynewsforover20yea",
    "vibes": [
-    "nerdy",
-    "handmade"
+    "handmade",
+    "retro"
    ],
    "screenshot_file": "ec7dac2ca2fa231ad259.jpg",
    "archive_checked": "2026-10-30",
@@ -7335,17 +7336,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "nyc.streetsblog.org"
    ],
    "lang": "en",
-   "load_time": 0.25,
+   "load_time": 0.17,
    "https": true,
-   "words": 580,
+   "words": 527,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "WordPress",
     "Tailwind"
@@ -7367,17 +7368,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "discourse.imfreedom.org"
    ],
    "lang": "en",
-   "load_time": 0.41,
+   "load_time": 0.35,
    "https": true,
-   "words": 220,
+   "words": 188,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
@@ -7400,17 +7401,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "phorion.io"
    ],
    "lang": "en",
-   "load_time": 0.1,
+   "load_time": 0.13,
    "https": true,
-   "words": 918,
+   "words": 839,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "jQuery",
     "Tailwind",
@@ -7435,17 +7436,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "hinoki.security"
    ],
    "lang": "en",
-   "load_time": 0.43,
+   "load_time": 0.6,
    "https": true,
-   "words": 158,
+   "words": 125,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Next.js"
    ],
@@ -7467,17 +7468,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "pennmedicine.org"
    ],
    "lang": "en",
-   "load_time": 0.45,
+   "load_time": 0.96,
    "https": true,
-   "words": 321,
+   "words": 294,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Next.js"
    ],
@@ -7487,7 +7488,9 @@
    "confidence": 0.5,
    "tags": [],
    "fingerprint": "pennmedicineformorethantwocenturiespennmedicinehascaredforthepeopleofpennsylva",
-   "vibes": [],
+   "vibes": [
+    "minimal"
+   ],
    "screenshot_file": "b88110ae119808bfef70.jpg",
    "archive_checked": "2026-10-30"
   },
@@ -7497,17 +7500,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "desksprite.com"
    ],
    "lang": "en",
-   "load_time": 0.45,
+   "load_time": 0.34,
    "https": true,
-   "words": 1438,
+   "words": 1288,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
@@ -7526,11 +7529,11 @@
   {
    "url": "https://2tinteractive.com",
    "source": "hacker news",
-   "status": "ok",
+   "status": "warn",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
-   "fails": 0,
+   "checked": "2026-10-31",
+   "fails": 1,
    "aliases": [
     "2tinteractive.com"
    ],
@@ -7556,7 +7559,8 @@
     "minimal"
    ],
    "screenshot_file": "70636a06199cff2944df.jpg",
-   "archive_checked": "2026-10-30"
+   "archive_checked": "2026-10-30",
+   "robot_note": "too little content (2026-10-31)"
   },
   {
    "url": "https://paulbakker.io",
@@ -7564,7 +7568,7 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "paulbakker.io"
@@ -7572,9 +7576,9 @@
    "lang": "en",
    "load_time": 0.4,
    "https": true,
-   "words": 191,
+   "words": 156,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Astro"
    ],
@@ -7598,17 +7602,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "cuis.st"
    ],
    "lang": "en",
-   "load_time": 0.31,
+   "load_time": 0.28,
    "https": true,
-   "words": 321,
+   "words": 277,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Jekyll"
    ],
@@ -7618,7 +7622,9 @@
    "confidence": 0.79,
    "tags": [],
    "fingerprint": "cuissmalltalkcuisisafreesmalltalk80environmentwithaspecificsetofgoalsbeingsimp",
-   "vibes": [],
+   "vibes": [
+    "minimal"
+   ],
    "screenshot_file": "3b09ea03b7f11fd380fe.jpg",
    "archive_checked": "2026-10-30"
   },
@@ -7628,17 +7634,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "invoicingpro.org"
    ],
    "lang": "en",
-   "load_time": 0.89,
+   "load_time": 0.94,
    "https": true,
-   "words": 600,
+   "words": 525,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
@@ -7662,17 +7668,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "zyvop.com"
    ],
    "lang": "en",
-   "load_time": 0.18,
+   "load_time": 0.15,
    "https": true,
-   "words": 1850,
+   "words": 1592,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Next.js",
     "Tailwind"
@@ -7693,17 +7699,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "sigreturn.com"
    ],
    "lang": "en",
-   "load_time": 0.47,
+   "load_time": 0.59,
    "https": true,
-   "words": 308,
+   "words": 252,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
@@ -7717,7 +7723,8 @@
    "fingerprint": "sigreturnlabsindependentcybersecuritycompanyinparisdigitalforensicsmalwarereversee",
    "vibes": [
     "nerdy",
-    "handmade"
+    "handmade",
+    "minimal"
    ],
    "screenshot_file": "e50a1429a8a6e6343a92.jpg",
    "archive_checked": "2026-10-30"
@@ -7728,17 +7735,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "nestenius.se"
    ],
    "lang": "en",
-   "load_time": 0.29,
+   "load_time": 0.18,
    "https": true,
-   "words": 704,
+   "words": 592,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Astro"
    ],
@@ -7758,17 +7765,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "medicine.washu.edu"
    ],
    "lang": "en",
-   "load_time": 0.21,
+   "load_time": 0.5,
    "https": true,
-   "words": 396,
+   "words": 326,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "WordPress",
     "jQuery"
@@ -7793,17 +7800,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "noworklabs.com"
    ],
    "lang": "en",
-   "load_time": 0.26,
+   "load_time": 0.38,
    "https": true,
-   "words": 1086,
+   "words": 973,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
@@ -7826,17 +7833,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "victoriametrics.com"
    ],
    "lang": "en",
-   "load_time": 0.17,
+   "load_time": 0.41,
    "https": true,
-   "words": 1001,
+   "words": 676,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
@@ -7860,17 +7867,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "waymo.com"
    ],
    "lang": "en",
-   "load_time": 0.41,
+   "load_time": 0.75,
    "https": true,
-   "words": 1097,
+   "words": 1025,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
@@ -7892,17 +7899,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "mail-archive.com"
    ],
    "lang": "en",
-   "load_time": 0.14,
+   "load_time": 4.42,
    "https": true,
-   "words": 85,
+   "words": 76,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
@@ -7925,24 +7932,24 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "euronews.com"
    ],
    "lang": "en",
-   "load_time": 0.48,
+   "load_time": 0.49,
    "https": true,
-   "words": 1540,
+   "words": 1313,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
    "title": "euronews",
    "description": "Latest breaking news available as free video on demand. Stay informed on European and world news about economy, politics, diplomacy… with Euronews.",
    "category": "News",
-   "confidence": 0.95,
+   "confidence": 1.0,
    "tags": [],
    "fingerprint": "euronewslatestbreakingnewsavailableasfreevideoondemandstayinformedoneuropea",
    "vibes": [
@@ -7957,17 +7964,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "nbcnews.com"
    ],
    "lang": "en",
-   "load_time": 0.95,
+   "load_time": 1.23,
    "https": true,
-   "words": 2723,
+   "words": 2546,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Next.js"
    ],
@@ -7990,17 +7997,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "akos.ma"
    ],
    "lang": "en",
-   "load_time": 0.63,
+   "load_time": 0.84,
    "https": true,
-   "words": 509,
+   "words": 460,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
@@ -8025,17 +8032,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "blog.apify.com"
    ],
    "lang": "en",
-   "load_time": 0.07,
+   "load_time": 0.24,
    "https": true,
-   "words": 383,
+   "words": 342,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Ghost",
     "Bootstrap"
@@ -8043,7 +8050,7 @@
    "title": "Apify Blog",
    "description": "Learn how to use Apify Actors to get real-time web data, generate leads, monitor social media, and integrate your apps and agents.",
    "category": "Education",
-   "confidence": 0.56,
+   "confidence": 0.63,
    "tags": [
     "Tools"
    ],
@@ -8061,28 +8068,29 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "theainewsreport.com"
    ],
    "lang": "en",
-   "load_time": 0.27,
+   "load_time": 0.39,
    "https": true,
-   "words": 1834,
+   "words": 1529,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
    "title": "AI News Report",
-   "description": "Claude Code sends each background agent's whole transcript to its model about every 30 seconds, usually Opus, only to write a 3 to 5 word status line in the agents panel.",
+   "description": "A tampered build of Anthropic's Claude Code extension, version 2.1.313, sat in Cursor's extension marketplace for about 11 hours on October 29 and reached at most 5,000 users; Cursor says Anthropic…",
    "category": "News",
    "confidence": 0.56,
    "tags": [
-    "Technology"
+    "Technology",
+    "Developer"
    ],
-   "fingerprint": "ainewsreportclaudecodesendseachbackgroundagentswholetranscripttoitsmodelaboutev",
+   "fingerprint": "ainewsreportatamperedbuildofanthropicsclaudecodeextensionversion21313satinc",
    "vibes": [
     "handmade"
    ],
@@ -8096,17 +8104,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "cursor.com"
    ],
    "lang": "en",
-   "load_time": 0.39,
+   "load_time": 0.45,
    "https": true,
-   "words": 2299,
+   "words": 1998,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Next.js",
     "Tailwind"
@@ -8118,7 +8126,8 @@
    "tags": [],
    "fingerprint": "cursorbuilttomakeyouextraordinarilyproductiveagentsturnideasintocodeaccel",
    "vibes": [
-    "playful"
+    "playful",
+    "retro"
    ],
    "screenshot_file": "d8864b187c866fa6c67e.jpg",
    "archive_checked": "2026-10-31",
@@ -8127,11 +8136,11 @@
   {
    "url": "https://institute.deepmind.com",
    "source": "hacker news",
-   "status": "ok",
+   "status": "warn",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
-   "fails": 0,
+   "checked": "2026-10-31",
+   "fails": 1,
    "aliases": [
     "institute.deepmind.com"
    ],
@@ -8156,7 +8165,8 @@
    ],
    "screenshot_file": "b3dfc40d16309a438fee.jpg",
    "archive_checked": "2026-10-31",
-   "first_seen": 2026
+   "first_seen": 2026,
+   "robot_note": "too little content (2026-10-31)"
   },
   {
    "url": "https://yedhu.me",
@@ -8164,17 +8174,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "yedhu.me"
    ],
    "lang": "en",
-   "load_time": 0.19,
+   "load_time": 0.39,
    "https": true,
-   "words": 200,
+   "words": 117,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Jekyll"
    ],
@@ -8199,17 +8209,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "trezor.io"
    ],
    "lang": "en",
-   "load_time": 0.31,
+   "load_time": 0.55,
    "https": true,
-   "words": 1196,
+   "words": 1140,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Next.js",
     "Tailwind"
@@ -8231,17 +8241,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "paradedb.com"
    ],
    "lang": "en",
-   "load_time": 0.47,
+   "load_time": 0.42,
    "https": true,
-   "words": 725,
+   "words": 655,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Next.js",
     "Tailwind"
@@ -8265,17 +8275,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "oqtadrive.org"
    ],
    "lang": "en",
-   "load_time": 0.43,
+   "load_time": 0.73,
    "https": true,
-   "words": 92,
+   "words": 85,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Jekyll"
    ],
@@ -8298,17 +8308,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "nchagnet.eu"
    ],
    "lang": "en",
-   "load_time": 0.79,
+   "load_time": 1.01,
    "https": true,
-   "words": 570,
+   "words": 521,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
@@ -8333,17 +8343,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "getgreenpos.vercel.app"
    ],
    "lang": "en",
-   "load_time": 0.36,
+   "load_time": 1.06,
    "https": true,
-   "words": 834,
+   "words": 756,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Next.js",
     "Tailwind"
@@ -8367,18 +8377,18 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "marutpandya.com",
     "pandyamarut.github.io"
    ],
    "lang": "en",
-   "load_time": 0.34,
+   "load_time": 0.54,
    "https": true,
-   "words": 242,
+   "words": 216,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
@@ -8403,17 +8413,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "seriot.ch"
    ],
    "lang": "?",
-   "load_time": 0.77,
+   "load_time": 0.71,
    "https": true,
-   "words": 275,
+   "words": 223,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded",
     "No JavaScript"
@@ -8426,7 +8436,8 @@
    "fingerprint": "nicolasseriotimasoftwaresecurityengineerandthisismypersonalwebsiteilovehuntin",
    "vibes": [
     "handmade",
-    "minimal"
+    "minimal",
+    "retro"
    ],
    "screenshot_file": "6d1575cfaab98279fef4.jpg",
    "archive_checked": "2026-10-31",
@@ -8438,17 +8449,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "tiberava.online"
    ],
    "lang": "es",
-   "load_time": 0.24,
+   "load_time": 0.31,
    "https": true,
-   "words": 105,
+   "words": 68,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
@@ -8472,17 +8483,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "githubnext.com"
    ],
    "lang": "en",
-   "load_time": 0.16,
+   "load_time": 0.3,
    "https": true,
-   "words": 348,
+   "words": 322,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Astro",
     "Tailwind"
@@ -8507,17 +8518,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "blog.adafruit.com"
    ],
    "lang": "en",
-   "load_time": 0.58,
+   "load_time": 0.67,
    "https": true,
-   "words": 746,
+   "words": 501,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "WordPress",
     "jQuery",
@@ -8544,29 +8555,29 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "thenationalnews.com"
    ],
    "lang": "en",
-   "load_time": 0.3,
+   "load_time": 0.66,
    "https": true,
-   "words": 747,
+   "words": 510,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
    "title": "The National",
    "description": "The latest international news, headlines and events from around the world",
    "category": "News",
-   "confidence": 1.0,
+   "confidence": 0.86,
    "tags": [],
    "fingerprint": "thenationalthelatestinternationalnewsheadlinesandeventsfromaroundtheworld",
    "vibes": [
-    "nerdy",
-    "handmade"
+    "handmade",
+    "retro"
    ],
    "screenshot_file": "a9523cb39a0175992db0.jpg",
    "archive_checked": "2026-10-31",
@@ -8578,17 +8589,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "arstechnica.com"
    ],
    "lang": "en",
-   "load_time": 0.3,
+   "load_time": 0.1,
    "https": true,
-   "words": 1303,
+   "words": 1086,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "WordPress",
     "jQuery",
@@ -8597,10 +8608,15 @@
    "title": "Ars Technica",
    "description": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\"",
    "category": "Science",
-   "confidence": 0.75,
-   "tags": [],
+   "confidence": 0.64,
+   "tags": [
+    "Business"
+   ],
    "fingerprint": "arstechnicanasadesperatelyneedsspacexandspacexknowsitandelonknowsit",
-   "vibes": [],
+   "vibes": [
+    "nerdy",
+    "retro"
+   ],
    "screenshot_file": "e620c1e06ff8915c3ea9.jpg",
    "archive_checked": "2026-10-31",
    "first_seen": 1999
@@ -8611,17 +8627,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "toji.dev"
    ],
    "lang": "en",
-   "load_time": 0.1,
+   "load_time": 0.37,
    "https": true,
-   "words": 373,
+   "words": 336,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Jekyll"
    ],
@@ -8642,17 +8658,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "fastmail.help"
    ],
    "lang": "en",
-   "load_time": 1.0,
+   "load_time": 1.52,
    "https": true,
-   "words": 304,
+   "words": 212,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
@@ -8665,7 +8681,8 @@
    ],
    "fingerprint": "fastmailtoolsformanagingyourfastmailaccountwhetheryouhaveoneuserormany",
    "vibes": [
-    "handmade"
+    "handmade",
+    "minimal"
    ],
    "screenshot_file": "7109f6c237422cf8323f.jpg",
    "archive_checked": "2026-10-31"
@@ -8676,17 +8693,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "fastmailstatus.com"
    ],
    "lang": "en",
-   "load_time": 0.31,
+   "load_time": 0.25,
    "https": true,
-   "words": 113,
+   "words": 86,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Next.js",
     "Tailwind"
@@ -8710,17 +8727,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "app.fastmail.com"
    ],
    "lang": "?",
-   "load_time": 0.13,
+   "load_time": 0.17,
    "https": true,
-   "words": 80,
+   "words": 73,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Bootstrap",
     "Hand-coded"
@@ -8742,11 +8759,11 @@
   {
    "url": "https://cisoservices.no",
    "source": "link from binarysecurity.no",
-   "status": "ok",
+   "status": "warn",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
-   "fails": 0,
+   "checked": "2026-10-31",
+   "fails": 1,
    "aliases": [
     "cisoservices.no"
    ],
@@ -8769,7 +8786,8 @@
     "minimal"
    ],
    "screenshot_file": "6a9db87f21f4556992b7.jpg",
-   "archive_checked": "2026-10-31"
+   "archive_checked": "2026-10-31",
+   "robot_note": "too little content (2026-10-31)"
   },
   {
    "url": "https://tagore.no",
@@ -8777,17 +8795,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "tagore.no"
    ],
    "lang": "en",
-   "load_time": 0.48,
+   "load_time": 0.67,
    "https": true,
-   "words": 263,
+   "words": 235,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Wix"
    ],
@@ -8811,17 +8829,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "marketplace.china-crunch.com"
    ],
    "lang": "en",
-   "load_time": 0.67,
+   "load_time": 0.75,
    "https": true,
-   "words": 829,
+   "words": 634,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Shopify",
     "Bootstrap"
@@ -8842,17 +8860,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "data.carnewschina.com"
    ],
    "lang": "en",
-   "load_time": 0.75,
+   "load_time": 0.89,
    "https": true,
-   "words": 636,
+   "words": 476,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
@@ -8874,7 +8892,7 @@
   {
    "url": "https://sadgrl.online",
    "lang": "en",
-   "load_time": 0.08,
+   "load_time": 0.05,
    "https": true,
    "words": 198,
    "embed": true,
@@ -8891,9 +8909,9 @@
    "status": "ok",
    "review": "verified",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "title": "Sadgrl Online",
    "description": "A beloved handmade corner of the web by Sadgrl: layout editors, web revival guides, writing and links for building your own personal site.",
    "category": "Retro",
@@ -8911,7 +8929,7 @@
   {
    "url": "https://maya.land",
    "lang": "en",
-   "load_time": 0.78,
+   "load_time": 0.73,
    "https": true,
    "words": 103,
    "embed": true,
@@ -8928,9 +8946,9 @@
    "status": "ok",
    "review": "verified",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "title": "maya.land",
    "description": "The personal web home of Maya, an enthusiasm enthusiast: essays and notes on astrology, culture, books and whatever catches her eye.",
    "category": "Personal",
@@ -8950,17 +8968,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "cir.org"
    ],
    "lang": "?",
-   "load_time": 0.42,
+   "load_time": 0.4,
    "https": true,
    "words": 285,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "WordPress"
    ],
@@ -8982,17 +9000,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "doi.org"
    ],
    "lang": "en",
-   "load_time": 0.28,
+   "load_time": 0.24,
    "https": true,
    "words": 427,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hugo",
     "jQuery",
@@ -9016,17 +9034,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "discourse.org"
    ],
    "lang": "en",
-   "load_time": 0.24,
+   "load_time": 0.26,
    "https": true,
    "words": 1027,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Jekyll"
    ],
@@ -9046,17 +9064,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "noisemeter.co"
    ],
    "lang": "en",
-   "load_time": 0.18,
+   "load_time": 0.16,
    "https": true,
    "words": 540,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
@@ -9080,17 +9098,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "serverpilot.io"
    ],
    "lang": "en",
-   "load_time": 0.27,
+   "load_time": 0.51,
    "https": true,
    "words": 298,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Tailwind",
     "Hand-coded"
@@ -9115,28 +9133,27 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "twelve.tools"
    ],
    "lang": "en",
-   "load_time": 1.15,
+   "load_time": 0.58,
    "https": true,
-   "words": 394,
+   "words": 350,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
    "title": "Twelve new tools a day",
    "description": "The 12 best tools on the internet, served every day.",
    "category": "Tools",
-   "confidence": 0.89,
+   "confidence": 0.91,
    "tags": [],
    "fingerprint": "twelvenewtoolsadaythe12besttoolsontheinternetservedeveryday",
    "vibes": [
-    "playful",
     "handmade"
    ],
    "screenshot_file": "6ee0ee454f6b0a818495.jpg",
@@ -9148,17 +9165,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "research.google"
    ],
    "lang": "en",
-   "load_time": 0.25,
+   "load_time": 0.11,
    "https": true,
    "words": 751,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
@@ -9181,17 +9198,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "nktg.org"
    ],
    "lang": "en",
-   "load_time": 1.48,
+   "load_time": 1.68,
    "https": true,
    "words": 3006,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Hand-coded"
    ],
@@ -9214,17 +9231,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "jola.dev"
    ],
    "lang": "en",
-   "load_time": 0.13,
+   "load_time": 0.28,
    "https": true,
    "words": 137,
    "embed": false,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "Tailwind",
     "Hand-coded"
@@ -9248,17 +9265,17 @@
    "status": "ok",
    "review": "unreviewed",
    "added": "2026-10-30",
-   "checked": "2026-10-30",
+   "checked": "2026-10-31",
    "fails": 0,
    "aliases": [
     "rjb7731.github.io"
    ],
    "lang": "en",
-   "load_time": 0.7,
+   "load_time": 0.16,
    "https": true,
    "words": 102,
    "embed": true,
-   "safety_checked": "2026-10-30",
+   "safety_checked": "2026-10-31",
    "tech": [
     "jQuery",
     "Bootstrap",
@@ -9412,7 +9429,9 @@
     "nerdy",
     "deep read"
    ],
-   "screenshot_file": "bd2f067ee8f8fec2cd84.jpg"
+   "screenshot_file": "bd2f067ee8f8fec2cd84.jpg",
+   "archive_checked": "2026-10-31",
+   "first_seen": 2002
   },
   {
    "url": "https://smartcontractauditor.ai",
@@ -9446,7 +9465,150 @@
    "vibes": [
     "handmade"
    ],
-   "screenshot_file": "5be139ab4506961600a0.jpg"
+   "screenshot_file": "5be139ab4506961600a0.jpg",
+   "archive_checked": "2026-10-31",
+   "first_seen": 2025
+  },
+  {
+   "url": "https://opensource.google",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "opensource.google"
+   ],
+   "lang": "en",
+   "load_time": 0.39,
+   "https": true,
+   "words": 229,
+   "embed": false,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Google Open Source",
+   "description": "We bring all the value of open source to Google and all the resources of Google to open source.",
+   "category": "Developer",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "googleopensourcewebringallthevalueofopensourcetogoogleandalltheresourcesofgoogle",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2019,
+   "screenshot_file": "21c818b1e1e472daa2f5.jpg"
+  },
+  {
+   "url": "https://computer.rip",
+   "source": "lobsters",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "computer.rip"
+   ],
+   "lang": "?",
+   "load_time": 0.4,
+   "https": true,
+   "words": 1850,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "title": "Computers Are Bad",
+   "description": "Computers Are Bad is a newsletter on the history of the computer and communications industry (and sometimes something else).",
+   "category": "Personal",
+   "confidence": 0.62,
+   "tags": [
+    "Technology"
+   ],
+   "fingerprint": "computersarebadcomputersarebadisanewsletteronthehistoryofthecomputerandcommunicati",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2020,
+   "screenshot_file": "ff8af27b613454ddae89.jpg"
+  },
+  {
+   "url": "https://codeberg.org",
+   "source": "link from lumi.codeberg.page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "codeberg.org"
+   ],
+   "lang": "en",
+   "load_time": 0.5,
+   "https": true,
+   "words": 220,
+   "embed": false,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "Software development, but free!",
+   "description": "Codeberg is a non-profit community-led organization that aims to help free and open source projects prosper by giving them a safe and friendly home.",
+   "category": "Developer",
+   "confidence": 0.6,
+   "tags": [
+    "Communities"
+   ],
+   "fingerprint": "softwaredevelopmentbutfreecodebergisanonprofitcommunityledorganizationthataimstohelpfreeando",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2017,
+   "screenshot_file": "314da8e62950689fb86d.jpg"
+  },
+  {
+   "url": "https://ublockorigin.com",
+   "source": "link from lumi.codeberg.page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "ublockorigin.com"
+   ],
+   "lang": "en",
+   "load_time": 0.14,
+   "https": true,
+   "words": 1456,
+   "embed": false,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Hand-coded"
+   ],
+   "title": "ublockorigin.com | Unofficial website",
+   "description": "Block ads, trackers, pop-ups, and page clutter with uBlock Origin, a free ad blocker. Compare uBlock Origin Lite, browser support, filters, and permissions.",
+   "category": "Tools",
+   "confidence": 0.67,
+   "tags": [
+    "Developer"
+   ],
+   "fingerprint": "ublockorigincomunofficialwebsiteblockadstrackerspopupsandpageclutterwithublockoriginafreeadblo",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2016,
+   "screenshot_file": "772908dad87eb67b945b.jpg"
   }
  ]
 }
