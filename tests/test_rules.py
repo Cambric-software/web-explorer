@@ -196,7 +196,7 @@ class Sourcing(unittest.TestCase):
         pages = crawl.link_pages(r)
         self.assertIn("https://me.net/blogroll", pages); self.assertNotIn("https://me.net/shop", pages)
     def test_run_cap_is_small(self):
-        self.assertTrue(3 <= crawl.MAX_NEW <= 5)
+        self.assertTrue(30 <= crawl.MAX_NEW <= 50)
 
 import votes
 class HallOfFame(unittest.TestCase):
@@ -209,5 +209,17 @@ class HallOfFame(unittest.TestCase):
         self.assertEqual((score["https://a.com"]["score"], voters), (6, 2))
     def test_made_up_vote_values_ignored(self):
         self.assertEqual(votes.parse("+100 https://a.com"), {})
+
+
+class PlayfulSites(unittest.TestCase):
+    def test_canvas_game_with_little_text_passes(self):
+        h = "<html><head><title>Tiny Space Game</title></head><body><h1>Tiny Space Game</h1><p>Click to play. Dodge the rocks and beat your high score.</p><canvas id=c></canvas><script>c.getContext('2d')</script></body></html>"
+        self.assertEqual(crawl.junk_reason(page(h), h), "")
+    def test_short_text_without_play_still_rejected(self):
+        h = "<html><head><title>Notes</title></head><body><h1>Notes</h1><p>Some short notes about my week and things here.</p></body></html>"
+        self.assertIn(crawl.junk_reason(page(h), h), ("too few words", "empty javascript shell"))
+    def test_play_category_never_random(self):
+        self.assertIn(crawl.play_category("Bloop", "A little sound toy", [], "", "bloop.neocities.org")[0], crawl.PLAY_CATS)
+        self.assertEqual(crawl.play_category("Maze Runner", "Play a maze", [], "", "x.com")[0], "Games")
 
 if __name__ == "__main__": unittest.main()

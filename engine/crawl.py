@@ -38,7 +38,13 @@ PARKED = ["domain for sale","buy this domain","this domain is for sale","domain 
           "hugedomains","dan.com","afternic","godaddy.com/domains"]
 BLOCKED = ["just a moment","attention required","access denied","verify you are human","enable javascript and cookies",
            "403 forbidden","404 not found","page not found","site not found","error 404","bad gateway","forbidden"]
-MAX_NEW = 5            # newly accepted websites per run (quality over quantity)
+MAX_NEW = 35           # newly accepted websites per run (fast growth, every one still passes the quality gates)
+PLAY_MIN_WORDS = 12    # games, toys and interactive art need only a little text
+PLAY_CATS = ("Games", "Art", "Retro")
+PLAY_HTML = re.compile(r"<canvas|webgl|getcontext\(|three(\.min)?\.js|p5(\.min)?\.js|phaser|pixi(\.min)?\.js|kaboom|matter(\.min)?\.js|"
+                       r"tone(\.min)?\.js|howler|<audio|webaudio|audiocontext|unity(loader|\.loader)|godot|\.wasm|ruffle|<svg[^>]+viewbox", re.I)
+PLAY_WORDS = re.compile(r"(?<![a-z])(game|games|play|toy|toys|puzzle|interactive|draw|paint|synth|sound toy|generator|simulator|"
+                        r"sandbox|arcade|experiment|experiments|click|maze|pixel|retro|8-bit|ascii|webring|guestbook|shrine|neocities)(?![a-z])", re.I)
 MIN_WORDS = 100        # visible meaningful words a new website needs (small handmade home pages count)
 MAX_LINK_RATIO = 0.50  # share of visible text that may be link text to other websites
 # Creator / profile / support links never count toward the link-farm ratio
@@ -319,6 +325,14 @@ def link_ratio(p, h=""):
               and not any(f in a.lower() for f in FRIENDLY_LINKS))
     return out / max(1, len(p.words))
 
+def playful(p, html, title="", h=""):
+    """A game, web toy or interactive art piece: real play happens in a canvas / audio / script, not in text."""
+    text = " ".join([clean(p.title), title, p.meta.get("description", ""), p.meta.get("og:description", "")] + p.heads[:10] + p.words[:120])
+    word_hits = len(PLAY_WORDS.findall(text))
+    tech = bool(PLAY_HTML.search((html or "")[:400_000]))
+    retro_host = bool(re.search(r"(neocities\.org|nekoweb\.org)$", h or ""))
+    return (tech and word_hits >= 1) or (retro_host and word_hits >= 2)
+
 def junk_reason(p, html, title="", h=""):
     """Why a page is a dead end / junk, or "" when it looks like a real human website."""
     low_html = (html or "")[:300_000].lower()
@@ -333,12 +347,31 @@ def junk_reason(p, html, title="", h=""):
     desc = " ".join([p.meta.get("description", ""), p.meta.get("og:description", "")]).lower()
     if any(w in first or w in desc for w in COOKIE): return "cookie wall"
     if any(w in first or w in ptitle for w in LOGIN) or (p.passwords and len(p.words) < 400): return "login gate"
+    play = playful(p, html, title, h)
+    if play:
+        if len(p.words) < PLAY_MIN_WORDS: return "too few words"
+        if link_ratio(p, h) > MAX_LINK_RATIO: return "link farm"
+        return ""
     if p.content_chars < MIN_CONTENT_CHARS and (len(p.words) < 40 or re.search(r'<div[^>]+id=["\']?(app|root|__next|__nuxt|svelte)["\' >]', low_html)):
         return "empty javascript shell"
     if len(p.words) < MIN_WORDS: return "too few words"
     if p.content_chars < MIN_CONTENT_CHARS: return "empty javascript shell"
     if link_ratio(p, h) > MAX_LINK_RATIO: return "link farm"
     return ""
+
+def play_category(title, desc, heads, body, h):
+    """Category for a game / toy / interactive art site: always Games, Art or Retro."""
+    cat, conf, tags, score = _categorize(title, desc, heads, body, h)
+    if cat in PLAY_CATS and score >= 3: return cat, max(conf, 0.6), tags
+    t = " ".join([title, desc] + list(heads)).lower() + " " + h
+    if re.search(r"game|play|puzzle|arcade|maze|level|score", t): return "Games", 0.6, tags
+    if re.search(r"retro|90s|8-bit|ascii|geocities|webring|guestbook|shrine|neocities|nekoweb", t): return "Retro", 0.6, tags
+    return "Art", 0.6, tags
+
+def play_description(d):
+    """Interactive sites often have short blurbs: a real capitalised sentence of 4+ words is enough."""
+    d = (d or "").strip()
+    return len(d) >= 20 and d[0].isupper() and len(d.split()) >= 4 and not SELF_REF.search(d) and not any(w in d.lower() for w in COOKIE + LOGIN + TEMPLATE)
 
 def strict_category(title, desc, heads, body, h):
     """(category, confidence, tags) only when one category clearly wins, else None. Never "Random"."""
@@ -494,10 +527,12 @@ def verify(url, strict=True):
         if lazy_title(page_title(p, h), h): return None, "lazy title"
     elif len(p.words) < 40: return None, "too little content"
     desc = best_description(p, title)
-    if strict and not good_description(desc): return None, "weak description"
+    play = strict and playful(p, html, title, h)
+    if strict and not (good_description(desc) or (play and play_description(desc))): return None, "weak description"
     body = " ".join(p.heads + p.paras)
     if strict:
         sc = strict_category(title, desc, p.heads, body, h)
+        if play and (not sc or sc[0] not in PLAY_CATS): sc = play_category(title, desc, p.heads, body, h)
         if not sc: return None, "unsure category"
         cat, conf, tags = sc
     else: cat, conf, tags = categorize(title, desc, p.heads, body, h)
@@ -531,12 +566,26 @@ def sources(known):
         if n and allowed(n) and key(n) not in known and key(n) not in found: found[key(n)] = (n, src)
     for q in ["show_hn", "front_page", "story"]:
         try:
-            b = get(f"https://hn.algolia.com/api/v1/search_by_date?tags={q}&hitsPerPage=100", limit=3_000_000)[2]
+            b = get(f"https://hn.algolia.com/api/v1/search_by_date?tags={q}&hitsPerPage=30", limit=3_000_000)[2]
             for x in json.loads(b)["hits"]: add(x.get("url"), "hacker news")
         except Exception as e: print("hn", e)
     try:
         for x in json.loads(get("https://lobste.rs/newest.json", limit=3_000_000)[2]): add(x.get("url"), "lobsters")
     except Exception as e: print("lobsters", e)
+    # Fun indie web: Neocities, Nekoweb, tilde towns, Marginalia random, ooh.directory
+    for url, pat, src in [
+        ("https://neocities.org/browse?sort_by=random", r'href="(https?://[a-z0-9-]+\.neocities\.org)/?"', "neocities"),
+        ("https://neocities.org/browse?sort_by=last_updated", r'href="(https?://[a-z0-9-]+\.neocities\.org)/?"', "neocities"),
+        ("https://nekoweb.org/explore?sort=lastupd", r'href="(https?://[a-z0-9-]+\.nekoweb\.org)/?"', "nekoweb"),
+        ("https://nekoweb.org/explore?sort=followers", r'href="(https?://[a-z0-9-]+\.nekoweb\.org)/?"', "nekoweb"),
+        ("https://tildeverse.org/members/", r'href="(https?://[^"\s]+)"', "tildeverse"),
+        ("https://search.marginalia.nu/explore/random", r'href="(https?://[^"\s]+)"', "marginalia"),
+        ("https://ooh.directory/random/", r'href="(https?://[^"\s]+)"', "ooh.directory"),
+    ]:
+        try:
+            b = get(url, limit=2_000_000)[2]
+            for u in re.findall(pat, b)[:60]: add(u, src)
+        except Exception as e: print(src, e)
     for _ in range(20):  # Wiby's "surprise me" redirects to a random small-web site
         try: add(get("https://wiby.me/surprise/", timeout=6, limit=2000)[1], "wiby")
         except Exception: pass
@@ -634,7 +683,7 @@ def main():
     known = {key(s["url"]) for s in sites} | {a for s in sites for a in s.get("aliases", [])}
     fps = {s.get("fingerprint") for s in sites if s.get("fingerprint")}
     beta = days_since(db.get("beta_start", TODAY)) < 10
-    limit = 100 if beta else 60
+    limit = 180 if beta else 140
     found = sources(known); log["sources"] = {}
     for _, src in found.values(): log["sources"][src] = log["sources"].get(src, 0) + 1
     cand = list(found.values()); random.shuffle(cand)
