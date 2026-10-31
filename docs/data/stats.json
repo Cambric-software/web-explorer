@@ -1,22 +1,24 @@
 {
- "total": 34,
+ "total": 55,
  "dead": 0,
  "flagged": 0,
- "runs": 25,
- "last_run": "2026-10-31T13:41:35Z",
+ "runs": 26,
+ "last_run": "2026-10-31T18:37:11Z",
  "found_last_run": 21,
  "beta": true,
  "categories": {
-  "Retro": 9,
-  "Personal": 7,
-  "Developer": 4,
+  "Retro": 20,
+  "Personal": 8,
+  "Developer": 5,
   "Tools": 2,
   "Communities": 2,
-  "Games": 1,
-  "Art": 6,
+  "Games": 3,
+  "Art": 10,
   "Writing": 1,
   "Science": 1,
-  "Business": 1
+  "Business": 1,
+  "Technology": 1,
+  "News": 1
  },
  "bot_version": 4,
  "history": [
@@ -144,9 +146,50 @@
    "date": "2026-10-31",
    "added": 21,
    "total": 34
+  },
+  {
+   "date": "2026-10-31",
+   "added": 21,
+   "total": 55
   }
  ],
  "runs_log": [
+  {
+   "started": "2026-10-31T18:37:11Z",
+   "rejected": {
+    "duplicate": 2,
+    "starter template": 2,
+    "empty javascript shell": 50,
+    "weak description": 9,
+    "lazy title": 37,
+    "parked": 3,
+    "too few words": 20,
+    "unreachable": 12,
+    "unsure category": 16,
+    "login gate": 2,
+    "cookie wall": 1,
+    "bot challenge": 5
+   },
+   "duplicates_removed": 0,
+   "sources": {
+    "hacker news": 59,
+    "lobsters": 16,
+    "neocities": 57,
+    "nekoweb": 1,
+    "tildeverse": 18,
+    "marginalia": 28,
+    "ooh.directory": 4
+   },
+   "candidates": 180,
+   "deep_links": 218,
+   "added": 21,
+   "rechecked": 5,
+   "stale_rechecked": 0,
+   "newly_dead": 0,
+   "flagged": 0,
+   "malware_list": 0,
+   "archive_years": 20
+  },
   {
    "started": "2026-10-31T13:41:35Z",
    "rejected": {
