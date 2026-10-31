@@ -31,7 +31,7 @@
    "confidence": 1,
    "screenshot_file": "422bd99679642e7bf284.jpg",
    "lang": "en",
-   "load_time": 0.05,
+   "load_time": 0.06,
    "safety_checked": "2026-10-31",
    "archive_checked": "2026-10-31",
    "first_seen": 2021
@@ -65,7 +65,7 @@
    "confidence": 1,
    "screenshot_file": "b8f07a5dcc3321c1d7dd.jpg",
    "lang": "en",
-   "load_time": 0.45,
+   "load_time": 0.25,
    "safety_checked": "2026-10-31",
    "archive_checked": "2026-10-31",
    "first_seen": 2018
@@ -98,7 +98,7 @@
    "confidence": 1,
    "screenshot_file": "6eeec2fb5a99ab769257.jpg",
    "lang": "?",
-   "load_time": 0.06,
+   "load_time": 0.07,
    "safety_checked": "2026-10-31",
    "archive_checked": "2026-10-31"
   },
@@ -131,7 +131,7 @@
    "confidence": 1,
    "screenshot_file": "6cc525c9f6cb42c76f71.jpg",
    "lang": "en",
-   "load_time": 0.23,
+   "load_time": 0.09,
    "safety_checked": "2026-10-31",
    "archive_checked": "2026-10-31",
    "first_seen": 2024
@@ -146,7 +146,7 @@
    "review": "verified",
    "added": "2026-10-29",
    "checked": "2026-10-31",
-   "fails": 2,
+   "fails": 3,
    "https": true,
    "words": 40,
    "embed": false,
@@ -1862,6 +1862,1010 @@
    ],
    "archive_checked": "2026-10-31",
    "screenshot_file": "207cf4fe02312a03a169.jpg"
+  },
+  {
+   "url": "https://rimoncik.neocities.org",
+   "source": "link from hisahito.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "rimoncik.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.05,
+   "https": true,
+   "words": 66,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "SCROLL DOWN!",
+   "description": "Mature content will be labeled throught the site for convenience",
+   "category": "Retro",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "scrolldownmaturecontentwillbelabeledthroughtthesiteforconvenience",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2026,
+   "screenshot_file": "c29cad0e73f7dce12337.jpg"
+  },
+  {
+   "url": "https://baggebo-the-goober.neocities.org",
+   "source": "link from notyetknowspace.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "baggebo-the-goober.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.08,
+   "https": true,
+   "words": 39,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "guh",
+   "description": "This website doesn't work well on a phone. go get a laptop or somethingother stuff will have warnings where needed.",
+   "category": "Retro",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "guhthiswebsitedoesntworkwellonaphonegogetalaptoporsomethingotherstu",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2024,
+   "screenshot_file": "f1222c6fe2cb55563403.jpg"
+  },
+  {
+   "url": "https://nixiebunnie.neocities.org",
+   "source": "link from notyetknowspace.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "nixiebunnie.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.07,
+   "https": true,
+   "words": 162,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "nixiebunnie's home",
+   "description": "Hey! Before you enter this site, please take a moment to read this! I don't censor myself on this site, so there's language and potentially triggering themes.",
+   "category": "Retro",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "nixiebunnieshomeheybeforeyouenterthissitepleasetakeamomenttoreadthisidontcens",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2026,
+   "screenshot_file": "6d9a97122e10f9661e0e.jpg"
+  },
+  {
+   "url": "https://foxyy.neocities.org",
+   "source": "link from hisahito.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "foxyy.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.1,
+   "https": true,
+   "words": 984,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "jQuery",
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "📍Foxy valley",
+   "description": "Greetings, esteemed recipient of this message. I humbly present to you my sincere salutations, with the utmost respect and admiration for your being.",
+   "category": "Retro",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "foxyvalleygreetingsesteemedrecipientofthismessageihumblypresenttoyoumysincer",
+   "vibes": [
+    "handmade",
+    "retro"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2026,
+   "screenshot_file": "0df448d1f642af15dbdf.jpg"
+  },
+  {
+   "url": "https://figurea.neocities.org",
+   "source": "link from jaiden2013.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "figurea.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.06,
+   "https": true,
+   "words": 189,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "Where would you like to go today?",
+   "description": "Greetings, internet traveler! Looks like you've happened to come across this chunk of data I call my (sub)domain. Do come along further (if you wish)!",
+   "category": "Retro",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "wherewouldyouliketogotodaygreetingsinternettravelerlookslikeyouvehappenedtocomeacrossthischu",
+   "vibes": [
+    "nerdy",
+    "handmade",
+    "minimal",
+    "retro"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2026,
+   "screenshot_file": "f343eb21c8426a83288c.jpg"
+  },
+  {
+   "url": "https://ohnkata.neocities.org",
+   "source": "link from jaiden2013.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "ohnkata.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.17,
+   "https": true,
+   "words": 72484,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "title": "great words from the magic man",
+   "description": "Digiorno. did i say it right? maybe i did maybe i didnt, whats up with you, yo.",
+   "category": "Retro",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "greatwordsfromthemagicmandigiornodidisayitrightmaybeididmaybeididntwhatsupwithyouyo",
+   "vibes": [
+    "deep read"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2025,
+   "screenshot_file": "e5548e0b266c9b06561a.jpg"
+  },
+  {
+   "url": "https://tabi98.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "tabi98.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.1,
+   "https": true,
+   "words": 52,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "My Little Corner of the Internet",
+   "description": "So this is the first page I've coded in probably 20 years.",
+   "category": "Retro",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "mylittlecorneroftheinternetsothisisthefirstpageivecodedinprobably20years",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2021,
+   "screenshot_file": "4de1dde25178293b0c6f.jpg"
+  },
+  {
+   "url": "https://var1ac4t.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "var1ac4t.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.14,
+   "https": true,
+   "words": 37,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "jQuery",
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "Other Sites",
+   "description": "Hello and welcome to Var1ac4t!! a website owned by Haruko(aka Variacat)",
+   "category": "Retro",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "othersiteshelloandwelcometovar1ac4tawebsiteownedbyharukoakavariacat",
+   "vibes": [
+    "handmade",
+    "minimal",
+    "retro"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2025,
+   "screenshot_file": "fbe6073dac4fb08cbf87.jpg"
+  },
+  {
+   "url": "https://inkyblinkyarts.neocities.org",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "inkyblinkyarts.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.07,
+   "https": true,
+   "words": 60,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "Inky's Inkwell!",
+   "description": "This site is run by an adult, and may contain the above subjects.",
+   "category": "Retro",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "inkysinkwellthissiteisrunbyanadultandmaycontaintheabovesubjects",
+   "vibes": [
+    "handmade",
+    "minimal",
+    "retro"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2023,
+   "screenshot_file": "e4e61c12d577c49760bf.jpg"
+  },
+  {
+   "url": "https://pklucky.neocities.org",
+   "source": "link from notyetknowspace.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "pklucky.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.09,
+   "https": true,
+   "words": 204,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "jQuery",
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "PKLucky's Beachside Lounge",
+   "description": "Oct 30: New fanfic: [R-18] I Wrote This When AO3 Was Down, Sue Me added.",
+   "category": "Retro",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "pkluckysbeachsideloungeoct30newfanficr18iwrotethiswhenao3wasdownsuemeadded",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2022,
+   "screenshot_file": "51d4aaad4ba88d0f305c.jpg"
+  },
+  {
+   "url": "https://achill-m-u-g-e-n-website.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "achill-m-u-g-e-n-website.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.12,
+   "https": true,
+   "words": 328,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "title": "C.H.I.R.U Website",
+   "description": "Yo, welcome to this C.H.I.R.U website of M.U.G.E.N. although you did or didnt already know about this, well its because i wanted to use neocities as my new M.U.G.E.N website besides site google…",
+   "category": "Retro",
+   "confidence": 0.92,
+   "tags": [],
+   "fingerprint": "chiruwebsiteyowelcometothischiruwebsiteofmugenalthoughyoudidordidntal",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2025,
+   "screenshot_file": "2396695cf00d8a0942a5.jpg"
+  },
+  {
+   "url": "https://bulltown.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "bulltown.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.57,
+   "https": true,
+   "words": 224,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "jQuery",
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼",
+   "description": "The neocities' offspring of bulltown - a new take on content from the bulltown archives, circa 1998-2004",
+   "category": "Retro",
+   "confidence": 0.92,
+   "tags": [],
+   "fingerprint": "theneocitiesoffspringofbulltownanewtakeoncontentfromthebulltowna",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2024,
+   "screenshot_file": "e749c0d910dae80d7a02.jpg"
+  },
+  {
+   "url": "https://wriorango.neocities.org",
+   "source": "link from notyetknowspace.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "wriorango.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.28,
+   "https": true,
+   "words": 108,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "holy mackerel!",
+   "description": "Hello, welcome to Wriorango, the worst place on the net since Tumblr.",
+   "category": "Retro",
+   "confidence": 0.86,
+   "tags": [],
+   "fingerprint": "holymackerelhellowelcometowriorangotheworstplaceonthenetsincetumblr",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2024,
+   "screenshot_file": "7274205ffa45222c95e3.jpg"
+  },
+  {
+   "url": "https://kolala.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "kolala.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.05,
+   "https": true,
+   "words": 67,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "Kolala's",
+   "description": "Home page of Kolala's site",
+   "category": "Retro",
+   "confidence": 0.86,
+   "tags": [],
+   "fingerprint": "",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2024,
+   "screenshot_file": "f5739920ff8a6263f8d8.jpg"
+  },
+  {
+   "url": "https://badgraph1csghost.neocities.org",
+   "source": "link from notyetknowspace.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "badgraph1csghost.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.07,
+   "https": true,
+   "words": 109,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "BadGraph1csGhost's Website",
+   "description": "Guides on restoring your privacy, using desktop computers, and good retro videogames!",
+   "category": "Retro",
+   "confidence": 0.8,
+   "tags": [],
+   "fingerprint": "badgraph1csghostswebsiteguidesonrestoringyourprivacyusingdesktopcomputersandgoodretrovideog",
+   "vibes": [
+    "handmade",
+    "minimal",
+    "retro"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2022,
+   "screenshot_file": "98b9c9f34a59fe9454b2.jpg"
+  },
+  {
+   "url": "https://hypercrites.neocities.org",
+   "source": "link from notyetknowspace.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "hypercrites.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.08,
+   "https": true,
+   "words": 1150,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "About hYpercrites",
+   "description": "This is just for funsies, if you are looking for my other socials, visit hypercrites.de.",
+   "category": "Retro",
+   "confidence": 0.79,
+   "tags": [],
+   "fingerprint": "abouthypercritesthisisjustforfunsiesifyouarelookingformyothersocialsvisithypercr",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2026,
+   "screenshot_file": "fd48bfaff0db7fc57f80.jpg"
+  },
+  {
+   "url": "https://chataigne.neocities.org",
+   "source": "link from hisahito.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "chataigne.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.09,
+   "https": true,
+   "words": 1297,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "Chataigne's Incredible Web Page !",
+   "description": "I will of course add your buttons both on Nekoweb and neocities, if we make a buttons exchange :)",
+   "category": "Retro",
+   "confidence": 0.79,
+   "tags": [],
+   "fingerprint": "chataignesincrediblewebpageiwillofcourseaddyourbuttonsbothonnekowebandneocitiesifwemakeabu",
+   "vibes": [
+    "artsy",
+    "handmade"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2025,
+   "screenshot_file": "839a17b112627dceff38.jpg"
+  },
+  {
+   "url": "https://soulkuiro.neocities.org",
+   "source": "link from notyetknowspace.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "soulkuiro.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.14,
+   "https": true,
+   "words": 124,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "ETERNAL heavenly paradise",
+   "description": "ETERNAL heavenly paradise contains autoplay music, flashing colors / gifs, images with sounds on hover.",
+   "category": "Retro",
+   "confidence": 0.74,
+   "tags": [],
+   "fingerprint": "eternalheavenlyparadiseeternalheavenlyparadisecontainsautoplaymusicflashingcolorsgifsimage",
+   "vibes": [
+    "artsy",
+    "handmade",
+    "minimal",
+    "retro"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2024,
+   "screenshot_file": "3f8d5cd71188d296c190.jpg"
+  },
+  {
+   "url": "https://piko-chan1838.neocities.org",
+   "source": "link from notyetknowspace.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "piko-chan1838.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.26,
+   "https": true,
+   "words": 61,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "Kizuki Piko's Retro Corner",
+   "description": "Welcome to Kizuki Piko's website! Explore my creative coding, drawing, and piano projects here.",
+   "category": "Retro",
+   "confidence": 0.71,
+   "tags": [],
+   "fingerprint": "kizukipikosretrocornerwelcometokizukipikoswebsiteexploremycreativecodingdrawingandpiano",
+   "vibes": [
+    "handmade",
+    "minimal",
+    "retro"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2026,
+   "screenshot_file": "51c3934dceb5fb1ea7a0.jpg"
+  },
+  {
+   "url": "https://dogt00thoffice.neocities.org",
+   "source": "link from hisahito.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "dogt00thoffice.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.11,
+   "https": true,
+   "words": 1393,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "DOGT00TH_0FFiCE.",
+   "description": "If you need any help at all learning html make an immediate beeline for w3schools and magoonka's tutorial on yt genuinely the only 2 helpful resources i found to help me learn html",
+   "category": "Education",
+   "confidence": 0.71,
+   "tags": [],
+   "fingerprint": "dogt00th0fficeifyouneedanyhelpatalllearninghtmlmakeanimmediatebeelineforw3school",
+   "vibes": [
+    "handmade",
+    "retro"
+   ],
+   "archive_checked": "2026-10-31",
+   "first_seen": 2026,
+   "screenshot_file": "a40db713d9c1d618e60e.jpg"
+  },
+  {
+   "url": "https://starry-knight.neocities.org",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "starry-knight.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.29,
+   "https": true,
+   "words": 250,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "Starry's Grove",
+   "description": "This site is meant to be a reflection of myself and my interests to share with others.",
+   "category": "Retro",
+   "confidence": 0.67,
+   "tags": [],
+   "fingerprint": "starrysgrovethissiteismeanttobeareflectionofmyselfandmyintereststosharewitho",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-31",
+   "screenshot_file": "c972d6992926c4794ca6.jpg"
+  },
+  {
+   "url": "https://moon-room.neocities.org",
+   "source": "link from notyetknowspace.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "moon-room.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.06,
+   "https": true,
+   "words": 366,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "The Moon Room Gallery",
+   "description": "It's all hand made at my own pace- AI hasn't gone anywhere near my creation process or the building of my site and it never will.",
+   "category": "Art",
+   "confidence": 0.6,
+   "tags": [
+    "Retro"
+   ],
+   "fingerprint": "themoonroomgalleryitsallhandmadeatmyownpaceaihasntgoneanywherenearmycreationproc",
+   "vibes": [
+    "artsy",
+    "playful",
+    "handmade",
+    "retro"
+   ],
+   "archive_checked": "2026-10-31",
+   "screenshot_file": "6f3ce7f9d4df9d258ef1.jpg"
+  },
+  {
+   "url": "https://knoxstation.neocities.org",
+   "source": "link from notyetknowspace.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "knoxstation.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.09,
+   "https": true,
+   "words": 516,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "☆Knoxie's World! (๑❛◡❛๑)☆",
+   "description": "My name is Gia, and this is my own little corner of the internet where I can express myself and share my own personal projects!",
+   "category": "Retro",
+   "confidence": 0.6,
+   "tags": [
+    "Retro",
+    "Games"
+   ],
+   "fingerprint": "knoxiesworldmynameisgiaandthisismyownlittlecorneroftheinternetwhereicanexp",
+   "vibes": [
+    "playful",
+    "artsy",
+    "handmade",
+    "retro"
+   ],
+   "archive_checked": "2026-10-31",
+   "screenshot_file": "9bdb152db1f54a48aedf.jpg"
+  },
+  {
+   "url": "https://sakuraducky.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "sakuraducky.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.08,
+   "https": true,
+   "words": 49,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "୨ ꒰ა♡𝓈𝒶𝓀𝓊𝓇𝒶𝒹𝓊𝒸𝓀𝓎♡໒꒱ ୧",
+   "description": "The page i made dedicated to phase 8 of the band Gorillaz/their ninth studio album, The Mountain. this is part of my gorillaz shrine, which is currently the only shrine i have completed...",
+   "category": "Art",
+   "confidence": 0.6,
+   "tags": [
+    "Retro"
+   ],
+   "fingerprint": "thepageimadededicatedtophase8ofthebandgorillaztheirninthstudioalb",
+   "vibes": [
+    "handmade",
+    "minimal",
+    "retro"
+   ],
+   "archive_checked": "2026-10-31",
+   "screenshot_file": "bd8d69320a85241c397c.jpg"
+  },
+  {
+   "url": "https://spinycat.neocities.org",
+   "source": "link from hisahito.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "spinycat.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.12,
+   "https": true,
+   "words": 525,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "Spinycat's Homepage",
+   "description": "Welcome to Spinycat's Website :3 This is a silly little website ive made for funsies. Please enjoy :3",
+   "category": "Retro",
+   "confidence": 0.6,
+   "tags": [
+    "Developer"
+   ],
+   "fingerprint": "spinycatshomepagewelcometospinycatswebsite3thisisasillylittlewebsiteivemadeforfun",
+   "vibes": [
+    "playful",
+    "handmade"
+   ],
+   "archive_checked": "2026-10-31",
+   "screenshot_file": "451cc60b56fa1abb5b21.jpg"
+  },
+  {
+   "url": "https://snace.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "snace.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.11,
+   "https": true,
+   "words": 3033,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "Snace's Cave",
+   "description": "A personal website for fun. I put my OC's in here.",
+   "category": "Retro",
+   "confidence": 0.6,
+   "tags": [
+    "Retro"
+   ],
+   "fingerprint": "snacescaveapersonalwebsiteforfuniputmyocsinhere",
+   "vibes": [
+    "playful",
+    "deep read"
+   ],
+   "archive_checked": "2026-10-31",
+   "screenshot_file": "890c90135a1a55a5ac12.jpg"
+  },
+  {
+   "url": "https://myrdin.neocities.org",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "myrdin.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.07,
+   "https": true,
+   "words": 54,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "myrdin // redirecting...",
+   "description": "Myrdin's personal website! :)",
+   "category": "Retro",
+   "confidence": 0.6,
+   "tags": [
+    "Personal"
+   ],
+   "fingerprint": "",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-31",
+   "screenshot_file": "a4549384b9a2b17f3677.jpg"
+  },
+  {
+   "url": "https://tectrix.neocities.org",
+   "source": "link from notyetknowspace.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-10-31",
+   "checked": "2026-10-31",
+   "fails": 0,
+   "aliases": [
+    "tectrix.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.06,
+   "https": true,
+   "words": 135,
+   "embed": true,
+   "safety_checked": "2026-10-31",
+   "tech": [
+    "jQuery",
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "somewhere beyond the sea",
+   "description": "Callie F she/her F 19 biochemist, crazy cat lady, perpetually stressed; tumbling blindly as i make my way across the universe find out more here!",
+   "category": "Retro",
+   "confidence": 0.6,
+   "tags": [
+    "Retro"
+   ],
+   "fingerprint": "somewherebeyondtheseacalliefsheherf19biochemistcrazycatladyperpetuallystressedtumbling",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-10-31",
+   "screenshot_file": "04d5a2891217f547fc83.jpg"
   }
  ]
 }
