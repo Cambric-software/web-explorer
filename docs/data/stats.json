@@ -1,25 +1,22 @@
 {
- "total": 274,
- "dead": 7,
+ "total": 34,
+ "dead": 0,
  "flagged": 0,
- "runs": 24,
- "last_run": "2026-10-31T07:03:40Z",
- "found_last_run": 4,
+ "runs": 25,
+ "last_run": "2026-10-31T13:41:35Z",
+ "found_last_run": 21,
  "beta": true,
  "categories": {
-  "Tools": 24,
-  "Communities": 8,
-  "Education": 19,
-  "Business": 17,
-  "Technology": 45,
-  "Random": 37,
-  "Developer": 51,
-  "Personal": 21,
-  "News": 28,
-  "Science": 16,
-  "Games": 3,
-  "Retro": 3,
-  "Art": 2
+  "Retro": 9,
+  "Personal": 7,
+  "Developer": 4,
+  "Tools": 2,
+  "Communities": 2,
+  "Games": 1,
+  "Art": 6,
+  "Writing": 1,
+  "Science": 1,
+  "Business": 1
  },
  "bot_version": 4,
  "history": [
@@ -142,9 +139,50 @@
    "date": "2026-10-31",
    "added": 4,
    "total": 274
+  },
+  {
+   "date": "2026-10-31",
+   "added": 21,
+   "total": 34
   }
  ],
  "runs_log": [
+  {
+   "started": "2026-10-31T13:41:35Z",
+   "rejected": {
+    "unreachable": 12,
+    "parked": 8,
+    "empty javascript shell": 32,
+    "too few words": 25,
+    "weak description": 12,
+    "lazy title": 51,
+    "starter template": 1,
+    "unsure category": 11,
+    "bot challenge": 4,
+    "login gate": 1,
+    "cookie wall": 1,
+    "link farm": 1
+   },
+   "duplicates_removed": 0,
+   "sources": {
+    "hacker news": 57,
+    "lobsters": 16,
+    "neocities": 60,
+    "nekoweb": 1,
+    "tildeverse": 19,
+    "marginalia": 25,
+    "ooh.directory": 4
+   },
+   "candidates": 180,
+   "deep_links": 64,
+   "added": 21,
+   "rechecked": 5,
+   "stale_rechecked": 0,
+   "newly_dead": 0,
+   "flagged": 0,
+   "malware_list": 0,
+   "archive_years": 18
+  },
   {
    "started": "2026-10-31T07:03:40Z",
    "rejected": {
@@ -735,5 +773,5 @@
   }
  ],
  "reset": "2026-10-26",
- "candidates_checked": 100
+ "candidates_checked": 180
 }
