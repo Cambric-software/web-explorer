@@ -445,10 +445,10 @@
     "Bootstrap",
     "Hand-coded"
    ],
-   "title": "~green",
+   "title": "tildegreen",
    "description": "We are running Ubuntu 24.04.1 LTS, list of services, we don't mind if you register and stay idle, but we'd appreciate if possible if you could join our little community.",
    "category": "Communities",
-   "confidence": 1.0,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "greenwearerunningubuntu24041ltslistofserviceswedontmindifyouregist",
    "vibes": [
@@ -457,7 +457,8 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2022,
-   "screenshot_file": "1f68e8e45024e60845b7.jpg"
+   "screenshot_file": "1f68e8e45024e60845b7.jpg",
+   "locked": true
   },
   {
    "url": "https://srcefiro.neocities.org",
@@ -483,7 +484,7 @@
    "title": "RaccoonCraft Network",
    "description": "Survival, eventos, comunidad y servidores preparados para disfrutar Minecraft a otro nivel.",
    "category": "Retro",
-   "confidence": 1.0,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "raccooncraftnetworksurvivaleventoscomunidadyservidorespreparadosparadisfrutarminecrafta",
    "vibes": [
@@ -518,7 +519,7 @@
    "title": "SerCe's blog",
    "description": "Here is my personal blog where I share my thoughts and experiences with different technologies.",
    "category": "Personal",
-   "confidence": 1.0,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "sercesbloghereismypersonalblogwhereisharemythoughtsandexperienceswithdifferen",
    "vibes": [
@@ -548,10 +549,10 @@
    "tech": [
     "Hand-coded"
    ],
-   "title": "Esolang, the esoteric programming languages wiki",
+   "title": "Esolang",
    "description": "We are currently working on new rules for what content should and shouldn't be allowed on this website, and are looking for feedback!",
    "category": "Developer",
-   "confidence": 1.0,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "esolangtheesotericprogramminglanguageswikiwearecurrentlyworkingonnewrulesforwhatcontentshouldandshouldntbea",
    "vibes": [
@@ -559,7 +560,8 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2005,
-   "screenshot_file": "00160a4fac3e7883d490.jpg"
+   "screenshot_file": "00160a4fac3e7883d490.jpg",
+   "locked": true
   },
   {
    "url": "https://lunamilk.neocities.org",
@@ -620,10 +622,10 @@
     "Hand-coded",
     "No JavaScript"
    ],
-   "title": "/trash/ fugbox",
+   "title": "atlyss",
    "description": "ATLYSS is a ORPG (Online RPG) that features fluid controls & combat as well as cute playable shortstack characters.",
    "category": "Retro",
-   "confidence": 0.86,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "trashfugboxatlyssisaorpgonlinerpgthatfeaturesfluidcontrolscombataswellasc",
    "vibes": [
@@ -632,7 +634,8 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2024,
-   "screenshot_file": "69cc2abc9c99d76d58bd.jpg"
+   "screenshot_file": "69cc2abc9c99d76d58bd.jpg",
+   "locked": true
   },
   {
    "url": "https://science.nasa.gov",
@@ -862,10 +865,10 @@
    "tech": [
     "Hand-coded"
    ],
-   "title": "Britain's Disk Is Full",
+   "title": "Britain's Disk",
    "description": "The state spent £1,360.1bn in 2025-26 but took in £1,231.3bn. Delete or shrink spending until it fits on the disk.",
    "category": "Art",
-   "confidence": 0.6,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "britainsdiskisfullthestatespent13601bnin202526buttookin12313bndeleteorshrinks",
    "vibes": [
@@ -873,7 +876,8 @@
     "minimal"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "7f3bafd9dad26e7ef70b.jpg"
+   "screenshot_file": "7f3bafd9dad26e7ef70b.jpg",
+   "locked": true
   },
   {
    "url": "https://henry.codes",
@@ -1170,7 +1174,7 @@
    "title": "꒰ The Pixeliana by folkmoss ꒱",
    "description": "Todas as coisinhas que ao longo da minha vida virtual e profissional que puderam ser acumuladas.",
    "category": "Retro",
-   "confidence": 1.0,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "thepixelianabyfolkmosstodasascoisinhasqueaolongodaminhavidavirtualeprofissionalquepuderam",
    "vibes": [
@@ -1179,41 +1183,6 @@
    "archive_checked": "2026-10-31",
    "first_seen": 2024,
    "screenshot_file": "505b48b4515d72d93e21.jpg"
-  },
-  {
-   "url": "https://bonyou.place",
-   "source": "link from brooklynights.nekoweb.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-10-31",
-   "checked": "2026-10-31",
-   "fails": 0,
-   "aliases": [
-    "bonyou.place"
-   ],
-   "lang": "?",
-   "load_time": 0.67,
-   "https": true,
-   "words": 153,
-   "embed": true,
-   "safety_checked": "2026-10-31",
-   "tech": [
-    "jQuery",
-    "Hand-coded"
-   ],
-   "title": "凡庸、凡庸、茫洋ですよ",
-   "description": "For webrings please look to the left of this box",
-   "category": "Retro",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "forwebringspleaselooktotheleftofthisbox",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-10-31",
-   "first_seen": 2026,
-   "screenshot_file": "89db01799b19d0ee0a81.jpg"
   },
   {
    "url": "https://webring.nekoweb.org",
@@ -1305,10 +1274,10 @@
    "tech": [
     "Hand-coded"
    ],
-   "title": "the future is forever",
+   "title": "patchwork's personal site",
    "description": "Helloooo, my name is patchwork! welcome to my personal site. a bit of a newbie to html/css so apologies for any mistakes you may come across.",
    "category": "Personal",
-   "confidence": 0.89,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "thefutureisforeverhelloooomynameispatchworkwelcometomypersonalsiteabitofanewbiet",
    "vibes": [
@@ -1318,7 +1287,8 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2025,
-   "screenshot_file": "9fe0a9b090f736b7ade1.jpg"
+   "screenshot_file": "9fe0a9b090f736b7ade1.jpg",
+   "locked": true
   },
   {
    "url": "https://dizzt3942.neocities.org",
@@ -1485,10 +1455,10 @@
     "Bootstrap",
     "Hand-coded"
    ],
-   "title": "tilde.green's wiki",
+   "title": "tildegreen's wiki",
    "description": "The news forum is no longer available but news will still be gotten",
    "category": "News",
-   "confidence": 0.67,
+   "confidence": 1,
    "tags": [
     "Communities"
    ],
@@ -1499,7 +1469,8 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2023,
-   "screenshot_file": "8f3138567bd790326fdf.jpg"
+   "screenshot_file": "8f3138567bd790326fdf.jpg",
+   "locked": true
   },
   {
    "url": "https://daliwali.neocities.org",
@@ -1841,10 +1812,10 @@
    "tech": [
     "Hand-coded"
    ],
-   "title": "dancers that follow the beat",
+   "title": "pumkin dance",
    "description": "Point a screen at the party. Play music. The dancers match the beat.",
    "category": "Games",
-   "confidence": 0.6,
+   "confidence": 1,
    "tags": [],
    "fingerprint": "dancersthatfollowthebeatpointascreenatthepartyplaymusicthedancersmatchthebeat",
    "vibes": [
@@ -1855,7 +1826,8 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2026,
-   "screenshot_file": "f569a9c17a4b9551a8e9.jpg"
+   "screenshot_file": "f569a9c17a4b9551a8e9.jpg",
+   "locked": true
   },
   {
    "url": "https://kayserifserif.place",
