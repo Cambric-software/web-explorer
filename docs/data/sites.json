@@ -16,10 +16,21 @@
       "words": 198,
       "embed": true,
       "locked": true,
-      "tech": ["Astro", "Hand-coded"],
-      "vibes": ["retro", "handmade"],
-      "tags": ["indieweb", "web revival", "neocities"],
-      "confidence": 1
+      "tech": [
+        "Astro",
+        "Hand-coded"
+      ],
+      "vibes": [
+        "retro",
+        "handmade"
+      ],
+      "tags": [
+        "indieweb",
+        "web revival",
+        "neocities"
+      ],
+      "confidence": 1,
+      "screenshot_file": "422bd99679642e7bf284.jpg"
     },
     {
       "url": "https://maya.land",
@@ -36,10 +47,20 @@
       "words": 103,
       "embed": true,
       "locked": true,
-      "tech": ["Jekyll", "Hand-coded"],
-      "vibes": ["handmade", "minimal"],
-      "tags": ["essays", "digital garden"],
-      "confidence": 1
+      "tech": [
+        "Jekyll",
+        "Hand-coded"
+      ],
+      "vibes": [
+        "handmade",
+        "minimal"
+      ],
+      "tags": [
+        "essays",
+        "digital garden"
+      ],
+      "confidence": 1,
+      "screenshot_file": "b8f07a5dcc3321c1d7dd.jpg"
     },
     {
       "url": "https://danluu.com",
@@ -56,10 +77,18 @@
       "words": 1182,
       "embed": true,
       "locked": true,
-      "tech": ["Hand-coded"],
-      "vibes": ["handmade"],
-      "tags": ["essays", "systems"],
-      "confidence": 1
+      "tech": [
+        "Hand-coded"
+      ],
+      "vibes": [
+        "handmade"
+      ],
+      "tags": [
+        "essays",
+        "systems"
+      ],
+      "confidence": 1,
+      "screenshot_file": "6eeec2fb5a99ab769257.jpg"
     },
     {
       "url": "https://strictllm.com",
@@ -76,10 +105,19 @@
       "words": 936,
       "embed": true,
       "locked": true,
-      "tech": ["Tailwind", "Hand-coded"],
-      "vibes": ["handmade"],
-      "tags": ["tools", "privacy"],
-      "confidence": 1
+      "tech": [
+        "Tailwind",
+        "Hand-coded"
+      ],
+      "vibes": [
+        "handmade"
+      ],
+      "tags": [
+        "tools",
+        "privacy"
+      ],
+      "confidence": 1,
+      "screenshot_file": "6cc525c9f6cb42c76f71.jpg"
     },
     {
       "url": "https://ourspacevibes.com",
@@ -96,10 +134,19 @@
       "words": 40,
       "embed": false,
       "locked": true,
-      "tech": ["React"],
-      "vibes": ["artsy", "retro"],
-      "tags": ["social", "nostalgia"],
-      "confidence": 1
+      "tech": [
+        "React"
+      ],
+      "vibes": [
+        "artsy",
+        "retro"
+      ],
+      "tags": [
+        "social",
+        "nostalgia"
+      ],
+      "confidence": 1,
+      "screenshot_file": "5cf85ab57864d497f927.jpg"
     },
     {
       "url": "https://neal.fun",
@@ -116,10 +163,20 @@
       "words": 120,
       "embed": true,
       "locked": true,
-      "tech": ["Hand-coded"],
-      "vibes": ["playful", "artsy"],
-      "tags": ["web toys", "browser games", "interactive"],
-      "confidence": 1
+      "tech": [
+        "Hand-coded"
+      ],
+      "vibes": [
+        "playful",
+        "artsy"
+      ],
+      "tags": [
+        "web toys",
+        "browser games",
+        "interactive"
+      ],
+      "confidence": 1,
+      "screenshot_file": "bb2ef3a5e780cf2d6b65.jpg"
     },
     {
       "url": "https://jvns.ca",
@@ -136,10 +193,21 @@
       "words": 450,
       "embed": true,
       "locked": true,
-      "tech": ["Hugo", "Hand-coded"],
-      "vibes": ["playful", "handmade"],
-      "tags": ["zines", "programming", "blogroll"],
-      "confidence": 1
+      "tech": [
+        "Hugo",
+        "Hand-coded"
+      ],
+      "vibes": [
+        "playful",
+        "handmade"
+      ],
+      "tags": [
+        "zines",
+        "programming",
+        "blogroll"
+      ],
+      "confidence": 1,
+      "screenshot_file": "648cf63e0ee6baf2135d.jpg"
     },
     {
       "url": "https://16colo.rs",
@@ -156,10 +224,21 @@
       "words": 260,
       "embed": true,
       "locked": true,
-      "tech": ["Hand-coded"],
-      "vibes": ["retro", "cyber"],
-      "tags": ["ansi", "ascii", "bbs", "archive"],
-      "confidence": 1
+      "tech": [
+        "Hand-coded"
+      ],
+      "vibes": [
+        "retro",
+        "cyber"
+      ],
+      "tags": [
+        "ansi",
+        "ascii",
+        "bbs",
+        "archive"
+      ],
+      "confidence": 1,
+      "screenshot_file": "f20ac90147c8bacea742.jpg"
     },
     {
       "url": "https://synthtopia.com",
@@ -176,10 +255,19 @@
       "words": 850,
       "embed": true,
       "locked": true,
-      "tech": ["WordPress"],
-      "vibes": ["artsy"],
-      "tags": ["music", "synthesizers", "audio"],
-      "confidence": 1
+      "tech": [
+        "WordPress"
+      ],
+      "vibes": [
+        "artsy"
+      ],
+      "tags": [
+        "music",
+        "synthesizers",
+        "audio"
+      ],
+      "confidence": 1,
+      "screenshot_file": "8b69393ac9993d842ea5.jpg"
     },
     {
       "url": "https://coryd.dev",
@@ -196,10 +284,21 @@
       "words": 320,
       "embed": true,
       "locked": true,
-      "tech": ["Eleventy", "Hand-coded"],
-      "vibes": ["handmade", "cozy"],
-      "tags": ["indieweb", "blogroll", "digital garden"],
-      "confidence": 1
+      "tech": [
+        "Eleventy",
+        "Hand-coded"
+      ],
+      "vibes": [
+        "handmade",
+        "cozy"
+      ],
+      "tags": [
+        "indieweb",
+        "blogroll",
+        "digital garden"
+      ],
+      "confidence": 1,
+      "screenshot_file": "05e005a390a915736e77.jpg"
     },
     {
       "url": "https://wiby.me",
@@ -216,10 +315,20 @@
       "words": 150,
       "embed": true,
       "locked": true,
-      "tech": ["Hand-coded"],
-      "vibes": ["minimal", "retro"],
-      "tags": ["search", "indieweb", "classic web"],
-      "confidence": 1
+      "tech": [
+        "Hand-coded"
+      ],
+      "vibes": [
+        "minimal",
+        "retro"
+      ],
+      "tags": [
+        "search",
+        "indieweb",
+        "classic web"
+      ],
+      "confidence": 1,
+      "screenshot_file": "cbfcde087695e66409b5.jpg"
     },
     {
       "url": "https://robinsloan.com",
@@ -236,10 +345,20 @@
       "words": 420,
       "embed": true,
       "locked": true,
-      "tech": ["Hand-coded"],
-      "vibes": ["creative", "handmade"],
-      "tags": ["writing", "fiction", "home cooked app"],
-      "confidence": 1
+      "tech": [
+        "Hand-coded"
+      ],
+      "vibes": [
+        "creative",
+        "handmade"
+      ],
+      "tags": [
+        "writing",
+        "fiction",
+        "home cooked app"
+      ],
+      "confidence": 1,
+      "screenshot_file": "aba0778468d466a20c51.jpg"
     },
     {
       "url": "https://virtuallyfun.com",
@@ -256,10 +375,19 @@
       "words": 650,
       "embed": true,
       "locked": true,
-      "tech": ["WordPress"],
-      "vibes": ["retro"],
-      "tags": ["emulation", "retro computing", "vintage"],
-      "confidence": 1
+      "tech": [
+        "WordPress"
+      ],
+      "vibes": [
+        "retro"
+      ],
+      "tags": [
+        "emulation",
+        "retro computing",
+        "vintage"
+      ],
+      "confidence": 1,
+      "screenshot_file": "ce9a68fb50701ad32c04.jpg"
     }
   ]
 }
