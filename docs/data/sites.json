@@ -31,7 +31,7 @@
    "confidence": 1,
    "screenshot_file": "422bd99679642e7bf284.jpg",
    "lang": "en",
-   "load_time": 0.15,
+   "load_time": 0.06,
    "safety_checked": "2026-11-01",
    "archive_checked": "2026-10-31",
    "first_seen": 2021
@@ -65,7 +65,7 @@
    "confidence": 1,
    "screenshot_file": "b8f07a5dcc3321c1d7dd.jpg",
    "lang": "en",
-   "load_time": 0.34,
+   "load_time": 0.59,
    "safety_checked": "2026-11-01",
    "archive_checked": "2026-10-31",
    "first_seen": 2018
@@ -98,7 +98,7 @@
    "confidence": 1,
    "screenshot_file": "6eeec2fb5a99ab769257.jpg",
    "lang": "?",
-   "load_time": 0.09,
+   "load_time": 0.3,
    "safety_checked": "2026-11-01",
    "archive_checked": "2026-10-31"
   },
@@ -131,7 +131,7 @@
    "confidence": 1,
    "screenshot_file": "6cc525c9f6cb42c76f71.jpg",
    "lang": "en",
-   "load_time": 0.13,
+   "load_time": 0.33,
    "safety_checked": "2026-11-01",
    "archive_checked": "2026-10-31",
    "first_seen": 2024
@@ -146,7 +146,7 @@
    "review": "verified",
    "added": "2026-10-29",
    "checked": "2026-11-01",
-   "fails": 6,
+   "fails": 7,
    "https": true,
    "words": 40,
    "embed": false,
@@ -178,7 +178,7 @@
    "review": "verified",
    "added": "2026-10-31",
    "checked": "2026-11-01",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 120,
    "embed": true,
@@ -233,7 +233,7 @@
    "archive_checked": "2026-10-31",
    "first_seen": 2012,
    "lang": "en",
-   "load_time": 0.42,
+   "load_time": 0.23,
    "safety_checked": "2026-11-01"
   },
   {
@@ -270,7 +270,7 @@
    "archive_checked": "2026-10-31",
    "first_seen": 2018,
    "lang": "en",
-   "load_time": 0.8,
+   "load_time": 0.93,
    "safety_checked": "2026-11-01"
   },
   {
@@ -285,7 +285,7 @@
    "checked": "2026-11-01",
    "fails": 0,
    "https": true,
-   "words": 363,
+   "words": 362,
    "embed": false,
    "locked": true,
    "tech": [
@@ -305,7 +305,7 @@
    "archive_checked": "2026-10-31",
    "first_seen": 2003,
    "lang": "en",
-   "load_time": 0.76,
+   "load_time": 1.02,
    "safety_checked": "2026-11-01"
   },
   {
@@ -320,7 +320,7 @@
    "checked": "2026-11-01",
    "fails": 0,
    "https": true,
-   "words": 292,
+   "words": 289,
    "embed": false,
    "locked": true,
    "tech": [
@@ -340,7 +340,7 @@
    "archive_checked": "2026-10-31",
    "first_seen": 2021,
    "lang": "en",
-   "load_time": 0.59,
+   "load_time": 0.79,
    "safety_checked": "2026-11-01"
   },
   {
@@ -353,7 +353,7 @@
    "review": "verified",
    "added": "2026-10-31",
    "checked": "2026-11-01",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -407,7 +407,7 @@
    "screenshot_file": "aba0778468d466a20c51.jpg",
    "archive_checked": "2026-10-31",
    "lang": "en",
-   "load_time": 0.11,
+   "load_time": 0.39,
    "safety_checked": "2026-11-01"
   },
   {
@@ -441,7 +441,7 @@
    "archive_checked": "2026-10-31",
    "first_seen": 2011,
    "lang": "en",
-   "load_time": 0.8,
+   "load_time": 0.56,
    "safety_checked": "2026-11-01"
   },
   {
@@ -456,7 +456,7 @@
     "tilde.green"
    ],
    "lang": "en",
-   "load_time": 0.56,
+   "load_time": 0.57,
    "https": true,
    "words": 280,
    "embed": true,
@@ -492,7 +492,7 @@
     "srcefiro.neocities.org"
    ],
    "lang": "es",
-   "load_time": 0.07,
+   "load_time": 0.05,
    "https": true,
    "words": 110,
    "embed": true,
@@ -527,7 +527,7 @@
     "serce.me"
    ],
    "lang": "en",
-   "load_time": 0.11,
+   "load_time": 0.41,
    "https": true,
    "words": 157,
    "embed": true,
@@ -561,7 +561,7 @@
     "esolangs.org"
    ],
    "lang": "en",
-   "load_time": 1.9,
+   "load_time": 1.3,
    "https": true,
    "words": 434,
    "embed": true,
@@ -595,7 +595,7 @@
     "lunamilk.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.02,
+   "load_time": 0.04,
    "https": true,
    "words": 252,
    "embed": true,
@@ -632,7 +632,7 @@
     "atlyss.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.09,
+   "load_time": 0.1,
    "https": true,
    "words": 245,
    "embed": true,
@@ -669,7 +669,7 @@
     "science.nasa.gov"
    ],
    "lang": "en",
-   "load_time": 2.01,
+   "load_time": 0.15,
    "https": true,
    "words": 1752,
    "embed": false,
@@ -704,7 +704,7 @@
     "saltydracon.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.02,
+   "load_time": 0.05,
    "https": true,
    "words": 180,
    "embed": true,
@@ -739,7 +739,7 @@
     "colexdev.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.02,
+   "load_time": 0.07,
    "https": true,
    "words": 136,
    "embed": true,
@@ -774,7 +774,7 @@
     "brooklynights.nekoweb.org"
    ],
    "lang": "?",
-   "load_time": 0.07,
+   "load_time": 0.29,
    "https": true,
    "words": 1144,
    "embed": true,
@@ -809,7 +809,7 @@
     "notyetknowspace.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.08,
+   "load_time": 0.14,
    "https": true,
    "words": 152,
    "embed": true,
@@ -844,7 +844,7 @@
     "lemire.me"
    ],
    "lang": "en",
-   "load_time": 0.75,
+   "load_time": 1.18,
    "https": true,
    "words": 3004,
    "embed": true,
@@ -879,7 +879,7 @@
     "britains-disk.pages.dev"
    ],
    "lang": "en",
-   "load_time": 0.14,
+   "load_time": 0.23,
    "https": true,
    "words": 189,
    "embed": true,
@@ -913,7 +913,7 @@
     "henry.codes"
    ],
    "lang": "en",
-   "load_time": 0.82,
+   "load_time": 1.1,
    "https": true,
    "words": 557,
    "embed": true,
@@ -946,7 +946,7 @@
     "xn--sr8hvo.ws"
    ],
    "lang": "en",
-   "load_time": 0.21,
+   "load_time": 0.2,
    "https": true,
    "words": 320,
    "embed": true,
@@ -980,7 +980,7 @@
     "computer.rip"
    ],
    "lang": "?",
-   "load_time": 0.49,
+   "load_time": 0.67,
    "https": true,
    "words": 1850,
    "embed": true,
@@ -1015,7 +1015,7 @@
     "erikjohannes.no"
    ],
    "lang": "en",
-   "load_time": 0.86,
+   "load_time": 0.42,
    "https": true,
    "words": 358,
    "embed": false,
@@ -1051,9 +1051,9 @@
     "zzounds.com"
    ],
    "lang": "en",
-   "load_time": 0.88,
+   "load_time": 0.49,
    "https": true,
-   "words": 1273,
+   "words": 1272,
    "embed": false,
    "safety_checked": "2026-11-01",
    "tech": [
@@ -1086,7 +1086,7 @@
     "recurse.com"
    ],
    "lang": "en",
-   "load_time": 0.26,
+   "load_time": 0.43,
    "https": true,
    "words": 558,
    "embed": false,
@@ -1120,7 +1120,7 @@
     "upclabelmaker.com"
    ],
    "lang": "en",
-   "load_time": 0.4,
+   "load_time": 0.75,
    "https": true,
    "words": 942,
    "embed": false,
@@ -1153,7 +1153,7 @@
     "zachleat.com"
    ],
    "lang": "en",
-   "load_time": 0.45,
+   "load_time": 0.51,
    "https": true,
    "words": 187,
    "embed": true,
@@ -1185,7 +1185,7 @@
     "pixeliana.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.12,
+   "load_time": 0.05,
    "https": true,
    "words": 620,
    "embed": true,
@@ -1219,7 +1219,7 @@
     "webring.nekoweb.org"
    ],
    "lang": "en",
-   "load_time": 0.16,
+   "load_time": 0.14,
    "https": true,
    "words": 111,
    "embed": true,
@@ -1289,7 +1289,7 @@
     "patchwork.nekoweb.org"
    ],
    "lang": "en",
-   "load_time": 0.16,
+   "load_time": 0.13,
    "https": true,
    "words": 196,
    "embed": true,
@@ -1320,7 +1320,7 @@
    "review": "unreviewed",
    "added": "2026-10-31",
    "checked": "2026-11-01",
-   "fails": 3,
+   "fails": 4,
    "aliases": [
     "dizzt3942.neocities.org"
    ],
@@ -1362,7 +1362,7 @@
     "zietek.dev"
    ],
    "lang": "?",
-   "load_time": 0.3,
+   "load_time": 0.25,
    "https": true,
    "words": 393,
    "embed": true,
@@ -1396,7 +1396,7 @@
     "hisahito.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.19,
+   "load_time": 0.23,
    "https": true,
    "words": 1614,
    "embed": true,
@@ -1432,7 +1432,7 @@
     "better-left-unsaid.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.43,
+   "load_time": 0.28,
    "https": true,
    "words": 3110,
    "embed": true,
@@ -1470,7 +1470,7 @@
     "wiki.tilde.green"
    ],
    "lang": "en",
-   "load_time": 0.76,
+   "load_time": 0.6,
    "https": true,
    "words": 92,
    "embed": true,
@@ -1508,7 +1508,7 @@
     "daliwali.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.17,
+   "load_time": 0.16,
    "https": true,
    "words": 221,
    "embed": true,
@@ -1544,7 +1544,7 @@
     "bachira.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.18,
+   "load_time": 0.14,
    "https": true,
    "words": 373,
    "embed": true,
@@ -1579,7 +1579,7 @@
     "jaiden2013.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.2,
+   "load_time": 0.18,
    "https": true,
    "words": 495,
    "embed": true,
@@ -1616,7 +1616,7 @@
     "curate-of-the-curious.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.22,
+   "load_time": 0.14,
    "https": true,
    "words": 761,
    "embed": true,
@@ -1654,7 +1654,7 @@
     "epicgamerwebsite.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.12,
+   "load_time": 0.22,
    "https": true,
    "words": 392,
    "embed": true,
@@ -1690,7 +1690,7 @@
     "eclecticlight.co"
    ],
    "lang": "en",
-   "load_time": 1.25,
+   "load_time": 0.22,
    "https": true,
    "words": 341,
    "embed": true,
@@ -1726,7 +1726,7 @@
     "futhark-lang.org"
    ],
    "lang": "en",
-   "load_time": 0.72,
+   "load_time": 0.49,
    "https": true,
    "words": 389,
    "embed": true,
@@ -1763,7 +1763,7 @@
     "11ty.dev"
    ],
    "lang": "en",
-   "load_time": 0.39,
+   "load_time": 0.35,
    "https": true,
    "words": 1097,
    "embed": true,
@@ -1789,7 +1789,7 @@
    "review": "unreviewed",
    "added": "2026-10-31",
    "checked": "2026-11-01",
-   "fails": 3,
+   "fails": 4,
    "aliases": [
     "anoma.ly"
    ],
@@ -1829,7 +1829,7 @@
     "pumpkin.dance"
    ],
    "lang": "en",
-   "load_time": 0.14,
+   "load_time": 0.82,
    "https": true,
    "words": 132,
    "embed": true,
@@ -1866,7 +1866,7 @@
     "kayserifserif.place"
    ],
    "lang": "en",
-   "load_time": 0.74,
+   "load_time": 0.76,
    "https": true,
    "words": 54,
    "embed": true,
@@ -1900,7 +1900,7 @@
     "rimoncik.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.11,
+   "load_time": 0.08,
    "https": true,
    "words": 66,
    "embed": true,
@@ -1930,7 +1930,7 @@
    "review": "unreviewed",
    "added": "2026-10-31",
    "checked": "2026-11-01",
-   "fails": 3,
+   "fails": 4,
    "aliases": [
     "baggebo-the-goober.neocities.org"
    ],
@@ -1971,7 +1971,7 @@
     "nixiebunnie.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.03,
+   "load_time": 0.15,
    "https": true,
    "words": 162,
    "embed": true,
@@ -2006,7 +2006,7 @@
     "foxyy.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.24,
+   "load_time": 0.15,
    "https": true,
    "words": 984,
    "embed": true,
@@ -2042,7 +2042,7 @@
     "figurea.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.03,
+   "load_time": 0.12,
    "https": true,
    "words": 189,
    "embed": true,
@@ -2079,7 +2079,7 @@
     "ohnkata.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.06,
+   "load_time": 0.25,
    "https": true,
    "words": 72484,
    "embed": true,
@@ -2114,7 +2114,7 @@
     "tabi98.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.03,
+   "load_time": 0.1,
    "https": true,
    "words": 52,
    "embed": true,
@@ -2144,7 +2144,7 @@
    "review": "unreviewed",
    "added": "2026-10-31",
    "checked": "2026-11-01",
-   "fails": 3,
+   "fails": 4,
    "aliases": [
     "var1ac4t.neocities.org"
    ],
@@ -2187,7 +2187,7 @@
     "inkyblinkyarts.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.11,
+   "load_time": 0.14,
    "https": true,
    "words": 60,
    "embed": true,
@@ -2223,7 +2223,7 @@
     "pklucky.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.26,
+   "load_time": 0.12,
    "https": true,
    "words": 203,
    "embed": true,
@@ -2259,7 +2259,7 @@
     "achill-m-u-g-e-n-website.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.14,
+   "load_time": 0.1,
    "https": true,
    "words": 328,
    "embed": true,
@@ -2294,7 +2294,7 @@
     "bulltown.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.48,
+   "load_time": 0.19,
    "https": true,
    "words": 224,
    "embed": true,
@@ -2330,7 +2330,7 @@
     "wriorango.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.18,
+   "load_time": 0.1,
    "https": true,
    "words": 108,
    "embed": true,
@@ -2365,7 +2365,7 @@
     "kolala.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.17,
+   "load_time": 0.1,
    "https": true,
    "words": 67,
    "embed": true,
@@ -2400,7 +2400,7 @@
     "badgraph1csghost.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.15,
+   "load_time": 0.17,
    "https": true,
    "words": 109,
    "embed": true,
@@ -2436,7 +2436,7 @@
     "hypercrites.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.1,
+   "load_time": 0.21,
    "https": true,
    "words": 1150,
    "embed": true,
@@ -2470,7 +2470,7 @@
     "chataigne.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.18,
+   "load_time": 0.1,
    "https": true,
    "words": 1297,
    "embed": true,
@@ -2505,7 +2505,7 @@
     "soulkuiro.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.1,
+   "load_time": 0.05,
    "https": true,
    "words": 124,
    "embed": true,
@@ -2542,7 +2542,7 @@
     "piko-chan1838.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.12,
+   "load_time": 0.15,
    "https": true,
    "words": 61,
    "embed": true,
@@ -2578,7 +2578,7 @@
     "dogt00thoffice.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.12,
+   "load_time": 0.21,
    "https": true,
    "words": 1393,
    "embed": true,
@@ -2613,7 +2613,7 @@
     "starry-knight.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.26,
+   "load_time": 0.25,
    "https": true,
    "words": 250,
    "embed": true,
@@ -2647,7 +2647,7 @@
     "moon-room.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.09,
+   "load_time": 0.19,
    "https": true,
    "words": 366,
    "embed": true,
@@ -2685,7 +2685,7 @@
     "knoxstation.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.31,
+   "load_time": 0.27,
    "https": true,
    "words": 516,
    "embed": true,
@@ -2724,7 +2724,7 @@
     "sakuraducky.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.29,
+   "load_time": 0.25,
    "https": true,
    "words": 49,
    "embed": true,
@@ -2797,7 +2797,7 @@
     "snace.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.19,
+   "load_time": 0.24,
    "https": true,
    "words": 3033,
    "embed": true,
@@ -2833,7 +2833,7 @@
     "myrdin.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.16,
+   "load_time": 0.22,
    "https": true,
    "words": 54,
    "embed": true,
@@ -2869,7 +2869,7 @@
     "tectrix.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.14,
+   "load_time": 0.19,
    "https": true,
    "words": 135,
    "embed": true,
@@ -4607,6 +4607,546 @@
    ],
    "archive_checked": "2026-11-01",
    "screenshot_file": "ea74387a96c1f232558f.jpg"
+  },
+  {
+   "url": "https://toothachesplinter.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-01",
+   "checked": "2026-11-01",
+   "fails": 0,
+   "aliases": [
+    "toothachesplinter.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.07,
+   "https": true,
+   "words": 32,
+   "embed": true,
+   "safety_checked": "2026-11-01",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "【TOoTHaCHEsPLinTEr's HuB】",
+   "description": "This site is best viewed on a 1920x1080 display although is still somewhat viewable on mobile devices.",
+   "category": "Retro",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "toothachesplintershubthissiteisbestviewedona1920x1080displayalthoughisstillsomewhatviewa",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-01",
+   "first_seen": 2021,
+   "screenshot_file": "1068c90393adf790f2b6.jpg"
+  },
+  {
+   "url": "https://starbreaker.neocities.org",
+   "source": "marginalia",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-01",
+   "checked": "2026-11-01",
+   "fails": 0,
+   "aliases": [
+    "starbreaker.neocities.org",
+    "starbreaker.org"
+   ],
+   "lang": "en",
+   "load_time": 0.1,
+   "https": true,
+   "words": 36,
+   "embed": true,
+   "safety_checked": "2026-11-01",
+   "tech": [
+    "Neocities",
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "title": "HTTP 301 MOVED PERMANENTLY",
+   "description": "This Neocities site is no longer active and should redirect to starbreaker.org in 15 seconds.",
+   "category": "Retro",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "http301movedpermanentlythisneocitiessiteisnolongeractiveandshouldredirecttostarbreakerorgi",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-01",
+   "first_seen": 2022,
+   "screenshot_file": "f99c87196d050fee4342.jpg"
+  },
+  {
+   "url": "https://sneekrealm.neocities.org",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-01",
+   "checked": "2026-11-01",
+   "fails": 0,
+   "aliases": [
+    "sneekrealm.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.11,
+   "https": true,
+   "words": 41,
+   "embed": true,
+   "safety_checked": "2026-11-01",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "★ sneek's realm",
+   "description": "Feel free to explore + to drop by the guestbook! it's a bit more convenient with ublock or the like",
+   "category": "Retro",
+   "confidence": 0.92,
+   "tags": [],
+   "fingerprint": "sneeksrealmfeelfreetoexploretodropbytheguestbookitsabitmoreconvenientwith",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-01",
+   "first_seen": 2022,
+   "screenshot_file": "17c6864f344861041761.jpg"
+  },
+  {
+   "url": "https://sh-harm-reduction.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-01",
+   "checked": "2026-11-01",
+   "fails": 0,
+   "aliases": [
+    "sh-harm-reduction.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.1,
+   "https": true,
+   "words": 351,
+   "embed": true,
+   "safety_checked": "2026-11-01",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "Self-Harm Harm Reduction",
+   "description": "This website is dedicated to helping people who self-harm (without suicidal intent) manage their self-harm if they cannot or do not want to completely stop self-harming.",
+   "category": "Retro",
+   "confidence": 0.86,
+   "tags": [],
+   "fingerprint": "selfharmharmreductionthiswebsiteisdedicatedtohelpingpeoplewhoselfharmwithoutsuicidalinte",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-11-01",
+   "first_seen": 2025,
+   "screenshot_file": "41966c346966f9c46d90.jpg"
+  },
+  {
+   "url": "https://voidy.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-01",
+   "checked": "2026-11-01",
+   "fails": 0,
+   "aliases": [
+    "voidy.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.06,
+   "https": true,
+   "words": 863,
+   "embed": true,
+   "safety_checked": "2026-11-01",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "(8,74) void",
+   "description": "Hello. Please bear with me I'm currently semantifying all my sites linked here. Some images don't have alt because they are not important but still I want to keep it that way, like, just images.",
+   "category": "Retro",
+   "confidence": 0.82,
+   "tags": [],
+   "fingerprint": "874voidhellopleasebearwithmeimcurrentlysemantifyingallmysiteslinkedhere",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-11-01",
+   "screenshot_file": "e4abe04240e9394f561c.jpg"
+  },
+  {
+   "url": "https://tvwebshrine.neocities.org",
+   "source": "link from tomjerry1975.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-01",
+   "checked": "2026-11-01",
+   "fails": 0,
+   "aliases": [
+    "tvwebshrine.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.17,
+   "https": true,
+   "words": 617,
+   "embed": true,
+   "safety_checked": "2026-11-01",
+   "tech": [
+    "Neocities",
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "title": "The Aaron Handy III TV Web Shrine",
+   "description": "A site dedicated to favorite shows, yours and mine. Features my personal webtributes to the 1975 version of Tom & Jerry, the filmed work of The Monkees, the 1971-75 ABC Daytime version of Password…",
+   "category": "Retro",
+   "confidence": 0.82,
+   "tags": [],
+   "fingerprint": "theaaronhandyiiitvwebshrineasitededicatedtofavoriteshowsyoursandminefeaturesmypersonalwebtrib",
+   "vibes": [
+    "playful",
+    "handmade",
+    "retro"
+   ],
+   "archive_checked": "2026-11-01",
+   "first_seen": 2025,
+   "screenshot_file": "7d7e306ebe94642b1775.jpg"
+  },
+  {
+   "url": "https://shenzaibird.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-01",
+   "checked": "2026-11-01",
+   "fails": 0,
+   "aliases": [
+    "shenzaibird.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.13,
+   "https": true,
+   "words": 733,
+   "embed": true,
+   "safety_checked": "2026-11-01",
+   "tech": [
+    "WordPress",
+    "Neocities",
+    "No JavaScript"
+   ],
+   "title": "World of Shenzai",
+   "description": "My content often features themes of violence and death, of people and animals.",
+   "category": "Retro",
+   "confidence": 0.8,
+   "tags": [],
+   "fingerprint": "worldofshenzaimycontentoftenfeaturesthemesofviolenceanddeathofpeopleandanimals",
+   "vibes": [
+    "playful"
+   ],
+   "archive_checked": "2026-11-01",
+   "first_seen": 2022,
+   "screenshot_file": "40970e005fbb267d368d.jpg"
+  },
+  {
+   "url": "https://dollarchive.neocities.org",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-01",
+   "checked": "2026-11-01",
+   "fails": 0,
+   "aliases": [
+    "dollarchive.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.06,
+   "https": true,
+   "words": 184,
+   "embed": true,
+   "safety_checked": "2026-11-01",
+   "tech": [
+    "Neocities",
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "title": "the doll archive (wip)",
+   "description": "The apple tree under the sea hemlocke springs",
+   "category": "Retro",
+   "confidence": 0.79,
+   "tags": [],
+   "fingerprint": "thedollarchivewiptheappletreeundertheseahemlockesprings",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-01",
+   "first_seen": 2023,
+   "screenshot_file": "73ddec685cd131acdbd6.jpg"
+  },
+  {
+   "url": "https://philia995.neocities.org",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-01",
+   "checked": "2026-11-01",
+   "fails": 0,
+   "aliases": [
+    "philia995.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.08,
+   "https": true,
+   "words": 295,
+   "embed": true,
+   "safety_checked": "2026-11-01",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "the ether personified...",
+   "description": "Punish ethel cain creation 9million conspiracy paramore in-between title flight screaming loathe the bomb dot com v2.0 sleeping with sirens the red chevelle",
+   "category": "Retro",
+   "confidence": 0.75,
+   "tags": [],
+   "fingerprint": "theetherpersonifiedpunishethelcaincreation9millionconspiracyparamoreinbetweentitleflight",
+   "vibes": [
+    "artsy",
+    "cozy",
+    "handmade",
+    "retro"
+   ],
+   "archive_checked": "2026-11-01",
+   "first_seen": 2022,
+   "screenshot_file": "a0d284dc30c163ae99d0.jpg"
+  },
+  {
+   "url": "https://chronodove.neocities.org",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-01",
+   "checked": "2026-11-01",
+   "fails": 0,
+   "aliases": [
+    "chronodove.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.06,
+   "https": true,
+   "words": 403,
+   "embed": true,
+   "safety_checked": "2026-11-01",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "chronodove ∴ home",
+   "description": "I'm dove and this is my whine zone. to be more specific, this is my commonplace and personal log as i love to track things. i write about my life and share anything that i've created.",
+   "category": "Personal",
+   "confidence": 0.69,
+   "tags": [],
+   "fingerprint": "chronodovehomeimdoveandthisismywhinezonetobemorespecificthisismycommonplace",
+   "vibes": [
+    "handmade",
+    "retro"
+   ],
+   "archive_checked": "2026-11-01",
+   "first_seen": 2023,
+   "screenshot_file": "9754e0841850c2db2273.jpg"
+  },
+  {
+   "url": "https://moekkis.neocities.org",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-01",
+   "checked": "2026-11-01",
+   "fails": 0,
+   "aliases": [
+    "moekkis.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.1,
+   "https": true,
+   "words": 213,
+   "embed": true,
+   "safety_checked": "2026-11-01",
+   "tech": [
+    "jQuery",
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "Look at me tenderly",
+   "description": "Welcome to moekkis! this site was created in april 2025, though i have been coding in html since 2021, beginning with carrd and then upgrading to neocities when carrd wasn't enough.",
+   "category": "Retro",
+   "confidence": 0.67,
+   "tags": [
+    "Developer"
+   ],
+   "fingerprint": "lookatmetenderlywelcometomoekkisthissitewascreatedinapril2025thoughihavebeencodi",
+   "vibes": [
+    "artsy",
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-01",
+   "first_seen": 2025,
+   "screenshot_file": "9baeff7ce1218047e2c7.jpg"
+  },
+  {
+   "url": "https://hosokava.neocities.org",
+   "source": "link from 3599.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-01",
+   "checked": "2026-11-01",
+   "fails": 0,
+   "aliases": [
+    "hosokava.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.06,
+   "https": true,
+   "words": 255,
+   "embed": true,
+   "safety_checked": "2026-11-01",
+   "tech": [
+    "Neocities",
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "title": "hosokava'nın blogsitesi",
+   "description": "Türkçe blog sitem. Blogumu, projelerimi, yazılarımı görebilirsiniz. Samimi bloglarımdan bilgi verici içeriklere, dilbilim yazılarından 1:1 Akihabara Proje'sine, aradığınız veya aramadığınız her şey.",
+   "category": "Retro",
+   "confidence": 0.65,
+   "tags": [],
+   "fingerprint": "hosokavannblogsitesitrkeblogsitemblogumuprojelerimiyazlarmgrebilirsinizsamimiblogl",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-01",
+   "first_seen": 2024,
+   "screenshot_file": "9a69d7a7e903c8f18eb6.jpg"
+  },
+  {
+   "url": "https://kuroi.neocities.org",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-01",
+   "checked": "2026-11-01",
+   "fails": 0,
+   "aliases": [
+    "kuroi.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.12,
+   "https": true,
+   "words": 547,
+   "embed": true,
+   "safety_checked": "2026-11-01",
+   "tech": [
+    "jQuery",
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "kuroiOS Desktop",
+   "description": "Kuroi Chats 3.0 is open! Powered by Divcord.gg",
+   "category": "Retro",
+   "confidence": 0.65,
+   "tags": [],
+   "fingerprint": "kuroiosdesktopkuroichats30isopenpoweredbydivcordgg",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-11-01",
+   "first_seen": 2025,
+   "screenshot_file": "557b6833b85cfe856afe.jpg"
+  },
+  {
+   "url": "https://yesile.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-01",
+   "checked": "2026-11-01",
+   "fails": 0,
+   "aliases": [
+    "yesile.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.19,
+   "https": true,
+   "words": 2012,
+   "embed": true,
+   "safety_checked": "2026-11-01",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "title": "Lis' Character Repo",
+   "description": "Gallery: Last updated 9/9/26 (Full Gallery - Lydia Game Stuff)",
+   "category": "Art",
+   "confidence": 0.62,
+   "tags": [
+    "Retro"
+   ],
+   "fingerprint": "lischaracterrepogallerylastupdated9926fullgallerylydiagamestuff",
+   "vibes": [
+    "artsy",
+    "playful",
+    "handmade"
+   ],
+   "archive_checked": "2026-11-01",
+   "first_seen": 2025,
+   "screenshot_file": "f3ee68a8a38061b9a8a5.jpg"
+  },
+  {
+   "url": "https://salinebomber.neocities.org",
+   "source": "link from jaiden2013.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-01",
+   "checked": "2026-11-01",
+   "fails": 0,
+   "aliases": [
+    "salinebomber.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.08,
+   "https": true,
+   "words": 115,
+   "embed": true,
+   "safety_checked": "2026-11-01",
+   "tech": [
+    "Neocities",
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "title": "this is my internet treehouse (Formerly known as Starrybell)",
+   "description": "Check out the links and text below to find cool info or to get to know me a little better",
+   "category": "Retro",
+   "confidence": 0.6,
+   "tags": [
+    "Retro"
+   ],
+   "fingerprint": "thisismyinternettreehouseformerlyknownasstarrybellcheckoutthelinksandtextbelowtofindcoolinfoortogettoknowmealitt",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-01",
+   "first_seen": 2026,
+   "screenshot_file": "c0910c5644656695b219.jpg"
   }
  ]
 }

@@ -1,19 +1,19 @@
 {
- "total": 125,
+ "total": 140,
  "dead": 4,
  "flagged": 0,
- "runs": 30,
- "last_run": "2026-11-01T17:09:49Z",
+ "runs": 31,
+ "last_run": "2026-11-01T21:13:44Z",
  "found_last_run": 15,
  "beta": true,
  "categories": {
-  "Retro": 75,
-  "Personal": 18,
+  "Retro": 88,
+  "Personal": 19,
   "Developer": 7,
   "Tools": 5,
   "Communities": 2,
   "Games": 5,
-  "Art": 5,
+  "Art": 6,
   "Writing": 1,
   "Science": 1,
   "Business": 2,
@@ -172,9 +172,47 @@
    "date": "2026-11-01",
    "added": 15,
    "total": 125
+  },
+  {
+   "date": "2026-11-01",
+   "added": 15,
+   "total": 140
   }
  ],
  "runs_log": [
+  {
+   "started": "2026-11-01T21:13:44Z",
+   "rejected": {
+    "duplicate": 1,
+    "lazy title": 37,
+    "parked": 15,
+    "starter template": 6,
+    "unreachable": 12,
+    "weak description": 13,
+    "unsure category": 11,
+    "empty javascript shell": 44,
+    "too few words": 26
+   },
+   "duplicates_removed": 0,
+   "sources": {
+    "hacker news": 49,
+    "lobsters": 19,
+    "neocities": 56,
+    "nekoweb": 2,
+    "tildeverse": 18,
+    "marginalia": 28,
+    "ooh.directory": 4
+   },
+   "candidates": 180,
+   "deep_links": 434,
+   "added": 15,
+   "rechecked": 82,
+   "stale_rechecked": 0,
+   "newly_dead": 0,
+   "flagged": 0,
+   "malware_list": 0,
+   "archive_years": 14
+  },
   {
    "started": "2026-11-01T17:09:49Z",
    "rejected": {
@@ -943,29 +981,6 @@
    "flagged": 0,
    "malware_list": 0,
    "archive_years": 19
-  },
-  {
-   "started": "2026-10-26T15:32:00Z",
-   "rejected": {
-    "unreachable": 11,
-    "too little content": 11,
-    "unsafe": 1,
-    "parked": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 134,
-    "lobsters": 19
-   },
-   "candidates": 100,
-   "deep_links": 0,
-   "added": 76,
-   "rechecked": 0,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 18
   }
  ],
  "reset": "2026-10-26",
