@@ -1,26 +1,24 @@
 {
- "total": 167,
- "dead": 4,
- "flagged": 0,
- "runs": 33,
- "last_run": "2026-11-02T07:43:58Z",
- "found_last_run": 15,
+ "total": 127,
+ "dead": 12,
+ "flagged": 21,
+ "runs": 34,
+ "last_run": "2026-11-02T18:29:26Z",
+ "found_last_run": 7,
  "beta": true,
  "categories": {
-  "Retro": 101,
-  "Personal": 27,
-  "Developer": 8,
+  "Retro": 76,
+  "Personal": 20,
+  "Developer": 7,
   "Tools": 5,
   "Communities": 2,
-  "Games": 8,
+  "Games": 5,
   "Art": 6,
   "Writing": 1,
-  "Science": 2,
+  "Science": 1,
   "Business": 2,
   "Technology": 1,
-  "News": 1,
-  "Education": 2,
-  "Random": 1
+  "News": 1
  },
  "bot_version": 4,
  "history": [
@@ -188,9 +186,54 @@
    "date": "2026-11-02",
    "added": 15,
    "total": 167
+  },
+  {
+   "date": "2026-11-02",
+   "added": 7,
+   "total": 127
   }
  ],
  "runs_log": [
+  {
+   "started": "2026-11-02T18:29:26Z",
+   "rejected": {
+    "duplicate": 1,
+    "too few words": 25,
+    "parked": 11,
+    "lazy title": 33,
+    "unsafe": 22,
+    "weak description": 16,
+    "empty javascript shell": 46,
+    "unsure category": 9,
+    "starter template": 5,
+    "unreachable": 5
+   },
+   "duplicates_removed": 0,
+   "sources": {
+    "hacker news": 60,
+    "lobsters": 20,
+    "tiny helpers": 4,
+    "js13k": 2,
+    "chrome experiments": 18,
+    "awesome lists": 5,
+    "useless web": 5,
+    "indieweb": 12,
+    "neocities": 55,
+    "nekoweb": 1,
+    "tildeverse": 18,
+    "marginalia": 27,
+    "ooh.directory": 4
+   },
+   "candidates": 180,
+   "deep_links": 330,
+   "added": 7,
+   "rechecked": 126,
+   "stale_rechecked": 0,
+   "newly_dead": 8,
+   "flagged": 21,
+   "malware_list": 0,
+   "archive_years": 7
+  },
   {
    "started": "2026-11-02T07:43:58Z",
    "rejected": {
@@ -991,30 +1034,6 @@
    "candidates": 100,
    "deep_links": 89,
    "added": 67,
-   "rechecked": 80,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 20
-  },
-  {
-   "started": "2026-10-27T06:22:12Z",
-   "rejected": {
-    "too little content": 19,
-    "unreachable": 18,
-    "unsafe": 2,
-    "slow": 1,
-    "not html": 1,
-    "http 202": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 92
-   },
-   "candidates": 100,
-   "deep_links": 69,
-   "added": 58,
    "rechecked": 80,
    "stale_rechecked": 0,
    "newly_dead": 0,
