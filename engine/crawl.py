@@ -31,7 +31,7 @@ BIG = {"google.com","youtube.com","youtu.be","facebook.com","twitter.com","//x.c
        "nytimes.com","bbc.co.uk","bbc.com","theguardian.com","cnn.com","bloomberg.com","substack.com","imgur.com",
        "discord.gg","discord.com","t.me","whatsapp.com","pinterest.com","goo.gl","play.google.com","wiby.me","bearblog.dev",
        "web.archive.org","mastodon.social","bsky.app","threads.net","linktr.ee","patreon.com","ko-fi.com","buymeacoffee.com"}
-BAD_TLDS = (".zip", ".mov", ".xyz.ru")
+BAD_TLDS = (".zip", ".mov", ".xyz.ru", ".gov", ".mil")
 PARKED = ["domain for sale","buy this domain","this domain is for sale","domain is parked","parked free","parkingcrew",
           "sedoparking","account suspended","coming soon","under construction","website is under construction",
           "default web site page","welcome to nginx","apache2 ubuntu default page","it works!","index of /",
@@ -129,7 +129,7 @@ def norm(u):
     except Exception: return None
     if p.scheme not in ("http", "https") or not p.netloc or "@" in p.netloc: return None
     h = canon_host(p.netloc)
-    if not re.fullmatch(r"[a-z0-9.-]+\.[a-z0-9-]{2,}", h) or h.endswith(BAD_TLDS) or ".." in h: return None
+    if not re.fullmatch(r"[a-z0-9.-]+\.[a-z0-9-]{2,}", h) or h.endswith(BAD_TLDS) or ".gov." in h or ".mil." in h or ".." in h: return None
     if re.fullmatch(r"[\d.]+", h): return None
     return "https://" + h
 
@@ -230,8 +230,9 @@ GENERIC = {"home","homepage","home page","welcome","index","main","main page","o
 PLATFORM = {"substack","wordpress","wordpress.com","blogger","blogspot","medium","ghost","squarespace","wix","weebly",
             "notion","carrd","github pages","neocities","tumblr","bear blog","ʕ•ᴥ•ʔ bear blog","micro.blog","write.as",
             "hashnode","dev.to","linktree","shopify","webflow","framer","jekyll","hugo","next.js","gatsby"}
-PREFIX = re.compile(r"^(welcome to|welcome|home page of|homepage of|home of|the official (web)?site of|official (web)?site of)\b\s*[:\-–—|,!]?\s*", re.I)
 DOMAINLIKE = re.compile(r"(https?://)?(www\.)?[\w.-]+\.[a-z]{2,}/?")
+PREFIX = re.compile(r"^(welcome to|welcome|home page of|homepage of|home of|the official (web)?site of|official (web)?site of)\b\s*[:\-–—|,!]?|^(/[a-zA-Z0-9_.-]+)+/\s*", re.I)
+
 
 def good_name(t):
     t = PREFIX.sub("", clean(t)).strip(" -|·:•»")
@@ -351,6 +352,12 @@ def junk_reason(p, html, title="", h=""):
     ptitle = clean(p.title).lower()
     first = " ".join(p.words[:150]).lower()
     heads = " ".join([ptitle] + [x.lower() for x in p.heads])
+    B2B_CONSULTING = [
+    "clients have included", "clients include", "consulting services",
+    "available for contracting", "available for consulting", "contact our sales team",
+    "request an enterprise demo", "b2b software", "schedule a demo",
+    "staff-level engineer available for", "hire our agency", "our consulting practice"]  
+    if any(w in vlow[:8000] for w in B2B_CONSULTING): return "corporate consulting"   
     if any(w in ptitle or w in first for w in CHALLENGE) or re.search(r"cf-turnstile|challenge-platform|cf_chl_", low_html): return "bot challenge"
     if any(w in ptitle or w in vlow[:6000] or w in low_html[:20000] for w in PARKED): return "parked"
     if any(w in ptitle or w in vlow[:6000] for w in TEMPLATE) or any(heads.startswith(w) or (" " + w) in (" " + ptitle) for w in TEMPLATE_HEAD):
