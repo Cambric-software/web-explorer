@@ -34,7 +34,25 @@
    "load_time": 0.06,
    "safety_checked": "2026-11-02",
    "archive_checked": "2026-10-31",
-   "first_seen": 2021
+   "first_seen": 2021,
+   "vector": [
+    0.22,
+    0.05,
+    0.0,
+    0.05,
+    0.2,
+    0.2,
+    0.2,
+    0.266,
+    0.85,
+    0.67,
+    0.15,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://maya.land",
@@ -68,7 +86,25 @@
    "load_time": 0.22,
    "safety_checked": "2026-11-02",
    "archive_checked": "2026-10-31",
-   "first_seen": 2018
+   "first_seen": 2018,
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.3,
+    0.75,
+    0.1,
+    0.234,
+    0.2,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://danluu.com",
@@ -100,7 +136,25 @@
    "lang": "?",
    "load_time": 0.03,
    "safety_checked": "2026-11-02",
-   "archive_checked": "2026-10-31"
+   "archive_checked": "2026-10-31",
+   "vector": [
+    0.72,
+    0.05,
+    0.0,
+    0.05,
+    1.0,
+    0.1,
+    0.1,
+    0.594,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://strictllm.com",
@@ -134,7 +188,25 @@
    "load_time": 0.27,
    "safety_checked": "2026-11-02",
    "archive_checked": "2026-10-31",
-   "first_seen": 2024
+   "first_seen": 2024,
+   "vector": [
+    0.72,
+    0.05,
+    0.0,
+    0.05,
+    0.3,
+    0.1,
+    0.3,
+    0.512,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://ourspacevibes.com",
@@ -166,7 +238,25 @@
    "screenshot_file": "5cf85ab57864d497f927.jpg",
    "robot_note": "too little content (2026-11-02)",
    "archive_checked": "2026-10-31",
-   "first_seen": 2026
+   "first_seen": 2026,
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.25,
+    0.1,
+    0.1,
+    0.1,
+    0.213,
+    0.85,
+    0.29,
+    0.15,
+    0.85,
+    0.0,
+    0.4,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://neal.fun",
@@ -199,7 +289,25 @@
    "screenshot_file": "bb2ef3a5e780cf2d6b65.jpg",
    "archive_checked": "2026-10-31",
    "first_seen": 2017,
-   "robot_note": "unreachable (2026-11-02)"
+   "robot_note": "unreachable (2026-11-02)",
+   "vector": [
+    0.1,
+    1.0,
+    0.0,
+    0.25,
+    0.1,
+    0.1,
+    0.5,
+    0.54,
+    0.5,
+    0.05,
+    0.6,
+    0.85,
+    1.0,
+    0.4,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://jvns.ca",
@@ -234,7 +342,25 @@
    "first_seen": 2012,
    "lang": "en",
    "load_time": 0.07,
-   "safety_checked": "2026-11-02"
+   "safety_checked": "2026-11-02",
+   "vector": [
+    0.72,
+    0.17,
+    0.0,
+    0.05,
+    0.9,
+    0.3,
+    0.2,
+    1.0,
+    0.2,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://16colo.rs",
@@ -271,7 +397,25 @@
    "first_seen": 2018,
    "lang": "en",
    "load_time": 0.68,
-   "safety_checked": "2026-11-02"
+   "safety_checked": "2026-11-02",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.35,
+    0.2,
+    0.1,
+    0.1,
+    0.33,
+    0.85,
+    1.0,
+    0.15,
+    0.85,
+    0.0,
+    0.4,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://synthtopia.com",
@@ -306,7 +450,25 @@
    "first_seen": 2003,
    "lang": "en",
    "load_time": 0.63,
-   "safety_checked": "2026-11-02"
+   "safety_checked": "2026-11-02",
+   "vector": [
+    0.1,
+    0.05,
+    0.45,
+    0.8,
+    0.1,
+    0.1,
+    0.1,
+    0.32,
+    0.5,
+    0.05,
+    0.3,
+    0.85,
+    0.0,
+    0.4,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://coryd.dev",
@@ -341,7 +503,25 @@
    "first_seen": 2021,
    "lang": "en",
    "load_time": 0.58,
-   "safety_checked": "2026-11-02"
+   "safety_checked": "2026-11-02",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.95,
+    0.1,
+    0.297,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://wiby.me",
@@ -374,7 +554,25 @@
    "screenshot_file": "cbfcde087695e66409b5.jpg",
    "archive_checked": "2026-10-31",
    "first_seen": 2017,
-   "robot_note": "big platform (2026-11-02)"
+   "robot_note": "big platform (2026-11-02)",
+   "vector": [
+    0.84,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.2,
+    0.3,
+    0.25,
+    0.55,
+    0.17,
+    0.15,
+    0.85,
+    1.0,
+    0.4,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://robinsloan.com",
@@ -408,7 +606,25 @@
    "archive_checked": "2026-10-31",
    "lang": "en",
    "load_time": 0.18,
-   "safety_checked": "2026-11-02"
+   "safety_checked": "2026-11-02",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.7,
+    0.2,
+    0.1,
+    0.629,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://virtuallyfun.com",
@@ -442,7 +658,25 @@
    "first_seen": 2011,
    "lang": "en",
    "load_time": 1.31,
-   "safety_checked": "2026-11-02"
+   "safety_checked": "2026-11-02",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.3,
+    0.1,
+    0.1,
+    1.0,
+    0.55,
+    0.79,
+    0.3,
+    0.85,
+    0.0,
+    0.4,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://tilde.green",
@@ -478,7 +712,25 @@
    "archive_checked": "2026-10-31",
    "first_seen": 2022,
    "screenshot_file": "1f68e8e45024e60845b7.jpg",
-   "locked": true
+   "locked": true,
+   "vector": [
+    0.22,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.293,
+    0.2,
+    0.15,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://srcefiro.neocities.org",
@@ -513,7 +765,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2026,
-   "screenshot_file": "d60c0ecb9a6a938596c4.jpg"
+   "screenshot_file": "d60c0ecb9a6a938596c4.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.237,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://serce.me",
@@ -547,7 +817,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2016,
-   "screenshot_file": "62e790edff1330c9990b.jpg"
+   "screenshot_file": "62e790edff1330c9990b.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.85,
+    0.1,
+    0.252,
+    0.2,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.4,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://esolangs.org",
@@ -581,7 +869,25 @@
    "archive_checked": "2026-10-31",
    "first_seen": 2005,
    "screenshot_file": "00160a4fac3e7883d490.jpg",
-   "locked": true
+   "locked": true,
+   "vector": [
+    0.6,
+    0.05,
+    0.0,
+    0.05,
+    0.6,
+    0.1,
+    0.1,
+    0.345,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://lunamilk.neocities.org",
@@ -618,7 +924,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2024,
-   "screenshot_file": "8124efcadc79c3f96c71.jpg"
+   "screenshot_file": "8124efcadc79c3f96c71.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.284,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://atlyss.neocities.org",
@@ -655,7 +979,25 @@
    "archive_checked": "2026-10-31",
    "first_seen": 2024,
    "screenshot_file": "69cc2abc9c99d76d58bd.jpg",
-   "locked": true
+   "locked": true,
+   "vector": [
+    0.1,
+    0.29,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.2,
+    0.282,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://science.nasa.gov",
@@ -690,7 +1032,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 1998,
-   "screenshot_file": "97b4af6ee05e83baa450.jpg"
+   "screenshot_file": "97b4af6ee05e83baa450.jpg",
+   "vector": [
+    0.22,
+    0.05,
+    0.0,
+    0.15,
+    0.8,
+    0.1,
+    0.1,
+    0.78,
+    0.55,
+    0.17,
+    0.15,
+    0.85,
+    0.0,
+    0.4,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://saltydracon.neocities.org",
@@ -725,7 +1085,25 @@
     "minimal"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "042c3bdfad5ccf5ca963.jpg"
+   "screenshot_file": "042c3bdfad5ccf5ca963.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.26,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://colexdev.neocities.org",
@@ -760,7 +1138,25 @@
     "minimal"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "13d671cffd69849d6e42.jpg"
+   "screenshot_file": "13d671cffd69849d6e42.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    1.0,
+    0.1,
+    0.245,
+    0.2,
+    0.15,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://brooklynights.nekoweb.org",
@@ -795,7 +1191,25 @@
     "retro"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "f36fe93b2eecb915e976.jpg"
+   "screenshot_file": "f36fe93b2eecb915e976.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.15,
+    0.7,
+    0.3,
+    0.3,
+    0.1,
+    0.581,
+    0.85,
+    0.27,
+    0.45,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://notyetknowspace.neocities.org",
@@ -830,7 +1244,25 @@
     "minimal"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "e13f522784b979cf1b7d.jpg"
+   "screenshot_file": "e13f522784b979cf1b7d.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.1,
+    0.3,
+    0.1,
+    0.251,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.75,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://lemire.me",
@@ -865,7 +1297,25 @@
    ],
    "archive_checked": "2026-10-31",
    "screenshot_file": "82a1064f631dc1c96f42.jpg",
-   "robot_note": "http 202 (2026-11-02)"
+   "robot_note": "http 202 (2026-11-02)",
+   "vector": [
+    0.6,
+    0.05,
+    0.0,
+    0.05,
+    0.8,
+    0.2,
+    0.1,
+    1.0,
+    0.2,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.4,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://britains-disk.pages.dev",
@@ -899,7 +1349,25 @@
    ],
    "archive_checked": "2026-10-31",
    "screenshot_file": "7f3bafd9dad26e7ef70b.jpg",
-   "locked": true
+   "locked": true,
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.7,
+    0.1,
+    0.1,
+    0.1,
+    0.263,
+    0.2,
+    0.05,
+    0.3,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://henry.codes",
@@ -932,7 +1400,25 @@
    "fingerprint": "henryfromonlinethepersonalsiteportfolioofcreativewebdeveloperhenryfromonline",
    "vibes": [],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "7b4ff0a5441563cf0681.jpg"
+   "screenshot_file": "7b4ff0a5441563cf0681.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.75,
+    0.1,
+    0.386,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.4,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://xn--sr8hvo.ws",
@@ -966,7 +1452,25 @@
     "handmade"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "9249b50ad260530cff76.jpg"
+   "screenshot_file": "9249b50ad260530cff76.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.2,
+    0.2,
+    0.307,
+    0.85,
+    0.79,
+    0.15,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://computer.rip",
@@ -1001,7 +1505,25 @@
     "handmade"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "ff8af27b613454ddae89.jpg"
+   "screenshot_file": "ff8af27b613454ddae89.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.5,
+    0.75,
+    0.1,
+    0.817,
+    0.2,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://erikjohannes.no",
@@ -1037,7 +1559,25 @@
     "handmade"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "201cefab3f0c7c628810.jpg"
+   "screenshot_file": "201cefab3f0c7c628810.jpg",
+   "vector": [
+    0.22,
+    0.05,
+    0.0,
+    0.05,
+    0.2,
+    0.75,
+    0.1,
+    0.319,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://zzounds.com",
@@ -1071,7 +1611,25 @@
     "handmade"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "e9c3459aa42d941c579a.jpg"
+   "screenshot_file": "e9c3459aa42d941c579a.jpg",
+   "vector": [
+    0.22,
+    0.17,
+    0.15,
+    0.05,
+    0.3,
+    0.1,
+    0.2,
+    0.629,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://recurse.com",
@@ -1105,7 +1663,25 @@
     "handmade"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "122a5d2c33bafac9ebf7.jpg"
+   "screenshot_file": "122a5d2c33bafac9ebf7.jpg",
+   "vector": [
+    0.6,
+    0.17,
+    0.0,
+    0.05,
+    0.6,
+    0.1,
+    0.2,
+    0.386,
+    0.5,
+    0.05,
+    0.3,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://upclabelmaker.com",
@@ -1138,7 +1714,25 @@
     "handmade"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "ebbd9a29264009a8e3c8.jpg"
+   "screenshot_file": "ebbd9a29264009a8e3c8.jpg",
+   "vector": [
+    0.96,
+    0.05,
+    0.0,
+    0.05,
+    0.3,
+    0.1,
+    0.3,
+    0.52,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://zachleat.com",
@@ -1170,7 +1764,25 @@
     "minimal"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "8593f442595835e94d18.jpg"
+   "screenshot_file": "8593f442595835e94d18.jpg",
+   "vector": [
+    0.6,
+    0.05,
+    0.0,
+    0.05,
+    0.6,
+    0.2,
+    0.1,
+    0.262,
+    0.2,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.4,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://pixeliana.neocities.org",
@@ -1204,7 +1816,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2024,
-   "screenshot_file": "505b48b4515d72d93e21.jpg"
+   "screenshot_file": "505b48b4515d72d93e21.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.3,
+    0.3,
+    0.1,
+    0.407,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://webring.nekoweb.org",
@@ -1238,7 +1868,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2024,
-   "screenshot_file": "6f743ef71c7c6cc70cca.jpg"
+   "screenshot_file": "6f743ef71c7c6cc70cca.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.1,
+    0.3,
+    0.1,
+    0.237,
+    0.55,
+    0.89,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://roring.neocities.org",
@@ -1274,7 +1922,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2025,
-   "screenshot_file": "cb088823349cfed89dac.jpg"
+   "screenshot_file": "cb088823349cfed89dac.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.236,
+    0.55,
+    0.89,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://patchwork.nekoweb.org",
@@ -1310,7 +1976,25 @@
    "archive_checked": "2026-10-31",
    "first_seen": 2025,
    "screenshot_file": "9fe0a9b090f736b7ade1.jpg",
-   "locked": true
+   "locked": true,
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.95,
+    0.1,
+    0.265,
+    0.55,
+    0.27,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://dizzt3942.neocities.org",
@@ -1347,7 +2031,25 @@
    "archive_checked": "2026-10-31",
    "first_seen": 2026,
    "screenshot_file": "a2245b3cc2d8a431b5fd.jpg",
-   "robot_note": "too little content (2026-11-02)"
+   "robot_note": "too little content (2026-11-02)",
+   "vector": [
+    0.1,
+    0.29,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.3,
+    0.212,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://zietek.dev",
@@ -1381,43 +2083,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2024,
-   "screenshot_file": "88b6b04e39d63e936d43.jpg"
-  },
-  {
-   "url": "https://hisahito.neocities.org",
-   "source": "neocities",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-10-31",
-   "checked": "2026-11-02",
-   "fails": 0,
-   "aliases": [
-    "hisahito.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.22,
-   "https": true,
-   "words": 1614,
-   "embed": true,
-   "safety_checked": "2026-11-02",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "title": "angel's yaoi realm...",
-   "description": "Hey guys ! i opened my commissions after a very very long time, and im gonna start with 3 euro chibi commissions !",
-   "category": "Retro",
-   "confidence": 0.67,
-   "tags": [],
-   "fingerprint": "angelsyaoirealmheyguysiopenedmycommissionsafteraveryverylongtimeandimgonnasta",
-   "vibes": [
-    "playful",
-    "handmade",
-    "retro"
-   ],
-   "archive_checked": "2026-10-31",
-   "first_seen": 2026,
-   "screenshot_file": "ff24134a9ff8ee5a5edb.jpg"
+   "screenshot_file": "88b6b04e39d63e936d43.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.1,
+    0.1,
+    0.331,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://better-left-unsaid.neocities.org",
@@ -1455,7 +2139,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2026,
-   "screenshot_file": "848839d43323b0251441.jpg"
+   "screenshot_file": "848839d43323b0251441.jpg",
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.05,
+    0.3,
+    0.3,
+    0.2,
+    1.0,
+    0.55,
+    0.77,
+    0.3,
+    0.85,
+    1.0,
+    0.75,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://wiki.tilde.green",
@@ -1493,7 +2195,25 @@
    "archive_checked": "2026-10-31",
    "first_seen": 2023,
    "screenshot_file": "8f3138567bd790326fdf.jpg",
-   "locked": true
+   "locked": true,
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.7,
+    0.3,
+    0.1,
+    0.231,
+    0.2,
+    0.15,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.45
+   ]
   },
   {
    "url": "https://daliwali.neocities.org",
@@ -1529,7 +2249,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2024,
-   "screenshot_file": "660aa4afcfb7ec8bb3e2.jpg"
+   "screenshot_file": "660aa4afcfb7ec8bb3e2.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.1,
+    0.3,
+    0.1,
+    0.275,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://bachira.neocities.org",
@@ -1564,7 +2302,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2025,
-   "screenshot_file": "73aa98be95bee38ab597.jpg"
+   "screenshot_file": "73aa98be95bee38ab597.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    1.0,
+    0.1,
+    0.324,
+    0.85,
+    0.27,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://jaiden2013.neocities.org",
@@ -1601,7 +2357,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2025,
-   "screenshot_file": "95fb595b0708e77865a0.jpg"
+   "screenshot_file": "95fb595b0708e77865a0.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.365,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://curate-of-the-curious.neocities.org",
@@ -1639,7 +2413,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2022,
-   "screenshot_file": "bc34c0a1d1d1688ba0a8.jpg"
+   "screenshot_file": "bc34c0a1d1d1688ba0a8.jpg",
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.05,
+    0.3,
+    0.95,
+    0.2,
+    0.454,
+    0.5,
+    0.15,
+    0.6,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://epicgamerwebsite.neocities.org",
@@ -1675,7 +2467,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2026,
-   "screenshot_file": "32cd6cc80b96f2f80244.jpg"
+   "screenshot_file": "32cd6cc80b96f2f80244.jpg",
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.05,
+    0.2,
+    0.95,
+    0.1,
+    0.331,
+    0.5,
+    0.15,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://eclecticlight.co",
@@ -1711,7 +2521,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2015,
-   "screenshot_file": "2ff54e5c163edbc0b038.jpg"
+   "screenshot_file": "2ff54e5c163edbc0b038.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.1,
+    0.1,
+    0.1,
+    0.316,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.4,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://futhark-lang.org",
@@ -1748,7 +2576,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2016,
-   "screenshot_file": "d8e5f37b27e724d4a585.jpg"
+   "screenshot_file": "d8e5f37b27e724d4a585.jpg",
+   "vector": [
+    0.6,
+    0.05,
+    0.0,
+    0.05,
+    0.6,
+    0.1,
+    0.1,
+    0.33,
+    0.5,
+    0.05,
+    0.3,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://11ty.dev",
@@ -1779,7 +2625,25 @@
    "vibes": [],
    "archive_checked": "2026-10-31",
    "first_seen": 2019,
-   "screenshot_file": "8de6a74ec5bb61822241.jpg"
+   "screenshot_file": "8de6a74ec5bb61822241.jpg",
+   "vector": [
+    0.84,
+    0.05,
+    0.0,
+    0.05,
+    0.3,
+    0.1,
+    0.3,
+    0.566,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.4,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://anoma.ly",
@@ -1814,7 +2678,25 @@
    "archive_checked": "2026-10-31",
    "first_seen": 2001,
    "screenshot_file": "43feb1d39c2e011ac867.jpg",
-   "robot_note": "too little content (2026-11-02)"
+   "robot_note": "too little content (2026-11-02)",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.7,
+    0.1,
+    0.1,
+    0.1,
+    0.213,
+    0.2,
+    0.05,
+    0.3,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://pumpkin.dance",
@@ -1851,7 +2733,25 @@
    "archive_checked": "2026-10-31",
    "first_seen": 2026,
    "screenshot_file": "f569a9c17a4b9551a8e9.jpg",
-   "locked": true
+   "locked": true,
+   "vector": [
+    0.1,
+    0.89,
+    0.3,
+    0.15,
+    0.1,
+    0.1,
+    0.4,
+    0.544,
+    0.2,
+    0.05,
+    0.3,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://kayserifserif.place",
@@ -1885,42 +2785,25 @@
     "minimal"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "207cf4fe02312a03a169.jpg"
-  },
-  {
-   "url": "https://rimoncik.neocities.org",
-   "source": "link from hisahito.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-10-31",
-   "checked": "2026-11-02",
-   "fails": 0,
-   "aliases": [
-    "rimoncik.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.09,
-   "https": true,
-   "words": 66,
-   "embed": true,
-   "safety_checked": "2026-11-02",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "title": "SCROLL DOWN!",
-   "description": "Mature content will be labeled throught the site for convenience",
-   "category": "Retro",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "scrolldownmaturecontentwillbelabeledthroughtthesiteforconvenience",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-10-31",
-   "first_seen": 2026,
-   "screenshot_file": "c29cad0e73f7dce12337.jpg"
+   "screenshot_file": "207cf4fe02312a03a169.jpg",
+   "vector": [
+    0.72,
+    0.05,
+    0.0,
+    0.15,
+    0.1,
+    0.1,
+    0.3,
+    0.218,
+    0.2,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://baggebo-the-goober.neocities.org",
@@ -1956,42 +2839,25 @@
    "archive_checked": "2026-10-31",
    "first_seen": 2024,
    "screenshot_file": "f1222c6fe2cb55563403.jpg",
-   "robot_note": "too little content (2026-11-02)"
-  },
-  {
-   "url": "https://nixiebunnie.neocities.org",
-   "source": "link from notyetknowspace.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-10-31",
-   "checked": "2026-11-02",
-   "fails": 0,
-   "aliases": [
-    "nixiebunnie.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.12,
-   "https": true,
-   "words": 162,
-   "embed": true,
-   "safety_checked": "2026-11-02",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "title": "nixiebunnie's home",
-   "description": "Hey! Before you enter this site, please take a moment to read this! I don't censor myself on this site, so there's language and potentially triggering themes.",
-   "category": "Retro",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "nixiebunnieshomeheybeforeyouenterthissitepleasetakeamomenttoreadthisidontcens",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-10-31",
-   "first_seen": 2026,
-   "screenshot_file": "6d9a97122e10f9661e0e.jpg"
+   "robot_note": "too little content (2026-11-02)",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.213,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://foxyy.neocities.org",
@@ -2027,7 +2893,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2026,
-   "screenshot_file": "0df448d1f642af15dbdf.jpg"
+   "screenshot_file": "0df448d1f642af15dbdf.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.3,
+    0.3,
+    0.1,
+    0.528,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://figurea.neocities.org",
@@ -2064,7 +2948,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2026,
-   "screenshot_file": "f343eb21c8426a83288c.jpg"
+   "screenshot_file": "f343eb21c8426a83288c.jpg",
+   "vector": [
+    0.22,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.263,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://ohnkata.neocities.org",
@@ -2099,7 +3001,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2025,
-   "screenshot_file": "e5548e0b266c9b06561a.jpg"
+   "screenshot_file": "e5548e0b266c9b06561a.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.3,
+    0.3,
+    0.1,
+    1.0,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.75,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://tabi98.neocities.org",
@@ -2134,7 +3054,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2021,
-   "screenshot_file": "4de1dde25178293b0c6f.jpg"
+   "screenshot_file": "4de1dde25178293b0c6f.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.217,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://var1ac4t.neocities.org",
@@ -2172,79 +3110,25 @@
    "archive_checked": "2026-10-31",
    "first_seen": 2025,
    "screenshot_file": "fbe6073dac4fb08cbf87.jpg",
-   "robot_note": "too little content (2026-11-02)"
-  },
-  {
-   "url": "https://inkyblinkyarts.neocities.org",
-   "source": "link page",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-10-31",
-   "checked": "2026-11-02",
-   "fails": 0,
-   "aliases": [
-    "inkyblinkyarts.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.18,
-   "https": true,
-   "words": 60,
-   "embed": true,
-   "safety_checked": "2026-11-02",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "title": "Inky's Inkwell!",
-   "description": "This site is run by an adult, and may contain the above subjects.",
-   "category": "Retro",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "inkysinkwellthissiteisrunbyanadultandmaycontaintheabovesubjects",
-   "vibes": [
-    "handmade",
-    "minimal",
-    "retro"
-   ],
-   "archive_checked": "2026-10-31",
-   "first_seen": 2023,
-   "screenshot_file": "e4e61c12d577c49760bf.jpg"
-  },
-  {
-   "url": "https://pklucky.neocities.org",
-   "source": "link from notyetknowspace.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-10-31",
-   "checked": "2026-11-02",
-   "fails": 0,
-   "aliases": [
-    "pklucky.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.23,
-   "https": true,
-   "words": 203,
-   "embed": true,
-   "safety_checked": "2026-11-02",
-   "tech": [
-    "jQuery",
-    "Neocities",
-    "Hand-coded"
-   ],
-   "title": "PKLucky's Beachside Lounge",
-   "description": "Oct 30: New fanfic: [R-18] I Wrote This When AO3 Was Down, Sue Me added.",
-   "category": "Retro",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "pkluckysbeachsideloungeoct30newfanficr18iwrotethiswhenao3wasdownsuemeadded",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-10-31",
-   "first_seen": 2022,
-   "screenshot_file": "51d4aaad4ba88d0f305c.jpg"
+   "robot_note": "too little content (2026-11-02)",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.212,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://achill-m-u-g-e-n-website.neocities.org",
@@ -2279,7 +3163,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2025,
-   "screenshot_file": "2396695cf00d8a0942a5.jpg"
+   "screenshot_file": "2396695cf00d8a0942a5.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.309,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://bulltown.neocities.org",
@@ -2315,7 +3217,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2024,
-   "screenshot_file": "e749c0d910dae80d7a02.jpg"
+   "screenshot_file": "e749c0d910dae80d7a02.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.2,
+    0.3,
+    0.1,
+    0.275,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://wriorango.neocities.org",
@@ -2350,7 +3270,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2024,
-   "screenshot_file": "7274205ffa45222c95e3.jpg"
+   "screenshot_file": "7274205ffa45222c95e3.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.236,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://kolala.neocities.org",
@@ -2385,7 +3323,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2024,
-   "screenshot_file": "f5739920ff8a6263f8d8.jpg"
+   "screenshot_file": "f5739920ff8a6263f8d8.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.222,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://badgraph1csghost.neocities.org",
@@ -2421,7 +3377,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2022,
-   "screenshot_file": "98b9c9f34a59fe9454b2.jpg"
+   "screenshot_file": "98b9c9f34a59fe9454b2.jpg",
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.05,
+    0.2,
+    0.3,
+    0.1,
+    0.236,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://hypercrites.neocities.org",
@@ -2455,7 +3429,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2026,
-   "screenshot_file": "fd48bfaff0db7fc57f80.jpg"
+   "screenshot_file": "fd48bfaff0db7fc57f80.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.3,
+    0.3,
+    0.1,
+    0.583,
+    0.85,
+    0.77,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://chataigne.neocities.org",
@@ -2490,44 +3482,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2025,
-   "screenshot_file": "839a17b112627dceff38.jpg"
-  },
-  {
-   "url": "https://soulkuiro.neocities.org",
-   "source": "link from notyetknowspace.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-10-31",
-   "checked": "2026-11-02",
-   "fails": 0,
-   "aliases": [
-    "soulkuiro.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.06,
-   "https": true,
-   "words": 124,
-   "embed": true,
-   "safety_checked": "2026-11-02",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "title": "ETERNAL heavenly paradise",
-   "description": "ETERNAL heavenly paradise contains autoplay music, flashing colors / gifs, images with sounds on hover.",
-   "category": "Retro",
-   "confidence": 0.74,
-   "tags": [],
-   "fingerprint": "eternalheavenlyparadiseeternalheavenlyparadisecontainsautoplaymusicflashingcolorsgifsimage",
-   "vibes": [
-    "artsy",
-    "handmade",
-    "minimal",
-    "retro"
-   ],
-   "archive_checked": "2026-10-31",
-   "first_seen": 2024,
-   "screenshot_file": "3f8d5cd71188d296c190.jpg"
+   "screenshot_file": "839a17b112627dceff38.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.3,
+    0.3,
+    0.1,
+    0.632,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://piko-chan1838.neocities.org",
@@ -2563,7 +3536,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2026,
-   "screenshot_file": "51c3934dceb5fb1ea7a0.jpg"
+   "screenshot_file": "51c3934dceb5fb1ea7a0.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.15,
+    0.15,
+    0.1,
+    0.3,
+    0.1,
+    0.225,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://dogt00thoffice.neocities.org",
@@ -2598,7 +3589,25 @@
    ],
    "archive_checked": "2026-10-31",
    "first_seen": 2026,
-   "screenshot_file": "a40db713d9c1d618e60e.jpg"
+   "screenshot_file": "a40db713d9c1d618e60e.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.9,
+    0.3,
+    0.1,
+    0.664,
+    0.85,
+    0.27,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://starry-knight.neocities.org",
@@ -2632,7 +3641,25 @@
     "minimal"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "c972d6992926c4794ca6.jpg"
+   "screenshot_file": "c972d6992926c4794ca6.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.283,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://moon-room.neocities.org",
@@ -2670,7 +3697,25 @@
     "retro"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "6f3ce7f9d4df9d258ef1.jpg"
+   "screenshot_file": "6f3ce7f9d4df9d258ef1.jpg",
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.8,
+    0.1,
+    0.3,
+    0.3,
+    0.322,
+    0.85,
+    0.27,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://knoxstation.neocities.org",
@@ -2709,7 +3754,25 @@
     "retro"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "9bdb152db1f54a48aedf.jpg"
+   "screenshot_file": "9bdb152db1f54a48aedf.jpg",
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.15,
+    0.1,
+    0.95,
+    0.2,
+    0.372,
+    0.85,
+    0.27,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://sakuraducky.neocities.org",
@@ -2746,7 +3809,25 @@
     "retro"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "bd8d69320a85241c397c.jpg"
+   "screenshot_file": "bd8d69320a85241c397c.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.7,
+    0.1,
+    0.3,
+    0.1,
+    0.216,
+    0.55,
+    0.27,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://spinycat.neocities.org",
@@ -2782,7 +3863,25 @@
     "handmade"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "451cc60b56fa1abb5b21.jpg"
+   "screenshot_file": "451cc60b56fa1abb5b21.jpg",
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.05,
+    0.1,
+    0.4,
+    0.2,
+    0.375,
+    0.85,
+    0.77,
+    0.45,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://snace.neocities.org",
@@ -2818,7 +3917,25 @@
     "deep read"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "890c90135a1a55a5ac12.jpg"
+   "screenshot_file": "890c90135a1a55a5ac12.jpg",
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.05,
+    0.3,
+    0.95,
+    0.2,
+    1.0,
+    0.2,
+    0.15,
+    0.3,
+    0.85,
+    1.0,
+    0.75,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://myrdin.neocities.org",
@@ -2854,7 +3971,25 @@
     "minimal"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "a4549384b9a2b17f3677.jpg"
+   "screenshot_file": "a4549384b9a2b17f3677.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.4,
+    0.1,
+    0.218,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://tectrix.neocities.org",
@@ -2891,7 +4026,25 @@
     "minimal"
    ],
    "archive_checked": "2026-10-31",
-   "screenshot_file": "04d5a2891217f547fc83.jpg"
+   "screenshot_file": "04d5a2891217f547fc83.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.95,
+    0.1,
+    0.245,
+    0.2,
+    0.15,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://neo-neighborhoods.neocities.org",
@@ -2927,7 +4080,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2019,
-   "screenshot_file": "960d60734f0322b93dcf.jpg"
+   "screenshot_file": "960d60734f0322b93dcf.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.28,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://cygnet.neocities.org",
@@ -2964,7 +4135,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2023,
-   "screenshot_file": "3d2e373da96e7ebab932.jpg"
+   "screenshot_file": "3d2e373da96e7ebab932.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.28,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://wonny-cat-and-friends.neocities.org",
@@ -2999,7 +4188,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2024,
-   "screenshot_file": "3eeccc9f7d926a72f2ad.jpg"
+   "screenshot_file": "3eeccc9f7d926a72f2ad.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.224,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://prumano.neocities.org",
@@ -3034,7 +4241,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2026,
-   "screenshot_file": "cff8107a3dfb4aed6af7.jpg"
+   "screenshot_file": "cff8107a3dfb4aed6af7.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.321,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://tomjerry1975.neocities.org",
@@ -3069,7 +4294,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2023,
-   "screenshot_file": "ca929af52063dbebbe0f.jpg"
+   "screenshot_file": "ca929af52063dbebbe0f.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.3,
+    0.3,
+    0.1,
+    0.567,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://oliviameower.neocities.org",
@@ -3105,7 +4348,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2023,
-   "screenshot_file": "73d4b907f6c0425d7f6b.jpg"
+   "screenshot_file": "73d4b907f6c0425d7f6b.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.229,
+    0.55,
+    0.77,
+    0.15,
+    0.2,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://rhinedottir.neocities.org",
@@ -3141,7 +4402,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2024,
-   "screenshot_file": "59a53706cd1b360718f8.jpg"
+   "screenshot_file": "59a53706cd1b360718f8.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.24,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://chocochipcookiequeen.neocities.org",
@@ -3176,7 +4455,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2024,
-   "screenshot_file": "73c8002388e851ed7b92.jpg"
+   "screenshot_file": "73c8002388e851ed7b92.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.388,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://raisu.neocities.org",
@@ -3211,7 +4508,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2025,
-   "screenshot_file": "b68093132b75e909e118.jpg"
+   "screenshot_file": "b68093132b75e909e118.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.282,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://nekofetti.neocities.org",
@@ -3248,7 +4563,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2024,
-   "screenshot_file": "fcd967698dafb9210a62.jpg"
+   "screenshot_file": "fcd967698dafb9210a62.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.2,
+    0.3,
+    0.1,
+    0.243,
+    0.55,
+    0.77,
+    0.15,
+    0.2,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://rottenware.neocities.org",
@@ -3287,7 +4620,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2022,
-   "screenshot_file": "1f238dcb0a1de64105d0.jpg"
+   "screenshot_file": "1f238dcb0a1de64105d0.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.2,
+    0.95,
+    0.2,
+    0.283,
+    0.2,
+    0.15,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://rinberry.neocities.org",
@@ -3326,82 +4677,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2026,
-   "screenshot_file": "d15497240e0bb40dbcf7.jpg"
-  },
-  {
-   "url": "https://noxid-kin.neocities.org",
-   "source": "link page",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-01",
-   "checked": "2026-11-02",
-   "fails": 0,
-   "aliases": [
-    "noxid-kin.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.13,
-   "https": true,
-   "words": 127,
-   "embed": true,
-   "safety_checked": "2026-11-02",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "title": "Landing",
-   "description": "I love art and design, sci-fi, science and nature.",
-   "category": "Retro",
-   "confidence": 0.52,
-   "tags": [
-    "Art",
-    "Science"
-   ],
-   "fingerprint": "landingiloveartanddesignscifiscienceandnature",
-   "vibes": [
-    "artsy",
-    "calm",
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-01",
-   "first_seen": 2025,
-   "screenshot_file": "68d4ebf3d05096f38cc5.jpg"
-  },
-  {
-   "url": "https://dazaisfunpalace.nekoweb.org",
-   "source": "link from bachira.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-01",
-   "checked": "2026-11-02",
-   "fails": 0,
-   "aliases": [
-    "dazaisfunpalace.nekoweb.org"
-   ],
-   "lang": "en",
-   "load_time": 0.45,
-   "https": true,
-   "words": 154,
-   "embed": true,
-   "safety_checked": "2026-11-02",
-   "tech": [
-    "Hand-coded"
-   ],
-   "title": "MARVIN'S MARVELOUS MECHANICAL MUSEUM",
-   "description": "Hi if youre reading this Please help save me oh God help save me Why do I feel nothing Haha",
-   "category": "Random",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "marvinsmarvelousmechanicalmuseumhiifyourereadingthispleasehelpsavemeohgodhelpsavemewhydoifeeln",
-   "vibes": [
-    "handmade",
-    "minimal",
-    "retro"
-   ],
-   "archive_checked": "2026-11-01",
-   "first_seen": 2025,
-   "screenshot_file": "73f66f50e9aafc3469e1.jpg"
+   "screenshot_file": "d15497240e0bb40dbcf7.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.1,
+    0.4,
+    0.1,
+    0.318,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://misfitpixie.neocities.org",
@@ -3438,7 +4732,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2025,
-   "screenshot_file": "de7d9cfa40f955a2f593.jpg"
+   "screenshot_file": "de7d9cfa40f955a2f593.jpg",
+   "vector": [
+    0.22,
+    0.17,
+    0.0,
+    0.15,
+    0.1,
+    1.0,
+    0.2,
+    0.25,
+    0.2,
+    0.15,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://wwwdotdeepblueme.neocities.org",
@@ -3476,7 +4788,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2026,
-   "screenshot_file": "2f8bd3da8cc9cd46217b.jpg"
+   "screenshot_file": "2f8bd3da8cc9cd46217b.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.3,
+    1.0,
+    0.1,
+    0.547,
+    0.85,
+    0.27,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://rachychel.neocities.org",
@@ -3512,7 +4842,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2022,
-   "screenshot_file": "a415eab10d4e36198dea.jpg"
+   "screenshot_file": "a415eab10d4e36198dea.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.292,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://pixelsafari.neocities.org",
@@ -3550,114 +4898,25 @@
    "archive_checked": "2026-11-01",
    "first_seen": 2023,
    "screenshot_file": "0b534acc8d9c7049e44f.jpg",
-   "robot_note": "too little content (2026-11-02)"
-  },
-  {
-   "url": "https://bonyou.place",
-   "source": "link from brooklynights.nekoweb.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-01",
-   "checked": "2026-11-02",
-   "fails": 0,
-   "aliases": [
-    "bonyou.place"
-   ],
-   "lang": "?",
-   "load_time": 0.41,
-   "https": true,
-   "words": 153,
-   "embed": true,
-   "safety_checked": "2026-11-02",
-   "tech": [
-    "jQuery",
-    "Hand-coded"
-   ],
-   "title": "凡庸、凡庸、茫洋ですよ",
-   "description": "For webrings please look to the left of this box",
-   "category": "Retro",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "forwebringspleaselooktotheleftofthisbox",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-01",
-   "first_seen": 2026,
-   "screenshot_file": "89db01799b19d0ee0a81.jpg"
-  },
-  {
-   "url": "https://goooby.neocities.org",
-   "source": "link from chocochipcookiequeen.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-01",
-   "checked": "2026-11-02",
-   "fails": 0,
-   "aliases": [
-    "goooby.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.14,
-   "https": true,
-   "words": 136,
-   "embed": true,
-   "safety_checked": "2026-11-02",
-   "tech": [
-    "Neocities",
-    "Hand-coded",
-    "No JavaScript"
-   ],
-   "title": "Devils! Devils! Devils!",
-   "description": "If you're confused, i'm revamping my website. grew out of 85% of the stuff here unfortunately",
-   "category": "Retro",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "devilsdevilsdevilsifyoureconfusedimrevampingmywebsitegrewoutof85ofthestuffhere",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-01",
-   "first_seen": 2023,
-   "screenshot_file": "c750a7833f6cd9e29ece.jpg"
-  },
-  {
-   "url": "https://maphren.neocities.org",
-   "source": "link from starry-knight.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-01",
-   "checked": "2026-11-02",
-   "fails": 0,
-   "aliases": [
-    "maphren.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.14,
-   "https": true,
-   "words": 62,
-   "embed": true,
-   "safety_checked": "2026-11-02",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "title": "Maph's MILLENNIUM FUTURISM",
-   "description": "MILLENNIUM FUTURISM is run by an adult! although it's mostly PG, it may contain strong language, sexual themes or adult references.",
-   "category": "Retro",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "maphsmillenniumfuturismmillenniumfuturismisrunbyanadultalthoughitsmostlypgitmaycontain",
-   "vibes": [
-    "handmade",
-    "minimal",
-    "retro"
-   ],
-   "archive_checked": "2026-11-01",
-   "first_seen": 2024,
-   "screenshot_file": "d5a1660b06da09175a6a.jpg"
+   "robot_note": "too little content (2026-11-02)",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.1,
+    0.3,
+    0.1,
+    0.212,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://sunnyday.neocities.org",
@@ -3692,7 +4951,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2023,
-   "screenshot_file": "77ac72a6ab935cfb3c05.jpg"
+   "screenshot_file": "77ac72a6ab935cfb3c05.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.3,
+    1.0,
+    0.1,
+    0.432,
+    0.85,
+    0.27,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://koshka.neocities.org",
@@ -3726,44 +5003,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2020,
-   "screenshot_file": "0a273d462a9b6cf82d96.jpg"
-  },
-  {
-   "url": "https://oyasumimi.neocities.org",
-   "source": "link from starry-knight.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-01",
-   "checked": "2026-11-02",
-   "fails": 0,
-   "aliases": [
-    "oyasumimi.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.12,
-   "https": true,
-   "words": 178,
-   "embed": true,
-   "safety_checked": "2026-11-02",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "title": "oyasumimi25",
-   "description": "Click to open the music player (pop-up window)",
-   "category": "Retro",
-   "confidence": 0.69,
-   "tags": [],
-   "fingerprint": "oyasumimi25clicktoopenthemusicplayerpopupwindow",
-   "vibes": [
-    "artsy",
-    "playful",
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-01",
-   "first_seen": 2024,
-   "screenshot_file": "8cc958d0f77eb9b07364.jpg"
+   "screenshot_file": "0a273d462a9b6cf82d96.jpg",
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.05,
+    0.3,
+    0.3,
+    0.1,
+    1.0,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.75,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://solaria.neocities.org",
@@ -3800,7 +5058,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2022,
-   "screenshot_file": "77b44170f4f2069be118.jpg"
+   "screenshot_file": "77b44170f4f2069be118.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.3,
+    0.3,
+    0.1,
+    0.486,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://webhymn.neocities.org",
@@ -3837,7 +5113,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2026,
-   "screenshot_file": "b913d8158a616543c536.jpg"
+   "screenshot_file": "b913d8158a616543c536.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.95,
+    0.1,
+    0.3,
+    0.2,
+    0.15,
+    0.15,
+    0.85,
+    1.0,
+    0.75,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://ransei.neocities.org",
@@ -3877,7 +5171,25 @@
    "archive_checked": "2026-11-01",
    "first_seen": 2025,
    "screenshot_file": "0481b218838ff63cba44.jpg",
-   "robot_note": "too little content (2026-11-02)"
+   "robot_note": "too little content (2026-11-02)",
+   "vector": [
+    0.1,
+    0.77,
+    0.0,
+    0.05,
+    0.1,
+    0.4,
+    0.3,
+    0.508,
+    0.2,
+    0.15,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://qtbeans.neocities.org",
@@ -3916,7 +5228,25 @@
    "archive_checked": "2026-11-01",
    "first_seen": 2025,
    "screenshot_file": "81f79c3767411a469f63.jpg",
-   "robot_note": "too little content (2026-11-02)"
+   "robot_note": "too little content (2026-11-02)",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.1,
+    0.3,
+    0.1,
+    0.212,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://zhongvie.neocities.org",
@@ -3954,7 +5284,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2025,
-   "screenshot_file": "cca4ac3da22f94bbf41c.jpg"
+   "screenshot_file": "cca4ac3da22f94bbf41c.jpg",
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.05,
+    0.3,
+    0.95,
+    0.2,
+    0.401,
+    0.5,
+    0.15,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://seryndelle.neocities.org",
@@ -3991,41 +5339,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2023,
-   "screenshot_file": "7b23c0a63ecef4806a66.jpg"
-  },
-  {
-   "url": "https://electric-tenshi.nekoweb.org",
-   "source": "link from patchwork.nekoweb.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-01",
-   "checked": "2026-11-02",
-   "fails": 0,
-   "aliases": [
-    "electric-tenshi.nekoweb.org"
-   ],
-   "lang": "en",
-   "load_time": 0.22,
-   "https": true,
-   "words": 219,
-   "embed": true,
-   "safety_checked": "2026-11-02",
-   "tech": [
-    "Hand-coded"
-   ],
-   "title": "landing!",
-   "description": "Use the mouse wheel, the up and down arrow keys, or a touch swipe to move through menu items. Press Enter or Space to select.",
-   "category": "Science",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "landingusethemousewheeltheupanddownarrowkeysoratouchswipetomovethroug",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-01",
-   "first_seen": 2024,
-   "screenshot_file": "adfedbc3c1f1ef8d6eab.jpg"
+   "screenshot_file": "7b23c0a63ecef4806a66.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.235,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://3599.neocities.org",
@@ -4062,43 +5394,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2025,
-   "screenshot_file": "926b216ebb16929f99ad.jpg"
-  },
-  {
-   "url": "https://darkendstars.neocities.org",
-   "source": "link from webhymn.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-01",
-   "checked": "2026-11-02",
-   "fails": 0,
-   "aliases": [
-    "darkendstars.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.14,
-   "https": true,
-   "words": 52,
-   "embed": true,
-   "safety_checked": "2026-11-02",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "title": "darkend",
-   "description": "Smash that follow button if you want to see this hellhole rollercoaster of a new attempt at a hobby",
-   "category": "Retro",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "darkendsmashthatfollowbuttonifyouwanttoseethishellholerollercoasterofanew",
-   "vibes": [
-    "handmade",
-    "minimal",
-    "retro"
-   ],
-   "archive_checked": "2026-11-01",
-   "first_seen": 2024,
-   "screenshot_file": "c2d060d32f00bb29d9b2.jpg"
+   "screenshot_file": "926b216ebb16929f99ad.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.327,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.75,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://mewardgay.neocities.org",
@@ -4136,7 +5450,25 @@
    "archive_checked": "2026-11-01",
    "first_seen": 2025,
    "screenshot_file": "2978ad363c781c0de6a5.jpg",
-   "robot_note": "too little content (2026-11-02)"
+   "robot_note": "too little content (2026-11-02)",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.209,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://jsaniken.neocities.org",
@@ -4172,7 +5504,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2023,
-   "screenshot_file": "eb7e193d4d94002dae77.jpg"
+   "screenshot_file": "eb7e193d4d94002dae77.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.4,
+    0.1,
+    0.277,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://4gainst-the-kitchen-floor.neocities.org",
@@ -4207,7 +5557,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2026,
-   "screenshot_file": "a68130823bef2df95d06.jpg"
+   "screenshot_file": "a68130823bef2df95d06.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.274,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://h3.neocities.org",
@@ -4243,7 +5611,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2022,
-   "screenshot_file": "e29b93e8642dd587b16f.jpg"
+   "screenshot_file": "e29b93e8642dd587b16f.jpg",
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.15,
+    0.1,
+    0.4,
+    0.2,
+    0.264,
+    0.55,
+    0.77,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://street-samurai.neocities.org",
@@ -4278,44 +5664,25 @@
     "minimal"
    ],
    "archive_checked": "2026-11-01",
-   "screenshot_file": "e56888f27da3f7af48f2.jpg"
-  },
-  {
-   "url": "https://fourtwo2k.neocities.org",
-   "source": "link from piko-chan1838.neocities.org",
-   "status": "warn",
-   "review": "unreviewed",
-   "added": "2026-11-01",
-   "checked": "2026-11-02",
-   "fails": 2,
-   "aliases": [
-    "fourtwo2k.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.07,
-   "https": true,
-   "words": 38,
-   "embed": true,
-   "safety_checked": "2026-11-01",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "title": "Neko",
-   "description": "Wanna link back to me ? click on it to copy the code.",
-   "category": "Retro",
-   "confidence": 0.65,
-   "tags": [],
-   "fingerprint": "nekowannalinkbacktomeclickonittocopythecode",
-   "vibes": [
-    "handmade",
-    "minimal",
-    "retro"
-   ],
-   "archive_checked": "2026-11-01",
-   "first_seen": 2026,
-   "screenshot_file": "b4c5c5a50f48d6bb7828.jpg",
-   "robot_note": "too little content (2026-11-02)"
+   "screenshot_file": "e56888f27da3f7af48f2.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.2,
+    0.4,
+    0.1,
+    0.243,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://asterion.neocities.org",
@@ -4356,7 +5723,25 @@
    "archive_checked": "2026-11-01",
    "first_seen": 2020,
    "screenshot_file": "aa62f0464f0491c78562.jpg",
-   "robot_note": "too little content (2026-11-02)"
+   "robot_note": "too little content (2026-11-02)",
+   "vector": [
+    0.22,
+    0.89,
+    0.0,
+    0.05,
+    0.2,
+    0.3,
+    0.3,
+    0.508,
+    0.55,
+    0.27,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://xxhalfemptyxx.neocities.org",
@@ -4394,40 +5779,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2021,
-   "screenshot_file": "105c965bb72de1d3e1b6.jpg"
-  },
-  {
-   "url": "https://evehibi.nekoweb.org",
-   "source": "link page",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-01",
-   "checked": "2026-11-02",
-   "fails": 0,
-   "aliases": [
-    "evehibi.nekoweb.org"
-   ],
-   "lang": "?",
-   "load_time": 0.11,
-   "https": true,
-   "words": 326,
-   "embed": true,
-   "safety_checked": "2026-11-02",
-   "tech": [
-    "Hand-coded"
-   ],
-   "title": "evie's rambutan-flavored corner",
-   "description": "Add my button! (click it to copy the code)",
-   "category": "Developer",
-   "confidence": 0.74,
-   "tags": [],
-   "fingerprint": "eviesrambutanflavoredcorneraddmybuttonclickittocopythecode",
-   "vibes": [
-    "handmade"
-   ],
-   "archive_checked": "2026-11-01",
-   "first_seen": 2024,
-   "screenshot_file": "0e91849e6aee3d237453.jpg"
+   "screenshot_file": "105c965bb72de1d3e1b6.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    1.0,
+    0.1,
+    0.274,
+    0.55,
+    0.27,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://xiokka.neocities.org",
@@ -4465,7 +5835,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2024,
-   "screenshot_file": "0a2f6427dac66b5f2e9a.jpg"
+   "screenshot_file": "0a2f6427dac66b5f2e9a.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.95,
+    0.1,
+    0.314,
+    0.85,
+    0.27,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://luigiblood.neocities.org",
@@ -4501,7 +5889,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2021,
-   "screenshot_file": "90353e1511ba685dcfc2.jpg"
+   "screenshot_file": "90353e1511ba685dcfc2.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.1,
+    0.95,
+    0.1,
+    0.334,
+    0.5,
+    0.15,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://jcw87.github.io",
@@ -4537,82 +5943,25 @@
    "archive_checked": "2026-11-01",
    "first_seen": 2016,
    "screenshot_file": "ccbe7ac8d1304faaf766.jpg",
-   "robot_note": "too little content (2026-11-02)"
-  },
-  {
-   "url": "https://chronicdelusionist.neocities.org",
-   "source": "neocities",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-01",
-   "checked": "2026-11-02",
-   "fails": 0,
-   "aliases": [
-    "chronicdelusionist.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.14,
-   "https": true,
-   "words": 154,
-   "embed": true,
-   "safety_checked": "2026-11-02",
-   "tech": [
-    "Neocities",
-    "Hand-coded",
-    "No JavaScript"
-   ],
-   "title": "CD's Commissions",
-   "description": "Furries - Sort of skimpy outfits - Robots (non-complex) - Nonhumanoid designs - OC / Canon Character ships - Cringe",
-   "category": "Retro",
-   "confidence": 0.56,
-   "tags": [
-    "Art"
-   ],
-   "fingerprint": "cdscommissionsfurriessortofskimpyoutfitsrobotsnoncomplexnonhumanoiddesigns",
-   "vibes": [
-    "artsy",
-    "handmade",
-    "minimal",
-    "retro"
-   ],
-   "archive_checked": "2026-11-01",
-   "first_seen": 2021,
-   "screenshot_file": "e8b43c69361efab17f1b.jpg"
-  },
-  {
-   "url": "https://kantasira.neocities.org",
-   "source": "link from roring.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-01",
-   "checked": "2026-11-02",
-   "fails": 0,
-   "aliases": [
-    "kantasira.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.16,
-   "https": true,
-   "words": 418,
-   "embed": true,
-   "safety_checked": "2026-11-02",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "title": "Cool ass website",
-   "description": "Idk how to explain but I'm tryna take all the bs out of myself that is not me. I like being rational instead of blindly accepting ideas ideologies etc.",
-   "category": "Education",
-   "confidence": 0.6,
-   "tags": [
-    "Retro"
-   ],
-   "fingerprint": "coolasswebsiteidkhowtoexplainbutimtrynatakeallthebsoutofmyselfthatisnotmei",
-   "vibes": [
-    "handmade"
-   ],
-   "archive_checked": "2026-11-01",
-   "screenshot_file": "ea74387a96c1f232558f.jpg"
+   "robot_note": "too little content (2026-11-02)",
+   "vector": [
+    0.1,
+    0.77,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.3,
+    0.509,
+    0.2,
+    0.15,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://toothachesplinter.neocities.org",
@@ -4648,7 +5997,25 @@
    "archive_checked": "2026-11-01",
    "first_seen": 2021,
    "screenshot_file": "1068c90393adf790f2b6.jpg",
-   "robot_note": "too little content (2026-11-02)"
+   "robot_note": "too little content (2026-11-02)",
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.2,
+    0.211,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://starbreaker.neocities.org",
@@ -4686,7 +6053,25 @@
    "archive_checked": "2026-11-01",
    "first_seen": 2022,
    "screenshot_file": "f99c87196d050fee4342.jpg",
-   "robot_note": "too little content (2026-11-02)"
+   "robot_note": "too little content (2026-11-02)",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.212,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://sneekrealm.neocities.org",
@@ -4721,7 +6106,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2022,
-   "screenshot_file": "17c6864f344861041761.jpg"
+   "screenshot_file": "17c6864f344861041761.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.2,
+    0.3,
+    0.1,
+    0.214,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://sh-harm-reduction.neocities.org",
@@ -4755,7 +6158,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2025,
-   "screenshot_file": "41966c346966f9c46d90.jpg"
+   "screenshot_file": "41966c346966f9c46d90.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.317,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://voidy.neocities.org",
@@ -4788,7 +6209,25 @@
     "handmade"
    ],
    "archive_checked": "2026-11-01",
-   "screenshot_file": "e4abe04240e9394f561c.jpg"
+   "screenshot_file": "e4abe04240e9394f561c.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.3,
+    0.3,
+    0.1,
+    0.488,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://tvwebshrine.neocities.org",
@@ -4825,7 +6264,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2025,
-   "screenshot_file": "7d7e306ebe94642b1775.jpg"
+   "screenshot_file": "7d7e306ebe94642b1775.jpg",
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.05,
+    0.3,
+    0.4,
+    0.2,
+    0.406,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://shenzaibird.neocities.org",
@@ -4860,7 +6317,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2022,
-   "screenshot_file": "40970e005fbb267d368d.jpg"
+   "screenshot_file": "40970e005fbb267d368d.jpg",
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.05,
+    0.3,
+    0.3,
+    0.2,
+    0.444,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.75,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://dollarchive.neocities.org",
@@ -4896,7 +6371,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2023,
-   "screenshot_file": "73ddec685cd131acdbd6.jpg"
+   "screenshot_file": "73ddec685cd131acdbd6.jpg",
+   "vector": [
+    0.22,
+    0.05,
+    0.0,
+    0.05,
+    0.2,
+    0.3,
+    0.1,
+    0.261,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://philia995.neocities.org",
@@ -4933,7 +6426,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2022,
-   "screenshot_file": "a0d284dc30c163ae99d0.jpg"
+   "screenshot_file": "a0d284dc30c163ae99d0.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.1,
+    0.3,
+    0.1,
+    0.298,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://chronodove.neocities.org",
@@ -4968,7 +6479,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2023,
-   "screenshot_file": "9754e0841850c2db2273.jpg"
+   "screenshot_file": "9754e0841850c2db2273.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.95,
+    0.1,
+    0.334,
+    0.85,
+    0.27,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://moekkis.neocities.org",
@@ -5007,7 +6536,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2025,
-   "screenshot_file": "9baeff7ce1218047e2c7.jpg"
+   "screenshot_file": "9baeff7ce1218047e2c7.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.1,
+    0.3,
+    0.1,
+    0.271,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://hosokava.neocities.org",
@@ -5043,7 +6590,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2024,
-   "screenshot_file": "9a69d7a7e903c8f18eb6.jpg"
+   "screenshot_file": "9a69d7a7e903c8f18eb6.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.4,
+    0.1,
+    0.285,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://kuroi.neocities.org",
@@ -5078,7 +6643,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2025,
-   "screenshot_file": "557b6833b85cfe856afe.jpg"
+   "screenshot_file": "557b6833b85cfe856afe.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.382,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://yesile.neocities.org",
@@ -5116,7 +6699,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2025,
-   "screenshot_file": "f3ee68a8a38061b9a8a5.jpg"
+   "screenshot_file": "f3ee68a8a38061b9a8a5.jpg",
+   "vector": [
+    0.1,
+    0.29,
+    0.0,
+    0.8,
+    0.3,
+    0.3,
+    0.2,
+    0.9,
+    0.2,
+    0.15,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://salinebomber.neocities.org",
@@ -5154,7 +6755,25 @@
    ],
    "archive_checked": "2026-11-01",
    "first_seen": 2026,
-   "screenshot_file": "c0910c5644656695b219.jpg"
+   "screenshot_file": "c0910c5644656695b219.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.95,
+    0.1,
+    0.238,
+    0.2,
+    0.15,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://cyadical.neocities.org",
@@ -5189,7 +6808,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2024,
-   "screenshot_file": "bf90d425cc654d9466dd.jpg"
+   "screenshot_file": "bf90d425cc654d9466dd.jpg",
+   "vector": [
+    0.22,
+    0.17,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.2,
+    0.31,
+    0.85,
+    0.77,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://slushienova.neocities.org",
@@ -5225,7 +6862,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2023,
-   "screenshot_file": "48131fe8c23f520f0402.jpg"
+   "screenshot_file": "48131fe8c23f520f0402.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.236,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://faegardens333.neocities.org",
@@ -5261,7 +6916,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2023,
-   "screenshot_file": "76c2ba3b5fa575ecbd94.jpg"
+   "screenshot_file": "76c2ba3b5fa575ecbd94.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.248,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://ghostopsy.neocities.org",
@@ -5299,7 +6972,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2022,
-   "screenshot_file": "adea3ad534dae8b45985.jpg"
+   "screenshot_file": "adea3ad534dae8b45985.jpg",
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.2,
+    0.246,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://pip-pepping.neocities.org",
@@ -5335,7 +7026,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2022,
-   "screenshot_file": "d0a6c7529f2b2c719d1d.jpg"
+   "screenshot_file": "d0a6c7529f2b2c719d1d.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.265,
+    0.55,
+    0.77,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://nighthawkstar.neocities.org",
@@ -5371,7 +7080,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2023,
-   "screenshot_file": "f176fd546f71f02216f3.jpg"
+   "screenshot_file": "f176fd546f71f02216f3.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    1.0,
+    0.1,
+    0.288,
+    0.2,
+    0.15,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://pombogay.neocities.org",
@@ -5408,7 +7135,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2025,
-   "screenshot_file": "6d3f9b00897b97a021ff.jpg"
+   "screenshot_file": "6d3f9b00897b97a021ff.jpg",
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.2,
+    0.272,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://advelos.moe",
@@ -5443,7 +7188,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2025,
-   "screenshot_file": "5b89c415c39b60e41460.jpg"
+   "screenshot_file": "5b89c415c39b60e41460.jpg",
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.05,
+    0.1,
+    0.75,
+    0.2,
+    0.316,
+    0.85,
+    0.17,
+    0.3,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.7
+   ]
   },
   {
    "url": "https://ranfren.neocities.org",
@@ -5481,7 +7244,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2018,
-   "screenshot_file": "643d26ad930bfe193fd1.jpg"
+   "screenshot_file": "643d26ad930bfe193fd1.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.1,
+    0.3,
+    0.1,
+    0.258,
+    0.85,
+    0.77,
+    0.45,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://tofutush.neocities.org",
@@ -5519,7 +7300,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2024,
-   "screenshot_file": "5bcb81a44b747dbd6ecf.jpg"
+   "screenshot_file": "5bcb81a44b747dbd6ecf.jpg",
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.2,
+    0.246,
+    0.55,
+    0.77,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://aoki553.nekoweb.org",
@@ -5553,7 +7352,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2024,
-   "screenshot_file": "02646dd8e86052e6c84b.jpg"
+   "screenshot_file": "02646dd8e86052e6c84b.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.3,
+    0.3,
+    0.2,
+    0.424,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://tayne.neocities.org",
@@ -5589,7 +7406,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2024,
-   "screenshot_file": "bb336f81a8ade39834b3.jpg"
+   "screenshot_file": "bb336f81a8ade39834b3.jpg",
+   "vector": [
+    0.22,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.211,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.75,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://miniwildpanda.neocities.org",
@@ -5624,7 +7459,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2023,
-   "screenshot_file": "0dbe1435d930e14777c2.jpg"
+   "screenshot_file": "0dbe1435d930e14777c2.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.2,
+    0.211,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://spyware.neocities.org",
@@ -5660,7 +7513,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2018,
-   "screenshot_file": "fd07f486a21e67c8d983.jpg"
+   "screenshot_file": "fd07f486a21e67c8d983.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.243,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://arez.neocities.org",
@@ -5697,7 +7568,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2021,
-   "screenshot_file": "ee84ca031482cd9b5f09.jpg"
+   "screenshot_file": "ee84ca031482cd9b5f09.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.219,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://nicegirlslumber.neocities.org",
@@ -5733,7 +7622,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2025,
-   "screenshot_file": "ceccc888b90e828ffd5d.jpg"
+   "screenshot_file": "ceccc888b90e828ffd5d.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.1,
+    0.3,
+    0.2,
+    0.23,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://lyoosis.neocities.org",
@@ -5768,7 +7675,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2026,
-   "screenshot_file": "28e18ed081a6b4f7cb69.jpg"
+   "screenshot_file": "28e18ed081a6b4f7cb69.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.302,
+    0.85,
+    0.89,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://gremlin.neocities.org",
@@ -5805,7 +7730,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2024,
-   "screenshot_file": "31fcb012015b7e6a1264.jpg"
+   "screenshot_file": "31fcb012015b7e6a1264.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.233,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://cherished-cat.neocities.org",
@@ -5843,7 +7786,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2024,
-   "screenshot_file": "6fb2cfd5e8f8d4af9c6f.jpg"
+   "screenshot_file": "6fb2cfd5e8f8d4af9c6f.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.1,
+    0.3,
+    0.1,
+    0.273,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://shadowm00n.neocities.org",
@@ -5878,7 +7839,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2021,
-   "screenshot_file": "21e4b0b94d42234bc41d.jpg"
+   "screenshot_file": "21e4b0b94d42234bc41d.jpg",
+   "vector": [
+    0.1,
+    0.77,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.3,
+    0.64,
+    0.5,
+    0.15,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://10kb.neocities.org",
@@ -5916,7 +7895,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2017,
-   "screenshot_file": "3aa33ca0849c54ab4c67.jpg"
+   "screenshot_file": "3aa33ca0849c54ab4c67.jpg",
+   "vector": [
+    0.1,
+    0.77,
+    0.0,
+    0.25,
+    0.4,
+    0.3,
+    0.3,
+    0.712,
+    0.5,
+    0.15,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://yeepsite.nekoweb.org",
@@ -5953,7 +7950,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2025,
-   "screenshot_file": "0a64351889e4abc30958.jpg"
+   "screenshot_file": "0a64351889e4abc30958.jpg",
+   "vector": [
+    0.1,
+    0.89,
+    0.0,
+    0.05,
+    0.1,
+    0.4,
+    0.4,
+    0.554,
+    0.2,
+    0.27,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://poupee988.neocities.org",
@@ -5992,7 +8007,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2026,
-   "screenshot_file": "0e28e5d04c1c3eadf6e1.jpg"
+   "screenshot_file": "0e28e5d04c1c3eadf6e1.jpg",
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.15,
+    0.2,
+    0.3,
+    0.2,
+    0.24,
+    0.55,
+    0.77,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://creepingnet.neocities.org",
@@ -6033,7 +8066,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2021,
-   "screenshot_file": "c973b9ab6b306f5d01b8.jpg"
+   "screenshot_file": "c973b9ab6b306f5d01b8.jpg",
+   "vector": [
+    0.1,
+    0.17,
+    0.15,
+    0.15,
+    0.1,
+    0.4,
+    0.2,
+    0.326,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://cobycat.neocities.org",
@@ -6071,7 +8122,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2022,
-   "screenshot_file": "fad94c2bbd8f8a5fa2a5.jpg"
+   "screenshot_file": "fad94c2bbd8f8a5fa2a5.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.283,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://arataka.neocities.org",
@@ -6108,7 +8177,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2023,
-   "screenshot_file": "cf59db1f564e328a30d4.jpg"
+   "screenshot_file": "cf59db1f564e328a30d4.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.21,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   },
   {
    "url": "https://xiokka.nekoweb.org",
@@ -6143,7 +8230,25 @@
    ],
    "archive_checked": "2026-11-02",
    "first_seen": 2025,
-   "screenshot_file": "62adfa4d5eeb7e0bb96f.jpg"
+   "screenshot_file": "62adfa4d5eeb7e0bb96f.jpg",
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.4,
+    0.1,
+    0.227,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ]
   }
  ]
 }

@@ -88,6 +88,17 @@ CORPORATE = {"facebook.com","instagram.com","linkedin.com","medium.com","godaddy
              "hugedomains.com","twitter.com","//x.com","tiktok.com","linktr.ee","substack.com","wix.com","squarespace.com","namecheap.com"}
 INDIE = re.compile(r"(neocities\.org|bearblog\.dev|github\.io|codeberg\.page|pages\.dev|tilde\.[a-z]+|ctrl-c\.club|"
                    r"sdf\.org|envs\.net|nekoweb\.org|omg\.lol|smol\.pub|prose\.sh|mataroa\.blog|micro\.blog)$")
+ADULT_RE = re.compile(r"(?<![a-z0-9])(18\+|r-18|r18|nsfw|mature content|sexual themes?|run by an adult|adult themes?|adults? only|"
+                      r"yaoi|yuri|hentai|lewd|erotic\w*|fetish\w*|skimpy|porn\w*|xxx|escorts?|onlyfans|nudes?|nudity|gore|"
+                      r"casino|gambling|betting|slot online|slot gacor|togel|judi|poker online)(?![a-z])", re.I)
+PROFANITY_RE = re.compile(r"(?<![a-z])(ass|asses|asshole|f+u+c+k+\w*|fck|wtf|s+h+i+t+\w*|bullshit|b+i+t+c+h+\w*|dick|dicks|cock|cocks|"
+                          r"pussy|cunt\w*|bastard\w*|hellhole|damn|bs|stfu|motherf\w*|whore\w*|slut\w*)(?![a-z])", re.I)
+
+def unsafe_text(*parts):
+    """Zero tolerance: adult / explicit / gambling words or profanity anywhere in the given text."""
+    s = " ".join(x or "" for x in parts)
+    return bool(ADULT_RE.search(s) or PROFANITY_RE.search(s))
+
 UNSAFE = ["casino","betting","porn","xxx","escort","viagra","crypto giveaway","free bitcoin","loan approval","hack account"]
 
 # ---------------------------------------------------------------- addresses
@@ -215,7 +226,7 @@ def clean(t):
 SEP = r"\s+[|–—·•:»/-]\s+|\s+::\s+|\s*\|\s*|(?<=[a-z]):\s+"
 GENERIC = {"home","homepage","home page","welcome","index","main","main page","official website","official site","start",
            "untitled","blog","my blog","my site","my website","website","site","portfolio","document","new tab","loading",
-           "loading...","react app","vite app","vite + react","coming soon","about","about me","default","landing page","app","start here","get started","hello","hello world","posts","articles","writing","notes","news"}
+           "loading...","react app","vite app","vite + react","coming soon","about","about me","default","landing page","app","start here","get started","hello","hello world","posts","articles","writing","notes","news","landing","landing!","enter","portal","neko","uwu","guh","dog","other sites","redirecting..."}
 PLATFORM = {"substack","wordpress","wordpress.com","blogger","blogspot","medium","ghost","squarespace","wix","weebly",
             "notion","carrd","github pages","neocities","tumblr","bear blog","ʕ•ᴥ•ʔ bear blog","micro.blog","write.as",
             "hashnode","dev.to","linktree","shopify","webflow","framer","jekyll","hugo","next.js","gatsby"}
@@ -257,7 +268,7 @@ def best_title(p, h, fallback=True):
     if len(title) > 70: title = title[:70].rsplit(" ", 1)[0].rstrip(",;:-") + "…"
     return title
 
-BOILER = re.compile(r"cookie|javascript|enable js|your browser|skip to|sign in|log in|login|subscribe now|all rights reserved|"
+BOILER = re.compile(r"click to open|add my button|copy the code|link back to me|for webrings|use the mouse wheel|touch swipe|not optimized for mobile|cookie|javascript|enable js|your browser|skip to|sign in|log in|login|subscribe now|all rights reserved|"
                     r"copyright|©|lorem ipsum|loading|click here|privacy policy|terms of (use|service)|page not found|"
                     r"just a moment|accept all|we use|this site uses|redirecting|please wait|404", re.I)
 
@@ -499,6 +510,38 @@ def vibes(title, desc, body, words, first_seen=0, html="", tech=()):
     elif words < 300: out.append("minimal")
     return out[:4]
 
+# ---------------------------------------------------------------- 16-dimensional taste vector
+VECTOR_DIMS = ["tool", "play", "audio", "visual_art", "knowledge", "personal", "interactivity", "session_length",
+               "visual_density", "retro", "quirky", "mobile", "embeddable", "handmade", "audio_required", "evergreen"]
+
+def _hits(text, words): return sum(1 for w in words if w in text)
+
+def compute_vector(title="", desc="", cat="", vibes=(), tech=(), url="", words=100, embed=True, html=""):
+    """Continuous 16-number fingerprint (each 0.0-1.0) used by the in-browser recommender."""
+    v_ = " ".join(vibes or []).lower(); t_ = " ".join(tech or []).lower(); h = (html or "")[:200000].lower()
+    text = f"{title} {desc} {cat} {v_} {t_}".lower(); u = (url or "").lower()
+    indie = bool(re.search(r"neocities\.org|nekoweb\.org|tilde|github\.io|bearblog|omg\.lol", u))
+    canvas = "canvas" in t_ or "<canvas" in h or "webgl" in h
+    audio_tech = "audio" in t_ or "<audio" in h or "audiocontext" in h
+    d = [0.0] * 16
+    d[0] = 0.1 + 0.5 * (cat in ("Tools", "Developer")) + 0.12 * _hits(text, ["tool", "generator", "converter", "calculator", "editor", "search", "maker", "utility", "download", "app"])
+    d[1] = 0.05 + 0.6 * (cat == "Games") + 0.12 * _hits(text, ["game", "play", "arcade", "puzzle", "rpg", "simulator", "toy", "interactive", "maze"]) + 0.25 * canvas
+    d[2] = 0.15 * _hits(text, ["music", "synth", "sound", "audio", "radio", "song", "piano", "beat"]) + 0.3 * audio_tech
+    d[3] = 0.05 + 0.55 * (cat == "Art") + 0.1 * _hits(text, ["art", "pixel", "ascii", "ansi", "visual", "generative", "drawing", "gallery", "illustration", "shader", "design"]) + 0.15 * canvas
+    d[4] = 0.1 + 0.5 * (cat in ("Writing", "Science", "Education", "News", "Developer")) + 0.1 * _hits(text, ["essay", "research", "guide", "history", "archive", "wiki", "newsletter", "zine", "learn", "book", "document"]) + 0.2 * (words > 600)
+    d[5] = 0.1 + 0.55 * (cat == "Personal") + 0.2 * indie + 0.1 * _hits(text, ["personal", "blog", "digital garden", "webmaster", "my corner", "about me", "homepage"])
+    d[6] = 0.1 + 0.35 * canvas + 0.1 * _hits(text, ["interactive", "click", "drag", "type", "build", "play"]) + 0.2 * (cat in ("Games", "Tools"))
+    d[7] = min(1.0, 0.2 + words / 3000) + 0.3 * (cat in ("Games", "Writing"))
+    d[8] = 0.5 - 0.3 * (words > 1500 or "minimal" in text) + 0.35 * bool(_hits(text, ["pixel", "retro", "gif", "colorful", "flashing", "glitter"]))
+    d[9] = 0.05 + 0.5 * (cat == "Retro") + 0.12 * _hits(text, ["retro", "vintage", "90s", "y2k", "webring", "myspace", "ansi", "ascii", "old web", "geocities"]) + 0.1 * indie
+    d[10] = 0.15 + 0.15 * _hits(text, ["quirky", "silly", "strange", "weird", "obscure", "curious", "fun", "odd", "surreal", "absurd"]) + 0.15 * (cat in ("Games", "Art"))
+    d[11] = 0.2 if re.search(r"not (optimi[sz]ed|made) for (mobile|phone)|desktop only|best viewed on (a )?desktop", text + h) else 0.85
+    d[12] = 1.0 if embed else 0.0
+    d[13] = 0.4 + 0.35 * indie + 0.15 * (not t_ or "vanilla" in t_ or "html" in t_) + 0.1 * ("handmade" in text)
+    d[14] = 0.8 if re.search(r"music player|turn (your )?sound on|headphones|listen", text) else (0.3 if audio_tech else 0.0)
+    d[15] = 0.85 if cat in ("Tools", "Games", "Art", "Retro", "Education") else (0.45 if cat == "News" else 0.7)
+    return [round(max(0.0, min(1.0, x)), 3) for x in d]
+
 def verify(url, strict=True):
     """Run every check. Returns details for a working website, or None with a reason.
     strict=True (new candidates): every quality gate must pass. strict=False (re-checks of stored
@@ -521,6 +564,7 @@ def verify(url, strict=True):
     if any(w in clean(p.title).lower() for w in BLOCKED): return None, "blocked"
     if flipped(p): return None, "flipped"
     if any(re.search(r"(?<![a-z])" + w + r"(?![a-z])", low) for w in UNSAFE): return None, "unsafe"
+    if unsafe_text(title, clean(p.title), " ".join(p.heads[:8]), visible[:6000]): return None, "unsafe"
     if strict:
         why = junk_reason(p, html, title, h)
         if why: return None, why
@@ -529,6 +573,7 @@ def verify(url, strict=True):
     desc = best_description(p, title)
     play = strict and playful(p, html, title, h)
     if strict and not (good_description(desc) or (play and play_description(desc))): return None, "weak description"
+    if unsafe_text(desc): return None, "unsafe"
     body = " ".join(p.heads + p.paras)
     if strict:
         sc = strict_category(title, desc, p.heads, body, h)
@@ -543,7 +588,8 @@ def verify(url, strict=True):
         n = norm(urllib.parse.urljoin(final, extra)) if extra else None
         if n and allowed(n): alias.add(key(n))
     anchors = [(urllib.parse.urljoin(final, a), t) for a, t in p.anchors if a and not a.startswith(("#", "mailto:", "javascript:"))]
-    return {"url": ("https://" if final.startswith("https") else "http://") + h, "title": title, "description": desc,
+    vec = compute_vector(title, desc, cat, vibe, tech, final, len(p.words), embeddable(headers), html)
+    return {"vector": vec, "url": ("https://" if final.startswith("https") else "http://") + h, "title": title, "description": desc,
             "category": cat, "confidence": conf, "tags": tags, "tech": tech, "vibes": vibe, "lang": lang, "load_time": secs,
             "https": final.startswith("https"), "words": len(p.words), "embed": embeddable(headers),
             "aliases": sorted(alias), "fingerprint": fingerprint(title, desc),
@@ -572,6 +618,15 @@ def sources(known):
     try:
         for x in json.loads(get("https://lobste.rs/newest.json", limit=3_000_000)[2]): add(x.get("url"), "lobsters")
     except Exception as e: print("lobsters", e)
+    # Tools, games and creative experiments (balance the indie-homepage feeds)
+    for url, src in [("https://tiny-helpers.dev/", "tiny helpers"), ("https://js13kgames.com/2024/games", "js13k"),
+                     ("https://experiments.withgoogle.com/collection/chrome", "chrome experiments"),
+                     ("https://github.com/sindresorhus/awesome/raw/main/readme.md", "awesome lists"),
+                     ("https://theuselessweb.com/", "useless web"), ("https://indieweb.org/IndieWeb_Examples", "indieweb")]:
+        try:
+            body = get(url, limit=3_000_000)[2]
+            for m in re.findall(r"https?://[a-z0-9.-]+\.[a-z]{2,}(?:/[^\s\"'<>)]*)?", body)[:150]: add(m, src)
+        except Exception as e: print(src, e)
     # Fun indie web: Neocities, Nekoweb, tilde towns, Marginalia random, ooh.directory
     for url, pat, src in [
         ("https://neocities.org/browse?sort_by=random", r'href="(https?://[a-z0-9-]+\.neocities\.org)/?"', "neocities"),
@@ -663,6 +718,7 @@ def apply(site, r):
     for f in ("lang", "load_time", "https", "words", "embed"): site[f] = r[f]
     site["safety_checked"] = TODAY
     if "tech" in r: site["tech"] = r["tech"]
+    if "vector" in r: site["vector"] = r["vector"]
     if not site.get("locked"):
         for f in ("title", "description", "category", "confidence", "tags", "fingerprint"): site[f] = r[f]
         if "vibes" in r:

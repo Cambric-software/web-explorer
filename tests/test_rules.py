@@ -222,4 +222,28 @@ class PlayfulSites(unittest.TestCase):
         self.assertIn(crawl.play_category("Bloop", "A little sound toy", [], "", "bloop.neocities.org")[0], crawl.PLAY_CATS)
         self.assertEqual(crawl.play_category("Maze Runner", "Play a maze", [], "", "x.com")[0], "Games")
 
+class SafetyShield(unittest.TestCase):
+    def test_adult_words_blocked(self):
+        for x in ["My yaoi realm", "This site is run by an adult", "NSFW art", "New fanfic [R-18]", "skimpy outfits", "Best casino online"]:
+            self.assertTrue(crawl.unsafe_text(x), x)
+    def test_profanity_blocked(self):
+        for x in ["Cool ass website", "this hellhole rollercoaster", "what the fuck"]:
+            self.assertTrue(crawl.unsafe_text(x), x)
+    def test_clean_words_pass(self):
+        for x in ["A class on assembly and passwords", "Pixel art gallery of cute cats", "Dickens novels archive", "Classic arcade games"]:
+            self.assertFalse(crawl.unsafe_text(x), x)
+    def test_button_copy_not_a_description(self):
+        self.assertEqual(crawl.tidy_description("Add my button! (click it to copy the code) for your site", "X"), "")
+    def test_landing_is_lazy_title(self):
+        self.assertTrue(crawl.lazy_title("Landing")); self.assertTrue(crawl.lazy_title("landing!"))
+
+class TasteVector(unittest.TestCase):
+    def test_sixteen_numbers_between_0_and_1(self):
+        v = crawl.compute_vector("Tiny Synth", "Play a little synth toy", "Games", ["playful"], ["Canvas"], "https://a.neocities.org", 50, True)
+        self.assertEqual(len(v), 16); self.assertTrue(all(0 <= x <= 1 for x in v))
+    def test_game_and_essay_point_different_ways(self):
+        g = crawl.compute_vector("Maze Game", "Play an interactive maze puzzle game", "Games", [], ["Canvas"], "https://g.io", 40, True)
+        e = crawl.compute_vector("Essays", "Long research essays on history and science", "Writing", [], [], "https://e.net", 3000, True)
+        self.assertGreater(g[1], e[1]); self.assertGreater(e[4], g[4])
+
 if __name__ == "__main__": unittest.main()
