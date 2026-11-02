@@ -1,25 +1,26 @@
 {
- "total": 140,
+ "total": 152,
  "dead": 4,
  "flagged": 0,
- "runs": 31,
- "last_run": "2026-11-01T21:13:44Z",
- "found_last_run": 15,
+ "runs": 32,
+ "last_run": "2026-11-02T00:51:50Z",
+ "found_last_run": 12,
  "beta": true,
  "categories": {
-  "Retro": 88,
-  "Personal": 19,
-  "Developer": 7,
+  "Retro": 89,
+  "Personal": 27,
+  "Developer": 8,
   "Tools": 5,
   "Communities": 2,
   "Games": 5,
   "Art": 6,
   "Writing": 1,
-  "Science": 1,
+  "Science": 2,
   "Business": 2,
   "Technology": 1,
   "News": 1,
-  "Education": 2
+  "Education": 2,
+  "Random": 1
  },
  "bot_version": 4,
  "history": [
@@ -177,9 +178,50 @@
    "date": "2026-11-01",
    "added": 15,
    "total": 140
+  },
+  {
+   "date": "2026-11-02",
+   "added": 12,
+   "total": 152
   }
  ],
  "runs_log": [
+  {
+   "started": "2026-11-02T00:51:50Z",
+   "rejected": {
+    "duplicate": 1,
+    "starter template": 8,
+    "empty javascript shell": 35,
+    "lazy title": 49,
+    "weak description": 19,
+    "unreachable": 8,
+    "too few words": 19,
+    "parked": 11,
+    "unsure category": 15,
+    "login gate": 1,
+    "unsafe": 1,
+    "bot challenge": 1
+   },
+   "duplicates_removed": 0,
+   "sources": {
+    "hacker news": 60,
+    "lobsters": 19,
+    "neocities": 57,
+    "nekoweb": 2,
+    "tildeverse": 18,
+    "marginalia": 28,
+    "ooh.directory": 4
+   },
+   "candidates": 180,
+   "deep_links": 276,
+   "added": 12,
+   "rechecked": 144,
+   "stale_rechecked": 0,
+   "newly_dead": 0,
+   "flagged": 0,
+   "malware_list": 0,
+   "archive_years": 12
+  },
   {
    "started": "2026-11-01T21:13:44Z",
    "rejected": {
@@ -959,28 +1001,6 @@
    "flagged": 0,
    "malware_list": 0,
    "archive_years": 20
-  },
-  {
-   "started": "2026-10-26T21:03:26Z",
-   "rejected": {
-    "too little content": 13,
-    "unsafe": 1,
-    "unreachable": 20
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 124,
-    "lobsters": 11
-   },
-   "candidates": 100,
-   "deep_links": 103,
-   "added": 66,
-   "rechecked": 0,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 19
   }
  ],
  "reset": "2026-10-26",
