@@ -88,7 +88,7 @@ CORPORATE = {"facebook.com","instagram.com","linkedin.com","medium.com","godaddy
              "hugedomains.com","twitter.com","//x.com","tiktok.com","linktr.ee","substack.com","wix.com","squarespace.com","namecheap.com"}
 INDIE = re.compile(r"(neocities\.org|bearblog\.dev|github\.io|codeberg\.page|pages\.dev|tilde\.[a-z]+|ctrl-c\.club|"
                    r"sdf\.org|envs\.net|nekoweb\.org|omg\.lol|smol\.pub|prose\.sh|mataroa\.blog|micro\.blog)$")
-ADULT_RE = re.compile(r"(?<![a-z0-9])(18\+|r-18|r18|nsfw|mature content|sexual themes?|run by an adult|adult themes?|adults? only|"
+ADULT_RE = re.compile(r"(?<![a-z0-9])(18\+|r-18|r18|nsfw|mature (content|themes?)|sexual themes?|run by an adult|adult themes?|adults? only|libidos?|strong language|"
                       r"yaoi|yuri|hentai|lewd|erotic\w*|fetish\w*|skimpy|porn\w*|xxx|escorts?|onlyfans|nudes?|nudity|gore|"
                       r"casino|gambling|betting|slot online|slot gacor|togel|judi|poker online)(?![a-z])", re.I)
 PROFANITY_RE = re.compile(r"(?<![a-z])(ass|asses|asshole|f+u+c+k+\w*|fck|wtf|s+h+i+t+\w*|bullshit|b+i+t+c+h+\w*|dick|dicks|cock|cocks|"
@@ -139,8 +139,11 @@ PLATFORM_ROOTS = {"wordpress.com","neocities.org","github.io","bearblog.dev","bl
 
 def allowed(u):
     h = host(u)
-    if h in PLATFORM_ROOTS: return False
-    return bool(h) and not any(h == b or h.endswith("." + b) and b not in ("bearblog.dev",) for b in BIG)
+    if not h or h in PLATFORM_ROOTS: return False
+    if h.endswith(BAD_TLDS) or ".gov." in h or ".mil." in h: return False
+    if any(h == b or h.endswith("." + b) and b not in ("bearblog.dev",) for b in BIG): return False
+    if h in ("phys.org", "johndcook.com"): return False
+    return True
 
 def embeddable(headers):
     """Can the website be shown inside our Stumble Bar frame?"""
@@ -310,6 +313,7 @@ def lazy_title(t, h=""):
     """Generic, empty or bare-domain names are not good enough for a new website."""
     low = clean(t).lower().strip(" .!")
     if not low or low in GENERIC or low in PLATFORM or DOMAINLIKE.fullmatch(low): return True
+    if re.match(r"^(hello+|hey+|hi+|test+|asdf+)", low): return True
     bare = re.sub(r"[^a-z0-9]", "", low)
     if h and bare in (re.sub(r"[^a-z0-9]", "", h.lower()), re.sub(r"[^a-z0-9]", "", h.lower().split(".")[0])): return True
     if not re.search(r"[^\W\d_]{3,}", low): return True

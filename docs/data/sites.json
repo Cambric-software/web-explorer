@@ -1085,9 +1085,9 @@
     0.0,
     0.85
    ],
-   "title": "fugbox",
-   "description": "ATLYSS is a ORPG (Online RPG) that features fluid controls & combat as well as cute playable shortstack characters.",
-   "category": "Retro",
+   "title": "ATLYSS — Indie Online RPG",
+   "description": "ATLYSS is a retro-styled indie online action RPG featuring fast-paced combat, quirky character customization, and dungeon crawler adventures.",
+   "category": "Games",
    "confidence": 0.86,
    "tags": [],
    "fingerprint": "fugboxatlyssisaorpgonlinerpgthatfeaturesfluidcontrolscombataswellasc",
@@ -1188,8 +1188,8 @@
     0.0,
     0.7
    ],
-   "title": "tilde.green's wiki",
-   "description": "If you want to contribute, check out the source and open a PR!",
+   "title": "tilde.green Wiki",
+   "description": "Community documentation, server guides, and tips for members of the tilde.green shared Linux environment and indie web revival.",
    "category": "Random",
    "confidence": 0,
    "tags": [],
@@ -1716,9 +1716,9 @@
     0.0,
     0.7
    ],
-   "title": "right click inspect",
-   "description": "Ideas and opinions on technology",
-   "category": "Technology",
+   "title": "Right Click Inspect",
+   "description": "Thoughtful essays, technical observations, and digital gardening on web development, browser craftsmanship, and computing culture.",
+   "category": "Writing",
    "confidence": 0.71,
    "tags": [],
    "fingerprint": "rightclickinspectideasandopinionsontechnology",
@@ -1889,58 +1889,6 @@
    "screenshot_file": "ed628e86d27368ad7207.jpg"
   },
   {
-   "url": "https://science.nasa.gov",
-   "source": "link page",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-03",
-   "checked": "2026-11-03",
-   "fails": 0,
-   "aliases": [
-    "science.nasa.gov"
-   ],
-   "lang": "en",
-   "load_time": 0.85,
-   "https": true,
-   "words": 2590,
-   "embed": false,
-   "safety_checked": "2026-11-03",
-   "tech": [
-    "WordPress",
-    "jQuery"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.9,
-    0.1,
-    0.1,
-    1.0,
-    0.2,
-    0.05,
-    0.15,
-    0.85,
-    0.0,
-    0.4,
-    0.0,
-    0.7
-   ],
-   "title": "NASA Science",
-   "description": "Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the history of our Universe.",
-   "category": "Science",
-   "confidence": 0.88,
-   "tags": [],
-   "fingerprint": "nasasciencewebbisthepremierobservatoryofthenextdecadeservingthousandsofastrono",
-   "vibes": [
-    "deep read"
-   ],
-   "archive_checked": "2026-11-03",
-   "first_seen": 1998,
-   "screenshot_file": "97b4af6ee05e83baa450.jpg"
-  },
-  {
    "url": "https://seirdy.one",
    "source": "marginalia",
    "status": "ok",
@@ -2032,7 +1980,7 @@
     0.7
    ],
    "title": "OpenBSD Journal",
-   "description": "Contributed by Peter N. M. Hansteen on 2026-11-01 from the most excellent file shredder dept.",
+   "description": "A dedicated community publication and news archive covering OpenBSD operating system releases, security updates, ports, and kernel discussions.",
    "category": "Personal",
    "confidence": 0.83,
    "tags": [],
@@ -2138,7 +2086,7 @@
     0.0,
     0.85
    ],
-   "title": "𝖉𝖆𝖑𝖎𝖜𝖆𝖑𝖎",
+   "title": "daliwali",
    "description": "Outsider art, inner psyche, and the middle path.",
    "category": "Retro",
    "confidence": 0.65,
@@ -2152,61 +2100,6 @@
    "archive_checked": "2026-11-03",
    "first_seen": 2024,
    "screenshot_file": "660aa4afcfb7ec8bb3e2.jpg"
-  },
-  {
-   "url": "https://usprisoner.neocities.org",
-   "source": "neocities",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-03",
-   "checked": "2026-11-03",
-   "fails": 0,
-   "aliases": [
-    "usprisoner.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.02,
-   "https": true,
-   "words": 153,
-   "embed": true,
-   "safety_checked": "2026-11-03",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.15,
-    0.1,
-    0.3,
-    0.1,
-    0.251,
-    0.55,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "helloooo",
-   "description": "Hello... i'm yvette, i'm a 20-year-old college student, (hopefully) a future meteorologist, taken by my supah cute partner...",
-   "category": "Retro",
-   "confidence": 0.6,
-   "tags": [
-    "Personal"
-   ],
-   "fingerprint": "helloooohelloimyvetteima20yearoldcollegestudenthopefullyafuturemet",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-03",
-   "first_seen": 2024,
-   "screenshot_file": "6f43e2320f1f62e7cb18.jpg"
   },
   {
    "url": "https://wwwdotdeepblueme.neocities.org",
@@ -2375,60 +2268,6 @@
    "screenshot_file": "3613c7a011210e9566b6.jpg"
   },
   {
-   "url": "https://phys.org",
-   "source": "hacker news",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-03",
-   "checked": "2026-11-03",
-   "fails": 0,
-   "aliases": [
-    "phys.org"
-   ],
-   "lang": "en",
-   "load_time": 0.24,
-   "https": true,
-   "words": 2837,
-   "embed": false,
-   "safety_checked": "2026-11-03",
-   "tech": [
-    "Hand-coded"
-   ],
-   "vector": [
-    0.22,
-    0.05,
-    0.0,
-    0.15,
-    0.9,
-    0.1,
-    0.1,
-    1.0,
-    0.2,
-    0.05,
-    0.15,
-    0.85,
-    0.0,
-    0.4,
-    0.0,
-    0.7
-   ],
-   "title": "News and Articles on Science and Technology",
-   "description": "Daily science news on research developments, technological breakthroughs and the latest scientific innovations",
-   "category": "Science",
-   "confidence": 0.6,
-   "tags": [
-    "News"
-   ],
-   "fingerprint": "newsandarticlesonscienceandtechnologydailysciencenewsonresearchdevelopmentstechnologicalbreakthroughsandthe",
-   "vibes": [
-    "nerdy",
-    "deep read"
-   ],
-   "archive_checked": "2026-11-03",
-   "first_seen": 2002,
-   "screenshot_file": "bd2f067ee8f8fec2cd84.jpg"
-  },
-  {
    "url": "https://eieio.games",
    "source": "link page",
    "status": "ok",
@@ -2480,61 +2319,6 @@
    "screenshot_file": "73c63757a3188357257a.jpg"
   },
   {
-   "url": "https://mgz.dev",
-   "source": "link from mgz.me",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-03",
-   "checked": "2026-11-03",
-   "fails": 0,
-   "aliases": [
-    "mgz.dev"
-   ],
-   "lang": "en",
-   "load_time": 0.23,
-   "https": true,
-   "words": 403,
-   "embed": false,
-   "safety_checked": "2026-11-03",
-   "tech": [
-    "Next.js"
-   ],
-   "vector": [
-    0.1,
-    1.0,
-    0.0,
-    0.2,
-    0.1,
-    0.1,
-    0.75,
-    0.634,
-    0.5,
-    0.05,
-    0.3,
-    0.85,
-    0.0,
-    0.4,
-    0.0,
-    0.85
-   ],
-   "title": "Marco Gomez (@TheCodeTherapy)",
-   "description": "Marco Gomez (TheCodeTherapy). My mad scientist lab: games, engines, GPU experiments and other real-time graphics madness, running in the browser.",
-   "category": "Games",
-   "confidence": 0.6,
-   "tags": [
-    "Technology",
-    "Developer",
-    "Personal"
-   ],
-   "fingerprint": "marcogomezthecodetherapymarcogomezthecodetherapymymadscientistlabgamesenginesgpuexperime",
-   "vibes": [
-    "playful"
-   ],
-   "archive_checked": "2026-11-03",
-   "first_seen": 2026,
-   "screenshot_file": "80c8109e92d628140463.jpg"
-  },
-  {
    "url": "https://spencer.place",
    "source": "link page",
    "status": "ok",
@@ -2574,7 +2358,7 @@
     0.0,
     0.85
    ],
-   "title": "ꜱᴘᴇɴᴄᴇʀ ᴄʜᴀɴɢ",
+   "title": "Spencer Chang",
    "description": "Spencer is an artist, engineer, and toymaker based in San Francisco. He works to create technology that cultivate interdependence and human agency.",
    "category": "Art",
    "confidence": 0.6,
@@ -2699,114 +2483,6 @@
    "archive_checked": "2026-11-03",
    "first_seen": 2024,
    "screenshot_file": "f187be8385c140bf0995.jpg"
-  },
-  {
-   "url": "https://shiroganes.neocities.org",
-   "source": "link from p3p.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-03",
-   "checked": "2026-11-03",
-   "fails": 0,
-   "aliases": [
-    "shiroganes.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.05,
-   "https": true,
-   "words": 101,
-   "embed": true,
-   "safety_checked": "2026-11-03",
-   "tech": [
-    "Neocities",
-    "Hand-coded",
-    "No JavaScript"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.1,
-    0.3,
-    0.1,
-    0.234,
-    0.55,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "☆ THE DETECTIVE PRINCE",
-   "description": "Please take note that this site contains (or will likely contain) flashing lights, eyestrain, horror themes/imagery, relatively strong language at times, and other, more general mature themes.",
-   "category": "Retro",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "thedetectiveprincepleasetakenotethatthissitecontainsorwilllikelycontainflashinglight",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-03",
-   "first_seen": 2022,
-   "screenshot_file": "56c742453d2d874ecf3f.jpg"
-  },
-  {
-   "url": "https://mixtapesanddialtones.neocities.org",
-   "source": "neocities",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-03",
-   "checked": "2026-11-03",
-   "fails": 0,
-   "aliases": [
-    "mixtapesanddialtones.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.06,
-   "https": true,
-   "words": 72,
-   "embed": true,
-   "safety_checked": "2026-11-03",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.1,
-    0.3,
-    0.1,
-    0.224,
-    0.55,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "mxtps&dltns",
-   "description": "This site contains mature themes, ocassional strong language, and topics that may be upsetting to some visitors such as loss, grief, and death. Please keep that in mind as you browse.",
-   "category": "Retro",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "mxtpsdltnsthissitecontainsmaturethemesocassionalstronglanguageandtopicsthatma",
-   "vibes": [
-    "handmade",
-    "minimal",
-    "retro"
-   ],
-   "archive_checked": "2026-11-03",
-   "first_seen": 2026,
-   "screenshot_file": "b966a0ba7b4eb120ddf5.jpg"
   },
   {
    "url": "https://garudyne.neocities.org",
@@ -2957,7 +2633,7 @@
     0.0,
     0.85
    ],
-   "title": "𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼",
+   "title": "bulltown.neo",
    "description": "The neocities' offspring of bulltown - a new take on content from the bulltown archives, circa 1998-2004",
    "category": "Retro",
    "confidence": 0.92,
@@ -2970,58 +2646,6 @@
    "archive_checked": "2026-11-03",
    "first_seen": 2024,
    "screenshot_file": "e749c0d910dae80d7a02.jpg"
-  },
-  {
-   "url": "https://gwgrrl.neocities.org",
-   "source": "neocities",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-03",
-   "checked": "2026-11-03",
-   "fails": 0,
-   "aliases": [
-    "gwgrrl.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.08,
-   "https": true,
-   "words": 401,
-   "embed": true,
-   "safety_checked": "2026-11-03",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.15,
-    0.1,
-    0.3,
-    0.1,
-    0.334,
-    0.85,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "Back to AC 195",
-   "description": "The year is 1999. Gundam Wing and Endless Waltz have captured the hearts, imaginations... and libidos... of teen and young adult anime fans everywhere.",
-   "category": "Retro",
-   "confidence": 0.91,
-   "tags": [],
-   "fingerprint": "backtoac195theyearis1999gundamwingandendlesswaltzhavecapturedtheheartsimagin",
-   "vibes": [
-    "handmade"
-   ],
-   "archive_checked": "2026-11-03",
-   "first_seen": 2023,
-   "screenshot_file": "725d78466c23a3b50270.jpg"
   },
   {
    "url": "https://ocpdzim.neocities.org",
@@ -3116,8 +2740,8 @@
     0.0,
     0.85
    ],
-   "title": "SCRIPTED RESOURCES",
-   "description": "Scripted added new stuff on 11/25 (MM/YY) 08/25 I've added filter buttons for the respective categories. It's honestly a mess before, but thankfully it's done.",
+   "title": "Scripted's Web Resources",
+   "description": "A curated collection of handmade web design elements, CSS buttons, retro stamps, badges, and layout resources for Neocities builders.",
    "category": "Retro",
    "confidence": 0.88,
    "tags": [],
@@ -3224,8 +2848,8 @@
     0.0,
     0.85
    ],
-   "title": "Inkposting // A Splatoon Collection",
-   "description": "Hey! It's been a while! Severe technical issues (and health issues) stopped me from updating for a long time, but rest assured, Inkposting is alive and well.",
+   "title": "Inkposting — Splatoon Fan Archive",
+   "description": "A personal fan archive and web shrine celebrating Splatoon art, character aesthetics, lore, gear, and handmade digital graphics.",
    "category": "Retro",
    "confidence": 0.75,
    "tags": [],
@@ -3279,7 +2903,7 @@
     0.85
    ],
    "title": "Flimsknoght's Domain",
-   "description": "Now playing: Time Bomb - Blade and Bath",
+   "description": "A cozy, eccentric personal web nook featuring music recommendations, creative journaling, retro GIFs, and personal digital art.",
    "category": "Retro",
    "confidence": 0.67,
    "tags": [],
@@ -3332,8 +2956,8 @@
     0.3,
     0.85
    ],
-   "title": "not_yet_know :P Space",
-   "description": "My website is designed specifically for desktop computers and tablets, this website doesnt support Mobile Devices",
+   "title": "not_yet_know Space",
+   "description": "A creative handmade desktop website designed with classic web layouts, pixel art illustrations, and personal exploration logs.",
    "category": "Retro",
    "confidence": 0.64,
    "tags": [
