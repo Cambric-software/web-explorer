@@ -11,7 +11,7 @@
    "review": "verified",
    "added": "2026-10-31",
    "checked": "2026-11-03",
-   "fails": 2,
+   "fails": 3,
    "https": true,
    "words": 150,
    "embed": true,
@@ -99,7 +99,7 @@
     0.7
    ],
    "lang": "en",
-   "load_time": 0.08,
+   "load_time": 0.16,
    "safety_checked": "2026-11-03",
    "archive_checked": "2026-11-02",
    "first_seen": 2024
@@ -114,7 +114,7 @@
    "review": "verified",
    "added": "2026-10-31",
    "checked": "2026-11-03",
-   "fails": 2,
+   "fails": 3,
    "https": true,
    "words": 120,
    "embed": true,
@@ -204,7 +204,7 @@
     0.85
    ],
    "lang": "en",
-   "load_time": 0.67,
+   "load_time": 0.45,
    "safety_checked": "2026-11-03",
    "archive_checked": "2026-11-02",
    "first_seen": 2026
@@ -274,7 +274,7 @@
    "checked": "2026-11-03",
    "fails": 0,
    "https": true,
-   "words": 1182,
+   "words": 1190,
    "embed": true,
    "locked": true,
    "tech": [
@@ -297,7 +297,7 @@
     0.3,
     0.1,
     0.1,
-    0.594,
+    0.597,
     0.5,
     0.05,
     0.15,
@@ -308,7 +308,7 @@
     0.7
    ],
    "lang": "?",
-   "load_time": 0.12,
+   "load_time": 0.07,
    "safety_checked": "2026-11-03",
    "archive_checked": "2026-11-02"
   },
@@ -359,7 +359,7 @@
     0.7
    ],
    "lang": "en",
-   "load_time": 0.92,
+   "load_time": 1.48,
    "safety_checked": "2026-11-03",
    "archive_checked": "2026-11-02",
    "first_seen": 2005
@@ -412,7 +412,7 @@
     0.85
    ],
    "lang": "en",
-   "load_time": 0.48,
+   "load_time": 0.65,
    "safety_checked": "2026-11-03",
    "archive_checked": "2026-11-02",
    "first_seen": 2003
@@ -427,7 +427,7 @@
    "review": "verified",
    "added": "2026-10-31",
    "checked": "2026-11-03",
-   "fails": 2,
+   "fails": 3,
    "https": true,
    "words": 390,
    "embed": false,
@@ -517,7 +517,7 @@
     0.7
    ],
    "lang": "en",
-   "load_time": 0.16,
+   "load_time": 0.13,
    "safety_checked": "2026-11-03",
    "archive_checked": "2026-11-02"
   },
@@ -569,7 +569,7 @@
     0.7
    ],
    "lang": "en",
-   "load_time": 0.14,
+   "load_time": 0.35,
    "safety_checked": "2026-11-03",
    "archive_checked": "2026-11-02"
   },
@@ -621,7 +621,7 @@
     0.7
    ],
    "lang": "en",
-   "load_time": 0.06,
+   "load_time": 0.08,
    "safety_checked": "2026-11-03",
    "archive_checked": "2026-11-02",
    "first_seen": 2021
@@ -673,7 +673,7 @@
     0.7
    ],
    "lang": "en",
-   "load_time": 0.74,
+   "load_time": 0.78,
    "safety_checked": "2026-11-03",
    "archive_checked": "2026-11-02",
    "first_seen": 2011
@@ -725,7 +725,7 @@
     0.7
    ],
    "lang": "en",
-   "load_time": 0.45,
+   "load_time": 0.29,
    "safety_checked": "2026-11-03",
    "archive_checked": "2026-11-02",
    "first_seen": 2018
@@ -742,7 +742,7 @@
    "checked": "2026-11-03",
    "fails": 0,
    "https": true,
-   "words": 300,
+   "words": 306,
    "embed": false,
    "locked": true,
    "tech": [
@@ -767,7 +767,7 @@
     0.1,
     0.75,
     0.1,
-    0.3,
+    0.302,
     0.5,
     0.05,
     0.15,
@@ -778,7 +778,7 @@
     0.7
    ],
    "lang": "en",
-   "load_time": 0.46,
+   "load_time": 0.62,
    "safety_checked": "2026-11-03",
    "archive_checked": "2026-11-02",
    "first_seen": 2021
@@ -831,7 +831,7 @@
     0.7
    ],
    "lang": "en",
-   "load_time": 0.09,
+   "load_time": 0.06,
    "safety_checked": "2026-11-03",
    "archive_checked": "2026-11-02",
    "first_seen": 2025
@@ -846,7 +846,7 @@
    "review": "verified",
    "added": "2026-10-29",
    "checked": "2026-11-03",
-   "fails": 2,
+   "fails": 3,
    "https": true,
    "words": 40,
    "embed": false,
@@ -934,7 +934,7 @@
     0.7
    ],
    "lang": "en",
-   "load_time": 0.35,
+   "load_time": 0.47,
    "safety_checked": "2026-11-03",
    "archive_checked": "2026-11-02",
    "first_seen": 2022
@@ -946,7 +946,7 @@
    "review": "unreviewed",
    "added": "2026-11-02",
    "checked": "2026-11-03",
-   "fails": 1,
+   "fails": 2,
    "aliases": [
     "xpnethub.neocities.org"
    ],
@@ -1005,7 +1005,7 @@
     "srcefiro.neocities.org"
    ],
    "lang": "es",
-   "load_time": 0.02,
+   "load_time": 0.06,
    "https": true,
    "words": 110,
    "embed": true,
@@ -1057,7 +1057,7 @@
     "atlyss.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.09,
+   "load_time": 0.24,
    "https": true,
    "words": 245,
    "embed": true,
@@ -1110,7 +1110,7 @@
     "syscall.sh"
    ],
    "lang": "en",
-   "load_time": 0.21,
+   "load_time": 0.08,
    "https": true,
    "words": 451,
    "embed": false,
@@ -1161,7 +1161,7 @@
     "wiki.tilde.green"
    ],
    "lang": "en",
-   "load_time": 0.36,
+   "load_time": 0.47,
    "https": true,
    "words": 92,
    "embed": true,
@@ -1213,7 +1213,7 @@
     "architrixs.github.io"
    ],
    "lang": "?",
-   "load_time": 0.02,
+   "load_time": 0.15,
    "https": true,
    "words": 139,
    "embed": true,
@@ -1267,7 +1267,7 @@
     "mgz.me"
    ],
    "lang": "en",
-   "load_time": 0.43,
+   "load_time": 0.51,
    "https": true,
    "words": 135,
    "embed": true,
@@ -1317,7 +1317,7 @@
     "alfy.blog"
    ],
    "lang": "en",
-   "load_time": 0.43,
+   "load_time": 0.79,
    "https": true,
    "words": 182,
    "embed": true,
@@ -1368,7 +1368,7 @@
     "starfighter.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.07,
+   "load_time": 0.05,
    "https": true,
    "words": 356,
    "embed": true,
@@ -1471,7 +1471,7 @@
    "review": "unreviewed",
    "added": "2026-11-02",
    "checked": "2026-11-03",
-   "fails": 1,
+   "fails": 2,
    "aliases": [
     "ransei.neocities.org"
    ],
@@ -1533,7 +1533,7 @@
     "henry.codes"
    ],
    "lang": "en",
-   "load_time": 0.87,
+   "load_time": 0.64,
    "https": true,
    "words": 555,
    "embed": true,
@@ -1584,7 +1584,7 @@
     "xn--sr8hvo.ws"
    ],
    "lang": "en",
-   "load_time": 0.21,
+   "load_time": 0.22,
    "https": true,
    "words": 320,
    "embed": true,
@@ -1636,7 +1636,7 @@
     "erikjohannes.no"
    ],
    "lang": "en",
-   "load_time": 0.76,
+   "load_time": 1.02,
    "https": true,
    "words": 358,
    "embed": false,
@@ -1690,7 +1690,7 @@
     "willmunn.xyz"
    ],
    "lang": "en",
-   "load_time": 0.15,
+   "load_time": 0.64,
    "https": true,
    "words": 79,
    "embed": true,
@@ -2645,6 +2645,873 @@
    "archive_checked": "2026-11-03",
    "first_seen": 2023,
    "screenshot_file": "207cf4fe02312a03a169.jpg"
+  },
+  {
+   "url": "https://heliogabalus.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-03",
+   "checked": "2026-11-03",
+   "fails": 0,
+   "aliases": [
+    "heliogabalus.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.05,
+   "https": true,
+   "words": 203,
+   "embed": true,
+   "safety_checked": "2026-11-03",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.268,
+    0.55,
+    0.77,
+    0.45,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "Elagabalium",
+   "description": "The Elagabalium: Roman and French Republican calendars, odd clocks, a digital temple, WINO lyrics and things I have written.",
+   "category": "Retro",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "elagabaliumtheelagabaliumromanandfrenchrepublicancalendarsoddclocksadigitalte",
+   "vibes": [
+    "weird",
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-03",
+   "first_seen": 2024,
+   "screenshot_file": "f187be8385c140bf0995.jpg"
+  },
+  {
+   "url": "https://shiroganes.neocities.org",
+   "source": "link from p3p.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-03",
+   "checked": "2026-11-03",
+   "fails": 0,
+   "aliases": [
+    "shiroganes.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.05,
+   "https": true,
+   "words": 101,
+   "embed": true,
+   "safety_checked": "2026-11-03",
+   "tech": [
+    "Neocities",
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.234,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "☆ THE DETECTIVE PRINCE",
+   "description": "Please take note that this site contains (or will likely contain) flashing lights, eyestrain, horror themes/imagery, relatively strong language at times, and other, more general mature themes.",
+   "category": "Retro",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "thedetectiveprincepleasetakenotethatthissitecontainsorwilllikelycontainflashinglight",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-03",
+   "first_seen": 2022,
+   "screenshot_file": "56c742453d2d874ecf3f.jpg"
+  },
+  {
+   "url": "https://mixtapesanddialtones.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-03",
+   "checked": "2026-11-03",
+   "fails": 0,
+   "aliases": [
+    "mixtapesanddialtones.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.06,
+   "https": true,
+   "words": 72,
+   "embed": true,
+   "safety_checked": "2026-11-03",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.224,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "mxtps&dltns",
+   "description": "This site contains mature themes, ocassional strong language, and topics that may be upsetting to some visitors such as loss, grief, and death. Please keep that in mind as you browse.",
+   "category": "Retro",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "mxtpsdltnsthissitecontainsmaturethemesocassionalstronglanguageandtopicsthatma",
+   "vibes": [
+    "handmade",
+    "minimal",
+    "retro"
+   ],
+   "archive_checked": "2026-11-03",
+   "first_seen": 2026,
+   "screenshot_file": "b966a0ba7b4eb120ddf5.jpg"
+  },
+  {
+   "url": "https://garudyne.neocities.org",
+   "source": "link from p3p.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-03",
+   "checked": "2026-11-03",
+   "fails": 0,
+   "aliases": [
+    "garudyne.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.21,
+   "https": true,
+   "words": 285,
+   "embed": true,
+   "safety_checked": "2026-11-03",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.295,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "BACKSIDE OF THE TV",
+   "description": "Withered flowers forget what they wept for day after day. withered flowers blossom in the stream of tears, they still think of the cause. turning misery into meaningfulness, changing day after day.",
+   "category": "Retro",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "backsideofthetvwitheredflowersforgetwhattheyweptfordayafterdaywitheredflowersbloss",
+   "vibes": [
+    "handmade",
+    "minimal",
+    "retro"
+   ],
+   "archive_checked": "2026-11-03",
+   "first_seen": 2023,
+   "screenshot_file": "d2377c54afa6c0c7fe82.jpg"
+  },
+  {
+   "url": "https://pixelsafari.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-03",
+   "checked": "2026-11-03",
+   "fails": 0,
+   "aliases": [
+    "pixelsafari.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.06,
+   "https": true,
+   "words": 31,
+   "embed": true,
+   "safety_checked": "2026-11-03",
+   "tech": [
+    "Bootstrap",
+    "Neocities",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.1,
+    0.3,
+    0.1,
+    0.21,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "coco's pixel safari",
+   "description": "A collection of new and old graphics. Good to decorate your site with :)",
+   "category": "Retro",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "cocospixelsafariacollectionofnewandoldgraphicsgoodtodecorateyoursitewith",
+   "vibes": [
+    "handmade",
+    "minimal",
+    "retro"
+   ],
+   "archive_checked": "2026-11-03",
+   "first_seen": 2023,
+   "screenshot_file": "0b534acc8d9c7049e44f.jpg"
+  },
+  {
+   "url": "https://bulltown.neocities.org",
+   "source": "link from wwwdotdeepblueme.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-03",
+   "checked": "2026-11-03",
+   "fails": 0,
+   "aliases": [
+    "bulltown.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.12,
+   "https": true,
+   "words": 224,
+   "embed": true,
+   "safety_checked": "2026-11-03",
+   "tech": [
+    "jQuery",
+    "Neocities",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.2,
+    0.3,
+    0.1,
+    0.275,
+    0.55,
+    0.77,
+    0.15,
+    0.2,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼",
+   "description": "The neocities' offspring of bulltown - a new take on content from the bulltown archives, circa 1998-2004",
+   "category": "Retro",
+   "confidence": 0.92,
+   "tags": [],
+   "fingerprint": "theneocitiesoffspringofbulltownanewtakeoncontentfromthebulltowna",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-03",
+   "first_seen": 2024,
+   "screenshot_file": "e749c0d910dae80d7a02.jpg"
+  },
+  {
+   "url": "https://gwgrrl.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-03",
+   "checked": "2026-11-03",
+   "fails": 0,
+   "aliases": [
+    "gwgrrl.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.08,
+   "https": true,
+   "words": 401,
+   "embed": true,
+   "safety_checked": "2026-11-03",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.1,
+    0.3,
+    0.1,
+    0.334,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "Back to AC 195",
+   "description": "The year is 1999. Gundam Wing and Endless Waltz have captured the hearts, imaginations... and libidos... of teen and young adult anime fans everywhere.",
+   "category": "Retro",
+   "confidence": 0.91,
+   "tags": [],
+   "fingerprint": "backtoac195theyearis1999gundamwingandendlesswaltzhavecapturedtheheartsimagin",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-11-03",
+   "first_seen": 2023,
+   "screenshot_file": "725d78466c23a3b50270.jpg"
+  },
+  {
+   "url": "https://ocpdzim.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-03",
+   "checked": "2026-11-03",
+   "fails": 0,
+   "aliases": [
+    "ocpdzim.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.07,
+   "https": true,
+   "words": 804,
+   "embed": true,
+   "safety_checked": "2026-11-03",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.05,
+    0.3,
+    0.3,
+    0.2,
+    0.468,
+    0.85,
+    0.77,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "Zim's Website",
+   "description": "I'll sometimes add polls here when I want help with decisions about my site, or just for fun! Keep an eye out for new ones.",
+   "category": "Retro",
+   "confidence": 0.88,
+   "tags": [],
+   "fingerprint": "zimswebsiteillsometimesaddpollsherewheniwanthelpwithdecisionsaboutmysiteor",
+   "vibes": [
+    "playful",
+    "handmade",
+    "retro"
+   ],
+   "archive_checked": "2026-11-03",
+   "first_seen": 2022,
+   "screenshot_file": "34c6138a9a9af1370679.jpg"
+  },
+  {
+   "url": "https://scripted.neocities.org",
+   "source": "link from p3p.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-03",
+   "checked": "2026-11-03",
+   "fails": 0,
+   "aliases": [
+    "scripted.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.14,
+   "https": true,
+   "words": 285,
+   "embed": true,
+   "safety_checked": "2026-11-03",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.295,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "SCRIPTED RESOURCES",
+   "description": "Scripted added new stuff on 11/25 (MM/YY) 08/25 I've added filter buttons for the respective categories. It's honestly a mess before, but thankfully it's done.",
+   "category": "Retro",
+   "confidence": 0.88,
+   "tags": [],
+   "fingerprint": "scriptedresourcesscriptedaddednewstuffon1125mmyy0825iveaddedfilterbuttonsforth",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-03",
+   "first_seen": 2022,
+   "screenshot_file": "12e4324755376ede5206.jpg"
+  },
+  {
+   "url": "https://dizzt3942.neocities.org",
+   "source": "link from wwwdotdeepblueme.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-03",
+   "checked": "2026-11-03",
+   "fails": 0,
+   "aliases": [
+    "dizzt3942.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.27,
+   "https": true,
+   "words": 36,
+   "embed": true,
+   "safety_checked": "2026-11-03",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.29,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.3,
+    0.212,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "Dizzt's Shoal",
+   "description": "A tiny interactive beach entrance to Dizzt's Shoal.",
+   "category": "Retro",
+   "confidence": 0.79,
+   "tags": [],
+   "fingerprint": "dizztsshoalatinyinteractivebeachentrancetodizztsshoal",
+   "vibes": [
+    "playful",
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-03",
+   "first_seen": 2026,
+   "screenshot_file": "a2245b3cc2d8a431b5fd.jpg"
+  },
+  {
+   "url": "https://inkposting.neocities.org",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-03",
+   "checked": "2026-11-03",
+   "fails": 0,
+   "aliases": [
+    "inkposting.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.09,
+   "https": true,
+   "words": 1670,
+   "embed": true,
+   "safety_checked": "2026-11-03",
+   "tech": [
+    "jQuery",
+    "Neocities",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.15,
+    0.3,
+    0.3,
+    0.2,
+    0.757,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "Inkposting // A Splatoon Collection",
+   "description": "Hey! It's been a while! Severe technical issues (and health issues) stopped me from updating for a long time, but rest assured, Inkposting is alive and well.",
+   "category": "Retro",
+   "confidence": 0.75,
+   "tags": [],
+   "fingerprint": "inkpostingasplatooncollectionheyitsbeenawhileseveretechnicalissuesandhealthissuesstoppedmef",
+   "vibes": [
+    "artsy",
+    "playful",
+    "handmade"
+   ],
+   "archive_checked": "2026-11-03",
+   "first_seen": 2022,
+   "screenshot_file": "f21371ec45df0297cae9.jpg"
+  },
+  {
+   "url": "https://flimsknoght.neocities.org",
+   "source": "link from p3p.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-03",
+   "checked": "2026-11-03",
+   "fails": 0,
+   "aliases": [
+    "flimsknoght.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.08,
+   "https": true,
+   "words": 101,
+   "embed": true,
+   "safety_checked": "2026-11-03",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.2,
+    0.234,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "Flimsknoght's Domain",
+   "description": "Now playing: Time Bomb - Blade and Bath",
+   "category": "Retro",
+   "confidence": 0.67,
+   "tags": [],
+   "fingerprint": "flimsknoghtsdomainnowplayingtimebombbladeandbath",
+   "vibes": [
+    "handmade",
+    "minimal",
+    "retro"
+   ],
+   "archive_checked": "2026-11-03",
+   "first_seen": 2025,
+   "screenshot_file": "2fd5952250a240d044f2.jpg"
+  },
+  {
+   "url": "https://notyetknowspace.neocities.org",
+   "source": "link from wwwdotdeepblueme.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-03",
+   "checked": "2026-11-03",
+   "fails": 0,
+   "aliases": [
+    "notyetknowspace.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.07,
+   "https": true,
+   "words": 158,
+   "embed": true,
+   "safety_checked": "2026-11-03",
+   "tech": [
+    "WordPress",
+    "Neocities"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.3,
+    0.15,
+    0.1,
+    0.3,
+    0.1,
+    0.253,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.75,
+    0.3,
+    0.85
+   ],
+   "title": "not_yet_know :P Space",
+   "description": "My website is designed specifically for desktop computers and tablets, this website doesnt support Mobile Devices",
+   "category": "Retro",
+   "confidence": 0.64,
+   "tags": [
+    "Science"
+   ],
+   "fingerprint": "notyetknowpspacemywebsiteisdesignedspecificallyfordesktopcomputersandtabletsthiswebs",
+   "vibes": [
+    "minimal"
+   ],
+   "archive_checked": "2026-11-03",
+   "first_seen": 2026,
+   "screenshot_file": "e13f522784b979cf1b7d.jpg"
+  },
+  {
+   "url": "https://stopeatingbugs.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-03",
+   "checked": "2026-11-03",
+   "fails": 0,
+   "aliases": [
+    "stopeatingbugs.neocities.org"
+   ],
+   "lang": "ko",
+   "load_time": 0.42,
+   "https": true,
+   "words": 85,
+   "embed": true,
+   "safety_checked": "2026-11-03",
+   "tech": [
+    "Neocities",
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "vector": [
+    0.1,
+    0.89,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.4,
+    0.528,
+    0.2,
+    0.15,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "CYOA 허브",
+   "description": "A CYOA about you and your friends and a game you play together.",
+   "category": "Games",
+   "confidence": 0.6,
+   "tags": [
+    "Retro"
+   ],
+   "fingerprint": "cyoaacyoaaboutyouandyourfriendsandagameyouplaytogether",
+   "vibes": [
+    "playful",
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-03",
+   "first_seen": 2023,
+   "screenshot_file": "29aca8b1d87a8d06a56a.jpg"
+  },
+  {
+   "url": "https://tofutush.neocities.org",
+   "source": "link from wwwdotdeepblueme.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-03",
+   "checked": "2026-11-03",
+   "fails": 0,
+   "aliases": [
+    "tofutush.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.06,
+   "https": true,
+   "words": 137,
+   "embed": true,
+   "safety_checked": "2026-11-03",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.2,
+    0.246,
+    0.55,
+    0.77,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "The Iron Ragdoll",
+   "description": "Hi, I'm Tofutush (she/her)! Thanks for visiting this little webbed site. I hope you have fun!",
+   "category": "Retro",
+   "confidence": 0.6,
+   "tags": [
+    "Retro"
+   ],
+   "fingerprint": "theironragdollhiimtofutushsheherthanksforvisitingthislittlewebbedsiteihope",
+   "vibes": [
+    "playful",
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-03",
+   "first_seen": 2024,
+   "screenshot_file": "5bcb81a44b747dbd6ecf.jpg"
+  },
+  {
+   "url": "https://babycarrot.nekoweb.org",
+   "source": "link from p3p.neocities.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-03",
+   "checked": "2026-11-03",
+   "fails": 0,
+   "aliases": [
+    "babycarrot.nekoweb.org"
+   ],
+   "lang": "?",
+   "load_time": 0.49,
+   "https": true,
+   "words": 1259,
+   "embed": true,
+   "safety_checked": "2026-11-03",
+   "tech": [
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.05,
+    0.3,
+    0.3,
+    0.2,
+    0.62,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "carrot's corner",
+   "description": "Welcome to Carrot's corner of the internet! I'm so glad you're here <3",
+   "category": "Retro",
+   "confidence": 0.6,
+   "tags": [],
+   "fingerprint": "carrotscornerwelcometocarrotscorneroftheinternetimsogladyourehere3",
+   "vibes": [
+    "playful",
+    "handmade",
+    "retro"
+   ],
+   "archive_checked": "2026-11-03",
+   "first_seen": 2024,
+   "screenshot_file": "6b75ae6e2ed23d901d00.jpg"
   }
  ]
 }
