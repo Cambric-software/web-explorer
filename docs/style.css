@@ -86,3 +86,6 @@ html[data-theme=terminal] .tag{border-style:dashed;border-radius:0}
 .chill #card.pop{animation:none}.chill .rank progress{height:3px}.chill .site-body{line-height:1.7}.chill .meta{line-height:1.5}
 #setting-volume{accent-color:var(--acc);padding:0;border:0;background:none;max-width:420px}#ambient-volume{float:right;color:var(--fg)}
 @media(max-width:700px){html[data-theme=index] .grid .site{grid-template-columns:1fr}html[data-theme=index] .grid .thumb{aspect-ratio:16/10;min-height:0}}
+
+#moods{display:flex;flex-wrap:wrap;gap:.4rem;margin:.6rem 0}#moods button{border-radius:999px;padding:.35rem .8rem}#moods button.on{outline:2px solid currentColor;font-weight:700}
+#orbit{margin-top:1rem;max-width:700px}.orbit-h{font-size:1rem;margin:.2rem 0 .5rem}.orbit-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:.5rem}.orbit-item{display:flex;flex-direction:column;align-items:flex-start;text-align:left;gap:.2rem;padding:.6rem}.orbit-item span{font-size:.8rem;opacity:.75}
