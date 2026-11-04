@@ -1,23 +1,22 @@
 {
- "total": 66,
- "dead": 0,
+ "total": 80,
+ "dead": 2,
  "flagged": 0,
- "runs": 37,
- "last_run": "2026-11-03T09:39:39Z",
- "found_last_run": 16,
+ "runs": 38,
+ "last_run": "2026-11-04T23:39:15Z",
+ "found_last_run": 23,
  "beta": true,
  "categories": {
-  "Tools": 2,
-  "Games": 6,
-  "Developer": 5,
-  "Art": 6,
-  "Retro": 29,
+  "Tools": 3,
+  "Games": 4,
+  "Developer": 6,
+  "Art": 5,
+  "Retro": 38,
   "Writing": 1,
-  "Personal": 10,
+  "Personal": 17,
   "Communities": 3,
   "Random": 1,
-  "Technology": 1,
-  "Science": 2
+  "Technology": 2
  },
  "bot_version": 4,
  "history": [
@@ -205,9 +204,53 @@
    "date": "2026-11-03",
    "added": 16,
    "total": 66
+  },
+  {
+   "date": "2026-11-04",
+   "added": 23,
+   "total": 80
   }
  ],
  "runs_log": [
+  {
+   "started": "2026-11-04T23:39:15Z",
+   "rejected": {
+    "empty javascript shell": 28,
+    "unsafe": 32,
+    "parked": 13,
+    "unsure category": 5,
+    "starter template": 6,
+    "too few words": 23,
+    "weak description": 17,
+    "unreachable": 8,
+    "lazy title": 25
+   },
+   "duplicates_removed": 0,
+   "sources": {
+    "hacker news": 60,
+    "lobsters": 19,
+    "tiny helpers": 4,
+    "js13k": 2,
+    "chrome experiments": 17,
+    "awesome lists": 5,
+    "useless web": 5,
+    "indieweb": 12,
+    "neocities": 57,
+    "nekoweb": 2,
+    "tildeverse": 18,
+    "marginalia": 27,
+    "ooh.directory": 4
+   },
+   "candidates": 180,
+   "deep_links": 524,
+   "added": 23,
+   "rechecked": 59,
+   "stale_rechecked": 0,
+   "newly_dead": 2,
+   "flagged": 0,
+   "malware_list": 0,
+   "archive_years": 18
+  },
   {
    "started": "2026-11-03T09:39:39Z",
    "rejected": {
@@ -1095,29 +1138,6 @@
    "flagged": 1,
    "malware_list": 0,
    "archive_years": 19
-  },
-  {
-   "started": "2026-10-27T23:48:45Z",
-   "rejected": {
-    "unreachable": 9,
-    "too little content": 26,
-    "parked": 4,
-    "unsafe": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 88,
-    "lobsters": 3
-   },
-   "candidates": 100,
-   "deep_links": 109,
-   "added": 60,
-   "rechecked": 80,
-   "stale_rechecked": 0,
-   "newly_dead": 1,
-   "flagged": 1,
-   "malware_list": 0,
-   "archive_years": 20
   }
  ],
  "reset": "2026-10-26",
