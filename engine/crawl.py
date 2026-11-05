@@ -666,6 +666,17 @@ def sources(known):
             for i in json.loads(urllib.request.urlopen(r).read()):
                 for u in re.findall(r"https?://[^\s)>\]\"']+", (i.get("title") or "") + " " + (i.get("body") or "")): add(u, "submission")
     except Exception as e: print("issues", e)
+    try:  # anonymous visitor suggestions buffered in Supabase (flushed every run)
+        sb = os.environ.get("SUPABASE_URL", "").rstrip("/"); key = os.environ.get("SUPABASE_SERVICE_ROLE_KEY", "")
+        if sb and key:
+            hd = {"apikey": key, "Authorization": "Bearer " + key}
+            rows = json.loads(urllib.request.urlopen(urllib.request.Request(sb + "/rest/v1/pending_submissions?select=id,submitted_url&order=id&limit=500", headers=hd), timeout=20).read())
+            for row in rows:
+                for u in re.findall(r"https?://[^\s)>\]\"']+", str(row.get("submitted_url") or ""))[:1]: add(u, "submission")
+            if rows:
+                urllib.request.urlopen(urllib.request.Request(sb + "/rest/v1/pending_submissions?id=lte.%d" % max(r["id"] for r in rows), headers=hd, method="DELETE"), timeout=20)
+            print("Cloud suggestions:", len(rows))
+    except Exception as e: print("cloud suggestions", e)
     return found
 
 LINKPAGE = re.compile(r"\b(links|blogroll|friends|webring|cool sites|neighbou?rs|bookmarks|recommend|elsewhere|other sites|link ?list|"
