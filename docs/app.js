@@ -73,3 +73,20 @@ $('#sb-save').onclick=()=>{const u=current.url;favs=favs.includes(u)?favs.filter
 $('#sb-close').onclick=closeStumble;$('#stumble-go').onclick=()=>{explore();if(current)stumble(current)};
 document.addEventListener('keydown',e=>{if($('#stumble').hidden)return;if(e.key==='Escape')closeStumble();if(e.key==='n'||e.key==='N')$('#sb-next').click()});
 start();
+
+/* Cloud buffer: anonymous one-click votes + website suggestions (no account needed) */
+(()=>{const SB='https://wcqoaxkbyeavqjbyxdsg.supabase.co/rest/v1',KEY='sb_publishable_b8P_yVnvFC2ewzVo_GaYrw_BbYIkR3C';
+let id=localStorage.getItem('we_explorer_id');if(!id){id=Date.now().toString(36)+'-'+(crypto.randomUUID?crypto.randomUUID():Math.random().toString(36).slice(2)+Math.random().toString(36).slice(2));try{localStorage.setItem('we_explorer_id',id)}catch{}}
+const H={apikey:KEY,'Content-Type':'application/json'};
+const send=(table,row,extra='',prefer='return=minimal')=>fetch(SB+'/'+table+extra,{method:'POST',headers:{...H,Prefer:prefer},body:JSON.stringify(row)});
+let last={...store.get('votes',{})};const orig=store.set;
+store.set=(k,v)=>{orig(k,v);if(k!=='votes')return;for(const u of new Set([...Object.keys(last),...Object.keys(v)])){const n=v[u]||0;if(n!==(last[u]||0))send('pending_votes',{explorer_id:id,site_url:u,vote:n},'?on_conflict=explorer_id,site_url','resolution=merge-duplicates,return=minimal').catch(()=>{})}last={...v}};
+const dlg=document.getElementById('submit-dialog'),form=document.getElementById('submit-form');
+document.querySelectorAll('[data-open-submit]').forEach(b=>b.addEventListener('click',()=>dlg.showModal()));
+dlg.querySelectorAll('[data-close]').forEach(b=>b.addEventListener('click',()=>dlg.close()));
+form.addEventListener('submit',async e=>{e.preventDefault();let u=document.getElementById('submit-url').value.trim();if(!/^https?:\/\//i.test(u))u='https://'+u;
+try{new URL(u)}catch{notice('That does not look like a website address.');return}
+const sent=store.get('sent',[]).filter(t=>Date.now()-t<3600e3);if(sent.length>=5){notice('Thanks! You can suggest 5 websites per hour.');return}
+try{const r=await send('pending_submissions',{explorer_id:id,submitted_url:u.slice(0,300),title_hint:document.getElementById('submit-note').value.trim().slice(0,120)||null});if(!r.ok)throw 0;
+sent.push(Date.now());orig('sent',sent);form.reset();dlg.close();notice('Thanks! The discovery robot will check it within the hour.')}catch{notice('Could not send right now — please try again later.')}});
+})();
