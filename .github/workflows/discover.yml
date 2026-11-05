@@ -17,9 +17,9 @@ jobs:
       - run: python -m unittest discover -s tests
       - run: node --test tests/*.test.cjs
       - run: python engine/crawl.py
-        env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}
+        env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}", SUPABASE_URL: "https://wcqoaxkbyeavqjbyxdsg.supabase.co", SUPABASE_SERVICE_ROLE_KEY: "${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}"}
       - run: python engine/votes.py
-        env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}
+        env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}", SUPABASE_URL: "https://wcqoaxkbyeavqjbyxdsg.supabase.co", SUPABASE_SERVICE_ROLE_KEY: "${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}"}
       - run: python engine/screenshots.py
       - run: python engine/publish.py
       - name: Save results (control-room edits made during the run win)
