@@ -11,7 +11,7 @@
    "review": "verified",
    "added": "2026-10-31",
    "checked": "2026-11-05",
-   "fails": 5,
+   "fails": 6,
    "https": true,
    "words": 150,
    "embed": true,
@@ -99,7 +99,7 @@
     0.7
    ],
    "lang": "en",
-   "load_time": 0.1,
+   "load_time": 0.27,
    "safety_checked": "2026-11-05",
    "archive_checked": "2026-11-02",
    "first_seen": 2024
@@ -114,7 +114,7 @@
    "review": "verified",
    "added": "2026-10-31",
    "checked": "2026-11-05",
-   "fails": 5,
+   "fails": 6,
    "https": true,
    "words": 120,
    "embed": true,
@@ -204,7 +204,7 @@
     0.85
    ],
    "lang": "en",
-   "load_time": 0.32,
+   "load_time": 0.66,
    "safety_checked": "2026-11-05",
    "archive_checked": "2026-11-02",
    "first_seen": 2026
@@ -359,7 +359,7 @@
     0.7
    ],
    "lang": "en",
-   "load_time": 1.23,
+   "load_time": 1.58,
    "safety_checked": "2026-11-05",
    "archive_checked": "2026-11-02",
    "first_seen": 2005
@@ -394,17 +394,17 @@
    "confidence": 1,
    "screenshot_file": "8b69393ac9993d842ea5.jpg",
    "vector": [
-    0.1,
+    0.72,
     0.05,
     0.3,
-    0.7,
+    0.15,
     0.1,
     0.1,
-    0.1,
+    0.3,
     0.308,
     0.85,
     0.17,
-    0.3,
+    0.15,
     0.85,
     0.0,
     0.4,
@@ -412,7 +412,7 @@
     0.85
    ],
    "lang": "en",
-   "load_time": 1.15,
+   "load_time": 0.98,
    "safety_checked": "2026-11-05",
    "archive_checked": "2026-11-02",
    "first_seen": 2003
@@ -427,7 +427,7 @@
    "review": "verified",
    "added": "2026-10-31",
    "checked": "2026-11-05",
-   "fails": 5,
+   "fails": 6,
    "https": true,
    "words": 390,
    "embed": false,
@@ -517,7 +517,7 @@
     0.7
    ],
    "lang": "en",
-   "load_time": 0.13,
+   "load_time": 0.11,
    "safety_checked": "2026-11-05",
    "archive_checked": "2026-11-02"
   },
@@ -569,7 +569,7 @@
     0.7
    ],
    "lang": "en",
-   "load_time": 0.27,
+   "load_time": 0.29,
    "safety_checked": "2026-11-05",
    "archive_checked": "2026-11-02"
   },
@@ -621,7 +621,7 @@
     0.7
    ],
    "lang": "en",
-   "load_time": 0.04,
+   "load_time": 0.07,
    "safety_checked": "2026-11-05",
    "archive_checked": "2026-11-02",
    "first_seen": 2021
@@ -673,7 +673,7 @@
     0.7
    ],
    "lang": "en",
-   "load_time": 0.72,
+   "load_time": 0.83,
    "safety_checked": "2026-11-05",
    "archive_checked": "2026-11-02",
    "first_seen": 2011
@@ -688,7 +688,7 @@
    "review": "verified",
    "added": "2026-10-30",
    "checked": "2026-11-05",
-   "fails": 2,
+   "fails": 3,
    "https": true,
    "words": 103,
    "embed": true,
@@ -743,7 +743,7 @@
    "checked": "2026-11-05",
    "fails": 0,
    "https": true,
-   "words": 304,
+   "words": 305,
    "embed": false,
    "locked": true,
    "tech": [
@@ -768,7 +768,7 @@
     0.1,
     0.75,
     0.1,
-    0.301,
+    0.302,
     0.5,
     0.05,
     0.15,
@@ -779,7 +779,7 @@
     0.7
    ],
    "lang": "en",
-   "load_time": 0.63,
+   "load_time": 0.42,
    "safety_checked": "2026-11-05",
    "archive_checked": "2026-11-02",
    "first_seen": 2021
@@ -832,7 +832,7 @@
     0.7
    ],
    "lang": "en",
-   "load_time": 0.24,
+   "load_time": 0.05,
    "safety_checked": "2026-11-05",
    "archive_checked": "2026-11-02",
    "first_seen": 2025
@@ -847,7 +847,7 @@
    "review": "verified",
    "added": "2026-10-29",
    "checked": "2026-11-05",
-   "fails": 5,
+   "fails": 6,
    "https": true,
    "words": 40,
    "embed": false,
@@ -935,7 +935,7 @@
     0.7
    ],
    "lang": "en",
-   "load_time": 0.76,
+   "load_time": 0.36,
    "safety_checked": "2026-11-05",
    "archive_checked": "2026-11-02",
    "first_seen": 2022
@@ -947,7 +947,7 @@
    "review": "unreviewed",
    "added": "2026-11-02",
    "checked": "2026-11-05",
-   "fails": 4,
+   "fails": 5,
    "aliases": [
     "xpnethub.neocities.org"
    ],
@@ -1006,7 +1006,7 @@
     "srcefiro.neocities.org"
    ],
    "lang": "es",
-   "load_time": 0.08,
+   "load_time": 0.06,
    "https": true,
    "words": 110,
    "embed": true,
@@ -1058,7 +1058,7 @@
     "atlyss.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.13,
+   "load_time": 0.1,
    "https": true,
    "words": 245,
    "embed": true,
@@ -1111,7 +1111,7 @@
     "syscall.sh"
    ],
    "lang": "en",
-   "load_time": 0.3,
+   "load_time": 0.1,
    "https": true,
    "words": 335,
    "embed": false,
@@ -1162,7 +1162,7 @@
     "wiki.tilde.green"
    ],
    "lang": "en",
-   "load_time": 0.5,
+   "load_time": 0.39,
    "https": true,
    "words": 92,
    "embed": true,
@@ -1214,7 +1214,7 @@
     "architrixs.github.io"
    ],
    "lang": "?",
-   "load_time": 0.03,
+   "load_time": 0.24,
    "https": true,
    "words": 139,
    "embed": true,
@@ -1268,7 +1268,7 @@
     "mgz.me"
    ],
    "lang": "en",
-   "load_time": 0.51,
+   "load_time": 0.55,
    "https": true,
    "words": 135,
    "embed": true,
@@ -1318,7 +1318,7 @@
     "alfy.blog"
    ],
    "lang": "en",
-   "load_time": 0.51,
+   "load_time": 0.57,
    "https": true,
    "words": 182,
    "embed": true,
@@ -1423,7 +1423,7 @@
     "classiccountrylegendsradio.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.1,
+   "load_time": 0.24,
    "https": true,
    "words": 623,
    "embed": true,
@@ -1472,7 +1472,7 @@
    "review": "unreviewed",
    "added": "2026-11-02",
    "checked": "2026-11-05",
-   "fails": 4,
+   "fails": 5,
    "aliases": [
     "ransei.neocities.org"
    ],
@@ -1534,7 +1534,7 @@
     "henry.codes"
    ],
    "lang": "en",
-   "load_time": 0.43,
+   "load_time": 0.82,
    "https": true,
    "words": 555,
    "embed": true,
@@ -1585,7 +1585,7 @@
     "xn--sr8hvo.ws"
    ],
    "lang": "en",
-   "load_time": 0.28,
+   "load_time": 0.26,
    "https": true,
    "words": 320,
    "embed": true,
@@ -1637,7 +1637,7 @@
     "erikjohannes.no"
    ],
    "lang": "en",
-   "load_time": 0.94,
+   "load_time": 0.88,
    "https": true,
    "words": 358,
    "embed": false,
@@ -1691,7 +1691,7 @@
     "willmunn.xyz"
    ],
    "lang": "en",
-   "load_time": 0.46,
+   "load_time": 0.18,
    "https": true,
    "words": 79,
    "embed": true,
@@ -1741,7 +1741,7 @@
     "koroblin.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.06,
+   "load_time": 0.07,
    "https": true,
    "words": 116,
    "embed": true,
@@ -1795,7 +1795,7 @@
     "tpittaway.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.05,
+   "load_time": 0.12,
    "https": true,
    "words": 521,
    "embed": true,
@@ -1849,7 +1849,7 @@
     "antiqueradios.org"
    ],
    "lang": "?",
-   "load_time": 2.04,
+   "load_time": 0.33,
    "https": true,
    "words": 242,
    "embed": true,
@@ -1902,7 +1902,7 @@
     "seirdy.one"
    ],
    "lang": "en",
-   "load_time": 0.11,
+   "load_time": 0.26,
    "https": true,
    "words": 695,
    "embed": false,
@@ -1954,9 +1954,9 @@
     "undeadly.org"
    ],
    "lang": "en",
-   "load_time": 1.72,
+   "load_time": 1.15,
    "https": true,
-   "words": 1255,
+   "words": 1312,
    "embed": true,
    "safety_checked": "2026-11-05",
    "tech": [
@@ -1971,7 +1971,7 @@
     0.3,
     0.75,
     0.1,
-    0.618,
+    0.637,
     0.5,
     0.05,
     0.15,
@@ -1982,11 +1982,11 @@
     0.7
    ],
    "title": "OpenBSD Journal",
-   "description": "Contributed by Peter N. M. Hansteen on 2026-11-01 from the most excellent file shredder dept.",
+   "description": "Contributed by Peter N. M. Hansteen on 2026-11-05 from the saving the penguins dept.",
    "category": "Personal",
    "confidence": 0.83,
    "tags": [],
-   "fingerprint": "openbsdjournalcontributedbypeternmhansteenon20261101fromthemostexcellentfiles",
+   "fingerprint": "openbsdjournalcontributedbypeternmhansteenon20261105fromthesavingthepenguinsd",
    "vibes": [
     "cozy",
     "handmade"
@@ -2007,7 +2007,7 @@
     "p3p.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.09,
+   "load_time": 0.11,
    "https": true,
    "words": 1305,
    "embed": true,
@@ -2061,7 +2061,7 @@
     "daliwali.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.07,
+   "load_time": 0.1,
    "https": true,
    "words": 224,
    "embed": true,
@@ -2115,7 +2115,7 @@
     "wwwdotdeepblueme.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.08,
+   "load_time": 0.09,
    "https": true,
    "words": 1054,
    "embed": true,
@@ -2170,7 +2170,7 @@
     "scissorbait.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.16,
+   "load_time": 0.09,
    "https": true,
    "words": 110,
    "embed": true,
@@ -2227,7 +2227,7 @@
     "darch.dk"
    ],
    "lang": "?",
-   "load_time": 1.06,
+   "load_time": 1.01,
    "https": true,
    "words": 175,
    "embed": true,
@@ -2281,7 +2281,7 @@
     "eieio.games"
    ],
    "lang": "en",
-   "load_time": 0.51,
+   "load_time": 0.4,
    "https": true,
    "words": 341,
    "embed": true,
@@ -2332,7 +2332,7 @@
     "spencer.place"
    ],
    "lang": "en",
-   "load_time": 0.17,
+   "load_time": 0.48,
    "https": true,
    "words": 136,
    "embed": true,
@@ -2391,7 +2391,7 @@
     "kayserifserif.place"
    ],
    "lang": "en",
-   "load_time": 0.95,
+   "load_time": 0.3,
    "https": true,
    "words": 54,
    "embed": true,
@@ -2444,7 +2444,7 @@
     "heliogabalus.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.05,
+   "load_time": 0.06,
    "https": true,
    "words": 203,
    "embed": true,
@@ -2498,7 +2498,7 @@
     "garudyne.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.05,
+   "load_time": 0.07,
    "https": true,
    "words": 285,
    "embed": true,
@@ -2552,7 +2552,7 @@
     "pixelsafari.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.06,
+   "load_time": 0.05,
    "https": true,
    "words": 81,
    "embed": true,
@@ -2607,7 +2607,7 @@
     "bulltown.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.14,
+   "load_time": 0.11,
    "https": true,
    "words": 224,
    "embed": true,
@@ -2661,7 +2661,7 @@
     "ocpdzim.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.09,
+   "load_time": 0.13,
    "https": true,
    "words": 804,
    "embed": true,
@@ -2715,7 +2715,7 @@
     "scripted.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.06,
+   "load_time": 0.11,
    "https": true,
    "words": 285,
    "embed": true,
@@ -2759,11 +2759,11 @@
   {
    "url": "https://dizzt3942.neocities.org",
    "source": "link from wwwdotdeepblueme.neocities.org",
-   "status": "warn",
+   "status": "dead",
    "review": "unreviewed",
    "added": "2026-11-03",
    "checked": "2026-11-05",
-   "fails": 2,
+   "fails": 3,
    "aliases": [
     "dizzt3942.neocities.org"
    ],
@@ -2823,7 +2823,7 @@
     "inkposting.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.11,
+   "load_time": 0.13,
    "https": true,
    "words": 1670,
    "embed": true,
@@ -2878,7 +2878,7 @@
     "flimsknoght.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.1,
+   "load_time": 0.22,
    "https": true,
    "words": 101,
    "embed": true,
@@ -2932,7 +2932,7 @@
     "notyetknowspace.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.11,
+   "load_time": 0.25,
    "https": true,
    "words": 159,
    "embed": true,
@@ -2986,7 +2986,7 @@
     "stopeatingbugs.neocities.org"
    ],
    "lang": "ko",
-   "load_time": 0.08,
+   "load_time": 0.14,
    "https": true,
    "words": 85,
    "embed": true,
@@ -3043,9 +3043,9 @@
     "tofutush.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.06,
+   "load_time": 0.08,
    "https": true,
-   "words": 140,
+   "words": 143,
    "embed": true,
    "safety_checked": "2026-11-05",
    "tech": [
@@ -3060,7 +3060,7 @@
     0.1,
     0.95,
     0.2,
-    0.247,
+    0.248,
     0.2,
     0.15,
     0.3,
@@ -3099,7 +3099,7 @@
     "babycarrot.nekoweb.org"
    ],
    "lang": "?",
-   "load_time": 0.28,
+   "load_time": 0.19,
    "https": true,
    "words": 1259,
    "embed": true,
@@ -3147,7 +3147,7 @@
    "review": "unreviewed",
    "added": "2026-11-04",
    "checked": "2026-11-05",
-   "fails": 1,
+   "fails": 2,
    "aliases": [
     "baggebo-the-goober.neocities.org"
    ],
@@ -3206,7 +3206,7 @@
     "nicegirlslumber.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.06,
+   "load_time": 0.09,
    "https": true,
    "words": 90,
    "embed": true,
@@ -3260,7 +3260,7 @@
     "figurea.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.07,
+   "load_time": 0.11,
    "https": true,
    "words": 189,
    "embed": true,
@@ -3315,7 +3315,7 @@
     "kitkatie.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.2,
+   "load_time": 0.13,
    "https": true,
    "words": 823,
    "embed": true,
@@ -3424,7 +3424,7 @@
     "soulkuiro.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.08,
+   "load_time": 0.09,
    "https": true,
    "words": 124,
    "embed": true,
@@ -3479,7 +3479,7 @@
     "moonflower.nekoweb.org"
    ],
    "lang": "en",
-   "load_time": 0.11,
+   "load_time": 0.14,
    "https": true,
    "words": 161,
    "embed": true,
@@ -3533,7 +3533,7 @@
     "caby.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.07,
+   "load_time": 0.09,
    "https": true,
    "words": 137,
    "embed": true,
@@ -3588,7 +3588,7 @@
     "dptr.nekoweb.org"
    ],
    "lang": "?",
-   "load_time": 0.29,
+   "load_time": 0.16,
    "https": true,
    "words": 539,
    "embed": true,
@@ -3642,7 +3642,7 @@
     "kunfucutsman.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.03,
+   "load_time": 0.09,
    "https": true,
    "words": 124,
    "embed": true,
@@ -3698,7 +3698,7 @@
     "kuroi.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.1,
+   "load_time": 0.11,
    "https": true,
    "words": 547,
    "embed": true,
@@ -3751,7 +3751,7 @@
     "awesome-sauce-directory.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.05,
+   "load_time": 0.13,
    "https": true,
    "words": 158,
    "embed": true,
@@ -3806,7 +3806,7 @@
     "rentryresource.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.07,
+   "load_time": 0.09,
    "https": true,
    "words": 328,
    "embed": true,
@@ -3861,7 +3861,7 @@
     "nekofetti.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.07,
+   "load_time": 0.09,
    "https": true,
    "words": 128,
    "embed": true,
@@ -3972,7 +3972,7 @@
     "nnethercote.github.io"
    ],
    "lang": "en",
-   "load_time": 0.13,
+   "load_time": 0.17,
    "https": true,
    "words": 289,
    "embed": true,
@@ -4026,7 +4026,7 @@
     "futurefishy.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.05,
+   "load_time": 0.17,
    "https": true,
    "words": 123,
    "embed": true,
@@ -4138,7 +4138,7 @@
     "bianca.nekoweb.org"
    ],
    "lang": "en",
-   "load_time": 0.11,
+   "load_time": 0.27,
    "https": true,
    "words": 89,
    "embed": true,
@@ -4191,7 +4191,7 @@
     "moon-room.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.06,
+   "load_time": 0.08,
    "https": true,
    "words": 366,
    "embed": true,
@@ -4248,7 +4248,7 @@
     "knoxstation.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.08,
+   "load_time": 0.12,
    "https": true,
    "words": 516,
    "embed": true,
@@ -4305,7 +4305,7 @@
     "tectrix.neocities.org"
    ],
    "lang": "?",
-   "load_time": 0.05,
+   "load_time": 0.08,
    "https": true,
    "words": 135,
    "embed": true,
@@ -4360,7 +4360,7 @@
     "rinberry.neocities.org"
    ],
    "lang": "en",
-   "load_time": 0.08,
+   "load_time": 0.09,
    "https": true,
    "words": 354,
    "embed": true,
@@ -5117,6 +5117,545 @@
    "archive_checked": "2026-11-05",
    "first_seen": 2025,
    "screenshot_file": "0109de93610ee1aa4317.jpg"
+  },
+  {
+   "url": "https://leizy8499.neocities.org",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-05",
+   "checked": "2026-11-05",
+   "fails": 0,
+   "aliases": [
+    "leizy8499.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.05,
+   "https": true,
+   "words": 124,
+   "embed": true,
+   "safety_checked": "2026-11-05",
+   "tech": [
+    "Neocities",
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.2,
+    0.241,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "~ leith's website ~",
+   "description": "Thank you for clicking on my website! for the best experience, please note the following:",
+   "category": "Retro",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "leithswebsitethankyouforclickingonmywebsiteforthebestexperiencepleasenotethef",
+   "vibes": [
+    "handmade",
+    "minimal",
+    "retro"
+   ],
+   "archive_checked": "2026-11-05",
+   "first_seen": 2023,
+   "screenshot_file": "e47fe15ca79d62339836.jpg"
+  },
+  {
+   "url": "https://mockguffin.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-05",
+   "checked": "2026-11-05",
+   "fails": 0,
+   "aliases": [
+    "mockguffin.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.06,
+   "https": true,
+   "words": 115,
+   "embed": true,
+   "safety_checked": "2026-11-05",
+   "tech": [
+    "Neocities",
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.15,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.238,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "Vaporwave Synthesizer",
+   "description": "Welcome to mockguffin.neocities.org! Seems like you've caught yourself another website to surf around.",
+   "category": "Retro",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "vaporwavesynthesizerwelcometomockguffinneocitiesorgseemslikeyouvecaughtyourselfanotherw",
+   "vibes": [
+    "handmade",
+    "minimal",
+    "retro"
+   ],
+   "archive_checked": "2026-11-05",
+   "first_seen": 2022,
+   "screenshot_file": "f19f9e2eafaca18df627.jpg"
+  },
+  {
+   "url": "https://alexisgaming95.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-05",
+   "checked": "2026-11-05",
+   "fails": 0,
+   "aliases": [
+    "alexisgaming95.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.08,
+   "https": true,
+   "words": 139,
+   "embed": true,
+   "safety_checked": "2026-11-05",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.3,
+    0.1,
+    0.246,
+    0.55,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "Alexis Gaming Reviews Classic",
+   "description": "Making the unforeseeable future foreseeable. This is the official website of AGR, by Alexis himself!",
+   "category": "Retro",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "alexisgamingreviewsclassicmakingtheunforeseeablefutureforeseeablethisistheofficialwebsiteofagr",
+   "vibes": [
+    "handmade",
+    "minimal",
+    "retro"
+   ],
+   "archive_checked": "2026-11-05",
+   "first_seen": 2022,
+   "screenshot_file": "0343ab960714ff2a5810.jpg"
+  },
+  {
+   "url": "https://visionaryparacosmos.neocities.org",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-05",
+   "checked": "2026-11-05",
+   "fails": 0,
+   "aliases": [
+    "visionaryparacosmos.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.11,
+   "https": true,
+   "words": 254,
+   "embed": true,
+   "safety_checked": "2026-11-05",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.1,
+    0.3,
+    0.1,
+    0.285,
+    0.55,
+    0.89,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "Looking for imaginary worlds",
+   "description": "Hiya! I'm Rainy, and this is my main site! Predominantly, it functions as a Homestuck fansite, but there's other goodies here and there.",
+   "category": "Retro",
+   "confidence": 0.86,
+   "tags": [],
+   "fingerprint": "lookingforimaginaryworldshiyaimrainyandthisismymainsitepredominantlyitfunctionsasahome",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-05",
+   "first_seen": 2024,
+   "screenshot_file": "aa8311617020892207a5.jpg"
+  },
+  {
+   "url": "https://grampus.neocities.org",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-05",
+   "checked": "2026-11-05",
+   "fails": 0,
+   "aliases": [
+    "grampus.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.08,
+   "https": true,
+   "words": 356,
+   "embed": true,
+   "safety_checked": "2026-11-05",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.3,
+    0.15,
+    0.1,
+    0.3,
+    0.1,
+    0.319,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.3,
+    0.85
+   ],
+   "title": "grampus' alcove",
+   "description": "Welcome to v. 5.0 of my alcove on the web!",
+   "category": "Retro",
+   "confidence": 0.82,
+   "tags": [],
+   "fingerprint": "grampusalcovewelcometov50ofmyalcoveontheweb",
+   "vibes": [
+    "artsy",
+    "handmade"
+   ],
+   "archive_checked": "2026-11-05",
+   "first_seen": 2023,
+   "screenshot_file": "39c563d773359d8e59ed.jpg"
+  },
+  {
+   "url": "https://joxi.neocities.org",
+   "source": "neocities",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-05",
+   "checked": "2026-11-05",
+   "fails": 0,
+   "aliases": [
+    "joxi.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.09,
+   "https": true,
+   "words": 1062,
+   "embed": true,
+   "safety_checked": "2026-11-05",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.3,
+    0.3,
+    0.1,
+    0.554,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "JoxiZone",
+   "description": "Welcome to JoxiZone... Collect my pages",
+   "category": "Retro",
+   "confidence": 0.82,
+   "tags": [],
+   "fingerprint": "joxizonewelcometojoxizonecollectmypages",
+   "vibes": [
+    "artsy",
+    "handmade"
+   ],
+   "archive_checked": "2026-11-05",
+   "first_seen": 2023,
+   "screenshot_file": "08a6bf5ea4d515950dd6.jpg"
+  },
+  {
+   "url": "https://colexdev.neocities.org",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-05",
+   "checked": "2026-11-05",
+   "fails": 0,
+   "aliases": [
+    "colexdev.neocities.org"
+   ],
+   "lang": "?",
+   "load_time": 0.1,
+   "https": true,
+   "words": 136,
+   "embed": true,
+   "safety_checked": "2026-11-05",
+   "tech": [
+    "Neocities",
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    1.0,
+    0.1,
+    0.245,
+    0.2,
+    0.15,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ],
+   "title": "Cole's Personal Site",
+   "description": "Personal blog about low level programming, sustainable living, philosophy and life.",
+   "category": "Personal",
+   "confidence": 0.74,
+   "tags": [],
+   "fingerprint": "colespersonalsitepersonalblogaboutlowlevelprogrammingsustainablelivingphilosophyandli",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-05",
+   "first_seen": 2022,
+   "screenshot_file": "13d671cffd69849d6e42.jpg"
+  },
+  {
+   "url": "https://misterdizzy.neocities.org",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-05",
+   "checked": "2026-11-05",
+   "fails": 0,
+   "aliases": [
+    "misterdizzy.neocities.org"
+   ],
+   "lang": "en",
+   "load_time": 0.07,
+   "https": true,
+   "words": 607,
+   "embed": true,
+   "safety_checked": "2026-11-05",
+   "tech": [
+    "Neocities",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.3,
+    0.4,
+    0.1,
+    0.402,
+    0.85,
+    0.77,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "Mister Dizzy | misterdizzy.neocities.org",
+   "description": "Mister Dizzy: a hand-coded, old-school personal site of random creativity",
+   "category": "Retro",
+   "confidence": 0.6,
+   "tags": [
+    "Personal"
+   ],
+   "fingerprint": "misterdizzymisterdizzyneocitiesorgmisterdizzyahandcodedoldschoolpersonalsiteofrandomcreativity",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-11-05",
+   "first_seen": 2021,
+   "screenshot_file": "14b4a5ce62520e96d4ec.jpg"
+  },
+  {
+   "url": "https://jcw87.github.io",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-05",
+   "checked": "2026-11-05",
+   "fails": 0,
+   "aliases": [
+    "jcw87.github.io"
+   ],
+   "lang": "?",
+   "load_time": 0.18,
+   "https": true,
+   "words": 27,
+   "embed": true,
+   "safety_checked": "2026-11-05",
+   "tech": [
+    "GitHub Pages",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    1.0,
+    0.0,
+    0.2,
+    0.1,
+    0.3,
+    0.65,
+    0.509,
+    0.2,
+    0.15,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.85
+   ],
+   "title": "Jcw87's Web Projects",
+   "description": "Super Mario Bros (World 1) Undertale Genocide Boss Fight (Spoilers)",
+   "category": "Games",
+   "confidence": 0.6,
+   "tags": [],
+   "fingerprint": "jcw87swebprojectssupermariobrosworld1undertalegenocidebossfightspoilers",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-05",
+   "first_seen": 2016,
+   "screenshot_file": "ccbe7ac8d1304faaf766.jpg"
+  },
+  {
+   "url": "https://p403n1x87.github.io",
+   "source": "lobsters",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-05",
+   "checked": "2026-11-05",
+   "fails": 0,
+   "aliases": [
+    "p403n1x87.github.io"
+   ],
+   "lang": "en",
+   "load_time": 0.15,
+   "https": true,
+   "words": 462,
+   "embed": true,
+   "safety_checked": "2026-11-05",
+   "tech": [
+    "GitHub Pages",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.6,
+    0.05,
+    0.0,
+    0.05,
+    0.6,
+    0.3,
+    0.1,
+    0.354,
+    0.5,
+    0.15,
+    0.15,
+    0.85,
+    1.0,
+    0.85,
+    0.0,
+    0.7
+   ],
+   "title": "The Hub of Heliopolis",
+   "description": "Notes on technology and my experiments with it.",
+   "category": "Developer",
+   "confidence": 0.6,
+   "tags": [
+    "Science",
+    "Technology"
+   ],
+   "fingerprint": "thehubofheliopolisnotesontechnologyandmyexperimentswithit",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-11-05",
+   "first_seen": 2019,
+   "screenshot_file": "6b1ba7062370fd351662.jpg"
   }
  ]
 }
