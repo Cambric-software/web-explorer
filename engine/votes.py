@@ -30,6 +30,36 @@ def tally(issues, known):
                 s = score.setdefault(known[url], {"score": 0, "voters": 0}); s["score"] += n; s["voters"] += 1
     return score, len(per_user)
 
+LEDGER = Path("docs/data/cloud_ledger.json")
+
+def cloud(path, method="GET"):
+    url = os.environ.get("SUPABASE_URL", "").rstrip("/"); key = os.environ.get("SUPABASE_SERVICE_ROLE_KEY", "")
+    if not (url and key): return None
+    r = urllib.request.Request(url + "/rest/v1/" + path, method=method,
+                               headers={"apikey": key, "Authorization": "Bearer " + key, "Content-Type": "application/json"})
+    return json.loads(urllib.request.urlopen(r, timeout=20).read() or b"null")
+
+def cloud_votes(known):
+    """Pull the buffered anonymous votes, fold them into the ledger (one vote per device per site), then empty the buffer."""
+    import hashlib
+    ledger = json.loads(LEDGER.read_text()) if LEDGER.exists() else {}
+    try: rows = cloud("pending_votes?select=id,explorer_id,site_url,vote&order=id&limit=5000") or []
+    except Exception as e: print("cloud votes", e); rows = []
+    for r in rows:
+        dev = hashlib.sha256(str(r.get("explorer_id")).encode()).hexdigest()[:16]
+        url, n = canon(str(r.get("site_url", ""))), r.get("vote")
+        if url not in known: continue
+        mine = ledger.setdefault(dev, {})
+        if n in ALLOWED: mine[url] = n
+        else: mine.pop(url, None)
+        if not mine: ledger.pop(dev)
+    if rows:
+        try: cloud("pending_votes?id=lte.%d" % max(r["id"] for r in rows), "DELETE")
+        except Exception as e: print("cloud flush", e)
+    LEDGER.write_text(json.dumps(ledger, separators=(",", ":")))
+    print("Cloud votes:", len(rows), "new,", len(ledger), "devices total")
+    return ledger
+
 def main():
     repo = os.environ.get("GITHUB_REPOSITORY"); tok = os.environ.get("GITHUB_TOKEN")
     sites = json.loads(Path("docs/data/sites.json").read_text())["sites"]
@@ -44,6 +74,10 @@ def main():
             issues += batch
             if len(batch) < 100: break
     score, voters = tally(issues, known)
+    for votes in cloud_votes(known).values():
+        voters += 1
+        for url, n in votes.items():
+            s = score.setdefault(known[url], {"score": 0, "voters": 0}); s["score"] += n; s["voters"] += 1
     OUT.write_text(json.dumps({"voters": voters, "sites": score}, indent=1))
     print("Hall of Fame:", len(score), "websites with votes from", voters, "explorers")
 
