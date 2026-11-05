@@ -89,38 +89,3 @@ html[data-theme=terminal] .tag{border-style:dashed;border-radius:0}
 
 #moods{display:flex;flex-wrap:wrap;gap:.4rem;margin:.6rem 0}#moods button{border-radius:999px;padding:.35rem .8rem}#moods button.on{outline:2px solid currentColor;font-weight:700}
 #orbit{margin-top:1rem;max-width:700px}.orbit-h{font-size:1rem;margin:.2rem 0 .5rem}.orbit-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:.5rem}.orbit-item{display:flex;flex-direction:column;align-items:flex-start;text-align:left;gap:.2rem;padding:.6rem}.orbit-item span{font-size:.8rem;opacity:.75}
-
-
-/* ---- Browse grid: uniform cards, tidy badge + action rows ---- */
-.badges { display: flex; flex-wrap: wrap; gap: 6px; }
-.grid { align-items: stretch; }
-.grid .site { display: flex; flex-direction: column; height: 100%; }
-.grid .site-body { display: flex; flex-direction: column; flex: 1; min-width: 0; }
-.grid .site .badges { align-self: flex-start; }
-.grid .site h3 { font-size: 1.2rem; line-height: 1.3; }
-.grid .site p {
-  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
-  overflow: hidden; margin: 8px 0 0; line-height: 1.5;
-}
-.grid .site .meta { margin-top: auto; padding-top: 14px; }
-#card .site .acts, #daily .site .acts, .grid .site .acts {
-  display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px;
-  padding-top: 12px; border-top: 1px solid var(--line);
-}
-#card .site .acts a.visit, #daily .site .acts a.visit, .grid .site .acts a.visit {
-  flex: 1 1 100%; text-align: center; padding: 8px 12px;
-}
-#card .site .acts button, #card .site .acts .btn,
-#daily .site .acts button, #daily .site .acts .btn,
-.grid .site .acts button, .grid .site .acts .btn {
-  flex: 1; min-width: 0; padding: 7px 0; text-align: center;
-}
-/* Badges: category filled, vibes outlined, tech dashed. */
-.grid .site .tag { background: var(--acc); color: var(--bg); }
-.grid .site .vibe { border: 1px solid var(--line); color: var(--fg); background: none; }
-/* Missing preview: a tidy hatched strip instead of a big empty slab. */
-.thumb.failed {
-  aspect-ratio: auto; height: 132px;
-  background: repeating-linear-gradient(135deg, var(--line) 0 1px, transparent 1px 11px), var(--card);
-}
-.thumb.failed .fallback { font-size: .8rem; padding: 10px; }
