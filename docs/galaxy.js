@@ -39,7 +39,7 @@
   async function openFame(){if(!GLOBAL){try{GLOBAL=await (await fetch('data/votes.json?t='+Date.now())).json()}catch{GLOBAL={voters:0,sites:{}}}}
     const tab=$('#fame-tab').value,src=tab==='mine'?Object.fromEntries(Object.entries(mine()).map(([u,n])=>[u,{score:n,voters:1}])):GLOBAL.sites;
     const rows=SITES.filter(s=>src[s.url]&&src[s.url].score>0).sort((a,b)=>src[b.url].score-src[a.url].score||src[b.url].voters-src[a.url].voters).slice(0,25);
-    $('#fame-note').textContent=tab==='mine'?'Your own top websites, from your likes, gems and favorites in this browser.':`Totals from ${GLOBAL.voters||0} explorers who shared their votes. Updated every hour.`;
+    $('#fame-note').textContent=tab==='mine'?'Your own top websites, from your likes, gems and favorites in this browser.':`Totals from ${GLOBAL.voters||0} explorers. Your likes and gems count automatically — no account needed. Updated every hour.`;
     $('#fame').innerHTML=rows.map((s,i)=>`<li class="fame-row"><span class="fame-rank">${i<3?['🥇','🥈','🥉'][i]:'#'+(i+1)}</span><div class="fame-info"><b>${esc(s.title)}</b><span class="muted">${esc(dom(s.url))} · ${esc(s.category)}</span></div><span class="fame-score">${src[s.url].score} pts${tab==='mine'?'':' · '+src[s.url].voters+' voters'}</span><button data-act="stumble" data-u="${esc(s.url)}" aria-label="Preview ${esc(s.title)}">▣</button></li>`).join('')
       ||`<p class="muted">${tab==='mine'?'Like, gem or favorite some websites and they will rank here.':'No shared votes yet. Be the first — press “Share my votes”.'}</p>`}
   $('#fame-tab').onchange=openFame;
