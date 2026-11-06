@@ -24,9 +24,9 @@
   function save(){store.set('mystery',book)}
   function points(st){return st.won?Math.max(1,MAX+1-st.clues):0}
   function streak(){let n=0,d=new Date(day+'T00:00:00Z');for(;;){const k=d.toISOString().slice(0,10);if(!book[k]?.won)break;n++;d.setUTCDate(d.getUTCDate()-1)}return n}
-  function render(){const box=$('#mystery');if(!box)return;const s=secret(day);if(!s){box.innerHTML='<p class="muted">Waiting for websites…</p>';return}
+  function render(){const box=$('#mystery');if(!box)return;const s=secret(day);if(!s){box.innerHTML='<p class="muted">Waiting for today’s mystery to be cataloged…</p>';return}
     const st=state(day),opts=choices(day,s),cl=clues(s),label=day===today()?"Today's mystery":'Mystery of '+new Date(day+'T00:00:00Z').toLocaleDateString(undefined,{timeZone:'UTC'});
-    box.innerHTML=`<div class="mystery"><p class="kicker">${esc(label)} · streak ${streak()} 🔥 · ${Object.values(book).reduce((a,x)=>a+points(x),0)} total points</p>
+    box.innerHTML=`<div class="mystery"><p class="kicker">${esc(label)} · streak ${streak()} 🔥 · ${Object.values(book).reduce((a,x)=>a+points(x),0)} field points</p>
       <ol class="clues">${cl.map((c,i)=>i<(st.done?MAX:st.clues)?`<li><b>${esc(c[0])}:</b> ${esc(c[1])}</li>`:`<li class="locked">🔒 Clue ${i+1}</li>`).join('')}</ol>
       ${st.done?`<p class="result">${st.won?`🎉 Solved with ${st.clues} clue${st.clues>1?'s':''} — ${points(st)} points!`:'😶 Not this time. Here it is:'}</p>${card(s)}`:
       `<div class="choices">${opts.map(o=>`<button data-guess="${esc(o.url)}" ${st.wrong.includes(o.url)?'disabled class="wrong"':''}>${esc(o.title)}<small>${esc(dom(o.url))}</small></button>`).join('')}</div>
