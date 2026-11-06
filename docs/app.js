@@ -60,17 +60,62 @@ document.addEventListener('click',e=>{const b=e.target.closest('[data-orbit]');i
 document.addEventListener('keydown',e=>{if(!settings.shortcuts||e.ctrlKey||e.metaKey||e.altKey||e.repeat||e.target.closest('input,textarea,select,[contenteditable]')||(e.key===' '&&e.target.closest('button,a'))||document.querySelector('dialog[open]')||!$('#stumble').hidden||!current||location.hash.replace('#','')&&location.hash!=='#explore')return;const k=e.key.toLowerCase(),click=a=>$(`#card [data-act="${a}"]`)?.click();if(e.key===' '){e.preventDefault();explore()}else if(k==='l')click('up');else if(k==='g')click('gem');else if(k==='d')click('down');else if(k==='b')click('fav');else if(k==='o'){const a=$('#card a.visit');if(a)window.open(a.href,'_blank','noopener')}else if(k==='m'){const n=REC.neighbors(current,SITES,1)[0];if(n){REC.learn(current,0.3);showSite(n.site)}}});
 async function start(){try{const [d,s]=await Promise.all(['data/sites.json','data/stats.json'].map(async u=>{const r=await fetch(u);if(!r.ok)throw Error();return r.json()}));ALL=d.sites.filter(s=>C.safeUrl(s.url)&&s.review!=='flagged');SITES=ALL.filter(s=>s.status!=='dead');STATS=s;categories=[...new Set(SITES.map(s=>s.category))].sort();$('#cat').innerHTML+=categories.map(c=>`<option>${esc(c)}</option>`).join('');$('#chips').innerHTML='<button class="on" data-c="">All</button>'+categories.map(c=>`<button data-c="${esc(c)}">${esc(c)}</button>`).join('');const langs=[...new Set(SITES.map(s=>s.lang))].sort();for(const id of ['lang','setting-language'])$('#'+id).innerHTML+=langs.map(l=>`<option value="${esc(l)}">${esc(l==='?'?'Unknown':l)}</option>`).join('');$('#lang').value=settings.language;const params=new URLSearchParams(location.search);const shared=params.get('collection');if(shared){try{const [l]=validLists([decode(shared)]);if(confirm(`Save shared list "${l.name}" (${l.urls.length} websites)?`)){lists.push(l);store.set('lists',lists);location.hash='collections'}}catch{notice('This shared list is invalid.')}const clean=new URL(location.href);clean.searchParams.delete('collection');window.history.replaceState(null,'',clean.href)}const cat=params.get('category');if(categories.includes(cat)){browseCat=cat;location.hash='browse';for(const b of document.querySelectorAll('[data-c]'))b.classList.toggle('on',b.dataset.c===cat)}$('#embed-code').value='<iframe src="https://cambric-software.github.io/web-explorer/embed.html" title="Website Explorer — Site of the day" width="100%" height="440" loading="lazy"></iframe>';$('#copy-embed').onclick=()=>copy($('#embed-code').value);renderSettings();moodBar();refresh();if('serviceWorker'in navigator)navigator.serviceWorker.register('sw.js').catch(()=>{})}catch{$('#card').innerHTML='<p class="muted">Website data could not load. Please refresh and try again.</p>';$('#go').disabled=true}}
 // ---- Stumble Bar: preview the discovered website inline, with Next / Gem / Save controls.
-function canEmbed(s){return s&&s.embed!==false&&String(s.url).startsWith('https:')}
+let frameWatchdog=0;
+const knownBusters=new Set(store.get('busters',[]));
+function markBuster(url){try{const h=new URL(url).hostname;knownBusters.add(h);store.set('busters',[...knownBusters])}catch{}}
+function isBuster(url){try{return knownBusters.has(new URL(url).hostname)}catch{return false}}
+function canEmbed(s){return s&&s.embed!==false&&String(s.url).startsWith('https:')&&!isBuster(s.url)}
+
+function showBlockedPortal(s,u){
+  clearTimeout(frameWatchdog);
+  $('#sb-blocked').hidden=false;
+  $('#sb-frame').hidden=true;
+  $('#sb-frame').src='about:blank';
+  const t=$('#sb-blocked-title'),d=$('#sb-blocked-desc'),img=$('#sb-blocked-img');
+  if(t)t.textContent=s.title||'Authentic Web Portal';
+  if(d)d.textContent=s.description||'This website restricts in-page frames (X-Frame-Options / CSP). Launch it in a full tab for complete canvas, audio and navigation.';
+  $('#sb-blocked-open').href=u;
+  if(img){
+    if(s.screenshot_file){img.src='screenshots/'+s.screenshot_file;img.hidden=false}
+    else img.hidden=true;
+  }
+}
+
 function stumble(s){if(!s)return;current=s;const box=$('#stumble'),u=C.safeUrl(s.url);if(!u)return;
- if(!canEmbed(s)&&box.hidden){window.open(u,'_blank','noopener,noreferrer');notice('This website does not allow previews, so it opened in a new tab.');return}
- box.hidden=false;document.body.classList.add('stumbling');$('#sb-title').textContent=s.title;$('#sb-dom').textContent=dom(s.url)+' · '+s.category;$('#sb-open').href=u;
- const ok=canEmbed(s);$('#sb-blocked').hidden=ok;$('#sb-frame').hidden=!ok;$('#sb-blocked-open').href=u;$('#sb-frame').src=ok?u:'about:blank';paintStumble()}
+ clearTimeout(frameWatchdog);
+ box.hidden=false;document.body.classList.add('stumbling');
+ $('#sb-title').textContent=s.title;
+ $('#sb-dom').textContent=dom(s.url)+' · '+s.category;
+ $('#sb-open').href=u;
+ 
+ const ok=canEmbed(s);
+ if(!ok){
+   showBlockedPortal(s,u);
+ } else {
+   $('#sb-blocked').hidden=true;
+   $('#sb-frame').hidden=false;
+   $('#sb-frame').src=u;
+   frameWatchdog=setTimeout(()=>{
+     try{
+       const f=$('#sb-frame');
+       if(f&&!box.hidden&&f.contentDocument===null&&isBuster(s.url))showBlockedPortal(s,u);
+     }catch{}
+   },2500);
+ }
+ paintStumble();
+}
+
 function paintStumble(){if(!current)return;const v=votes[current.url]||0,f=favs.includes(current.url);$('#sb-gem').classList.toggle('on',v===3);$('#sb-gem').setAttribute('aria-pressed',v===3);$('#sb-save').classList.toggle('on',f);$('#sb-save').textContent=f?'★ Saved':'☆ Save';$('#sb-save').setAttribute('aria-pressed',f)}
-function closeStumble(){$('#stumble').hidden=true;$('#sb-frame').src='about:blank';document.body.classList.remove('stumbling');if(current)$('#card').innerHTML=card(current)}
+function closeStumble(){clearTimeout(frameWatchdog);$('#stumble').hidden=true;$('#sb-frame').src='about:blank';document.body.classList.remove('stumbling');if(current)$('#card').innerHTML=card(current)}
 $('#sb-next').onclick=()=>{explore();stumble(current)};
 $('#sb-gem').onclick=()=>{const u=current.url;votes[u]=votes[u]===3?0:3;if(votes[u])REC.learn(current,1.2);store.set('votes',votes);paintStumble()};
 $('#sb-save').onclick=()=>{const u=current.url;favs=favs.includes(u)?favs.filter(x=>x!==u):[...favs,u];store.set('favs',favs);paintStumble()};
-$('#sb-close').onclick=closeStumble;$('#stumble-go').onclick=()=>{explore();if(current)stumble(current)};
+$('#sb-close').onclick=closeStumble;
+$('#stumble-go').onclick=()=>{explore();if(current)stumble(current)};
+const bustBtn=$('#sb-bust');
+if(bustBtn){bustBtn.onclick=()=>{if(!current)return;markBuster(current.url);showBlockedPortal(current,C.safeUrl(current.url))}}
+const blockedNext=$('#sb-blocked-next');
+if(blockedNext)blockedNext.onclick=$('#sb-next').onclick;
 document.addEventListener('keydown',e=>{if($('#stumble').hidden)return;if(e.key==='Escape')closeStumble();if(e.key==='n'||e.key==='N')$('#sb-next').click()});
 start();
 
