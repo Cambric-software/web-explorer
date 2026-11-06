@@ -247,3 +247,18 @@ class TasteVector(unittest.TestCase):
         self.assertGreater(g[1], e[1]); self.assertGreater(e[4], g[4])
 
 if __name__ == "__main__": unittest.main()
+
+
+class AISlopShield(unittest.TestCase):
+    def test_catches_ai_cliches(self):
+        html = "<title>Best Tools 2026</title><p>In today's fast-paced digital world, it is crucial to understand these strategies as we delve into the nuances of modern productivity. A testament to innovation.</p>"
+        p = page(html)
+        self.assertEqual(crawl.ai_slop_reason(p, html, "Best Tools", "tools2026.com"), "ai slop")
+    def test_catches_ai_disclosure(self):
+        html = "<title>Guide</title><p>As an AI language model, I cannot provide medical advice but here is a summary.</p>"
+        p = page(html)
+        self.assertIn("ai", crawl.ai_slop_reason(p, html, "Guide", "guide.com"))
+    def test_exempts_playful_games_and_neocities(self):
+        html = "<title>My Canvas Synth</title><canvas id='c'></canvas><p>A musical web toy game experiment.</p>"
+        p = page(html)
+        self.assertEqual(crawl.ai_slop_reason(p, html, "My Canvas Synth", "synth.com"), "")
