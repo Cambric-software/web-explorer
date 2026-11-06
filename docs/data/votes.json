@@ -1,9 +1,9 @@
 {
- "voters": 1,
+ "voters": 3,
  "sites": {
   "https://wiby.me": {
-   "score": 3,
-   "voters": 1
+   "score": 4,
+   "voters": 2
   },
   "https://strictllm.com": {
    "score": 3,
@@ -70,8 +70,8 @@
    "voters": 1
   },
   "https://tilde.green": {
-   "score": 3,
-   "voters": 1
+   "score": 4,
+   "voters": 2
   }
  }
 }
