@@ -1,21 +1,20 @@
 {
  "total": 110,
- "dead": 4,
+ "dead": 3,
  "flagged": 0,
- "runs": 41,
- "last_run": "2026-11-06T07:55:17Z",
- "found_last_run": 9,
+ "runs": 42,
+ "last_run": "2026-11-06T19:56:38Z",
+ "found_last_run": 11,
  "beta": true,
  "categories": {
-  "Tools": 3,
-  "Games": 7,
+  "Tools": 2,
+  "Games": 6,
   "Developer": 7,
-  "Art": 5,
-  "Retro": 55,
+  "Art": 6,
+  "Retro": 57,
   "Writing": 1,
   "Personal": 25,
   "Communities": 4,
-  "Random": 1,
   "Technology": 2
  },
  "bot_version": 4,
@@ -224,9 +223,39 @@
    "date": "2026-11-06",
    "added": 9,
    "total": 110
+  },
+  {
+   "date": "2026-11-06",
+   "added": 11,
+   "total": 110
   }
  ],
  "runs_log": [
+  {
+   "started": "2026-11-06T19:56:38Z",
+   "rejected": {
+    "lazy title": 32,
+    "weak description": 13,
+    "empty javascript shell": 42,
+    "unreachable": 10,
+    "too few words": 23,
+    "unsafe": 28,
+    "starter template": 5,
+    "parked": 10,
+    "unsure category": 6
+   },
+   "duplicates_removed": 0,
+   "sources": {},
+   "candidates": 180,
+   "deep_links": 514,
+   "added": 11,
+   "rechecked": 96,
+   "stale_rechecked": 0,
+   "newly_dead": 0,
+   "flagged": 0,
+   "malware_list": 0,
+   "archive_years": 11
+  },
   {
    "started": "2026-11-06T07:55:17Z",
    "rejected": {
@@ -1167,29 +1196,6 @@
    "flagged": 0,
    "malware_list": 0,
    "archive_years": 19
-  },
-  {
-   "started": "2026-10-28T23:16:52Z",
-   "rejected": {
-    "too little content": 22,
-    "unreachable": 12,
-    "duplicate": 3,
-    "parked": 2
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 88,
-    "lobsters": 3
-   },
-   "candidates": 100,
-   "deep_links": 43,
-   "added": 61,
-   "rechecked": 80,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 20
   }
  ],
  "reset": "2026-10-26",
