@@ -113,7 +113,8 @@ PROFANITY_RE = re.compile(r"(?<![a-z])(ass|asses|asshole|f+u+c+k+\w*|fck|wtf|s+h
 def unsafe_text(*parts):
     """Zero tolerance: adult / explicit / gambling words or profanity anywhere in the given text."""
     s = " ".join(x or "" for x in parts)
-    return bool(ADULT_RE.search(s) or PROFANITY_RE.search(s))
+    return bool(ADULT_RE.search(s) or PROFANITY_RE.search(s) or VULGARITY_AND_NSFW_RE.search(s))
+
 
 UNSAFE = ["casino","betting","porn","xxx","escort","viagra","crypto giveaway","free bitcoin","loan approval","hack account"]
 
