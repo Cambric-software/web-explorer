@@ -88,6 +88,22 @@ CORPORATE = {"facebook.com","instagram.com","linkedin.com","medium.com","godaddy
              "hugedomains.com","twitter.com","//x.com","tiktok.com","linktr.ee","substack.com","wix.com","squarespace.com","namecheap.com"}
 INDIE = re.compile(r"(neocities\.org|bearblog\.dev|github\.io|codeberg\.page|pages\.dev|tilde\.[a-z]+|ctrl-c\.club|"
                    r"sdf\.org|envs\.net|nekoweb\.org|omg\.lol|smol\.pub|prose\.sh|mataroa\.blog|micro\.blog)$")
+
+# Strict Profanity, Slur, and NSFW Content Shield
+PROFANITY_PATTERNS = [
+    r"f+u+c+k+\w*", r"s+h+i+t+\w*", r"b+i+t+c+h+\w*", r"c+u+n+t+\w*",
+    r"a+s+s+h+o+l+e+\w*", r"b+a+s+t+a+r+d+\w*", r"d+i+c+k+(head|bag|face|wad|less|ish|s)?\b",
+    r"p+u+s+s+y+\w*", r"c+o+c+k+(s|head|sucker|ring|y)?\b", r"w+h+o+r+e+\w*", r"s+l+u+t+\w*",
+    r"n+i+g+g+\w*", r"f+a+g+g+o+t+\w*", r"f+a+g+s?\b", r"r+e+t+a+r+d+\w*",
+    r"18\+|r-18|r18|nsfw|mature\s+(content|themes?)", r"p+o+r+n+\w*", r"h+e+n+t+a+i+\w*",
+    r"e+r+o+t+i+c+\w*", r"x+x+x+", r"n+u+d+e+s?|nudity", r"g+o+r+e+|snuff",
+    r"c+a+s+i+n+o+|g+a+m+b+l+i+n+g+|s+l+o+t\s+online", r"o+n+l+y+f+a+n+s+", r"e+s+c+o+r+t+s?"
+]
+VULGARITY_AND_NSFW_RE = re.compile(
+    r"(?<![a-zA-Z0-9])(" + "|".join(PROFANITY_PATTERNS) + r")(?![a-zA-Z0-9])",
+    re.I
+)
+
 ADULT_RE = re.compile(r"(?<![a-z0-9])(18\+|r-18|r18|nsfw|mature (content|themes?)|sexual themes?|run by an adult|adult themes?|adults? only|libidos?|strong language|"
                       r"yaoi|yuri|hentai|lewd|erotic\w*|fetish\w*|skimpy|porn\w*|xxx|escorts?|onlyfans|nudes?|nudity|gore|"
                       r"casino|gambling|betting|slot online|slot gacor|togel|judi|poker online)(?![a-z])", re.I)
