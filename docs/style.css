@@ -89,3 +89,14 @@ html[data-theme=terminal] .tag{border-style:dashed;border-radius:0}
 
 #moods{display:flex;flex-wrap:wrap;gap:.4rem;margin:.6rem 0}#moods button{border-radius:999px;padding:.35rem .8rem}#moods button.on{outline:2px solid currentColor;font-weight:700}
 #orbit{margin-top:1rem;max-width:700px}.orbit-h{font-size:1rem;margin:.2rem 0 .5rem}.orbit-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:.5rem}.orbit-item{display:flex;flex-direction:column;align-items:flex-start;text-align:left;gap:.2rem;padding:.6rem}.orbit-item span{font-size:.8rem;opacity:.75}
+
+/* Taste DNA */
+.dna-card{border:1px solid var(--line);border-radius:var(--radius,10px);background:var(--card);padding:20px;margin:12px 0 24px;max-width:900px}
+.dna-wrap{display:grid;grid-template-columns:minmax(0,340px) minmax(0,1fr);gap:24px;align-items:start}
+@media(max-width:720px){.dna-wrap{grid-template-columns:1fr}}
+.dna-svg{width:100%;height:auto}.dna-svg .ring{fill:none;stroke:var(--line)}.dna-svg .spoke{stroke:var(--line)}
+.dna-svg .shape{fill:var(--acc);fill-opacity:.22;stroke:var(--acc);stroke-width:2}.dna-svg text{fill:var(--muted);font-size:10px;font-family:"Space Grotesk",sans-serif}
+.dna-sliders{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:6px 16px}
+.dna-sliders label{display:flex;flex-direction:column;font-size:.8rem;color:var(--muted)}.dna-sliders label b{color:var(--fg);font-weight:500;display:flex;justify-content:space-between}
+.dna-sliders input{accent-color:var(--acc);width:100%}
+.dna-top{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0 14px}.dna-top span{border:1px solid var(--acc);color:var(--acc);border-radius:999px;padding:2px 10px;font-size:.78rem}
