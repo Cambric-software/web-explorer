@@ -50,7 +50,8 @@
    ],
    "robot_note": "big platform (2026-11-07)",
    "archive_checked": "2026-11-02",
-   "first_seen": 2017
+   "first_seen": 2017,
+   "brick": true
   },
   {
    "url": "https://neal.fun",
@@ -101,7 +102,8 @@
    ],
    "robot_note": "unreachable (2026-11-07)",
    "archive_checked": "2026-11-02",
-   "first_seen": 2017
+   "first_seen": 2017,
+   "brick": true
   },
   {
    "url": "https://pumpkin.dance",
@@ -155,7 +157,8 @@
    "load_time": 0.34,
    "safety_checked": "2026-11-07",
    "archive_checked": "2026-11-02",
-   "first_seen": 2026
+   "first_seen": 2026,
+   "brick": true
   },
   {
    "url": "https://jvns.ca",
@@ -208,7 +211,8 @@
    "load_time": 0.14,
    "safety_checked": "2026-11-07",
    "archive_checked": "2026-11-02",
-   "first_seen": 2012
+   "first_seen": 2012,
+   "brick": true
   },
   {
    "url": "https://danluu.com",
@@ -258,7 +262,8 @@
    "lang": "?",
    "load_time": 0.09,
    "safety_checked": "2026-11-07",
-   "archive_checked": "2026-11-02"
+   "archive_checked": "2026-11-02",
+   "brick": true
   },
   {
    "url": "https://esolangs.org",
@@ -310,7 +315,8 @@
    "load_time": 1.02,
    "safety_checked": "2026-11-07",
    "archive_checked": "2026-11-02",
-   "first_seen": 2005
+   "first_seen": 2005,
+   "brick": true
   },
   {
    "url": "https://synthtopia.com",
@@ -363,7 +369,8 @@
    "load_time": 0.78,
    "safety_checked": "2026-11-07",
    "archive_checked": "2026-11-02",
-   "first_seen": 2003
+   "first_seen": 2003,
+   "brick": true
   },
   {
    "url": "https://16colo.rs",
@@ -416,7 +423,8 @@
    ],
    "robot_note": "unsafe (2026-11-07)",
    "archive_checked": "2026-11-02",
-   "first_seen": 2018
+   "first_seen": 2018,
+   "brick": true
   },
   {
    "url": "https://britains-disk.pages.dev",
@@ -467,7 +475,8 @@
    "lang": "en",
    "load_time": 0.06,
    "safety_checked": "2026-11-07",
-   "archive_checked": "2026-11-02"
+   "archive_checked": "2026-11-02",
+   "brick": true
   },
   {
    "url": "https://robinsloan.com",
@@ -519,7 +528,8 @@
    "lang": "en",
    "load_time": 0.24,
    "safety_checked": "2026-11-07",
-   "archive_checked": "2026-11-02"
+   "archive_checked": "2026-11-02",
+   "brick": true
   },
   {
    "url": "https://sadgrl.online",
@@ -572,7 +582,8 @@
    "load_time": 0.11,
    "safety_checked": "2026-11-07",
    "archive_checked": "2026-11-02",
-   "first_seen": 2021
+   "first_seen": 2021,
+   "brick": true
   },
   {
    "url": "https://virtuallyfun.com",
@@ -624,7 +635,8 @@
    "load_time": 0.58,
    "safety_checked": "2026-11-07",
    "archive_checked": "2026-11-02",
-   "first_seen": 2011
+   "first_seen": 2011,
+   "brick": true
   },
   {
    "url": "https://maya.land",
@@ -733,59 +745,6 @@
    "first_seen": 2021
   },
   {
-   "url": "https://patchwork.nekoweb.org",
-   "title": "patchwork's personal site",
-   "description": "A cozy, welcoming handmade personal site exploring indie HTML/CSS crafting and creative digital gardens.",
-   "category": "Personal",
-   "source": "admin pick",
-   "status": "ok",
-   "review": "verified",
-   "added": "2026-10-31",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "https": true,
-   "words": 196,
-   "embed": true,
-   "locked": true,
-   "tech": [
-    "Hand-coded"
-   ],
-   "vibes": [
-    "handmade",
-    "minimal",
-    "retro"
-   ],
-   "tags": [
-    "indie web",
-    "personal"
-   ],
-   "confidence": 1,
-   "screenshot_file": "9fe0a9b090f736b7ade1.jpg",
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.1,
-    0.95,
-    0.1,
-    0.265,
-    0.55,
-    0.27,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.7
-   ],
-   "lang": "en",
-   "load_time": 0.12,
-   "safety_checked": "2026-11-07",
-   "archive_checked": "2026-11-02",
-   "first_seen": 2025
-  },
-  {
    "url": "https://ourspacevibes.com",
    "title": "OurSpace — The MySpace Alternative",
    "description": "A retro social network recreating the classic early-2000s web: customize HTML profiles, pick your Top 8, and add profile music.",
@@ -833,7 +792,8 @@
    ],
    "robot_note": "too little content (2026-11-07)",
    "archive_checked": "2026-11-02",
-   "first_seen": 2026
+   "first_seen": 2026,
+   "brick": true
   },
   {
    "url": "https://tilde.green",
@@ -886,7 +846,8 @@
    "load_time": 0.59,
    "safety_checked": "2026-11-07",
    "archive_checked": "2026-11-02",
-   "first_seen": 2022
+   "first_seen": 2022,
+   "brick": true
   },
   {
    "url": "https://xpnethub.neocities.org",
@@ -940,7 +901,8 @@
    "archive_checked": "2026-11-02",
    "first_seen": 2025,
    "screenshot_file": "3f5520d08329972b7cfa.jpg",
-   "robot_note": "too little content (2026-11-07)"
+   "robot_note": "too little content (2026-11-07)",
+   "brick": true
   },
   {
    "url": "https://srcefiro.neocities.org",
@@ -992,60 +954,8 @@
     "minimal"
    ],
    "archive_checked": "2026-11-02",
-   "screenshot_file": "d60c0ecb9a6a938596c4.jpg"
-  },
-  {
-   "url": "https://atlyss.neocities.org",
-   "source": "neocities",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-02",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "atlyss.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.13,
-   "https": true,
-   "words": 245,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded",
-    "No JavaScript"
-   ],
-   "vector": [
-    0.1,
-    0.29,
-    0.0,
-    0.05,
-    0.1,
-    0.3,
-    0.2,
-    0.282,
-    0.55,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "fugbox",
-   "description": "ATLYSS is a ORPG (Online RPG) that features fluid controls & combat as well as cute playable shortstack characters.",
-   "category": "Retro",
-   "confidence": 0.86,
-   "tags": [],
-   "fingerprint": "fugboxatlyssisaorpgonlinerpgthatfeaturesfluidcontrolscombataswellasc",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-02",
-   "screenshot_file": "69cc2abc9c99d76d58bd.jpg"
+   "screenshot_file": "d60c0ecb9a6a938596c4.jpg",
+   "brick": true
   },
   {
    "url": "https://syscall.sh",
@@ -1096,7 +1006,8 @@
     "handmade"
    ],
    "archive_checked": "2026-11-02",
-   "screenshot_file": "21774127d38dc789c12e.jpg"
+   "screenshot_file": "21774127d38dc789c12e.jpg",
+   "brick": true
   },
   {
    "url": "https://architrixs.github.io",
@@ -1151,107 +1062,6 @@
    ],
    "archive_checked": "2026-11-02",
    "screenshot_file": "5ef4d8e7470e1d6823df.jpg"
-  },
-  {
-   "url": "https://mgz.me",
-   "source": "chrome experiments",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-02",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "mgz.me"
-   ],
-   "lang": "en",
-   "load_time": 0.3,
-   "https": true,
-   "words": 135,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Next.js"
-   ],
-   "vector": [
-    0.1,
-    0.3,
-    0.0,
-    0.85,
-    0.1,
-    0.1,
-    0.45,
-    0.245,
-    0.2,
-    0.05,
-    0.3,
-    0.85,
-    1.0,
-    0.4,
-    0.0,
-    0.85
-   ],
-   "title": "WebGL Portfolio & Lab",
-   "description": "Marco Gomez (@TheCodeTherapy) - WebGL Portfolio & Lab.",
-   "category": "Art",
-   "confidence": 0.75,
-   "tags": [],
-   "fingerprint": "webglportfoliolabmarcogomezthecodetherapywebglportfoliolab",
-   "vibes": [
-    "minimal"
-   ],
-   "archive_checked": "2026-11-02",
-   "screenshot_file": "a6644ef898dee1012cee.jpg"
-  },
-  {
-   "url": "https://alfy.blog",
-   "source": "lobsters",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-02",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "alfy.blog"
-   ],
-   "lang": "en",
-   "load_time": 0.37,
-   "https": true,
-   "words": 182,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.1,
-    0.85,
-    0.1,
-    0.261,
-    0.2,
-    0.05,
-    0.15,
-    0.85,
-    1.0,
-    0.5,
-    0.0,
-    0.7
-   ],
-   "title": "Ahmad Alfy's Blog",
-   "description": "This is my blog where I write about software engineering, programming, and other things that interest me.",
-   "category": "Personal",
-   "confidence": 0.73,
-   "tags": [],
-   "fingerprint": "ahmadalfysblogthisismyblogwhereiwriteaboutsoftwareengineeringprogrammingandother",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-02",
-   "screenshot_file": "13198237dc9469eefb82.jpg"
   },
   {
    "url": "https://starfighter.neocities.org",
@@ -1359,7 +1169,8 @@
     "handmade"
    ],
    "archive_checked": "2026-11-02",
-   "screenshot_file": "1a3e8b9294a66c2abe3c.jpg"
+   "screenshot_file": "1a3e8b9294a66c2abe3c.jpg",
+   "brick": true
   },
   {
    "url": "https://ransei.neocities.org",
@@ -1416,7 +1227,8 @@
    ],
    "archive_checked": "2026-11-02",
    "screenshot_file": "0481b218838ff63cba44.jpg",
-   "robot_note": "too little content (2026-11-07)"
+   "robot_note": "too little content (2026-11-07)",
+   "brick": true
   },
   {
    "url": "https://henry.codes",
@@ -1468,58 +1280,6 @@
    "vibes": [],
    "archive_checked": "2026-11-02",
    "screenshot_file": "7b4ff0a5441563cf0681.jpg"
-  },
-  {
-   "url": "https://xn--sr8hvo.ws",
-   "source": "indieweb",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-02",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "xn--sr8hvo.ws"
-   ],
-   "lang": "en",
-   "load_time": 0.22,
-   "https": true,
-   "words": 320,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.1,
-    0.2,
-    0.2,
-    0.307,
-    0.85,
-    0.79,
-    0.15,
-    0.85,
-    1.0,
-    0.5,
-    0.0,
-    0.85
-   ],
-   "title": "An IndieWeb Webring",
-   "description": "This proof-of-concept webring is a way for folks adding IndieWeb building blocks to their personal websites to find (and be found by) other folks with IndieWeb building blocks on their sites!",
-   "category": "Retro",
-   "confidence": 0.63,
-   "tags": [
-    "Personal"
-   ],
-   "fingerprint": "anindiewebwebringthisproofofconceptwebringisawayforfolksaddingindiewebbuildingblocks",
-   "vibes": [
-    "handmade"
-   ],
-   "archive_checked": "2026-11-02",
-   "screenshot_file": "9249b50ad260530cff76.jpg"
   },
   {
    "url": "https://erikjohannes.no",
@@ -1677,7 +1437,8 @@
    ],
    "archive_checked": "2026-11-03",
    "first_seen": 2024,
-   "screenshot_file": "eede2f6a03e0dee8b426.jpg"
+   "screenshot_file": "eede2f6a03e0dee8b426.jpg",
+   "brick": true
   },
   {
    "url": "https://tpittaway.neocities.org",
@@ -1731,7 +1492,8 @@
    ],
    "archive_checked": "2026-11-03",
    "first_seen": 2026,
-   "screenshot_file": "ee25871f8c06ef18a97c.jpg"
+   "screenshot_file": "ee25871f8c06ef18a97c.jpg",
+   "brick": true
   },
   {
    "url": "https://antiqueradios.org",
@@ -1784,7 +1546,8 @@
    ],
    "archive_checked": "2026-11-03",
    "first_seen": 2001,
-   "screenshot_file": "ed628e86d27368ad7207.jpg"
+   "screenshot_file": "ed628e86d27368ad7207.jpg",
+   "brick": true
   },
   {
    "url": "https://seirdy.one",
@@ -1836,7 +1599,8 @@
    ],
    "archive_checked": "2026-11-03",
    "first_seen": 2020,
-   "screenshot_file": "1edb7ea95c253e278142.jpg"
+   "screenshot_file": "1edb7ea95c253e278142.jpg",
+   "brick": true
   },
   {
    "url": "https://undeadly.org",
@@ -1889,170 +1653,8 @@
    ],
    "archive_checked": "2026-11-03",
    "first_seen": 2006,
-   "screenshot_file": "e8ab210fab4823c7dd0b.jpg"
-  },
-  {
-   "url": "https://p3p.neocities.org",
-   "source": "neocities",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-03",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "p3p.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.14,
-   "https": true,
-   "words": 1305,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "jQuery",
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.3,
-    0.05,
-    0.3,
-    0.3,
-    0.1,
-    0.635,
-    0.85,
-    0.77,
-    0.15,
-    0.2,
-    1.0,
-    0.85,
-    0.3,
-    0.85
-   ],
-   "title": "PERSONA 3 PORTABLE...!",
-   "description": "Welcome to p3p 4.0! how far we've come... this site is my handcrafted love letter to the internet that raised me.",
-   "category": "Retro",
-   "confidence": 0.67,
-   "tags": [],
-   "fingerprint": "persona3portablewelcometop3p40howfarwevecomethissiteismyhandcraftedlovelette",
-   "vibes": [
-    "handmade",
-    "retro"
-   ],
-   "archive_checked": "2026-11-03",
-   "first_seen": 2022,
-   "screenshot_file": "c2858d6b5da7a2e887e4.jpg"
-  },
-  {
-   "url": "https://daliwali.neocities.org",
-   "source": "neocities",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-03",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "daliwali.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.15,
-   "https": true,
-   "words": 224,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.15,
-    0.1,
-    0.3,
-    0.1,
-    0.275,
-    0.55,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "𝖉𝖆𝖑𝖎𝖜𝖆𝖑𝖎",
-   "description": "Outsider art, inner psyche, and the middle path.",
-   "category": "Retro",
-   "confidence": 0.65,
-   "tags": [],
-   "fingerprint": "outsiderartinnerpsycheandthemiddlepath",
-   "vibes": [
-    "artsy",
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-03",
-   "first_seen": 2024,
-   "screenshot_file": "660aa4afcfb7ec8bb3e2.jpg"
-  },
-  {
-   "url": "https://wwwdotdeepblueme.neocities.org",
-   "source": "neocities",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-03",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "wwwdotdeepblueme.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.12,
-   "https": true,
-   "words": 1063,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.3,
-    1.0,
-    0.1,
-    0.554,
-    0.85,
-    0.27,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.7
-   ],
-   "title": "The Deep Blue Me",
-   "description": "My personal website! It is about me and the stuff I like",
-   "category": "Personal",
-   "confidence": 0.63,
-   "tags": [
-    "Retro"
-   ],
-   "fingerprint": "thedeepbluememypersonalwebsiteitisaboutmeandthestuffilike",
-   "vibes": [
-    "handmade",
-    "retro"
-   ],
-   "archive_checked": "2026-11-03",
-   "first_seen": 2026,
-   "screenshot_file": "2f8bd3da8cc9cd46217b.jpg"
+   "screenshot_file": "e8ab210fab4823c7dd0b.jpg",
+   "brick": true
   },
   {
    "url": "https://scissorbait.neocities.org",
@@ -2163,7 +1765,8 @@
    ],
    "archive_checked": "2026-11-03",
    "first_seen": 2007,
-   "screenshot_file": "3613c7a011210e9566b6.jpg"
+   "screenshot_file": "3613c7a011210e9566b6.jpg",
+   "brick": true
   },
   {
    "url": "https://eieio.games",
@@ -2214,7 +1817,8 @@
    "vibes": [],
    "archive_checked": "2026-11-03",
    "first_seen": 2023,
-   "screenshot_file": "73c63757a3188357257a.jpg"
+   "screenshot_file": "73c63757a3188357257a.jpg",
+   "brick": true
   },
   {
    "url": "https://spencer.place",
@@ -2273,7 +1877,8 @@
    ],
    "archive_checked": "2026-11-03",
    "first_seen": 2021,
-   "screenshot_file": "3fb930ed1b1e8d7db709.jpg"
+   "screenshot_file": "3fb930ed1b1e8d7db709.jpg",
+   "brick": true
   },
   {
    "url": "https://kayserifserif.place",
@@ -2326,7 +1931,8 @@
    ],
    "archive_checked": "2026-11-03",
    "first_seen": 2023,
-   "screenshot_file": "207cf4fe02312a03a169.jpg"
+   "screenshot_file": "207cf4fe02312a03a169.jpg",
+   "brick": true
   },
   {
    "url": "https://heliogabalus.neocities.org",
@@ -2380,7 +1986,8 @@
    ],
    "archive_checked": "2026-11-03",
    "first_seen": 2024,
-   "screenshot_file": "f187be8385c140bf0995.jpg"
+   "screenshot_file": "f187be8385c140bf0995.jpg",
+   "brick": true
   },
   {
    "url": "https://garudyne.neocities.org",
@@ -2489,7 +2096,8 @@
    ],
    "archive_checked": "2026-11-03",
    "first_seen": 2023,
-   "screenshot_file": "0b534acc8d9c7049e44f.jpg"
+   "screenshot_file": "0b534acc8d9c7049e44f.jpg",
+   "brick": true
   },
   {
    "url": "https://bulltown.neocities.org",
@@ -2650,7 +2258,8 @@
    ],
    "archive_checked": "2026-11-03",
    "first_seen": 2022,
-   "screenshot_file": "12e4324755376ede5206.jpg"
+   "screenshot_file": "12e4324755376ede5206.jpg",
+   "brick": true
   },
   {
    "url": "https://dizzt3942.neocities.org",
@@ -2705,7 +2314,8 @@
    "archive_checked": "2026-11-03",
    "first_seen": 2026,
    "screenshot_file": "a2245b3cc2d8a431b5fd.jpg",
-   "robot_note": "too little content (2026-11-07)"
+   "robot_note": "too little content (2026-11-07)",
+   "brick": true
   },
   {
    "url": "https://inkposting.neocities.org",
@@ -2871,116 +2481,8 @@
    ],
    "archive_checked": "2026-11-03",
    "first_seen": 2023,
-   "screenshot_file": "29aca8b1d87a8d06a56a.jpg"
-  },
-  {
-   "url": "https://tofutush.neocities.org",
-   "source": "link from wwwdotdeepblueme.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-03",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "tofutush.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.27,
-   "https": true,
-   "words": 143,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.17,
-    0.0,
-    0.05,
-    0.1,
-    0.95,
-    0.2,
-    0.248,
-    0.2,
-    0.15,
-    0.3,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.7
-   ],
-   "title": "The Iron Ragdoll",
-   "description": "Hi, I'm Tofutush (she/her)! Thanks for visiting this little webbed site. I hope you have fun!",
-   "category": "Personal",
-   "confidence": 0.56,
-   "tags": [
-    "Retro"
-   ],
-   "fingerprint": "theironragdollhiimtofutushsheherthanksforvisitingthislittlewebbedsiteihope",
-   "vibes": [
-    "playful",
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-03",
-   "first_seen": 2024,
-   "screenshot_file": "5bcb81a44b747dbd6ecf.jpg"
-  },
-  {
-   "url": "https://babycarrot.nekoweb.org",
-   "source": "link from p3p.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-03",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "babycarrot.nekoweb.org"
-   ],
-   "lang": "?",
-   "load_time": 0.24,
-   "https": true,
-   "words": 1259,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.17,
-    0.0,
-    0.05,
-    0.3,
-    0.95,
-    0.2,
-    0.62,
-    0.85,
-    0.27,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.7
-   ],
-   "title": "carrot's corner",
-   "description": "Welcome to Carrot's corner of the internet! I'm so glad you're here <3",
-   "category": "Personal",
-   "confidence": 0.64,
-   "tags": [],
-   "fingerprint": "carrotscornerwelcometocarrotscorneroftheinternetimsogladyourehere3",
-   "vibes": [
-    "playful",
-    "handmade",
-    "retro"
-   ],
-   "archive_checked": "2026-11-03",
-   "first_seen": 2024,
-   "screenshot_file": "6b75ae6e2ed23d901d00.jpg"
+   "screenshot_file": "29aca8b1d87a8d06a56a.jpg",
+   "brick": true
   },
   {
    "url": "https://nicegirlslumber.neocities.org",
@@ -3035,61 +2537,6 @@
    "archive_checked": "2026-11-04",
    "first_seen": 2025,
    "screenshot_file": "ceccc888b90e828ffd5d.jpg"
-  },
-  {
-   "url": "https://figurea.neocities.org",
-   "source": "link from bulltown.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-04",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "figurea.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.2,
-   "https": true,
-   "words": 189,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.22,
-    0.05,
-    0.0,
-    0.05,
-    0.1,
-    0.3,
-    0.1,
-    0.263,
-    0.55,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "Where would you like to go today?",
-   "description": "Greetings, internet traveler! Looks like you've happened to come across this chunk of data I call my (sub)domain. Do come along further (if you wish)!",
-   "category": "Retro",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "wherewouldyouliketogotodaygreetingsinternettravelerlookslikeyouvehappenedtocomeacrossthischu",
-   "vibes": [
-    "nerdy",
-    "handmade",
-    "minimal",
-    "retro"
-   ],
-   "archive_checked": "2026-11-04",
-   "first_seen": 2026,
-   "screenshot_file": "f343eb21c8426a83288c.jpg"
   },
   {
    "url": "https://kitkatie.neocities.org",
@@ -3201,115 +2648,6 @@
    "screenshot_file": "3f8d5cd71188d296c190.jpg"
   },
   {
-   "url": "https://moonflower.nekoweb.org",
-   "source": "link page",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-04",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "moonflower.nekoweb.org"
-   ],
-   "lang": "en",
-   "load_time": 0.2,
-   "https": true,
-   "words": 161,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.17,
-    0.3,
-    0.15,
-    0.1,
-    0.95,
-    0.2,
-    0.254,
-    0.2,
-    0.15,
-    0.3,
-    0.85,
-    1.0,
-    0.85,
-    0.3,
-    0.7
-   ],
-   "title": "here before and after me",
-   "description": "Hello, i'm a girlypop who loves making lists and this website is a collection of my interests, creations and silly ramblings.",
-   "category": "Personal",
-   "confidence": 0.73,
-   "tags": [],
-   "fingerprint": "herebeforeandaftermehelloimagirlypopwholovesmakinglistsandthiswebsiteisacollectionof",
-   "vibes": [
-    "artsy",
-    "playful",
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-04",
-   "first_seen": 2025,
-   "screenshot_file": "6f5ea31b6df4e4d50003.jpg"
-  },
-  {
-   "url": "https://caby.neocities.org",
-   "source": "link page",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-04",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "caby.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.11,
-   "https": true,
-   "words": 137,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.15,
-    0.1,
-    1.0,
-    0.1,
-    0.246,
-    0.85,
-    0.27,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.7
-   ],
-   "title": "caby's abode",
-   "description": "About me - contact - my fursonas - caby comics - journal - plushies - piggos - junk - tsz - neopets - exit",
-   "category": "Personal",
-   "confidence": 0.71,
-   "tags": [],
-   "fingerprint": "cabysabodeaboutmecontactmyfursonascabycomicsjournalplushiespiggosj",
-   "vibes": [
-    "cozy",
-    "artsy",
-    "handmade",
-    "retro"
-   ],
-   "archive_checked": "2026-11-04",
-   "first_seen": 2019,
-   "screenshot_file": "cacf52624750fb462774.jpg"
-  },
-  {
    "url": "https://dptr.nekoweb.org",
    "source": "link page",
    "status": "ok",
@@ -3414,7 +2752,8 @@
    ],
    "archive_checked": "2026-11-04",
    "first_seen": 2025,
-   "screenshot_file": "557b6833b85cfe856afe.jpg"
+   "screenshot_file": "557b6833b85cfe856afe.jpg",
+   "brick": true
   },
   {
    "url": "https://awesome-sauce-directory.neocities.org",
@@ -3469,173 +2808,8 @@
    ],
    "archive_checked": "2026-11-04",
    "first_seen": 2025,
-   "screenshot_file": "a0514697171139aac48d.jpg"
-  },
-  {
-   "url": "https://rentryresource.neocities.org",
-   "source": "link page",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-04",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "rentryresource.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.12,
-   "https": true,
-   "words": 328,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.1,
-    0.95,
-    0.1,
-    0.309,
-    0.85,
-    0.27,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.7
-   ],
-   "title": "Hello FMHY :)",
-   "description": "Hello, and welcome to my little resource site! RENTRYRESOURCE is the culmination of collecting free resources for your indie website and social media for 5 years.",
-   "category": "Personal",
-   "confidence": 0.56,
-   "tags": [
-    "Retro"
-   ],
-   "fingerprint": "hellofmhyhelloandwelcometomylittleresourcesiterentryresourceistheculmination",
-   "vibes": [
-    "handmade",
-    "retro"
-   ],
-   "archive_checked": "2026-11-04",
-   "first_seen": 2024,
-   "screenshot_file": "154b9110f25ec9871159.jpg"
-  },
-  {
-   "url": "https://nekofetti.neocities.org",
-   "source": "link page",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-04",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "nekofetti.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.16,
-   "https": true,
-   "words": 128,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "jQuery",
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.1,
-    0.95,
-    0.1,
-    0.243,
-    0.55,
-    0.27,
-    0.15,
-    0.2,
-    1.0,
-    0.85,
-    0.0,
-    0.7
-   ],
-   "title": "Pretty Guardian ⋆｡✩ Sailor Moon!",
-   "description": "All ages are welcome on my website, but i am a teenager, so if you are an adult aren't comfortable with that, its ok! no hard feelings :D",
-   "category": "Personal",
-   "confidence": 0.56,
-   "tags": [
-    "Retro"
-   ],
-   "fingerprint": "prettyguardiansailormoonallagesarewelcomeonmywebsitebutiamateenagersoifyouareanadult",
-   "vibes": [
-    "handmade",
-    "minimal",
-    "retro"
-   ],
-   "archive_checked": "2026-11-04",
-   "first_seen": 2024,
-   "screenshot_file": "fcd967698dafb9210a62.jpg"
-  },
-  {
-   "url": "https://luigiblood.neocities.org",
-   "source": "neocities",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-04",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "luigiblood.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.1,
-   "https": true,
-   "words": 402,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.15,
-    0.1,
-    0.95,
-    0.1,
-    0.334,
-    0.5,
-    0.15,
-    0.3,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.7
-   ],
-   "title": "Yakumono's Personal Site",
-   "description": "I'm Yakumono, aka LuigiBlood in most places on the Internet.",
-   "category": "Personal",
-   "confidence": 0.75,
-   "tags": [],
-   "fingerprint": "yakumonospersonalsiteimyakumonoakaluigibloodinmostplacesontheinternet",
-   "vibes": [
-    "weird",
-    "artsy",
-    "handmade"
-   ],
-   "archive_checked": "2026-11-04",
-   "first_seen": 2021,
-   "screenshot_file": "90353e1511ba685dcfc2.jpg"
+   "screenshot_file": "a0514697171139aac48d.jpg",
+   "brick": true
   },
   {
    "url": "https://nnethercote.github.io",
@@ -3801,7 +2975,8 @@
     "handmade"
    ],
    "archive_checked": "2026-11-04",
-   "screenshot_file": "5b16b63b621548a02455.jpg"
+   "screenshot_file": "5b16b63b621548a02455.jpg",
+   "brick": true
   },
   {
    "url": "https://bianca.nekoweb.org",
@@ -3855,231 +3030,6 @@
    "archive_checked": "2026-11-04",
    "first_seen": 2026,
    "screenshot_file": "b86c74d91f7fa5f99d8c.jpg"
-  },
-  {
-   "url": "https://moon-room.neocities.org",
-   "source": "link from notyetknowspace.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-04",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "moon-room.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.13,
-   "https": true,
-   "words": 366,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.17,
-    0.0,
-    0.8,
-    0.1,
-    0.3,
-    0.3,
-    0.322,
-    0.85,
-    0.27,
-    0.3,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "The Moon Room Gallery",
-   "description": "It's all hand made at my own pace- AI hasn't gone anywhere near my creation process or the building of my site and it never will.",
-   "category": "Art",
-   "confidence": 0.5,
-   "tags": [
-    "Retro"
-   ],
-   "fingerprint": "themoonroomgalleryitsallhandmadeatmyownpaceaihasntgoneanywherenearmycreationproc",
-   "vibes": [
-    "artsy",
-    "playful",
-    "handmade",
-    "retro"
-   ],
-   "archive_checked": "2026-11-04",
-   "first_seen": 2024,
-   "screenshot_file": "6f3ce7f9d4df9d258ef1.jpg"
-  },
-  {
-   "url": "https://knoxstation.neocities.org",
-   "source": "link from notyetknowspace.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-04",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "knoxstation.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.16,
-   "https": true,
-   "words": 516,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.17,
-    0.3,
-    0.15,
-    0.1,
-    0.95,
-    0.2,
-    0.372,
-    0.85,
-    0.27,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.3,
-    0.7
-   ],
-   "title": "☆Knoxie's World! (๑❛◡❛๑)☆",
-   "description": "My name is Gia, and this is my own little corner of the internet where I can express myself and share my own personal projects!",
-   "category": "Personal",
-   "confidence": 0.55,
-   "tags": [
-    "Retro",
-    "Games"
-   ],
-   "fingerprint": "knoxiesworldmynameisgiaandthisismyownlittlecorneroftheinternetwhereicanexp",
-   "vibes": [
-    "playful",
-    "artsy",
-    "handmade",
-    "retro"
-   ],
-   "archive_checked": "2026-11-04",
-   "screenshot_file": "9bdb152db1f54a48aedf.jpg"
-  },
-  {
-   "url": "https://tectrix.neocities.org",
-   "source": "link from notyetknowspace.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-04",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "tectrix.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.16,
-   "https": true,
-   "words": 135,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "jQuery",
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.3,
-    0.05,
-    0.1,
-    0.95,
-    0.1,
-    0.245,
-    0.2,
-    0.15,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.3,
-    0.7
-   ],
-   "title": "somewhere beyond the sea",
-   "description": "Callie F she/her F 19 biochemist, crazy cat lady, perpetually stressed; tumbling blindly as i make my way across the universe find out more here!",
-   "category": "Personal",
-   "confidence": 0.6,
-   "tags": [
-    "Retro"
-   ],
-   "fingerprint": "somewherebeyondtheseacalliefsheherf19biochemistcrazycatladyperpetuallystressedtumbling",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-04",
-   "screenshot_file": "04d5a2891217f547fc83.jpg"
-  },
-  {
-   "url": "https://rinberry.neocities.org",
-   "source": "link page",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-04",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "rinberry.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.2,
-   "https": true,
-   "words": 354,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.15,
-    0.1,
-    0.4,
-    0.1,
-    0.318,
-    0.85,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "Rin's Blog",
-   "description": "I had been spending too much time scrolling and finding that it either left me sad, disheartened, or in a bad mood.",
-   "category": "Retro",
-   "confidence": 0.6,
-   "tags": [
-    "Personal"
-   ],
-   "fingerprint": "rinsblogihadbeenspendingtoomuchtimescrollingandfindingthatiteitherleftmes",
-   "vibes": [
-    "calm",
-    "cozy",
-    "handmade",
-    "retro"
-   ],
-   "archive_checked": "2026-11-04",
-   "screenshot_file": "d15497240e0bb40dbcf7.jpg"
   },
   {
    "url": "https://wendoh.neocities.org",
@@ -4188,61 +3138,6 @@
    "screenshot_file": "2fa44e55abcaa184e2e8.jpg"
   },
   {
-   "url": "https://vaje.neocities.org",
-   "source": "link from ocpdzim.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-05",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "vaje.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.18,
-   "https": true,
-   "words": 370,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded",
-    "No JavaScript"
-   ],
-   "vector": [
-    0.1,
-    0.17,
-    0.3,
-    0.05,
-    0.1,
-    0.3,
-    0.2,
-    0.323,
-    0.85,
-    0.77,
-    0.3,
-    0.85,
-    1.0,
-    0.85,
-    0.3,
-    0.85
-   ],
-   "title": "Are you sure you remember the way out?",
-   "description": "Official silly site for Jovial, dream world and tralude.",
-   "category": "Retro",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "areyousureyourememberthewayoutofficialsillysiteforjovialdreamworldandtralude",
-   "vibes": [
-    "playful",
-    "handmade",
-    "retro"
-   ],
-   "archive_checked": "2026-11-05",
-   "first_seen": 2022,
-   "screenshot_file": "1913e0255b9d4bfaf1ea.jpg"
-  },
-  {
    "url": "https://miela583.neocities.org",
    "source": "neocities",
    "status": "ok",
@@ -4348,7 +3243,8 @@
    ],
    "archive_checked": "2026-11-05",
    "first_seen": 2022,
-   "screenshot_file": "a9e8f2f816417220b36e.jpg"
+   "screenshot_file": "a9e8f2f816417220b36e.jpg",
+   "brick": true
   },
   {
    "url": "https://cherished-cat.neocities.org",
@@ -4407,62 +3303,6 @@
    "screenshot_file": "6fb2cfd5e8f8d4af9c6f.jpg"
   },
   {
-   "url": "https://revolution909.neocities.org",
-   "source": "link page",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-05",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "revolution909.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.18,
-   "https": true,
-   "words": 567,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded",
-    "No JavaScript"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.15,
-    0.1,
-    0.3,
-    0.1,
-    0.389,
-    0.85,
-    0.77,
-    0.15,
-    0.2,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "REVOLVER",
-   "description": "You should check out my mixtapes man they're actually really sick I swear.",
-   "category": "Retro",
-   "confidence": 0.7,
-   "tags": [],
-   "fingerprint": "revolveryoushouldcheckoutmymixtapesmantheyreactuallyreallysickiswear",
-   "vibes": [
-    "artsy",
-    "cozy",
-    "handmade",
-    "retro"
-   ],
-   "archive_checked": "2026-11-05",
-   "first_seen": 2024,
-   "screenshot_file": "e1219bc731534dc24a7c.jpg"
-  },
-  {
    "url": "https://magicwords.neocities.org",
    "source": "link from ocpdzim.neocities.org",
    "status": "ok",
@@ -4515,7 +3355,8 @@
    ],
    "archive_checked": "2026-11-05",
    "first_seen": 2022,
-   "screenshot_file": "4c052d60dcdebc15203e.jpg"
+   "screenshot_file": "4c052d60dcdebc15203e.jpg",
+   "brick": true
   },
   {
    "url": "https://smallcarnivore.neocities.org",
@@ -4684,116 +3525,8 @@
    ],
    "archive_checked": "2026-11-05",
    "first_seen": 2025,
-   "screenshot_file": "ff36e725492fc3f78683.jpg"
-  },
-  {
-   "url": "https://mockguffin.neocities.org",
-   "source": "neocities",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-05",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "mockguffin.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.15,
-   "https": true,
-   "words": 115,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded",
-    "No JavaScript"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.15,
-    0.05,
-    0.1,
-    0.3,
-    0.1,
-    0.238,
-    0.55,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "Vaporwave Synthesizer",
-   "description": "Welcome to mockguffin.neocities.org! Seems like you've caught yourself another website to surf around.",
-   "category": "Retro",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "vaporwavesynthesizerwelcometomockguffinneocitiesorgseemslikeyouvecaughtyourselfanotherw",
-   "vibes": [
-    "handmade",
-    "minimal",
-    "retro"
-   ],
-   "archive_checked": "2026-11-05",
-   "first_seen": 2022,
-   "screenshot_file": "f19f9e2eafaca18df627.jpg"
-  },
-  {
-   "url": "https://alexisgaming95.neocities.org",
-   "source": "neocities",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-05",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "alexisgaming95.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.18,
-   "https": true,
-   "words": 139,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.1,
-    0.3,
-    0.1,
-    0.246,
-    0.55,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "Alexis Gaming Reviews Classic",
-   "description": "Making the unforeseeable future foreseeable. This is the official website of AGR, by Alexis himself!",
-   "category": "Retro",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "alexisgamingreviewsclassicmakingtheunforeseeablefutureforeseeablethisistheofficialwebsiteofagr",
-   "vibes": [
-    "handmade",
-    "minimal",
-    "retro"
-   ],
-   "archive_checked": "2026-11-05",
-   "first_seen": 2022,
-   "screenshot_file": "0343ab960714ff2a5810.jpg"
+   "screenshot_file": "ff36e725492fc3f78683.jpg",
+   "brick": true
   },
   {
    "url": "https://visionaryparacosmos.neocities.org",
@@ -4847,112 +3580,6 @@
    "archive_checked": "2026-11-05",
    "first_seen": 2024,
    "screenshot_file": "aa8311617020892207a5.jpg"
-  },
-  {
-   "url": "https://grampus.neocities.org",
-   "source": "link page",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-05",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "grampus.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.18,
-   "https": true,
-   "words": 356,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.3,
-    0.15,
-    0.1,
-    0.3,
-    0.1,
-    0.319,
-    0.85,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.3,
-    0.85
-   ],
-   "title": "grampus' alcove",
-   "description": "Welcome to v. 5.0 of my alcove on the web!",
-   "category": "Retro",
-   "confidence": 0.82,
-   "tags": [],
-   "fingerprint": "grampusalcovewelcometov50ofmyalcoveontheweb",
-   "vibes": [
-    "artsy",
-    "handmade"
-   ],
-   "archive_checked": "2026-11-05",
-   "first_seen": 2023,
-   "screenshot_file": "39c563d773359d8e59ed.jpg"
-  },
-  {
-   "url": "https://joxi.neocities.org",
-   "source": "neocities",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-05",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "joxi.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.14,
-   "https": true,
-   "words": 1062,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.15,
-    0.3,
-    0.3,
-    0.1,
-    0.554,
-    0.85,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "JoxiZone",
-   "description": "Welcome to JoxiZone... Collect my pages",
-   "category": "Retro",
-   "confidence": 0.82,
-   "tags": [],
-   "fingerprint": "joxizonewelcometojoxizonecollectmypages",
-   "vibes": [
-    "artsy",
-    "handmade"
-   ],
-   "archive_checked": "2026-11-05",
-   "first_seen": 2023,
-   "screenshot_file": "08a6bf5ea4d515950dd6.jpg"
   },
   {
    "url": "https://colexdev.neocities.org",
@@ -5114,7 +3741,8 @@
    "archive_checked": "2026-11-05",
    "first_seen": 2016,
    "screenshot_file": "ccbe7ac8d1304faaf766.jpg",
-   "robot_note": "too little content (2026-11-07)"
+   "robot_note": "too little content (2026-11-07)",
+   "brick": true
   },
   {
    "url": "https://p403n1x87.github.io",
@@ -5169,114 +3797,8 @@
    ],
    "archive_checked": "2026-11-05",
    "first_seen": 2019,
-   "screenshot_file": "6b1ba7062370fd351662.jpg"
-  },
-  {
-   "url": "https://cyadical.neocities.org",
-   "source": "link from knoxstation.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-06",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "cyadical.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.2,
-   "https": true,
-   "words": 329,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.22,
-    0.17,
-    0.0,
-    0.05,
-    0.1,
-    0.3,
-    0.2,
-    0.31,
-    0.85,
-    0.77,
-    0.3,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "THE HERO HIDEOUT",
-   "description": "You found my hideout! Made this solely for fun and as a way for folks to get to know me. Despite the appearance of this site and a majority of my interest being considered childish I'm still an adult",
-   "category": "Retro",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "theherohideoutyoufoundmyhideoutmadethissolelyforfunandasawayforfolkstogetto",
-   "vibes": [
-    "playful",
-    "handmade"
-   ],
-   "archive_checked": "2026-11-06",
-   "first_seen": 2024,
-   "screenshot_file": "bf90d425cc654d9466dd.jpg"
-  },
-  {
-   "url": "https://faegardens333.neocities.org",
-   "source": "link from knoxstation.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-06",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "faegardens333.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.13,
-   "https": true,
-   "words": 143,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded",
-    "No JavaScript"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.1,
-    0.3,
-    0.1,
-    0.248,
-    0.55,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "summertime! ^__^",
-   "description": "Im currently trying to update all my pages to be more accessible. most pages, as of now, dont reach most bare minimum requirements to be qualifiied as accesible.",
-   "category": "Retro",
-   "confidence": 0.79,
-   "tags": [],
-   "fingerprint": "summertimeimcurrentlytryingtoupdateallmypagestobemoreaccessiblemostpagesas",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-06",
-   "first_seen": 2023,
-   "screenshot_file": "76c2ba3b5fa575ecbd94.jpg"
+   "screenshot_file": "6b1ba7062370fd351662.jpg",
+   "brick": true
   },
   {
    "url": "https://ghostopsy.neocities.org",
@@ -5500,59 +4022,6 @@
    "screenshot_file": "1755cde7f2ba82c9fcab.jpg"
   },
   {
-   "url": "https://foolsparadise.neocities.org",
-   "source": "link page",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-06",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "foolsparadise.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.12,
-   "https": true,
-   "words": 301,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.2,
-    0.3,
-    0.1,
-    0.3,
-    0.85,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "It's a Fool's Paradise, Anyhow!",
-   "description": "Did you put my button on your site? tell me on my site profile or guestbook! ill add yours back!",
-   "category": "Retro",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "itsafoolsparadiseanyhowdidyouputmybuttononyoursitetellmeonmysiteprofileorguestbookill",
-   "vibes": [
-    "handmade",
-    "retro"
-   ],
-   "archive_checked": "2026-11-06",
-   "first_seen": 2021,
-   "screenshot_file": "a24fb9bac49885ee2716.jpg"
-  },
-  {
    "url": "https://geeky-jay.neocities.org",
    "source": "link page",
    "status": "ok",
@@ -5661,113 +4130,6 @@
    "screenshot_file": "e47fe15ca79d62339836.jpg"
   },
   {
-   "url": "https://toothachesplinter.neocities.org",
-   "source": "link page",
-   "status": "warn",
-   "review": "unreviewed",
-   "added": "2026-11-06",
-   "checked": "2026-11-07",
-   "fails": 2,
-   "aliases": [
-    "toothachesplinter.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.11,
-   "https": true,
-   "words": 32,
-   "embed": true,
-   "safety_checked": "2026-11-06",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.17,
-    0.0,
-    0.05,
-    0.1,
-    0.3,
-    0.2,
-    0.211,
-    0.55,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "【TOoTHaCHEsPLinTEr's HuB】",
-   "description": "This site is best viewed on a 1920x1080 display although is still somewhat viewable on mobile devices.",
-   "category": "Retro",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "toothachesplintershubthissiteisbestviewedona1920x1080displayalthoughisstillsomewhatviewa",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-06",
-   "first_seen": 2021,
-   "screenshot_file": "1068c90393adf790f2b6.jpg",
-   "robot_note": "too little content (2026-11-07)"
-  },
-  {
-   "url": "https://thoughts-and-collections.neocities.org",
-   "source": "link page",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-06",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "thoughts-and-collections.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.12,
-   "https": true,
-   "words": 1035,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.3,
-    0.3,
-    0.1,
-    0.545,
-    0.85,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "Enter My Subconscious",
-   "description": "Have a wonderful stay in the core of my mind!",
-   "category": "Retro",
-   "confidence": 0.9,
-   "tags": [],
-   "fingerprint": "entermysubconscioushaveawonderfulstayinthecoreofmymind",
-   "vibes": [
-    "handmade",
-    "retro"
-   ],
-   "archive_checked": "2026-11-06",
-   "first_seen": 2022,
-   "screenshot_file": "2aefe5720cac3058d060.jpg"
-  },
-  {
    "url": "https://kolala.neocities.org",
    "source": "link from knoxstation.neocities.org",
    "status": "ok",
@@ -5872,61 +4234,8 @@
    ],
    "archive_checked": "2026-11-06",
    "first_seen": 2026,
-   "screenshot_file": "51c3934dceb5fb1ea7a0.jpg"
-  },
-  {
-   "url": "https://nickychaotix.neocities.org",
-   "source": "link from knoxstation.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-06",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "nickychaotix.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.1,
-   "https": true,
-   "words": 145,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.22,
-    0.05,
-    0.0,
-    0.15,
-    0.1,
-    0.3,
-    0.1,
-    0.248,
-    0.55,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "nicky's web world :3",
-   "description": "Download whichever button you like to link back to my page!",
-   "category": "Retro",
-   "confidence": 0.7,
-   "tags": [],
-   "fingerprint": "nickyswebworld3downloadwhicheverbuttonyouliketolinkbacktomypage",
-   "vibes": [
-    "artsy",
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-06",
-   "first_seen": 2026,
-   "screenshot_file": "fe9ce083635260176486.jpg"
+   "screenshot_file": "51c3934dceb5fb1ea7a0.jpg",
+   "brick": true
   },
   {
    "url": "https://dropandspindash.neocities.org",
@@ -5979,7 +4288,8 @@
    ],
    "archive_checked": "2026-11-06",
    "first_seen": 2023,
-   "screenshot_file": "23aa88c461e65692e323.jpg"
+   "screenshot_file": "23aa88c461e65692e323.jpg",
+   "brick": true
   },
   {
    "url": "https://melonking.net",
@@ -6032,117 +4342,8 @@
    "archive_checked": "2026-11-06",
    "first_seen": 2017,
    "screenshot_file": "a8777331db43271ee852.jpg",
-   "robot_note": "too little content (2026-11-07)"
-  },
-  {
-   "url": "https://buntsukim.neocities.org",
-   "source": "link page",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-06",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "buntsukim.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.12,
-   "https": true,
-   "words": 78,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded",
-    "No JavaScript"
-   ],
-   "vector": [
-    0.1,
-    0.17,
-    0.0,
-    0.05,
-    0.1,
-    0.4,
-    0.2,
-    0.226,
-    0.55,
-    0.77,
-    0.3,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "shadow web portal",
-   "description": "Silly personal website for the things that make me... well, me.",
-   "category": "Retro",
-   "confidence": 0.57,
-   "tags": [
-    "Personal"
-   ],
-   "fingerprint": "shadowwebportalsillypersonalwebsiteforthethingsthatmakemewellme",
-   "vibes": [
-    "playful",
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-06",
-   "first_seen": 2023,
-   "screenshot_file": "a447957f9a6c21c575f2.jpg"
-  },
-  {
-   "url": "https://rareoarfishsightings.neocities.org",
-   "source": "link page",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-07",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "rareoarfishsightings.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.51,
-   "https": true,
-   "words": 136,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.1,
-    0.3,
-    0.1,
-    0.245,
-    0.55,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "rareoarfishsightings (MOVED)",
-   "description": "Updates are currently on pause as I work on a new iteration for the website and take a break from sharing my work publicly. Thank you for supporting me",
-   "category": "Retro",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "rareoarfishsightingsmovedupdatesarecurrentlyonpauseasiworkonanewiterationforthewebsiteand",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-07",
-   "first_seen": 2023,
-   "screenshot_file": "3ca60f22e5ee8a11c10e.jpg"
+   "robot_note": "too little content (2026-11-07)",
+   "brick": true
   },
   {
    "url": "https://neo-neighborhoods.neocities.org",
@@ -6196,114 +4397,8 @@
    ],
    "archive_checked": "2026-11-07",
    "first_seen": 2019,
-   "screenshot_file": "960d60734f0322b93dcf.jpg"
-  },
-  {
-   "url": "https://nonexistentfandomsfandom.neocities.org",
-   "source": "link from visionaryparacosmos.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-07",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "nonexistentfandomsfandom.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.05,
-   "https": true,
-   "words": 175,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.1,
-    0.3,
-    0.1,
-    0.258,
-    0.55,
-    0.77,
-    0.3,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "The Nonexistent Fandoms Fandom",
-   "description": "Sometimes I like a thing, only to discover it doesn't have a dedicated fandom (or if it does, that fandom is incredibly small). This is basically a website for me to shill obscure things that I like.",
-   "category": "Retro",
-   "confidence": 0.86,
-   "tags": [],
-   "fingerprint": "thenonexistentfandomsfandomsometimesilikeathingonlytodiscoveritdoesnthaveadedicatedfandomo",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-07",
-   "first_seen": 2023,
-   "screenshot_file": "480a230526179144e123.jpg"
-  },
-  {
-   "url": "https://last.fm",
-   "source": "link from scissorbait.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-07",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "last.fm"
-   ],
-   "lang": "en",
-   "load_time": 0.34,
-   "https": true,
-   "words": 191,
-   "embed": false,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.17,
-    0.3,
-    0.7,
-    0.1,
-    0.1,
-    0.2,
-    0.264,
-    0.2,
-    0.05,
-    0.3,
-    0.85,
-    0.0,
-    0.5,
-    0.8,
-    0.85
-   ],
-   "title": "Play music, find songs, and discover artists",
-   "description": "The world's largest online music service. Listen online, find out more about your favourite artists, and get music recommendations, only at Last.fm",
-   "category": "Art",
-   "confidence": 0.86,
-   "tags": [],
-   "fingerprint": "playmusicfindsongsanddiscoverartiststheworldslargestonlinemusicservicelistenonlinefindoutmoreaboutyou",
-   "vibes": [
-    "artsy",
-    "playful",
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-07",
-   "first_seen": 2003,
-   "screenshot_file": "9cec2b53d8f43718e0ce.jpg"
+   "screenshot_file": "960d60734f0322b93dcf.jpg",
+   "brick": true
   },
   {
    "url": "https://fauux.neocities.org",
@@ -6356,110 +4451,8 @@
    ],
    "archive_checked": "2026-11-07",
    "first_seen": 2013,
-   "screenshot_file": "5c8f9f0c0b3c79101778.jpg"
-  },
-  {
-   "url": "https://zietek.dev",
-   "source": "link page",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-07",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "zietek.dev"
-   ],
-   "lang": "?",
-   "load_time": 0.2,
-   "https": true,
-   "words": 393,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.1,
-    0.1,
-    0.1,
-    0.331,
-    0.5,
-    0.05,
-    0.15,
-    0.85,
-    1.0,
-    0.5,
-    0.0,
-    0.7
-   ],
-   "title": "Jacob Zietek",
-   "description": "I'm currently the founder and CEO of Ixian Robotics, where we're deploying intelligent robots to help reindustrialize America.",
-   "category": "Technology",
-   "confidence": 0.85,
-   "tags": [],
-   "fingerprint": "jacobzietekimcurrentlythefounderandceoofixianroboticswhereweredeployingintel",
-   "vibes": [
-    "nerdy",
-    "handmade"
-   ],
-   "archive_checked": "2026-11-07",
-   "first_seen": 2024,
-   "screenshot_file": "88b6b04e39d63e936d43.jpg"
-  },
-  {
-   "url": "https://webri.ng",
-   "source": "link from pombogay.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-07",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "webri.ng"
-   ],
-   "lang": "en",
-   "load_time": 0.65,
-   "https": true,
-   "words": 357,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.1,
-    0.1,
-    0.1,
-    0.319,
-    0.85,
-    0.79,
-    0.15,
-    0.85,
-    1.0,
-    0.5,
-    0.0,
-    0.85
-   ],
-   "title": "Recently Updated",
-   "description": "Webri.ng is a platform where people can host webrings without the need to manage their own infrastructure.",
-   "category": "Retro",
-   "confidence": 0.67,
-   "tags": [],
-   "fingerprint": "recentlyupdatedwebringisaplatformwherepeoplecanhostwebringswithouttheneedtomanage",
-   "vibes": [
-    "handmade"
-   ],
-   "archive_checked": "2026-11-07",
-   "first_seen": 2022,
-   "screenshot_file": "2cd6c54b60f8b59117ef.jpg"
+   "screenshot_file": "5c8f9f0c0b3c79101778.jpg",
+   "brick": true
   },
   {
    "url": "https://computer.rip",
@@ -6568,7 +4561,8 @@
    ],
    "archive_checked": "2026-11-07",
    "first_seen": 2024,
-   "screenshot_file": "75b109dc962afe177a2d.jpg"
+   "screenshot_file": "75b109dc962afe177a2d.jpg",
+   "brick": true
   },
   {
    "url": "https://butt0n-z.neocities.org",
@@ -6625,61 +4619,6 @@
    "screenshot_file": "08cdf53f7c098040cc36.jpg"
   },
   {
-   "url": "https://novaentertainment.neocities.org",
-   "source": "link from dropandspindash.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-07",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "novaentertainment.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.11,
-   "https": true,
-   "words": 116,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded",
-    "No JavaScript"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.1,
-    0.3,
-    0.1,
-    0.239,
-    0.55,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "HykicNova (moved to Nekoweb!)",
-   "description": "Your race, gender, sexuality, or religion doesn't matter when enjoying my stuff, it's pretty much for everyone.",
-   "category": "Retro",
-   "confidence": 1.0,
-   "tags": [],
-   "fingerprint": "hykicnovamovedtonekowebyourracegendersexualityorreligiondoesntmatterwhenenjoyingmystuff",
-   "vibes": [
-    "handmade",
-    "minimal",
-    "retro"
-   ],
-   "archive_checked": "2026-11-07",
-   "first_seen": 2023,
-   "screenshot_file": "daad4af012669e9a84be.jpg"
-  },
-  {
    "url": "https://yel1low.neocities.org",
    "source": "link from ghostopsy.neocities.org",
    "status": "ok",
@@ -6733,116 +4672,6 @@
    "screenshot_file": "4e1890cb59429ef86d73.jpg"
   },
   {
-   "url": "https://philia995.neocities.org",
-   "source": "link from bulltown.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-07",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "philia995.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.14,
-   "https": true,
-   "words": 297,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.15,
-    0.1,
-    0.3,
-    0.1,
-    0.299,
-    0.55,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "the ether personified...",
-   "description": "Punish ethel cain creation 9million conspiracy paramore in-between title flight screaming loathe the bomb dot com v2.0 sleeping with sirens the red chevelle",
-   "category": "Retro",
-   "confidence": 0.75,
-   "tags": [],
-   "fingerprint": "theetherpersonifiedpunishethelcaincreation9millionconspiracyparamoreinbetweentitleflight",
-   "vibes": [
-    "artsy",
-    "handmade",
-    "minimal",
-    "retro"
-   ],
-   "archive_checked": "2026-11-07",
-   "first_seen": 2022,
-   "screenshot_file": "a0d284dc30c163ae99d0.jpg"
-  },
-  {
-   "url": "https://gremlin.neocities.org",
-   "source": "link from dropandspindash.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-07",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "gremlin.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.17,
-   "https": true,
-   "words": 98,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded",
-    "No JavaScript"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.1,
-    0.3,
-    0.1,
-    0.233,
-    0.55,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "GREMLIN IS ONLINE",
-   "description": "Content such as drugs and alcohol + sexual content + violence and death and some other not so family friendly things.",
-   "category": "Retro",
-   "confidence": 0.75,
-   "tags": [],
-   "fingerprint": "gremlinisonlinecontentsuchasdrugsandalcoholsexualcontentviolenceanddeathandsome",
-   "vibes": [
-    "handmade",
-    "minimal",
-    "retro"
-   ],
-   "archive_checked": "2026-11-07",
-   "first_seen": 2024,
-   "screenshot_file": "31fcb012015b7e6a1264.jpg"
-  },
-  {
    "url": "https://street-samurai.neocities.org",
    "source": "link from piko-chan1838.neocities.org",
    "status": "ok",
@@ -6894,62 +4723,6 @@
    ],
    "archive_checked": "2026-11-07",
    "screenshot_file": "e56888f27da3f7af48f2.jpg"
-  },
-  {
-   "url": "https://kunfucutsman.neocities.org",
-   "source": "link page",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-07",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "kunfucutsman.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.11,
-   "https": true,
-   "words": 124,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "WordPress",
-    "Hugo",
-    "Neocities"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.1,
-    0.3,
-    0.1,
-    0.241,
-    0.55,
-    0.77,
-    0.45,
-    0.85,
-    1.0,
-    0.75,
-    0.0,
-    0.85
-   ],
-   "title": "KFCMan's Odd Corner of the Internet",
-   "description": "Also, I suppose I can give you some things about myself:",
-   "category": "Retro",
-   "confidence": 0.66,
-   "tags": [
-    "Personal"
-   ],
-   "fingerprint": "kfcmansoddcorneroftheinternetalsoisupposeicangiveyousomethingsaboutmyself",
-   "vibes": [
-    "weird",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-07",
-   "first_seen": 2024,
-   "screenshot_file": "196d2bab18fe7b40b826.jpg"
   },
   {
    "url": "https://noxid-kin.neocities.org",
@@ -7010,112 +4783,6 @@
    "screenshot_file": "68d4ebf3d05096f38cc5.jpg"
   },
   {
-   "url": "https://waxwing.neocities.org",
-   "source": "link from ghostopsy.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-07",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "waxwing.neocities.org"
-   ],
-   "lang": "?",
-   "load_time": 0.09,
-   "https": true,
-   "words": 96,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "jQuery",
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.15,
-    0.1,
-    0.3,
-    0.1,
-    0.232,
-    0.55,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "false azure in the windowpane",
-   "description": "Hi, i'm io! i'm a sometimes-draw-er living in the maine woods and wasting a lot of time trying to cook. welcome to my everything-site where i scatter things from every part of my life",
-   "category": "Retro",
-   "confidence": 0.6,
-   "tags": [],
-   "fingerprint": "falseazureinthewindowpanehiimioimasometimesdrawerlivinginthemainewoodsandwastingalot",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-07",
-   "first_seen": 2024,
-   "screenshot_file": "8d780f4fac3560a88c01.jpg"
-  },
-  {
-   "url": "https://merisumu.nekoweb.org",
-   "source": "link page",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-07",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "merisumu.nekoweb.org"
-   ],
-   "lang": "en",
-   "load_time": 0.11,
-   "https": true,
-   "words": 280,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.1,
-    0.3,
-    0.1,
-    0.293,
-    0.55,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "めりすむ",
-   "description": "Big momma lost sight of herself... Big momma wanted love and attention and forgot who she was.",
-   "category": "Retro",
-   "confidence": 0.6,
-   "tags": [],
-   "fingerprint": "bigmommalostsightofherselfbigmommawantedloveandattentionandforgo",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-07",
-   "first_seen": 2025,
-   "screenshot_file": "80d6e0b9173be94df7d1.jpg"
-  },
-  {
    "url": "https://sonicbluecore97.neocities.org",
    "source": "link from dropandspindash.neocities.org",
    "status": "ok",
@@ -7169,61 +4836,6 @@
    "archive_checked": "2026-11-07",
    "first_seen": 2024,
    "screenshot_file": "134fa54b7d4529260f8b.jpg"
-  },
-  {
-   "url": "https://arataka.neocities.org",
-   "source": "link from ghostopsy.neocities.org",
-   "status": "ok",
-   "review": "unreviewed",
-   "added": "2026-11-07",
-   "checked": "2026-11-07",
-   "fails": 0,
-   "aliases": [
-    "arataka.neocities.org"
-   ],
-   "lang": "en",
-   "load_time": 0.09,
-   "https": true,
-   "words": 31,
-   "embed": true,
-   "safety_checked": "2026-11-07",
-   "tech": [
-    "Neocities",
-    "Hand-coded"
-   ],
-   "vector": [
-    0.1,
-    0.05,
-    0.0,
-    0.05,
-    0.1,
-    0.3,
-    0.1,
-    0.21,
-    0.55,
-    0.77,
-    0.15,
-    0.85,
-    1.0,
-    0.85,
-    0.0,
-    0.85
-   ],
-   "title": "霊とか相談所",
-   "description": "Cyanide is scamming customers with Arataka Reigen from Mob Psycho 100!",
-   "category": "Retro",
-   "confidence": 0.6,
-   "tags": [
-    "Business"
-   ],
-   "fingerprint": "cyanideisscammingcustomerswitharatakareigenfrommobpsycho100",
-   "vibes": [
-    "handmade",
-    "minimal"
-   ],
-   "archive_checked": "2026-11-07",
-   "first_seen": 2023,
-   "screenshot_file": "cf59db1f564e328a30d4.jpg"
   }
  ]
 }

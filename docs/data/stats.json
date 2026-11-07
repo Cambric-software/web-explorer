@@ -1,1218 +1,1220 @@
 {
- "total": 130,
- "dead": 4,
- "flagged": 0,
- "runs": 44,
- "last_run": "2026-11-07T05:54:08Z",
- "found_last_run": 12,
- "beta": true,
- "categories": {
-  "Tools": 2,
-  "Games": 6,
-  "Developer": 7,
-  "Art": 7,
-  "Retro": 73,
-  "Writing": 1,
-  "Personal": 26,
-  "Communities": 4,
-  "Technology": 3,
-  "Random": 1
- },
- "bot_version": 4,
- "history": [
-  {
-   "date": "2026-10-26",
-   "added": 76,
-   "total": 76
-  },
-  {
-   "date": "2026-10-26",
-   "added": 66,
-   "total": 137
-  },
-  {
-   "date": "2026-10-27",
-   "added": 65,
-   "total": 202
-  },
-  {
-   "date": "2026-10-27",
-   "added": 58,
-   "total": 260
-  },
-  {
-   "date": "2026-10-27",
-   "added": 67,
-   "total": 327
-  },
-  {
-   "date": "2026-10-27",
-   "added": 74,
-   "total": 400
-  },
-  {
-   "date": "2026-10-27",
-   "added": 57,
-   "total": 457
-  },
-  {
-   "date": "2026-10-27",
-   "added": 60,
-   "total": 517
-  },
-  {
-   "date": "2026-10-28",
-   "added": 53,
-   "total": 570
-  },
-  {
-   "date": "2026-10-28",
-   "added": 62,
-   "total": 632
-  },
-  {
-   "date": "2026-10-28",
-   "added": 69,
-   "total": 701
-  },
-  {
-   "date": "2026-10-28",
-   "added": 61,
-   "total": 762
-  },
-  {
-   "date": "2026-10-29",
-   "added": 50,
-   "total": 812
-  },
-  {
-   "date": "2026-10-29",
-   "added": 56,
-   "total": 868
-  },
-  {
-   "date": "2026-10-29",
-   "added": 70,
-   "total": 937
-  },
-  {
-   "date": "2026-10-29",
-   "added": 65,
-   "total": 1002
-  },
-  {
-   "date": "2026-10-29",
-   "added": 72,
-   "total": 72
-  },
-  {
-   "date": "2026-10-29",
-   "added": 67,
-   "total": 132
-  },
-  {
-   "date": "2026-10-30",
-   "added": 63,
-   "total": 195
-  },
-  {
-   "date": "2026-10-30",
-   "added": 65,
-   "total": 260
-  },
-  {
-   "date": "2026-10-30",
-   "added": 5,
-   "total": 267
-  },
-  {
-   "date": "2026-10-30",
-   "added": 5,
-   "total": 272
-  },
-  {
-   "date": "2026-10-31",
-   "added": 5,
-   "total": 270
-  },
-  {
-   "date": "2026-10-31",
-   "added": 4,
-   "total": 274
-  },
-  {
-   "date": "2026-10-31",
-   "added": 21,
-   "total": 34
-  },
-  {
-   "date": "2026-10-31",
-   "added": 21,
-   "total": 55
-  },
-  {
-   "date": "2026-10-31",
-   "added": 28,
-   "total": 82
-  },
-  {
-   "date": "2026-11-01",
-   "added": 16,
-   "total": 98
-  },
-  {
-   "date": "2026-11-01",
-   "added": 16,
-   "total": 114
-  },
-  {
-   "date": "2026-11-01",
-   "added": 15,
-   "total": 125
-  },
-  {
-   "date": "2026-11-01",
-   "added": 15,
-   "total": 140
-  },
-  {
-   "date": "2026-11-02",
-   "added": 12,
-   "total": 152
-  },
-  {
-   "date": "2026-11-02",
-   "added": 15,
-   "total": 167
-  },
-  {
-   "date": "2026-11-02",
-   "added": 7,
-   "total": 127
-  },
-  {
-   "date": "2026-11-02",
-   "added": 19,
-   "total": 37
-  },
-  {
-   "date": "2026-11-03",
-   "added": 17,
-   "total": 50
-  },
-  {
-   "date": "2026-11-03",
-   "added": 16,
-   "total": 66
-  },
-  {
-   "date": "2026-11-04",
-   "added": 23,
-   "total": 80
-  },
-  {
-   "date": "2026-11-05",
-   "added": 13,
-   "total": 93
-  },
-  {
-   "date": "2026-11-05",
-   "added": 10,
-   "total": 102
-  },
-  {
-   "date": "2026-11-06",
-   "added": 9,
-   "total": 110
-  },
-  {
-   "date": "2026-11-06",
-   "added": 11,
-   "total": 110
-  },
-  {
-   "date": "2026-11-07",
-   "added": 9,
-   "total": 118
-  },
-  {
-   "date": "2026-11-07",
-   "added": 12,
-   "total": 130
-  }
- ],
- "runs_log": [
-  {
-   "started": "2026-11-07T05:54:08Z",
-   "rejected": {
-    "empty javascript shell": 33,
-    "lazy title": 29,
-    "unsafe": 28,
-    "too few words": 27,
-    "weak description": 14,
-    "unreachable": 12,
-    "parked": 14,
-    "unsure category": 5,
-    "starter template": 6
-   },
-   "duplicates_removed": 0,
-   "sources": {},
-   "candidates": 180,
-   "deep_links": 691,
-   "added": 12,
-   "rechecked": 113,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 11
-  },
-  {
-   "started": "2026-11-07T00:05:49Z",
-   "rejected": {
-    "lazy title": 31,
-    "unsafe": 18,
-    "empty javascript shell": 43,
-    "unsure category": 11,
-    "parked": 10,
-    "starter template": 5,
-    "weak description": 10,
-    "too few words": 22,
-    "unreachable": 17,
-    "flipped": 1,
-    "bot challenge": 3
-   },
-   "duplicates_removed": 0,
-   "sources": {},
-   "candidates": 180,
-   "deep_links": 367,
-   "added": 9,
-   "rechecked": 113,
-   "stale_rechecked": 0,
-   "newly_dead": 1,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 9
-  },
-  {
-   "started": "2026-11-06T19:56:38Z",
-   "rejected": {
-    "lazy title": 32,
-    "weak description": 13,
-    "empty javascript shell": 42,
-    "unreachable": 10,
-    "too few words": 23,
-    "unsafe": 28,
-    "starter template": 5,
-    "parked": 10,
-    "unsure category": 6
-   },
-   "duplicates_removed": 0,
-   "sources": {},
-   "candidates": 180,
-   "deep_links": 514,
-   "added": 11,
-   "rechecked": 96,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 11
-  },
-  {
-   "started": "2026-11-06T07:55:17Z",
-   "rejected": {
-    "lazy title": 32,
-    "empty javascript shell": 31,
-    "unsafe": 27,
-    "unreachable": 12,
-    "parked": 14,
-    "too few words": 23,
-    "unsure category": 11,
-    "starter template": 8,
-    "weak description": 10,
-    "http 202": 1,
-    "bot challenge": 2
-   },
-   "duplicates_removed": 0,
-   "sources": {},
-   "candidates": 180,
-   "deep_links": 371,
-   "added": 9,
-   "rechecked": 105,
-   "stale_rechecked": 0,
-   "newly_dead": 1,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 9
-  },
-  {
-   "started": "2026-11-05T15:26:24Z",
-   "rejected": {
-    "duplicate": 1,
-    "weak description": 12,
-    "empty javascript shell": 38,
-    "unsure category": 12,
-    "parked": 12,
-    "unreachable": 8,
-    "lazy title": 25,
-    "too few words": 27,
-    "starter template": 6,
-    "unsafe": 26,
-    "login gate": 2,
-    "link farm": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 56,
-    "lobsters": 16,
-    "tiny helpers": 4,
-    "js13k": 2,
-    "chrome experiments": 17,
-    "awesome lists": 5,
-    "useless web": 5,
-    "indieweb": 12,
-    "neocities": 57,
-    "nekoweb": 2,
-    "tildeverse": 18,
-    "marginalia": 26,
-    "ooh.directory": 4
-   },
-   "candidates": 180,
-   "deep_links": 341,
-   "added": 10,
-   "rechecked": 82,
-   "stale_rechecked": 0,
-   "newly_dead": 1,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 10
-  },
-  {
-   "started": "2026-11-05T06:41:46Z",
-   "rejected": {
-    "parked": 10,
-    "lazy title": 22,
-    "unreachable": 17,
-    "unsafe": 30,
-    "too few words": 29,
-    "unsure category": 7,
-    "empty javascript shell": 40,
-    "weak description": 10,
-    "starter template": 2
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 60,
-    "lobsters": 16,
-    "tiny helpers": 4,
-    "js13k": 2,
-    "chrome experiments": 17,
-    "awesome lists": 5,
-    "useless web": 5,
-    "indieweb": 12,
-    "neocities": 57,
-    "nekoweb": 1,
-    "tildeverse": 18,
-    "marginalia": 28,
-    "ooh.directory": 4
-   },
-   "candidates": 180,
-   "deep_links": 344,
-   "added": 13,
-   "rechecked": 82,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 13
-  },
-  {
-   "started": "2026-11-04T23:39:15Z",
-   "rejected": {
-    "empty javascript shell": 28,
-    "unsafe": 32,
-    "parked": 13,
-    "unsure category": 5,
-    "starter template": 6,
-    "too few words": 23,
-    "weak description": 17,
-    "unreachable": 8,
-    "lazy title": 25
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 60,
-    "lobsters": 19,
-    "tiny helpers": 4,
-    "js13k": 2,
-    "chrome experiments": 17,
-    "awesome lists": 5,
-    "useless web": 5,
-    "indieweb": 12,
-    "neocities": 57,
-    "nekoweb": 2,
-    "tildeverse": 18,
-    "marginalia": 27,
-    "ooh.directory": 4
-   },
-   "candidates": 180,
-   "deep_links": 524,
-   "added": 23,
-   "rechecked": 59,
-   "stale_rechecked": 0,
-   "newly_dead": 2,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 18
-  },
-  {
-   "started": "2026-11-03T09:39:39Z",
-   "rejected": {
-    "unsure category": 11,
-    "empty javascript shell": 50,
-    "parked": 7,
-    "weak description": 12,
-    "unsafe": 17,
-    "too few words": 23,
-    "lazy title": 27,
-    "unreachable": 9,
-    "login gate": 1,
-    "starter template": 2,
-    "bot challenge": 3,
-    "link farm": 2
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 60,
-    "lobsters": 18,
-    "tiny helpers": 4,
-    "js13k": 2,
-    "chrome experiments": 17,
-    "awesome lists": 5,
-    "useless web": 5,
-    "indieweb": 12,
-    "neocities": 58,
-    "nekoweb": 1,
-    "tildeverse": 18,
-    "marginalia": 24,
-    "ooh.directory": 3
-   },
-   "candidates": 180,
-   "deep_links": 201,
-   "added": 16,
-   "rechecked": 33,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 16
-  },
-  {
-   "started": "2026-11-03T01:38:37Z",
-   "rejected": {
-    "duplicate": 1,
-    "empty javascript shell": 34,
-    "weak description": 11,
-    "lazy title": 39,
-    "unreachable": 7,
-    "unsafe": 12,
-    "too few words": 20,
-    "unsure category": 16,
-    "parked": 13,
-    "starter template": 2,
-    "login gate": 1,
-    "big platform": 1,
-    "bot challenge": 3,
-    "cookie wall": 1,
-    "link farm": 1,
-    "corporate consulting": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 55,
-    "lobsters": 20,
-    "tiny helpers": 4,
-    "js13k": 2,
-    "chrome experiments": 17,
-    "awesome lists": 5,
-    "useless web": 5,
-    "indieweb": 12,
-    "neocities": 60,
-    "nekoweb": 1,
-    "tildeverse": 18,
-    "marginalia": 27,
-    "ooh.directory": 4
-   },
-   "candidates": 180,
-   "deep_links": 116,
-   "added": 17,
-   "rechecked": 33,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 17
-  },
-  {
-   "started": "2026-11-02T20:01:21Z",
-   "rejected": {
-    "lazy title": 37,
-    "weak description": 7,
-    "empty javascript shell": 44,
-    "too few words": 18,
-    "parked": 7,
-    "unsafe": 11,
-    "unsure category": 18,
-    "starter template": 3,
-    "login gate": 1,
-    "unreachable": 10,
-    "bot challenge": 2,
-    "big platform": 1,
-    "cookie wall": 1,
-    "link farm": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 58,
-    "lobsters": 19,
-    "tiny helpers": 4,
-    "js13k": 2,
-    "chrome experiments": 18,
-    "awesome lists": 5,
-    "useless web": 5,
-    "indieweb": 13,
-    "neocities": 60,
-    "nekoweb": 1,
-    "tildeverse": 18,
-    "marginalia": 27,
-    "ooh.directory": 4
-   },
-   "candidates": 180,
-   "deep_links": 72,
-   "added": 19,
-   "rechecked": 18,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 16
-  },
-  {
-   "started": "2026-11-02T18:29:26Z",
-   "rejected": {
-    "duplicate": 1,
-    "too few words": 25,
-    "parked": 11,
-    "lazy title": 33,
-    "unsafe": 22,
-    "weak description": 16,
-    "empty javascript shell": 46,
-    "unsure category": 9,
-    "starter template": 5,
-    "unreachable": 5
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 60,
-    "lobsters": 20,
-    "tiny helpers": 4,
-    "js13k": 2,
-    "chrome experiments": 18,
-    "awesome lists": 5,
-    "useless web": 5,
-    "indieweb": 12,
-    "neocities": 55,
-    "nekoweb": 1,
-    "tildeverse": 18,
-    "marginalia": 27,
-    "ooh.directory": 4
-   },
-   "candidates": 180,
-   "deep_links": 330,
-   "added": 7,
-   "rechecked": 126,
-   "stale_rechecked": 0,
-   "newly_dead": 8,
-   "flagged": 21,
-   "malware_list": 0,
-   "archive_years": 7
-  },
-  {
-   "started": "2026-11-02T07:43:58Z",
-   "rejected": {
-    "duplicate": 1,
-    "too few words": 33,
-    "lazy title": 28,
-    "unreachable": 9,
-    "empty javascript shell": 53,
-    "unsure category": 10,
-    "parked": 13,
-    "starter template": 1,
-    "weak description": 10,
-    "bot challenge": 2,
-    "login gate": 1,
-    "unsafe": 2,
-    "slow": 1,
-    "link farm": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 56,
-    "lobsters": 16,
-    "neocities": 54,
-    "nekoweb": 1,
-    "tildeverse": 18,
-    "marginalia": 29,
-    "ooh.directory": 3
-   },
-   "candidates": 180,
-   "deep_links": 526,
-   "added": 15,
-   "rechecked": 144,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 15
-  },
-  {
-   "started": "2026-11-02T00:51:50Z",
-   "rejected": {
-    "duplicate": 1,
-    "starter template": 8,
-    "empty javascript shell": 35,
-    "lazy title": 49,
-    "weak description": 19,
-    "unreachable": 8,
-    "too few words": 19,
-    "parked": 11,
-    "unsure category": 15,
-    "login gate": 1,
-    "unsafe": 1,
-    "bot challenge": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 60,
-    "lobsters": 19,
-    "neocities": 57,
-    "nekoweb": 2,
-    "tildeverse": 18,
-    "marginalia": 28,
-    "ooh.directory": 4
-   },
-   "candidates": 180,
-   "deep_links": 276,
-   "added": 12,
-   "rechecked": 144,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 12
-  },
-  {
-   "started": "2026-11-01T21:13:44Z",
-   "rejected": {
-    "duplicate": 1,
-    "lazy title": 37,
-    "parked": 15,
-    "starter template": 6,
-    "unreachable": 12,
-    "weak description": 13,
-    "unsure category": 11,
-    "empty javascript shell": 44,
-    "too few words": 26
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 49,
-    "lobsters": 19,
-    "neocities": 56,
-    "nekoweb": 2,
-    "tildeverse": 18,
-    "marginalia": 28,
-    "ooh.directory": 4
-   },
-   "candidates": 180,
-   "deep_links": 434,
-   "added": 15,
-   "rechecked": 82,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 14
-  },
-  {
-   "started": "2026-11-01T17:09:49Z",
-   "rejected": {
-    "too few words": 31,
-    "parked": 16,
-    "lazy title": 27,
-    "unsure category": 10,
-    "unreachable": 6,
-    "empty javascript shell": 52,
-    "weak description": 14,
-    "starter template": 8,
-    "unsafe": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 52,
-    "lobsters": 19,
-    "neocities": 55,
-    "nekoweb": 1,
-    "tildeverse": 18,
-    "marginalia": 28,
-    "ooh.directory": 3
-   },
-   "candidates": 180,
-   "deep_links": 500,
-   "added": 15,
-   "rechecked": 82,
-   "stale_rechecked": 0,
-   "newly_dead": 4,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 13
-  },
-  {
-   "started": "2026-11-01T10:35:20Z",
-   "rejected": {
-    "too few words": 29,
-    "unreachable": 14,
-    "starter template": 7,
-    "weak description": 9,
-    "unsure category": 14,
-    "lazy title": 37,
-    "empty javascript shell": 43,
-    "parked": 10,
-    "unsafe": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 58,
-    "lobsters": 14,
-    "neocities": 55,
-    "nekoweb": 1,
-    "tildeverse": 18,
-    "marginalia": 27,
-    "ooh.directory": 4
-   },
-   "candidates": 180,
-   "deep_links": 437,
-   "added": 16,
-   "rechecked": 82,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 16
-  },
-  {
-   "started": "2026-11-01T02:18:25Z",
-   "rejected": {
-    "parked": 20,
-    "empty javascript shell": 37,
-    "too few words": 29,
-    "weak description": 24,
-    "lazy title": 31,
-    "unreachable": 7,
-    "unsure category": 7,
-    "starter template": 8,
-    "unsafe": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 58,
-    "lobsters": 16,
-    "neocities": 54,
-    "nekoweb": 2,
-    "tildeverse": 18,
-    "marginalia": 28,
-    "ooh.directory": 3
-   },
-   "candidates": 180,
-   "deep_links": 466,
-   "added": 16,
-   "rechecked": 82,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 16
-  },
-  {
-   "started": "2026-10-31T22:32:56Z",
-   "rejected": {
-    "duplicate": 1,
-    "unsure category": 10,
-    "empty javascript shell": 54,
-    "too few words": 20,
-    "lazy title": 37,
-    "unreachable": 9,
-    "parked": 9,
-    "starter template": 4,
-    "weak description": 7,
-    "login gate": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 59,
-    "lobsters": 16,
-    "neocities": 57,
-    "nekoweb": 1,
-    "tildeverse": 18,
-    "ooh.directory": 4
-   },
-   "candidates": 180,
-   "deep_links": 480,
-   "added": 28,
-   "rechecked": 5,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 20
-  },
-  {
-   "started": "2026-10-31T18:37:11Z",
-   "rejected": {
-    "duplicate": 2,
-    "starter template": 2,
-    "empty javascript shell": 50,
-    "weak description": 9,
-    "lazy title": 37,
-    "parked": 3,
-    "too few words": 20,
-    "unreachable": 12,
-    "unsure category": 16,
-    "login gate": 2,
-    "cookie wall": 1,
-    "bot challenge": 5
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 59,
-    "lobsters": 16,
-    "neocities": 57,
-    "nekoweb": 1,
-    "tildeverse": 18,
-    "marginalia": 28,
-    "ooh.directory": 4
-   },
-   "candidates": 180,
-   "deep_links": 218,
-   "added": 21,
-   "rechecked": 5,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 20
-  },
-  {
-   "started": "2026-10-31T13:41:35Z",
-   "rejected": {
-    "unreachable": 12,
-    "parked": 8,
-    "empty javascript shell": 32,
-    "too few words": 25,
-    "weak description": 12,
-    "lazy title": 51,
-    "starter template": 1,
-    "unsure category": 11,
-    "bot challenge": 4,
-    "login gate": 1,
-    "cookie wall": 1,
-    "link farm": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 57,
-    "lobsters": 16,
-    "neocities": 60,
-    "nekoweb": 1,
-    "tildeverse": 19,
-    "marginalia": 25,
-    "ooh.directory": 4
-   },
-   "candidates": 180,
-   "deep_links": 64,
-   "added": 21,
-   "rechecked": 5,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 18
-  },
-  {
-   "started": "2026-10-31T07:03:40Z",
-   "rejected": {
-    "lazy title": 44,
-    "too few words": 3,
-    "unreachable": 9,
-    "bot challenge": 1,
-    "link farm": 2,
-    "parked": 3,
-    "http 247": 1,
-    "unsure category": 10,
-    "empty javascript shell": 17,
-    "weak description": 4,
-    "login gate": 2
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 131,
-    "lobsters": 15
-   },
-   "candidates": 100,
-   "deep_links": 120,
-   "added": 4,
-   "rechecked": 200,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 6
-  },
-  {
-   "started": "2026-10-31T00:51:49Z",
-   "rejected": {
-    "over run cap": 4,
-    "unreachable": 4,
-    "weak description": 4,
-    "empty javascript shell": 22,
-    "unsure category": 12,
-    "lazy title": 36,
-    "link farm": 1,
-    "parked": 3,
-    "too few words": 2,
-    "bot challenge": 2,
-    "login gate": 2,
-    "http 247": 1,
-    "http 202": 2
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 129,
-    "lobsters": 14
-   },
-   "candidates": 100,
-   "deep_links": 146,
-   "added": 5,
-   "rechecked": 200,
-   "stale_rechecked": 0,
-   "newly_dead": 7,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 19
-  },
-  {
-   "started": "2026-10-30T20:51:27Z",
-   "rejected": {
-    "over run cap": 5,
-    "unreachable": 8,
-    "lazy title": 29,
-    "too few words": 9,
-    "weak description": 3,
-    "unsure category": 8,
-    "empty javascript shell": 16,
-    "parked": 4,
-    "not html": 1,
-    "login gate": 1,
-    "bot challenge": 7,
-    "unsafe": 2,
-    "link farm": 1,
-    "cookie wall": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 123,
-    "lobsters": 12
-   },
-   "candidates": 100,
-   "deep_links": 114,
-   "added": 5,
-   "rechecked": 132,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 20
-  },
-  {
-   "started": "2026-10-30T15:59:05Z",
-   "rejected": {
-    "over run cap": 2,
-    "unreachable": 11,
-    "empty javascript shell": 18,
-    "too few words": 9,
-    "lazy title": 34,
-    "starter template": 1,
-    "http 247": 1,
-    "unsure category": 6,
-    "parked": 4,
-    "bot challenge": 4,
-    "link farm": 1,
-    "weak description": 3,
-    "slow": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 104,
-    "lobsters": 6
-   },
-   "candidates": 100,
-   "deep_links": 121,
-   "added": 5,
-   "rechecked": 132,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 19
-  },
-  {
-   "started": "2026-10-30T08:43:34Z",
-   "rejected": {
-    "parked": 4,
-    "unreachable": 18,
-    "too little content": 13
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 84,
-    "lobsters": 5
-   },
-   "candidates": 100,
-   "deep_links": 109,
-   "added": 65,
-   "rechecked": 80,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 20
-  },
-  {
-   "started": "2026-10-30T01:59:59Z",
-   "rejected": {
-    "parked": 6,
-    "too little content": 18,
-    "unreachable": 12,
-    "unsafe": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 86,
-    "lobsters": 7
-   },
-   "candidates": 100,
-   "deep_links": 103,
-   "added": 63,
-   "rechecked": 80,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 20
-  },
-  {
-   "started": "2026-10-29T21:51:22Z",
-   "rejected": {
-    "too little content": 14,
-    "unsafe": 1,
-    "unreachable": 15,
-    "parked": 3
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 98,
-    "lobsters": 13
-   },
-   "candidates": 100,
-   "deep_links": 76,
-   "added": 67,
-   "rechecked": 0,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 18
-  },
-  {
-   "started": "2026-10-29T20:26:08Z",
-   "rejected": {
-    "parked": 4,
-    "unreachable": 12,
-    "too little content": 11,
-    "unsafe": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 134,
-    "lobsters": 17
-   },
-   "candidates": 100,
-   "deep_links": 0,
-   "added": 72,
-   "rechecked": 0,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 20
-  },
-  {
-   "started": "2026-10-29T20:05:36Z",
-   "rejected": {
-    "too little content": 15,
-    "unreachable": 15,
-    "parked": 5
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 87,
-    "lobsters": 6
-   },
-   "candidates": 100,
-   "deep_links": 180,
-   "added": 65,
-   "rechecked": 200,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 17
-  },
-  {
-   "started": "2026-10-29T16:57:46Z",
-   "rejected": {
-    "unreachable": 11,
-    "too little content": 16,
-    "parked": 2,
-    "unsafe": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 117,
-    "lobsters": 8
-   },
-   "candidates": 100,
-   "deep_links": 108,
-   "added": 70,
-   "rechecked": 80,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 1,
-   "malware_list": 0,
-   "archive_years": 20
-  }
- ],
- "reset": "2026-10-26",
- "candidates_checked": 180
+  "total": 130,
+  "dead": 4,
+  "flagged": 0,
+  "runs": 44,
+  "last_run": "2026-11-07T05:54:08Z",
+  "found_last_run": 12,
+  "beta": true,
+  "categories": {
+    "Tools": 2,
+    "Games": 6,
+    "Developer": 7,
+    "Art": 7,
+    "Retro": 73,
+    "Writing": 1,
+    "Personal": 26,
+    "Communities": 4,
+    "Technology": 3,
+    "Random": 1
+  },
+  "bot_version": 4,
+  "history": [
+    {
+      "date": "2026-10-26",
+      "added": 76,
+      "total": 76
+    },
+    {
+      "date": "2026-10-26",
+      "added": 66,
+      "total": 137
+    },
+    {
+      "date": "2026-10-27",
+      "added": 65,
+      "total": 202
+    },
+    {
+      "date": "2026-10-27",
+      "added": 58,
+      "total": 260
+    },
+    {
+      "date": "2026-10-27",
+      "added": 67,
+      "total": 327
+    },
+    {
+      "date": "2026-10-27",
+      "added": 74,
+      "total": 400
+    },
+    {
+      "date": "2026-10-27",
+      "added": 57,
+      "total": 457
+    },
+    {
+      "date": "2026-10-27",
+      "added": 60,
+      "total": 517
+    },
+    {
+      "date": "2026-10-28",
+      "added": 53,
+      "total": 570
+    },
+    {
+      "date": "2026-10-28",
+      "added": 62,
+      "total": 632
+    },
+    {
+      "date": "2026-10-28",
+      "added": 69,
+      "total": 701
+    },
+    {
+      "date": "2026-10-28",
+      "added": 61,
+      "total": 762
+    },
+    {
+      "date": "2026-10-29",
+      "added": 50,
+      "total": 812
+    },
+    {
+      "date": "2026-10-29",
+      "added": 56,
+      "total": 868
+    },
+    {
+      "date": "2026-10-29",
+      "added": 70,
+      "total": 937
+    },
+    {
+      "date": "2026-10-29",
+      "added": 65,
+      "total": 1002
+    },
+    {
+      "date": "2026-10-29",
+      "added": 72,
+      "total": 72
+    },
+    {
+      "date": "2026-10-29",
+      "added": 67,
+      "total": 132
+    },
+    {
+      "date": "2026-10-30",
+      "added": 63,
+      "total": 195
+    },
+    {
+      "date": "2026-10-30",
+      "added": 65,
+      "total": 260
+    },
+    {
+      "date": "2026-10-30",
+      "added": 5,
+      "total": 267
+    },
+    {
+      "date": "2026-10-30",
+      "added": 5,
+      "total": 272
+    },
+    {
+      "date": "2026-10-31",
+      "added": 5,
+      "total": 270
+    },
+    {
+      "date": "2026-10-31",
+      "added": 4,
+      "total": 274
+    },
+    {
+      "date": "2026-10-31",
+      "added": 21,
+      "total": 34
+    },
+    {
+      "date": "2026-10-31",
+      "added": 21,
+      "total": 55
+    },
+    {
+      "date": "2026-10-31",
+      "added": 28,
+      "total": 82
+    },
+    {
+      "date": "2026-11-01",
+      "added": 16,
+      "total": 98
+    },
+    {
+      "date": "2026-11-01",
+      "added": 16,
+      "total": 114
+    },
+    {
+      "date": "2026-11-01",
+      "added": 15,
+      "total": 125
+    },
+    {
+      "date": "2026-11-01",
+      "added": 15,
+      "total": 140
+    },
+    {
+      "date": "2026-11-02",
+      "added": 12,
+      "total": 152
+    },
+    {
+      "date": "2026-11-02",
+      "added": 15,
+      "total": 167
+    },
+    {
+      "date": "2026-11-02",
+      "added": 7,
+      "total": 127
+    },
+    {
+      "date": "2026-11-02",
+      "added": 19,
+      "total": 37
+    },
+    {
+      "date": "2026-11-03",
+      "added": 17,
+      "total": 50
+    },
+    {
+      "date": "2026-11-03",
+      "added": 16,
+      "total": 66
+    },
+    {
+      "date": "2026-11-04",
+      "added": 23,
+      "total": 80
+    },
+    {
+      "date": "2026-11-05",
+      "added": 13,
+      "total": 93
+    },
+    {
+      "date": "2026-11-05",
+      "added": 10,
+      "total": 102
+    },
+    {
+      "date": "2026-11-06",
+      "added": 9,
+      "total": 110
+    },
+    {
+      "date": "2026-11-06",
+      "added": 11,
+      "total": 110
+    },
+    {
+      "date": "2026-11-07",
+      "added": 9,
+      "total": 118
+    },
+    {
+      "date": "2026-11-07",
+      "added": 12,
+      "total": 130
+    }
+  ],
+  "runs_log": [
+    {
+      "started": "2026-11-07T05:54:08Z",
+      "rejected": {
+        "empty javascript shell": 33,
+        "lazy title": 29,
+        "unsafe": 28,
+        "too few words": 27,
+        "weak description": 14,
+        "unreachable": 12,
+        "parked": 14,
+        "unsure category": 5,
+        "starter template": 6
+      },
+      "duplicates_removed": 0,
+      "sources": {},
+      "candidates": 180,
+      "deep_links": 691,
+      "added": 12,
+      "rechecked": 113,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 11
+    },
+    {
+      "started": "2026-11-07T00:05:49Z",
+      "rejected": {
+        "lazy title": 31,
+        "unsafe": 18,
+        "empty javascript shell": 43,
+        "unsure category": 11,
+        "parked": 10,
+        "starter template": 5,
+        "weak description": 10,
+        "too few words": 22,
+        "unreachable": 17,
+        "flipped": 1,
+        "bot challenge": 3
+      },
+      "duplicates_removed": 0,
+      "sources": {},
+      "candidates": 180,
+      "deep_links": 367,
+      "added": 9,
+      "rechecked": 113,
+      "stale_rechecked": 0,
+      "newly_dead": 1,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 9
+    },
+    {
+      "started": "2026-11-06T19:56:38Z",
+      "rejected": {
+        "lazy title": 32,
+        "weak description": 13,
+        "empty javascript shell": 42,
+        "unreachable": 10,
+        "too few words": 23,
+        "unsafe": 28,
+        "starter template": 5,
+        "parked": 10,
+        "unsure category": 6
+      },
+      "duplicates_removed": 0,
+      "sources": {},
+      "candidates": 180,
+      "deep_links": 514,
+      "added": 11,
+      "rechecked": 96,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 11
+    },
+    {
+      "started": "2026-11-06T07:55:17Z",
+      "rejected": {
+        "lazy title": 32,
+        "empty javascript shell": 31,
+        "unsafe": 27,
+        "unreachable": 12,
+        "parked": 14,
+        "too few words": 23,
+        "unsure category": 11,
+        "starter template": 8,
+        "weak description": 10,
+        "http 202": 1,
+        "bot challenge": 2
+      },
+      "duplicates_removed": 0,
+      "sources": {},
+      "candidates": 180,
+      "deep_links": 371,
+      "added": 9,
+      "rechecked": 105,
+      "stale_rechecked": 0,
+      "newly_dead": 1,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 9
+    },
+    {
+      "started": "2026-11-05T15:26:24Z",
+      "rejected": {
+        "duplicate": 1,
+        "weak description": 12,
+        "empty javascript shell": 38,
+        "unsure category": 12,
+        "parked": 12,
+        "unreachable": 8,
+        "lazy title": 25,
+        "too few words": 27,
+        "starter template": 6,
+        "unsafe": 26,
+        "login gate": 2,
+        "link farm": 1
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 56,
+        "lobsters": 16,
+        "tiny helpers": 4,
+        "js13k": 2,
+        "chrome experiments": 17,
+        "awesome lists": 5,
+        "useless web": 5,
+        "indieweb": 12,
+        "neocities": 57,
+        "nekoweb": 2,
+        "tildeverse": 18,
+        "marginalia": 26,
+        "ooh.directory": 4
+      },
+      "candidates": 180,
+      "deep_links": 341,
+      "added": 10,
+      "rechecked": 82,
+      "stale_rechecked": 0,
+      "newly_dead": 1,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 10
+    },
+    {
+      "started": "2026-11-05T06:41:46Z",
+      "rejected": {
+        "parked": 10,
+        "lazy title": 22,
+        "unreachable": 17,
+        "unsafe": 30,
+        "too few words": 29,
+        "unsure category": 7,
+        "empty javascript shell": 40,
+        "weak description": 10,
+        "starter template": 2
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 60,
+        "lobsters": 16,
+        "tiny helpers": 4,
+        "js13k": 2,
+        "chrome experiments": 17,
+        "awesome lists": 5,
+        "useless web": 5,
+        "indieweb": 12,
+        "neocities": 57,
+        "nekoweb": 1,
+        "tildeverse": 18,
+        "marginalia": 28,
+        "ooh.directory": 4
+      },
+      "candidates": 180,
+      "deep_links": 344,
+      "added": 13,
+      "rechecked": 82,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 13
+    },
+    {
+      "started": "2026-11-04T23:39:15Z",
+      "rejected": {
+        "empty javascript shell": 28,
+        "unsafe": 32,
+        "parked": 13,
+        "unsure category": 5,
+        "starter template": 6,
+        "too few words": 23,
+        "weak description": 17,
+        "unreachable": 8,
+        "lazy title": 25
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 60,
+        "lobsters": 19,
+        "tiny helpers": 4,
+        "js13k": 2,
+        "chrome experiments": 17,
+        "awesome lists": 5,
+        "useless web": 5,
+        "indieweb": 12,
+        "neocities": 57,
+        "nekoweb": 2,
+        "tildeverse": 18,
+        "marginalia": 27,
+        "ooh.directory": 4
+      },
+      "candidates": 180,
+      "deep_links": 524,
+      "added": 23,
+      "rechecked": 59,
+      "stale_rechecked": 0,
+      "newly_dead": 2,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 18
+    },
+    {
+      "started": "2026-11-03T09:39:39Z",
+      "rejected": {
+        "unsure category": 11,
+        "empty javascript shell": 50,
+        "parked": 7,
+        "weak description": 12,
+        "unsafe": 17,
+        "too few words": 23,
+        "lazy title": 27,
+        "unreachable": 9,
+        "login gate": 1,
+        "starter template": 2,
+        "bot challenge": 3,
+        "link farm": 2
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 60,
+        "lobsters": 18,
+        "tiny helpers": 4,
+        "js13k": 2,
+        "chrome experiments": 17,
+        "awesome lists": 5,
+        "useless web": 5,
+        "indieweb": 12,
+        "neocities": 58,
+        "nekoweb": 1,
+        "tildeverse": 18,
+        "marginalia": 24,
+        "ooh.directory": 3
+      },
+      "candidates": 180,
+      "deep_links": 201,
+      "added": 16,
+      "rechecked": 33,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 16
+    },
+    {
+      "started": "2026-11-03T01:38:37Z",
+      "rejected": {
+        "duplicate": 1,
+        "empty javascript shell": 34,
+        "weak description": 11,
+        "lazy title": 39,
+        "unreachable": 7,
+        "unsafe": 12,
+        "too few words": 20,
+        "unsure category": 16,
+        "parked": 13,
+        "starter template": 2,
+        "login gate": 1,
+        "big platform": 1,
+        "bot challenge": 3,
+        "cookie wall": 1,
+        "link farm": 1,
+        "corporate consulting": 1
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 55,
+        "lobsters": 20,
+        "tiny helpers": 4,
+        "js13k": 2,
+        "chrome experiments": 17,
+        "awesome lists": 5,
+        "useless web": 5,
+        "indieweb": 12,
+        "neocities": 60,
+        "nekoweb": 1,
+        "tildeverse": 18,
+        "marginalia": 27,
+        "ooh.directory": 4
+      },
+      "candidates": 180,
+      "deep_links": 116,
+      "added": 17,
+      "rechecked": 33,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 17
+    },
+    {
+      "started": "2026-11-02T20:01:21Z",
+      "rejected": {
+        "lazy title": 37,
+        "weak description": 7,
+        "empty javascript shell": 44,
+        "too few words": 18,
+        "parked": 7,
+        "unsafe": 11,
+        "unsure category": 18,
+        "starter template": 3,
+        "login gate": 1,
+        "unreachable": 10,
+        "bot challenge": 2,
+        "big platform": 1,
+        "cookie wall": 1,
+        "link farm": 1
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 58,
+        "lobsters": 19,
+        "tiny helpers": 4,
+        "js13k": 2,
+        "chrome experiments": 18,
+        "awesome lists": 5,
+        "useless web": 5,
+        "indieweb": 13,
+        "neocities": 60,
+        "nekoweb": 1,
+        "tildeverse": 18,
+        "marginalia": 27,
+        "ooh.directory": 4
+      },
+      "candidates": 180,
+      "deep_links": 72,
+      "added": 19,
+      "rechecked": 18,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 16
+    },
+    {
+      "started": "2026-11-02T18:29:26Z",
+      "rejected": {
+        "duplicate": 1,
+        "too few words": 25,
+        "parked": 11,
+        "lazy title": 33,
+        "unsafe": 22,
+        "weak description": 16,
+        "empty javascript shell": 46,
+        "unsure category": 9,
+        "starter template": 5,
+        "unreachable": 5
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 60,
+        "lobsters": 20,
+        "tiny helpers": 4,
+        "js13k": 2,
+        "chrome experiments": 18,
+        "awesome lists": 5,
+        "useless web": 5,
+        "indieweb": 12,
+        "neocities": 55,
+        "nekoweb": 1,
+        "tildeverse": 18,
+        "marginalia": 27,
+        "ooh.directory": 4
+      },
+      "candidates": 180,
+      "deep_links": 330,
+      "added": 7,
+      "rechecked": 126,
+      "stale_rechecked": 0,
+      "newly_dead": 8,
+      "flagged": 21,
+      "malware_list": 0,
+      "archive_years": 7
+    },
+    {
+      "started": "2026-11-02T07:43:58Z",
+      "rejected": {
+        "duplicate": 1,
+        "too few words": 33,
+        "lazy title": 28,
+        "unreachable": 9,
+        "empty javascript shell": 53,
+        "unsure category": 10,
+        "parked": 13,
+        "starter template": 1,
+        "weak description": 10,
+        "bot challenge": 2,
+        "login gate": 1,
+        "unsafe": 2,
+        "slow": 1,
+        "link farm": 1
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 56,
+        "lobsters": 16,
+        "neocities": 54,
+        "nekoweb": 1,
+        "tildeverse": 18,
+        "marginalia": 29,
+        "ooh.directory": 3
+      },
+      "candidates": 180,
+      "deep_links": 526,
+      "added": 15,
+      "rechecked": 144,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 15
+    },
+    {
+      "started": "2026-11-02T00:51:50Z",
+      "rejected": {
+        "duplicate": 1,
+        "starter template": 8,
+        "empty javascript shell": 35,
+        "lazy title": 49,
+        "weak description": 19,
+        "unreachable": 8,
+        "too few words": 19,
+        "parked": 11,
+        "unsure category": 15,
+        "login gate": 1,
+        "unsafe": 1,
+        "bot challenge": 1
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 60,
+        "lobsters": 19,
+        "neocities": 57,
+        "nekoweb": 2,
+        "tildeverse": 18,
+        "marginalia": 28,
+        "ooh.directory": 4
+      },
+      "candidates": 180,
+      "deep_links": 276,
+      "added": 12,
+      "rechecked": 144,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 12
+    },
+    {
+      "started": "2026-11-01T21:13:44Z",
+      "rejected": {
+        "duplicate": 1,
+        "lazy title": 37,
+        "parked": 15,
+        "starter template": 6,
+        "unreachable": 12,
+        "weak description": 13,
+        "unsure category": 11,
+        "empty javascript shell": 44,
+        "too few words": 26
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 49,
+        "lobsters": 19,
+        "neocities": 56,
+        "nekoweb": 2,
+        "tildeverse": 18,
+        "marginalia": 28,
+        "ooh.directory": 4
+      },
+      "candidates": 180,
+      "deep_links": 434,
+      "added": 15,
+      "rechecked": 82,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 14
+    },
+    {
+      "started": "2026-11-01T17:09:49Z",
+      "rejected": {
+        "too few words": 31,
+        "parked": 16,
+        "lazy title": 27,
+        "unsure category": 10,
+        "unreachable": 6,
+        "empty javascript shell": 52,
+        "weak description": 14,
+        "starter template": 8,
+        "unsafe": 1
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 52,
+        "lobsters": 19,
+        "neocities": 55,
+        "nekoweb": 1,
+        "tildeverse": 18,
+        "marginalia": 28,
+        "ooh.directory": 3
+      },
+      "candidates": 180,
+      "deep_links": 500,
+      "added": 15,
+      "rechecked": 82,
+      "stale_rechecked": 0,
+      "newly_dead": 4,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 13
+    },
+    {
+      "started": "2026-11-01T10:35:20Z",
+      "rejected": {
+        "too few words": 29,
+        "unreachable": 14,
+        "starter template": 7,
+        "weak description": 9,
+        "unsure category": 14,
+        "lazy title": 37,
+        "empty javascript shell": 43,
+        "parked": 10,
+        "unsafe": 1
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 58,
+        "lobsters": 14,
+        "neocities": 55,
+        "nekoweb": 1,
+        "tildeverse": 18,
+        "marginalia": 27,
+        "ooh.directory": 4
+      },
+      "candidates": 180,
+      "deep_links": 437,
+      "added": 16,
+      "rechecked": 82,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 16
+    },
+    {
+      "started": "2026-11-01T02:18:25Z",
+      "rejected": {
+        "parked": 20,
+        "empty javascript shell": 37,
+        "too few words": 29,
+        "weak description": 24,
+        "lazy title": 31,
+        "unreachable": 7,
+        "unsure category": 7,
+        "starter template": 8,
+        "unsafe": 1
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 58,
+        "lobsters": 16,
+        "neocities": 54,
+        "nekoweb": 2,
+        "tildeverse": 18,
+        "marginalia": 28,
+        "ooh.directory": 3
+      },
+      "candidates": 180,
+      "deep_links": 466,
+      "added": 16,
+      "rechecked": 82,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 16
+    },
+    {
+      "started": "2026-10-31T22:32:56Z",
+      "rejected": {
+        "duplicate": 1,
+        "unsure category": 10,
+        "empty javascript shell": 54,
+        "too few words": 20,
+        "lazy title": 37,
+        "unreachable": 9,
+        "parked": 9,
+        "starter template": 4,
+        "weak description": 7,
+        "login gate": 1
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 59,
+        "lobsters": 16,
+        "neocities": 57,
+        "nekoweb": 1,
+        "tildeverse": 18,
+        "ooh.directory": 4
+      },
+      "candidates": 180,
+      "deep_links": 480,
+      "added": 28,
+      "rechecked": 5,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 20
+    },
+    {
+      "started": "2026-10-31T18:37:11Z",
+      "rejected": {
+        "duplicate": 2,
+        "starter template": 2,
+        "empty javascript shell": 50,
+        "weak description": 9,
+        "lazy title": 37,
+        "parked": 3,
+        "too few words": 20,
+        "unreachable": 12,
+        "unsure category": 16,
+        "login gate": 2,
+        "cookie wall": 1,
+        "bot challenge": 5
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 59,
+        "lobsters": 16,
+        "neocities": 57,
+        "nekoweb": 1,
+        "tildeverse": 18,
+        "marginalia": 28,
+        "ooh.directory": 4
+      },
+      "candidates": 180,
+      "deep_links": 218,
+      "added": 21,
+      "rechecked": 5,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 20
+    },
+    {
+      "started": "2026-10-31T13:41:35Z",
+      "rejected": {
+        "unreachable": 12,
+        "parked": 8,
+        "empty javascript shell": 32,
+        "too few words": 25,
+        "weak description": 12,
+        "lazy title": 51,
+        "starter template": 1,
+        "unsure category": 11,
+        "bot challenge": 4,
+        "login gate": 1,
+        "cookie wall": 1,
+        "link farm": 1
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 57,
+        "lobsters": 16,
+        "neocities": 60,
+        "nekoweb": 1,
+        "tildeverse": 19,
+        "marginalia": 25,
+        "ooh.directory": 4
+      },
+      "candidates": 180,
+      "deep_links": 64,
+      "added": 21,
+      "rechecked": 5,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 18
+    },
+    {
+      "started": "2026-10-31T07:03:40Z",
+      "rejected": {
+        "lazy title": 44,
+        "too few words": 3,
+        "unreachable": 9,
+        "bot challenge": 1,
+        "link farm": 2,
+        "parked": 3,
+        "http 247": 1,
+        "unsure category": 10,
+        "empty javascript shell": 17,
+        "weak description": 4,
+        "login gate": 2
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 131,
+        "lobsters": 15
+      },
+      "candidates": 100,
+      "deep_links": 120,
+      "added": 4,
+      "rechecked": 200,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 6
+    },
+    {
+      "started": "2026-10-31T00:51:49Z",
+      "rejected": {
+        "over run cap": 4,
+        "unreachable": 4,
+        "weak description": 4,
+        "empty javascript shell": 22,
+        "unsure category": 12,
+        "lazy title": 36,
+        "link farm": 1,
+        "parked": 3,
+        "too few words": 2,
+        "bot challenge": 2,
+        "login gate": 2,
+        "http 247": 1,
+        "http 202": 2
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 129,
+        "lobsters": 14
+      },
+      "candidates": 100,
+      "deep_links": 146,
+      "added": 5,
+      "rechecked": 200,
+      "stale_rechecked": 0,
+      "newly_dead": 7,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 19
+    },
+    {
+      "started": "2026-10-30T20:51:27Z",
+      "rejected": {
+        "over run cap": 5,
+        "unreachable": 8,
+        "lazy title": 29,
+        "too few words": 9,
+        "weak description": 3,
+        "unsure category": 8,
+        "empty javascript shell": 16,
+        "parked": 4,
+        "not html": 1,
+        "login gate": 1,
+        "bot challenge": 7,
+        "unsafe": 2,
+        "link farm": 1,
+        "cookie wall": 1
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 123,
+        "lobsters": 12
+      },
+      "candidates": 100,
+      "deep_links": 114,
+      "added": 5,
+      "rechecked": 132,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 20
+    },
+    {
+      "started": "2026-10-30T15:59:05Z",
+      "rejected": {
+        "over run cap": 2,
+        "unreachable": 11,
+        "empty javascript shell": 18,
+        "too few words": 9,
+        "lazy title": 34,
+        "starter template": 1,
+        "http 247": 1,
+        "unsure category": 6,
+        "parked": 4,
+        "bot challenge": 4,
+        "link farm": 1,
+        "weak description": 3,
+        "slow": 1
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 104,
+        "lobsters": 6
+      },
+      "candidates": 100,
+      "deep_links": 121,
+      "added": 5,
+      "rechecked": 132,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 19
+    },
+    {
+      "started": "2026-10-30T08:43:34Z",
+      "rejected": {
+        "parked": 4,
+        "unreachable": 18,
+        "too little content": 13
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 84,
+        "lobsters": 5
+      },
+      "candidates": 100,
+      "deep_links": 109,
+      "added": 65,
+      "rechecked": 80,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 20
+    },
+    {
+      "started": "2026-10-30T01:59:59Z",
+      "rejected": {
+        "parked": 6,
+        "too little content": 18,
+        "unreachable": 12,
+        "unsafe": 1
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 86,
+        "lobsters": 7
+      },
+      "candidates": 100,
+      "deep_links": 103,
+      "added": 63,
+      "rechecked": 80,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 20
+    },
+    {
+      "started": "2026-10-29T21:51:22Z",
+      "rejected": {
+        "too little content": 14,
+        "unsafe": 1,
+        "unreachable": 15,
+        "parked": 3
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 98,
+        "lobsters": 13
+      },
+      "candidates": 100,
+      "deep_links": 76,
+      "added": 67,
+      "rechecked": 0,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 18
+    },
+    {
+      "started": "2026-10-29T20:26:08Z",
+      "rejected": {
+        "parked": 4,
+        "unreachable": 12,
+        "too little content": 11,
+        "unsafe": 1
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 134,
+        "lobsters": 17
+      },
+      "candidates": 100,
+      "deep_links": 0,
+      "added": 72,
+      "rechecked": 0,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 20
+    },
+    {
+      "started": "2026-10-29T20:05:36Z",
+      "rejected": {
+        "too little content": 15,
+        "unreachable": 15,
+        "parked": 5
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 87,
+        "lobsters": 6
+      },
+      "candidates": 100,
+      "deep_links": 180,
+      "added": 65,
+      "rechecked": 200,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 0,
+      "malware_list": 0,
+      "archive_years": 17
+    },
+    {
+      "started": "2026-10-29T16:57:46Z",
+      "rejected": {
+        "unreachable": 11,
+        "too little content": 16,
+        "parked": 2,
+        "unsafe": 1
+      },
+      "duplicates_removed": 0,
+      "sources": {
+        "hacker news": 117,
+        "lobsters": 8
+      },
+      "candidates": 100,
+      "deep_links": 108,
+      "added": 70,
+      "rechecked": 80,
+      "stale_rechecked": 0,
+      "newly_dead": 0,
+      "flagged": 1,
+      "malware_list": 0,
+      "archive_years": 20
+    }
+  ],
+  "reset": "2026-10-26",
+  "candidates_checked": 180,
+  "total_sites": 89,
+  "last_audit": "2026-11-07"
 }

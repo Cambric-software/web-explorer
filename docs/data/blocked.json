@@ -1,0 +1,323 @@
+{
+  "updated": "2026-11-07",
+  "total_blocked": 45,
+  "domains": [
+    "alexisgaming95.neocities.org",
+    "alfy.blog",
+    "arataka.neocities.org",
+    "atlyss.neocities.org",
+    "babycarrot.nekoweb.org",
+    "buntsukim.neocities.org",
+    "caby.neocities.org",
+    "cyadical.neocities.org",
+    "daliwali.neocities.org",
+    "faegardens333.neocities.org",
+    "figurea.neocities.org",
+    "foolsparadise.neocities.org",
+    "grampus.neocities.org",
+    "gremlin.neocities.org",
+    "joxi.neocities.org",
+    "knoxstation.neocities.org",
+    "kunfucutsman.neocities.org",
+    "last.fm",
+    "luigiblood.neocities.org",
+    "merisumu.nekoweb.org",
+    "mgz.me",
+    "mockguffin.neocities.org",
+    "moon-room.neocities.org",
+    "moonflower.nekoweb.org",
+    "nekofetti.neocities.org",
+    "nickychaotix.neocities.org",
+    "nonexistentfandomsfandom.neocities.org",
+    "novaentertainment.neocities.org",
+    "p3p.neocities.org",
+    "patchwork.nekoweb.org",
+    "philia995.neocities.org",
+    "rareoarfishsightings.neocities.org",
+    "rentryresource.neocities.org",
+    "revolution909.neocities.org",
+    "rinberry.neocities.org",
+    "tectrix.neocities.org",
+    "thoughts-and-collections.neocities.org",
+    "tofutush.neocities.org",
+    "toothachesplinter.neocities.org",
+    "vaje.neocities.org",
+    "waxwing.neocities.org",
+    "webri.ng",
+    "wwwdotdeepblueme.neocities.org",
+    "xn--sr8hvo.ws",
+    "zietek.dev"
+  ],
+  "entries": [
+    {
+      "domain": "patchwork.nekoweb.org",
+      "reason": "Subpage vulgarity [porn] on https://patchwork.nekoweb.org/art.html",
+      "url": "https://patchwork.nekoweb.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "atlyss.neocities.org",
+      "reason": "Subpage vulgarity [shit] on https://atlyss.neocities.org/fridge",
+      "url": "https://atlyss.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "mgz.me",
+      "reason": "Subpage vulgarity [shit] on https://mgz.me/about/",
+      "url": "https://mgz.me",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "alfy.blog",
+      "reason": "Diary/Memoir/Stub: [This is my blog where I write about]",
+      "url": "https://alfy.blog",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "xn--sr8hvo.ws",
+      "reason": "Subpage vulgarity [Shitty] on https://xn--sr8hvo.ws/directory",
+      "url": "https://xn--sr8hvo.ws",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "p3p.neocities.org",
+      "reason": "Root vulgarity: [bitch]",
+      "url": "https://p3p.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "daliwali.neocities.org",
+      "reason": "Subpage vulgarity [shit] on https://daliwali.neocities.org/journal/2026.html",
+      "url": "https://daliwali.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "wwwdotdeepblueme.neocities.org",
+      "reason": "Diary/Memoir/Stub: [My personal website! It is about me]",
+      "url": "https://wwwdotdeepblueme.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "tofutush.neocities.org",
+      "reason": "Subpage vulgarity [fuck] on https://tofutush.neocities.org/changelog/",
+      "url": "https://tofutush.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "babycarrot.nekoweb.org",
+      "reason": "Subpage vulgarity [shit] on https://babycarrot.nekoweb.org/blog.html",
+      "url": "https://babycarrot.nekoweb.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "figurea.neocities.org",
+      "reason": "Root vulgarity: [Shit]",
+      "url": "https://figurea.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "moonflower.nekoweb.org",
+      "reason": "Diary/Memoir/Stub: [a girlypop who loves]",
+      "url": "https://moonflower.nekoweb.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "caby.neocities.org",
+      "reason": "Diary/Memoir/Stub: [my fursonas]",
+      "url": "https://caby.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "rentryresource.neocities.org",
+      "reason": "Subpage vulgarity [shit] on https://rentryresource.neocities.org/changelog.html",
+      "url": "https://rentryresource.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "nekofetti.neocities.org",
+      "reason": "Diary/Memoir/Stub: [i am a teenager]",
+      "url": "https://nekofetti.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "luigiblood.neocities.org",
+      "reason": "Subpage vulgarity [shit] on https://luigiblood.neocities.org/blog.html",
+      "url": "https://luigiblood.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "moon-room.neocities.org",
+      "reason": "Subpage vulgarity [faggot] on https://moon-room.neocities.org/wooo_index",
+      "url": "https://moon-room.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "knoxstation.neocities.org",
+      "reason": "Subpage vulgarity [sexual content] on https://knoxstation.neocities.org/spore",
+      "url": "https://knoxstation.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "tectrix.neocities.org",
+      "reason": "Diary/Memoir/Stub: [crazy cat lady]",
+      "url": "https://tectrix.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "rinberry.neocities.org",
+      "reason": "Subpage vulgarity [porn] on https://rinberry.neocities.org/blog.html",
+      "url": "https://rinberry.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "vaje.neocities.org",
+      "reason": "Subpage vulgarity [fucked] on https://vaje.neocities.org/gamething.html",
+      "url": "https://vaje.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "revolution909.neocities.org",
+      "reason": "Subpage vulgarity [shit] on https://revolution909.neocities.org/who_me_landing.html",
+      "url": "https://revolution909.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "mockguffin.neocities.org",
+      "reason": "Subpage vulgarity [fuck] on https://mockguffin.neocities.org/about.html",
+      "url": "https://mockguffin.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "alexisgaming95.neocities.org",
+      "reason": "Subpage vulgarity [shit] on https://alexisgaming95.neocities.org/blog.htm",
+      "url": "https://alexisgaming95.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "grampus.neocities.org",
+      "reason": "Subpage vulgarity [shit] on https://grampus.neocities.org/blog",
+      "url": "https://grampus.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "joxi.neocities.org",
+      "reason": "Diary/Memoir/Stub: [Collect my pages]",
+      "url": "https://joxi.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "cyadical.neocities.org",
+      "reason": "Subpage vulgarity [shit] on https://cyadical.neocities.org/About",
+      "url": "https://cyadical.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "faegardens333.neocities.org",
+      "reason": "Subpage vulgarity [shit] on https://faegardens333.neocities.org/333",
+      "url": "https://faegardens333.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "foolsparadise.neocities.org",
+      "reason": "Diary/Memoir/Stub: [put my button on your site]",
+      "url": "https://foolsparadise.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "toothachesplinter.neocities.org",
+      "reason": "Subpage vulgarity [Shit] on https://toothachesplinter.neocities.org/home.html",
+      "url": "https://toothachesplinter.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "thoughts-and-collections.neocities.org",
+      "reason": "Subpage vulgarity [sexual violence] on https://thoughts-and-collections.neocities.org/books.html",
+      "url": "https://thoughts-and-collections.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "nickychaotix.neocities.org",
+      "reason": "Diary/Memoir/Stub: [Download whichever button you like]",
+      "url": "https://nickychaotix.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "buntsukim.neocities.org",
+      "reason": "Subpage vulgarity [fuck] on https://buntsukim.neocities.org/oldindex",
+      "url": "https://buntsukim.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "rareoarfishsightings.neocities.org",
+      "reason": "Diary/Memoir/Stub: [Updates are currently on pause]",
+      "url": "https://rareoarfishsightings.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "nonexistentfandomsfandom.neocities.org",
+      "reason": "Subpage vulgarity [shit] on https://nonexistentfandomsfandom.neocities.org/mythology/index.html",
+      "url": "https://nonexistentfandomsfandom.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "last.fm",
+      "reason": "Corporate / Platform (last.fm)",
+      "url": "https://last.fm",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "zietek.dev",
+      "reason": "Corporate / Platform (zietek.dev)",
+      "url": "https://zietek.dev",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "webri.ng",
+      "reason": "Subpage vulgarity [sexual content] on https://webri.ng/faq",
+      "url": "https://webri.ng",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "novaentertainment.neocities.org",
+      "reason": "Diary/Memoir/Stub: [moved to Nekoweb]",
+      "url": "https://novaentertainment.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "philia995.neocities.org",
+      "reason": "Diary/Memoir/Stub: [Punish ethel cain creation 9million conspiracy]",
+      "url": "https://philia995.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "gremlin.neocities.org",
+      "reason": "Metadata vulgarity: [sexual content]",
+      "url": "https://gremlin.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "kunfucutsman.neocities.org",
+      "reason": "Subpage vulgarity [NSFW] on https://kunfucutsman.neocities.org/about-me",
+      "url": "https://kunfucutsman.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "waxwing.neocities.org",
+      "reason": "Subpage vulgarity [shit] on https://waxwing.neocities.org/journal.html",
+      "url": "https://waxwing.neocities.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "merisumu.nekoweb.org",
+      "reason": "Diary/Memoir/Stub: [Big momma lost sight of herself]",
+      "url": "https://merisumu.nekoweb.org",
+      "date": "2026-11-07"
+    },
+    {
+      "domain": "arataka.neocities.org",
+      "reason": "Diary/Memoir/Stub: [Cyanide is scamming customers]",
+      "url": "https://arataka.neocities.org",
+      "date": "2026-11-07"
+    }
+  ]
+}
