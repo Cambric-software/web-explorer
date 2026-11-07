@@ -117,3 +117,35 @@ html[data-theme=terminal] .tag{border-style:dashed;border-radius:0}
 .sb-blocked-actions{display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin-top:8px}
 .sb-blocked-actions .big{text-decoration:none;padding:10px 20px;font-size:1rem}
 .sb-fallback-btn{font-size:0.8rem;opacity:0.85;cursor:pointer}
+
+
+/* --- Resilient Multi-Tier Screenshot & Card Fallback Styling --- */
+.thumb {
+  background: var(--card);
+  background-image: linear-gradient(90deg, rgba(255,255,255,0.02) 0%, rgba(255,255,255,0.06) 50%, rgba(255,255,255,0.02) 100%);
+  background-size: 200% 100%;
+  animation: thumb-shimmer 2.2s infinite linear;
+}
+@keyframes thumb-shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+.thumb.loaded {
+  animation: none;
+  background: var(--card);
+}
+.thumb img {
+  opacity: 0;
+  transition: opacity 0.25s ease-in-out;
+}
+.thumb.loaded img {
+  opacity: 1;
+}
+.thumb.is-fallback img {
+  opacity: 1;
+  filter: contrast(1.05);
+  image-rendering: -webkit-optimize-contrast;
+}
+@media (prefers-reduced-motion: reduce) {
+  .thumb { animation: none !important; }
+}

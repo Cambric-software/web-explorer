@@ -9,8 +9,115 @@ function date(d){if(!d)return 'Unknown';const v=new Date(d);return Number.isNaN(
 function archive(s){const y=window.WARP&&Number(s.first_seen)<=window.WARP?window.WARP:(s.first_seen||'0');return 'https://web.archive.org/web/'+y+'/'+s.url}
 function card(s){const u=C.safeUrl(s.url);if(!u)return '';const dead=s.status==='dead',f=favs.includes(s.url),v=votes[s.url]||0;
 return `<article class="site" data-url="${esc(s.url)}">${settings.pictures?`<div class="thumb"><img src="${esc(s.screenshot||"screenshots/"+s.screenshot_file)}" alt="Screenshot of ${esc(s.title)}" loading="lazy" referrerpolicy="no-referrer"><div class="fallback">${esc(dom(s.url))} · Preview unavailable</div></div>`:''}<div class="site-body"><div class="badges"><span class="tag">${esc(s.category)}</span>${(s.vibes||[]).filter(v=>v.toLowerCase()!==String(s.category).toLowerCase()).map(v=>`<span class="vibe">${esc(v)}</span>`).join('')}${(s.tech||[]).slice(0,3).map(t=>`<span class="tech">${esc(t)}</span>`).join('')}</div><h3>${esc(s.title)}</h3><div class="dom">${esc(dom(s.url))}</div><p>${esc(s.description)||'No description available.'}</p><div class="meta"><span title="Earliest recorded Internet Archive snapshot; not a confirmed launch date">${s.first_seen?'First archived '+esc(s.first_seen):'Archive year unknown'}</span><span>Checked ${date(s.checked)}</span><span>${esc(s.lang==='?'?'Unknown language':s.lang)}</span></div><div class="acts">${dead?'':`<a class="visit" href="${esc(u)}" target="_blank" rel="noopener noreferrer">Visit ↗</a>`}<button data-act="stumble" data-u="${esc(s.url)}" title="Preview here in the Stumble Bar" aria-label="Preview here">▣</button><a class="btn" href="${esc(archive(s))}" target="_blank" rel="noopener noreferrer" title="First archived copy" aria-label="First archived copy">◷</a>${dead?'':`<button data-act="up" data-u="${esc(s.url)}" class="${v===1?'on':''}" aria-label="Like" title="Like (+1)" aria-pressed="${v===1}">👍</button><button data-act="gem" data-u="${esc(s.url)}" class="${v===3?'on':''}" aria-label="Hidden gem" title="Hidden gem (+3)" aria-pressed="${v===3}">♥</button><button data-act="down" data-u="${esc(s.url)}" class="${v===-1?'on':''}" aria-label="Dislike" title="Dislike (−1)" aria-pressed="${v===-1}">👎</button><button data-act="fav" data-u="${esc(s.url)}" class="${f?'on':''}" aria-label="${f?'Remove favorite':'Save favorite'}" title="Favorite (+5)" aria-pressed="${f}">${f?'★':'☆'}</button><button data-act="list" data-u="${esc(s.url)}" aria-label="Add to list" title="Add to list">＋</button>`}</div></div></article>`}
-document.addEventListener('load',e=>{if(e.target instanceof HTMLImageElement)e.target.closest('.thumb')?.classList.add('loaded')},true);
-document.addEventListener('error',e=>{if(e.target instanceof HTMLImageElement)e.target.closest('.thumb')?.classList.add('failed')},true);
+
+// ---- Multi-Tier Screenshot Fallback Engine
+function generateRetroCardSvg(title, domain, category, vibes) {
+  const palettes = {
+    games: ['#ff007a', '#7928ca', '#120726'],
+    play: ['#ff007a', '#7928ca', '#120726'],
+    toys: ['#00dfd8', '#0070f3', '#051329'],
+    retro: ['#f5a623', '#d0021b', '#1f1003'],
+    weird: ['#f5a623', '#d0021b', '#1f1003'],
+    art: ['#7928ca', '#00dfd8', '#0f0c1b'],
+    creative: ['#7928ca', '#00dfd8', '#0f0c1b'],
+    reading: ['#10b981', '#059669', '#061a12'],
+    tools: ['#3b82f6', '#1d4ed8', '#0a1128'],
+    community: ['#ec4899', '#8b5cf6', '#1a0826']
+  };
+  const [c1, c2, bg] = palettes[(category || '').toLowerCase()] || ['#6366f1', '#a855f7', '#090d16'];
+  const cleanTitle = (title || 'Indie Web Portal').replace(/[<>&"]/g, '').slice(0, 32);
+  const cleanDom = (domain || '').replace(/[<>&"]/g, '').slice(0, 36);
+  const cleanVibes = (vibes || 'authentic web artifact').replace(/[<>&"]/g, '').slice(0, 42);
+  const cleanCat = (category || 'discovery').replace(/[<>&"]/g, '').slice(0, 20).toUpperCase();
+
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="${bg}"/>
+      <stop offset="100%" stop-color="#05070a"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="${c1}"/>
+      <stop offset="100%" stop-color="${c2}"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+    </pattern>
+    <pattern id="lines" width="100%" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="100%" y2="0" stroke="rgba(0,0,0,0.3)" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <rect width="800" height="500" fill="url(#grid)"/>
+  <rect width="800" height="500" fill="url(#lines)"/>
+  <rect x="24" y="24" width="752" height="452" rx="10" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1.5"/>
+  <path d="M 24 34 Q 24 24 34 24 L 766 24 Q 776 24 776 34 L 776 66 L 24 66 Z" fill="rgba(255,255,255,0.08)"/>
+  <line x1="24" y1="66" x2="776" y2="66" stroke="rgba(255,255,255,0.15)" stroke-width="1.5"/>
+  <circle cx="50" cy="45" r="5" fill="#ef4444"/>
+  <circle cx="68" cy="45" r="5" fill="#f59e0b"/>
+  <circle cx="86" cy="45" r="5" fill="#10b981"/>
+  <text x="110" y="50" fill="rgba(255,255,255,0.7)" font-family="'Space Grotesk',monospace" font-size="13" font-weight="600">⚡ ${cleanDom}</text>
+  <text x="750" y="50" text-anchor="end" fill="rgba(255,255,255,0.4)" font-family="monospace" font-size="11">[INDIE ARCHIVE]</text>
+  <g transform="translate(400, 240)">
+    <rect x="-170" y="-120" width="340" height="28" rx="14" fill="rgba(255,255,255,0.1)" stroke="${c1}" stroke-width="1"/>
+    <text x="0" y="-101" text-anchor="middle" fill="${c1}" font-family="'Space Grotesk',sans-serif" font-size="11" font-weight="700" letter-spacing="3">${cleanCat}</text>
+    <text x="0" y="-20" text-anchor="middle" fill="url(#glow)" font-family="'Space Grotesk',sans-serif" font-size="30" font-weight="700">${cleanTitle}</text>
+    <text x="0" y="25" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-family="'DM Sans',sans-serif" font-size="14" letter-spacing="1">${cleanVibes}</text>
+    <rect x="-130" y="70" width="260" height="26" rx="4" fill="rgba(0,0,0,0.45)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <text x="0" y="87" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="monospace" font-size="10" letter-spacing="1.5">AUTHENTIC WEB ARTIFACT █</text>
+  </g>
+</svg>`;
+  return 'data:image/svg+xml;utf8,' + encodeURIComponent(svg);
+}
+
+function handleImageFallback(img) {
+  const thumb = img.closest('.thumb') || img.closest('.sb-blocked-card') || img.parentElement;
+  const url = img.dataset.url || '';
+  const tier = parseInt(img.dataset.tier || '1', 10);
+
+  // Tier 2: OpenGraph image
+  if (tier === 1) {
+    const og = img.dataset.og;
+    if (og && og.startsWith('http') && og !== img.src) {
+      img.dataset.tier = '2';
+      img.src = og;
+      return;
+    }
+  }
+
+  // Tier 3: Live edge proxy
+  if (tier <= 2) {
+    if (url && !img.src.includes('wordpress.com/mshots') && !img.src.includes('wp.com/mshots')) {
+      img.dataset.tier = '3';
+      img.src = `https://s0.wp.com/mshots/v1/${encodeURIComponent(url)}?w=720`;
+      return;
+    }
+  }
+
+  // Tier 4: Generative Indie Retro SVG Card
+  img.dataset.tier = '4';
+  img.src = generateRetroCardSvg(img.dataset.title, dom(url), img.dataset.cat, img.dataset.vibes);
+  if (thumb) {
+    thumb.classList.remove('failed');
+    thumb.classList.add('loaded', 'is-fallback');
+  }
+}
+
+document.addEventListener('load', e => {
+  if (e.target instanceof HTMLImageElement) {
+    const thumb = e.target.closest('.thumb') || e.target.closest('.sb-blocked-card');
+    if (thumb) thumb.classList.add('loaded');
+  }
+}, true);
+
+document.addEventListener('error', e => {
+  if (e.target instanceof HTMLImageElement && (e.target.dataset.url || e.target.closest('.thumb') || e.target.id === 'sb-blocked-img')) {
+    handleImageFallback(e.target);
+  } else if (e.target instanceof HTMLImageElement) {
+    e.target.closest('.thumb')?.classList.add('failed');
+  }
+}, true);
+
 function filters(extra={}){return {...extra,excluded:settings.excluded,hideDisliked:settings.hideDisliked,votes,lang:extra.lang??settings.language,warp:window.WARP||0}}
 function updateRank(){const n=new Set(history).size,r=C.rank(n);$('#rank-name').textContent=r.name;$('#rank-count').textContent=r.next?`${n} explored · ${r.next-n} to next rank`:`${n} explored`;$('#rank-progress').value=r.progress}
 // ---- Taste engine: 16-number site fingerprints matched against a long-term and a session taste profile (private, stays in this browser).
@@ -76,8 +183,15 @@ function showBlockedPortal(s,u){
   if(d)d.textContent=s.description||'This website restricts in-page frames (X-Frame-Options / CSP). Launch it in a full tab for complete canvas, audio and navigation.';
   $('#sb-blocked-open').href=u;
   if(img){
-    if(s.screenshot_file){img.src='screenshots/'+s.screenshot_file;img.hidden=false}
-    else img.hidden=true;
+    img.hidden = false;
+    img.dataset.url = s.url;
+    img.dataset.title = s.title;
+    img.dataset.cat = s.category;
+    img.dataset.vibes = (s.vibes || []).slice(0, 3).join(' · ');
+    if (s.og_image) img.dataset.og = s.og_image;
+    img.dataset.tier = '1';
+    img.src = s.screenshot || (s.screenshot_file ? 'screenshots/' + s.screenshot_file : '');
+    if (!img.src) handleImageFallback(img);
   }
 }
 
