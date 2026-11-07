@@ -21,6 +21,13 @@ from html.parser import HTMLParser
 from concurrent.futures import ThreadPoolExecutor
 
 DB = "docs/data/sites.json"; STATS = "docs/data/stats.json"
+
+# Permanent domain blocklist loaded from docs/data/blocked.json
+BLOCKED_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "docs", "data", "blocked.json")
+try:
+    BLOCKED_DOMAINS = set(json.load(open(BLOCKED_PATH, "r", encoding="utf-8"))) if os.path.exists(BLOCKED_PATH) else set()
+except Exception:
+    BLOCKED_DOMAINS = set()
 UA = {"User-Agent": "Mozilla/5.0 (compatible; WebsiteExplorerBot/3.0; +https://cambric-software.github.io/web-explorer/)",
       "Accept": "text/html,application/xhtml+xml", "Accept-Language": "en;q=0.9,*;q=0.5"}
 TODAY = datetime.date.today().isoformat()
@@ -157,6 +164,7 @@ PLATFORM_ROOTS = {"wordpress.com","neocities.org","github.io","bearblog.dev","bl
 def allowed(u):
     h = host(u)
     if not h or h in PLATFORM_ROOTS: return False
+    if BLOCKED_DOMAINS and (h in BLOCKED_DOMAINS or key(u) in BLOCKED_DOMAINS): return False
     if h.endswith(BAD_TLDS) or ".gov." in h or ".mil." in h: return False
     if any(h == b or h.endswith("." + b) and b not in ("bearblog.dev",) for b in BIG): return False
     if h in ("phys.org", "johndcook.com"): return False
@@ -607,6 +615,29 @@ def compute_vector(title="", desc="", cat="", vibes=(), tech=(), url="", words=1
     d[15] = 0.85 if cat in ("Tools", "Games", "Art", "Retro", "Education") else (0.45 if cat == "News" else 0.7)
     return [round(max(0.0, min(1.0, x)), 3) for x in d]
 
+def deep_check_subpages(base_url, anchors):
+    """Scan 2-3 internal subpages (about, blog, rants, diary) for profanity or vulgarity."""
+    h = host(base_url)
+    targets = []
+    for a, t in anchors:
+        if not a or not a.startswith("http"): continue
+        if host(a) == h and a.rstrip("/") != base_url.rstrip("/"):
+            path = urllib.parse.urlparse(a).path.lower()
+            if any(term in path for term in ("about", "blog", "rant", "journal", "post", "diary", "story", "me")):
+                targets.append(a)
+    targets = list(dict.fromkeys(targets))[:3]
+    for sub in targets:
+        try:
+            status, final_sub, sub_body, _ = get(sub, timeout=5, limit=500_000)
+            if status < 400 and sub_body:
+                sub_p = Parser(sub_body)
+                sub_vis = " ".join(sub_p.words[:1500])
+                if unsafe_text(sub_p.title, sub_vis):
+                    return True
+        except Exception:
+            pass
+    return False
+
 def verify(url, strict=True):
     """Run every check. Returns details for a working website, or None with a reason.
     strict=True (new candidates): every quality gate must pass. strict=False (re-checks of stored
@@ -639,6 +670,7 @@ def verify(url, strict=True):
     play = strict and playful(p, html, title, h)
     if strict and not (good_description(desc) or (play and play_description(desc))): return None, "weak description"
     if unsafe_text(desc): return None, "unsafe"
+    if deep_check_subpages(final, p.anchors): return None, "unsafe subpage"
     body = " ".join(p.heads + p.paras)
     if strict:
         sc = strict_category(title, desc, p.heads, body, h)
@@ -677,17 +709,19 @@ def sources(known):
         if n and allowed(n) and key(n) not in known and key(n) not in found: found[key(n)] = (n, src)
     for q in ["show_hn", "front_page", "story"]:
         try:
-            b = get(f"https://hn.algolia.com/api/v1/search_by_date?tags={q}&hitsPerPage=30", limit=3_000_000)[2]
+            b = get(f"https://hn.algolia.com/api/v1/search_by_date?tags={q}&hitsPerPage=10", limit=3_000_000)[2]
             for x in json.loads(b)["hits"]: add(x.get("url"), "hacker news")
         except Exception as e: print("hn", e)
     try:
         for x in json.loads(get("https://lobste.rs/newest.json", limit=3_000_000)[2]): add(x.get("url"), "lobsters")
     except Exception as e: print("lobsters", e)
-    # Tools, games and creative experiments (balance the indie-homepage feeds)
+    # Tools, games and creative experiments (Target: 90% of discoveries)
     for url, src in [("https://tiny-helpers.dev/", "tiny helpers"), ("https://js13kgames.com/2024/games", "js13k"),
                      ("https://experiments.withgoogle.com/collection/chrome", "chrome experiments"),
                      ("https://github.com/sindresorhus/awesome/raw/main/readme.md", "awesome lists"),
-                     ("https://theuselessweb.com/", "useless web"), ("https://indieweb.org/IndieWeb_Examples", "indieweb")]:
+                     ("https://theuselessweb.com/", "useless web"), ("https://pico-8-edu.com/", "pico-8"),
+                     ("https://itch.io/games/free/web", "itch.io web"),
+                     ("https://indieweb.org/IndieWeb_Examples", "indieweb")]:
         try:
             body = get(url, limit=3_000_000)[2]
             for m in re.findall(r"https?://[a-z0-9.-]+\.[a-z]{2,}(?:/[^\s\"'<>)]*)?", body)[:150]: add(m, src)
@@ -700,7 +734,6 @@ def sources(known):
         ("https://nekoweb.org/explore?sort=followers", r'href="(https?://[a-z0-9-]+\.nekoweb\.org)/?"', "nekoweb"),
         ("https://tildeverse.org/members/", r'href="(https?://[^"\s]+)"', "tildeverse"),
         ("https://search.marginalia.nu/explore/random", r'href="(https?://[^"\s]+)"', "marginalia"),
-        ("https://ooh.directory/random/", r'href="(https?://[^"\s]+)"', "ooh.directory"),
     ]:
         try:
             b = get(url, limit=2_000_000)[2]
@@ -709,10 +742,7 @@ def sources(known):
     for _ in range(20):  # Wiby's "surprise me" redirects to a random small-web site
         try: add(get("https://wiby.me/surprise/", timeout=6, limit=2000)[1], "wiby")
         except Exception: pass
-    try:
-        b = get("https://bearblog.dev/discover/", limit=1_000_000)[2]
-        for u in re.findall(r'href="(https?://[a-z0-9.-]+\.bearblog\.dev)/?"', b): add(u, "bear blog")
-    except Exception as e: print("bear", e)
+    # bearblog discovery removed (hard blog quota in effect)
     try:  # visitor submissions: GitHub issues labelled "submit"
         repo = os.environ.get("GITHUB_REPOSITORY"); tok = os.environ.get("GITHUB_TOKEN")
         if repo and tok:
@@ -809,6 +839,25 @@ def days_since(d):
 def count(log, why): log["rejected"][why] = log["rejected"].get(why, 0) + 1
 
 def main():
+    try:
+        cfg_p = os.path.join(os.path.dirname(DB), "bot-config.json")
+        if os.path.exists(cfg_p):
+            cfg = json.load(open(cfg_p, "r", encoding="utf-8"))
+            if cfg.get("paused", False):
+                print("[BOT PAUSED] Crawler is paused in bot-config.json. Exiting.")
+                return
+            interval = cfg.get("interval_hours", 1)
+            st_chk = json.load(open(STATS, "r", encoding="utf-8")) if os.path.exists(STATS) else {}
+            last_run = st_chk.get("last_run")
+            if last_run and interval > 1:
+                last_dt = datetime.datetime.fromisoformat(last_run.replace("Z", "+00:00"))
+                now_dt = datetime.datetime.now(datetime.timezone.utc)
+                diff_h = (now_dt - last_dt).total_seconds() / 3600.0
+                if diff_h < (interval - 0.1):
+                    print(f"[BOT INTERVAL] Run skipped: {diff_h:.1f}h elapsed < {interval}h interval.")
+                    return
+    except Exception as e:
+        print("[BOT CONFIG WARNING]", e)
     db = json.load(open(DB)); st = json.load(open(STATS))
     log = {"started": datetime.datetime.now(datetime.UTC).strftime("%Y-%m-%dT%H:%M:%SZ"), "rejected": {}}
     before = len(db["sites"]); sites = dedupe(db["sites"]); log["duplicates_removed"] = before - len(sites)
@@ -838,11 +887,18 @@ def main():
     with ThreadPoolExecutor(12) as ex: results = list(ex.map(lambda c: safe_verify(c[0]) if key(c[0]) not in bad_hosts else (None, "malware list"), cand))
     added = 0
     ranked = sorted(zip(cand, results), key=lambda x: -(x[1][0]["confidence"] + priority(x[0][0]) / 10 if x[1][0] else -1))
+    blog_added = 0
     for (u, src), (r, why) in ranked:
         if not r: count(log, why); continue
         if added >= MAX_NEW: count(log, "over run cap"); continue
         if any(a in known for a in r["aliases"]) or (r["fingerprint"] and r["fingerprint"] in fps) or key(r["url"]) in bad_hosts:
             count(log, "duplicate"); continue
+        if BLOCKED_DOMAINS and (host(r["url"]) in BLOCKED_DOMAINS or key(r["url"]) in BLOCKED_DOMAINS):
+            count(log, "blocked domain"); continue
+        is_blog = r.get("category") in ("Writing", "Personal") or "blog" in r.get("vibes", [])
+        if is_blog and blog_added >= 1:
+            count(log, "blog quota exceeded"); continue
+        if is_blog: blog_added += 1
         known.update(r["aliases"]); fps.add(r["fingerprint"]); added += 1
         s = {"url": r["url"], "source": src, "status": "ok", "review": "unreviewed", "added": TODAY, "checked": TODAY,
              "fails": 0, "aliases": r["aliases"]}
