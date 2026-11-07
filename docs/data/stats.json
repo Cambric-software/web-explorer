@@ -1,17 +1,17 @@
 {
- "total": 118,
+ "total": 130,
  "dead": 4,
  "flagged": 0,
- "runs": 43,
- "last_run": "2026-11-07T00:05:49Z",
- "found_last_run": 9,
+ "runs": 44,
+ "last_run": "2026-11-07T05:54:08Z",
+ "found_last_run": 12,
  "beta": true,
  "categories": {
   "Tools": 2,
   "Games": 6,
   "Developer": 7,
   "Art": 7,
-  "Retro": 61,
+  "Retro": 73,
   "Writing": 1,
   "Personal": 26,
   "Communities": 4,
@@ -234,9 +234,39 @@
    "date": "2026-11-07",
    "added": 9,
    "total": 118
+  },
+  {
+   "date": "2026-11-07",
+   "added": 12,
+   "total": 130
   }
  ],
  "runs_log": [
+  {
+   "started": "2026-11-07T05:54:08Z",
+   "rejected": {
+    "empty javascript shell": 33,
+    "lazy title": 29,
+    "unsafe": 28,
+    "too few words": 27,
+    "weak description": 14,
+    "unreachable": 12,
+    "parked": 14,
+    "unsure category": 5,
+    "starter template": 6
+   },
+   "duplicates_removed": 0,
+   "sources": {},
+   "candidates": 180,
+   "deep_links": 691,
+   "added": 12,
+   "rechecked": 113,
+   "stale_rechecked": 0,
+   "newly_dead": 0,
+   "flagged": 0,
+   "malware_list": 0,
+   "archive_years": 11
+  },
   {
    "started": "2026-11-07T00:05:49Z",
    "rejected": {
@@ -1181,29 +1211,6 @@
    "flagged": 1,
    "malware_list": 0,
    "archive_years": 20
-  },
-  {
-   "started": "2026-10-29T10:06:54Z",
-   "rejected": {
-    "too little content": 21,
-    "unreachable": 19,
-    "duplicate": 2,
-    "parked": 2
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 77,
-    "lobsters": 2
-   },
-   "candidates": 100,
-   "deep_links": 102,
-   "added": 56,
-   "rechecked": 80,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 19
   }
  ],
  "reset": "2026-10-26",
