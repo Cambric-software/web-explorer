@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#140f24"/>
+      <stop offset="100%" stop-color="#07040a"/>
+    </linearGradient>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <rect width="100%" height="100%" fill="url(#g)"/>
+  <rect x="30" y="30" width="740" height="440" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1" rx="8"/>
+  <text x="60" y="100" fill="#facc15" font-family="monospace" font-size="18" font-weight="bold" letter-spacing="3">GAMES PORTAL</text>
+  <text x="60" y="210" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="42" font-weight="800">Cookie Clicker</text>
+  <text x="60" y="260" fill="#94a3b8" font-family="monospace" font-size="20">orteil.dashnet.org</text>
+  <rect x="60" y="300" width="220" height="32" rx="4" fill="rgba(255,255,255,0.08)"/>
+  <text x="75" y="322" fill="#38bdf8" font-family="monospace" font-size="12" font-weight="bold" letter-spacing="1">PLAYFUL · RETRO</text>
+  <text x="60" y="420" fill="rgba(255,255,255,0.3)" font-family="monospace" font-size="12">WEB EXPLORER VERIFIED ARCHIVE</text>
+</svg>
