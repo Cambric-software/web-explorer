@@ -10,7 +10,9 @@
 .queue{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:1rem}
 .mod{position:relative;border:1px solid #2a2c25;border-radius:14px;overflow:hidden;background:#15160f;display:flex;flex-direction:column}
 .mod.verified{border-color:#c6ff3d66}.mod.flagged{border-color:#ff6b5c99}.mod.sel{outline:2px solid #c6ff3d}.mod.dead{opacity:.5}
+.mod.brick{border-color:#ffd15c99;box-shadow:0 0 10px #ffd15c22}
 .mod .pick{position:absolute;top:.5rem;left:.5rem;z-index:2;background:#0e0f0ccc;border-radius:8px;padding:.3rem}.mod .pick input{width:1.1rem;height:1.1rem;accent-color:#c6ff3d}
+.mod .brick-badge{position:absolute;top:.5rem;right:.5rem;z-index:2;background:#ffd15ccc;color:#0e0f0c;border-radius:6px;padding:2px 7px;font:700 .75rem "Space Grotesk";letter-spacing:.5px}
 .mod .shot{display:block;aspect-ratio:16/9;background:#0e0f0c;position:relative;color:#ecead8;text-decoration:none}
 .mod .shot img{width:100%;height:100%;object-fit:cover;object-position:top;display:block}
 .mod .shot span{position:absolute;left:0;right:0;bottom:0;padding:.4rem .6rem;font-size:.8rem;background:linear-gradient(transparent,#0e0f0cee)}
@@ -18,8 +20,11 @@
 .mod .line{display:flex;gap:.4rem;flex-wrap:wrap;align-items:center}.mod .line select{flex:1}
 .mod .flags button{font-size:.8rem;padding:6px 9px}.mod .flags button.on{background:#c6ff3d;color:#0e0f0c;border-color:#c6ff3d}
 .mod.flagged .flags button.on[data-rev=flagged]{background:#ff6b5c;border-color:#ff6b5c}
-.danger{border-color:#ff6b5c66!important}
+.btn-brick{background:#ffd15c1a!important;border-color:#ffd15c66!important;color:#ffd15c!important}
+.btn-brick.on{background:#ffd15c!important;color:#0e0f0c!important;border-color:#ffd15c!important}
+.danger{border-color:#ff6b5c66!important;color:#ff6b5c!important}
 #batch{position:sticky;top:0;z-index:5;background:#0e0f0cf2;border:1px solid #c6ff3d;border-radius:12px;padding:.6rem}
+.bot-bar{background:#1a1b14;border:1px solid #2a2c25;border-radius:12px;padding:.8rem 1rem;margin:.8rem 0;display:flex;gap:.8rem;align-items:center;flex-wrap:wrap}
 </style></head><body><main class="adm">
 <h1>Control room</h1>
 <section id="login"><p class="muted">Private area. Enter the control room password.</p>
@@ -28,19 +33,39 @@
 <p id="login-msg" role="status"></p></section>
 <section id="panel" hidden>
 <p id="who" class="muted"></p><div id="kpis" class="kpis"></div>
-<div class="row"><button id="run">▶ Run the robot now</button><button id="save" disabled>✓ Save changes (0)</button><button id="wipe">🗑 Delete all websites</button><button id="logout">Lock</button></div>
+
+<div id="bot-ctrl" class="bot-bar">
+  <b>🤖 Robot Schedule:</b>
+  <span id="bot-status-pill" class="pill" style="font-weight:700">Checking…</span>
+  <button id="bot-toggle" type="button" style="padding:4px 10px">Pause Robot</button>
+  <label style="display:flex;align-items:center;gap:.4rem">Run every:
+    <select id="bot-interval" style="width:auto;min-width:100px;padding:4px">
+      <option value="1">1 hour</option>
+      <option value="2">2 hours</option>
+      <option value="4">4 hours</option>
+      <option value="8">8 hours</option>
+      <option value="12">12 hours</option>
+      <option value="24">24 hours</option>
+    </select>
+  </label>
+  <button id="bot-save" type="button" style="padding:4px 10px">Save Schedule</button>
+  <span id="bot-msg" class="pill muted"></span>
+</div>
+
+<div class="row"><button id="run">▶ Run the robot now</button><button id="save" disabled>✓ Save changes (0)</button><button id="wipe">🗑 Delete all non-brick websites</button><button id="logout">Lock</button></div>
 <p id="msg" role="status" class="muted"></p>
 <details><summary>Recent robot runs</summary><div id="runs" class="muted"></div></details>
 <details><summary>Add a website by hand</summary><form id="add" class="row"><input id="add-url" type="url" placeholder="https://…" required style="flex:2"><input id="add-title" placeholder="Name"><select id="add-cat"></select><button type="submit">＋ Add</button></form></details>
 <h2>Moderation queue</h2>
 <div class="row"><input id="filter" type="search" placeholder="Search name, address or description" style="flex:2">
 <select id="freview"><option value="unreviewed">Unreviewed</option><option value="verified">Verified safe</option><option value="flagged">Flagged</option><option value="locked">Hand-checked 🔒</option><option value="">Everything</option></select>
+<select id="fbrick"><option value="">All (Brick &amp; Normal)</option><option value="brick">🧱 Brick Only (Immune)</option><option value="unbrick">Normal Only</option></select>
 <select id="fcat"><option value="">All categories</option></select>
 <select id="fstatus"><option value="">Any status</option><option>ok</option><option>warn</option><option>dead</option></select>
 <select id="fsort"><option value="new">Newest first</option><option value="unsure">Least sure category first</option><option value="old">Oldest first</option></select>
 <label class="check"><input type="checkbox" id="funsure" style="width:auto"> Unsure category only</label></div>
 <div class="row"><p id="count" class="muted" style="margin:0;flex:1"></p><button id="pickall">Select all shown</button></div>
-<div id="batch" class="row" hidden><b id="bcount"></b><button data-b="verified">✓ Approve</button><button data-b="flagged">⚑ Flag</button><button data-b="unreviewed">Back to unreviewed</button><button data-b="lock">🔒 Lock</button><button data-b="unlock">🔓 Unlock</button><button data-b="del" class="danger">Delete</button><button data-b="none">Clear selection</button></div>
+<div id="batch" class="row" hidden><b id="bcount"></b><button data-b="verified">✓ Approve</button><button data-b="flagged">⚑ Flag</button><button data-b="unreviewed">Back to unreviewed</button><button data-b="lock">🔒 Lock</button><button data-b="unlock">🔓 Unlock</button><button data-b="brick" class="btn-brick">🧱 Brick</button><button data-b="unbrick">Unbrick</button><button data-b="del" class="danger">Delete</button><button data-b="block" class="danger">🚫 Block Domain</button><button data-b="none">Clear selection</button></div>
 <div id="rows" class="queue"></div><div class="row"><button id="more" hidden>Show more ↓</button></div>
-<p class="muted">Every change you make marks a website as hand-checked 🔒 — the robot will never change its name, description, category, flag or status again. Flagged websites are hidden from visitors.</p>
+<p class="muted">Every change you make marks a website as hand-checked 🔒 — the robot will never change its name, description, category, flag or status again. Bricked 🧱 websites are completely immune to mass deletion. Blocked 🚫 domains are deleted and permanently blacklisted from ever entering the catalog again.</p>
 </section></main><script src="admin.js"></script></body></html>

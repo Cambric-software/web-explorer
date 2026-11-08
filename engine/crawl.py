@@ -25,7 +25,18 @@ DB = "docs/data/sites.json"; STATS = "docs/data/stats.json"
 # Permanent domain blocklist loaded from docs/data/blocked.json
 BLOCKED_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "docs", "data", "blocked.json")
 try:
-    BLOCKED_DOMAINS = set(json.load(open(BLOCKED_PATH, "r", encoding="utf-8"))) if os.path.exists(BLOCKED_PATH) else set()
+    if os.path.exists(BLOCKED_PATH):
+        _raw_b = json.load(open(BLOCKED_PATH, "r", encoding="utf-8"))
+        if isinstance(_raw_b, dict) and "domains" in _raw_b:
+            BLOCKED_DOMAINS = set(_raw_b["domains"])
+        elif isinstance(_raw_b, list):
+            BLOCKED_DOMAINS = set(_raw_b)
+        elif isinstance(_raw_b, dict):
+            BLOCKED_DOMAINS = set(_raw_b.keys())
+        else:
+            BLOCKED_DOMAINS = set()
+    else:
+        BLOCKED_DOMAINS = set()
 except Exception:
     BLOCKED_DOMAINS = set()
 UA = {"User-Agent": "Mozilla/5.0 (compatible; WebsiteExplorerBot/3.0; +https://cambric-software.github.io/web-explorer/)",
