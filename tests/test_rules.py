@@ -262,3 +262,18 @@ class AISlopShield(unittest.TestCase):
         html = "<title>My Canvas Synth</title><canvas id='c'></canvas><p>A musical web toy game experiment.</p>"
         p = page(html)
         self.assertEqual(crawl.ai_slop_reason(p, html, "My Canvas Synth", "synth.com"), "")
+
+class FeedDetector(unittest.TestCase):
+    def test_finds_rss_feed_in_head(self):
+        html = '<head><link rel="alternate" type="application/rss+xml" title="Feed" href="/rss.xml"></head>'
+        feed_url = crawl.find_feed_link("https://example.com", html)
+        self.assertEqual(feed_url, "https://example.com/rss.xml")
+
+    def test_finds_atom_feed_in_head(self):
+        html = '<head><link rel="alternate" type="application/atom+xml" href="https://example.com/atom.xml"></head>'
+        feed_url = crawl.find_feed_link("https://example.com", html)
+        self.assertEqual(feed_url, "https://example.com/atom.xml")
+
+    def test_parses_feed_pubdate_and_iso(self):
+        self.assertEqual(crawl.parse_feed_date("Mon, 02 Nov 2026 14:00:00 GMT"), "2026-11-02")
+        self.assertEqual(crawl.parse_feed_date("2026-10-15T12:00:00Z"), "2026-10-15")

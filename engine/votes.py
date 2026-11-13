@@ -61,24 +61,19 @@ def cloud_votes(known):
     return ledger
 
 def main():
-    repo = os.environ.get("GITHUB_REPOSITORY"); tok = os.environ.get("GITHUB_TOKEN")
-    sites = json.loads(Path("docs/data/sites.json").read_text())["sites"]
+    raw_sites = json.loads(Path("docs/data/sites.json").read_text(encoding="utf-8"))
+    sites = raw_sites.get("sites", raw_sites) if isinstance(raw_sites, dict) else raw_sites
     known = {canon(s["url"]): s["url"] for s in sites}
-    issues = []
-    if repo and tok:
-        for page in range(1, 11):
-            r = urllib.request.Request(f"https://api.github.com/repos/{repo}/issues?state=all&per_page=100&page={page}",
-                                       headers={"Authorization": "Bearer " + tok, "Accept": "application/vnd.github+json"})
-            try: batch = json.loads(urllib.request.urlopen(r, timeout=20).read())
-            except Exception as e: print("issues", e); break
-            issues += batch
-            if len(batch) < 100: break
-    score, voters = tally(issues, known)
+    score = {}
+    voters = 0
+    # Clean anonymous voting via Supabase ledger (GitHub Issues voting retired)
     for votes in cloud_votes(known).values():
         voters += 1
         for url, n in votes.items():
-            s = score.setdefault(known[url], {"score": 0, "voters": 0}); s["score"] += n; s["voters"] += 1
-    OUT.write_text(json.dumps({"voters": voters, "sites": score}, indent=1))
-    print("Hall of Fame:", len(score), "websites with votes from", voters, "explorers")
+            s = score.setdefault(known[url], {"score": 0, "voters": 0})
+            s["score"] += n
+            s["voters"] += 1
+    OUT.write_text(json.dumps({"voters": voters, "sites": score}, indent=1), encoding="utf-8")
+    print("Hall of Fame:", len(score), "websites with votes from", voters, "explorers (Supabase ledger)")
 
 if __name__ == "__main__": main()

@@ -649,6 +649,60 @@ def deep_check_subpages(base_url, anchors):
             pass
     return False
 
+
+def parse_feed_date(date_str):
+    if not date_str: return None
+    try:
+        parsed_tuple = email.utils.parsedate_to_datetime(date_str)
+        return parsed_tuple.date().isoformat()
+    except Exception:
+        pass
+    m = re.search(r"(\d{4}-\d{2}-\d{2})", date_str)
+    if m: return m.group(1)
+    return None
+
+def find_feed_link(base_url, html):
+    patterns = [
+        r'<link[^>]+rel=[\"\']alternate[\"\'][^>]+type=[\"\']application/(?:rss\+xml|atom\+xml|xml|feed\+json)[\"\'][^>]+href=[\"\']([^\"\']+)[\"\']',
+        r'<link[^>]+type=[\"\']application/(?:rss\+xml|atom\+xml|xml|feed\+json)[\"\'][^>]+rel=[\"\']alternate[\"\'][^>]+href=[\"\']([^\"\']+)[\"\']'
+    ]
+    for p in patterns:
+        m = re.search(p, html, re.I)
+        if m: return urllib.parse.urljoin(base_url, m.group(1))
+    return None
+
+def detect_feed_and_freshness(base_url, html=""):
+    feed_url = find_feed_link(base_url, html)
+    if not feed_url:
+        for cand in ["/feed", "/rss.xml", "/atom.xml", "/index.xml", "/feed.xml"]:
+            try:
+                cand_url = urllib.parse.urljoin(base_url, cand)
+                req = urllib.request.Request(cand_url, headers=UA)
+                with urllib.request.urlopen(req, timeout=3) as r:
+                    if r.status == 200:
+                        sample = r.read(600).decode("utf-8", errors="ignore")
+                        if any(x in sample for x in ["<rss", "<feed", "<?xml"]):
+                            feed_url = cand_url
+                            break
+            except Exception:
+                pass
+    if not feed_url:
+        return None, None
+    try:
+        freq = urllib.request.Request(feed_url, headers=UA)
+        with urllib.request.urlopen(freq, timeout=4) as fr:
+            ftext = fr.read(250_000).decode("utf-8", errors="ignore")
+        dates = re.findall(r"<(?:pubDate|updated|published)>([^<]+)</(?:pubDate|updated|published)>", ftext, re.I)
+        latest_date = None
+        for d in dates:
+            iso = parse_feed_date(d.strip())
+            if iso:
+                if not latest_date or iso > latest_date:
+                    latest_date = iso
+        return feed_url, latest_date
+    except Exception:
+        return feed_url, None
+
 def verify(url, strict=True):
     """Run every check. Returns details for a working website, or None with a reason.
     strict=True (new candidates): every quality gate must pass. strict=False (re-checks of stored
@@ -696,12 +750,13 @@ def verify(url, strict=True):
         n = norm(urllib.parse.urljoin(final, extra)) if extra else None
         if n and allowed(n): alias.add(key(n))
     anchors = [(urllib.parse.urljoin(final, a), t) for a, t in p.anchors if a and not a.startswith(("#", "mailto:", "javascript:"))]
+    feed_url, last_tended = detect_feed_and_freshness(final, html)
     vec = compute_vector(title, desc, cat, vibe, tech, final, len(p.words), embeddable(headers), html)
     return {"vector": vec, "url": ("https://" if final.startswith("https") else "http://") + h, "title": title, "description": desc,
             "category": cat, "confidence": conf, "tags": tags, "tech": tech, "vibes": vibe, "lang": lang, "load_time": secs,
             "https": final.startswith("https"), "words": len(p.words), "embed": embeddable(headers),
             "aliases": sorted(alias), "fingerprint": fingerprint(title, desc),
-            "links": [a for a, _ in anchors if a.startswith("http")][:120], "anchors": anchors}, "ok"
+            "feed_url": feed_url, "last_tended": last_tended, "links": [a for a, _ in anchors if a.startswith("http")][:120], "anchors": anchors}, "ok"
 
 def safe_verify(u, strict=True):
     try: return verify(u, strict)
@@ -754,13 +809,7 @@ def sources(known):
         try: add(get("https://wiby.me/surprise/", timeout=6, limit=2000)[1], "wiby")
         except Exception: pass
     # bearblog discovery removed (hard blog quota in effect)
-    try:  # visitor submissions: GitHub issues labelled "submit"
-        repo = os.environ.get("GITHUB_REPOSITORY"); tok = os.environ.get("GITHUB_TOKEN")
-        if repo and tok:
-            r = urllib.request.Request(f"https://api.github.com/repos/{repo}/issues?labels=submit&state=open", headers={**UA, "Authorization": "Bearer " + tok})
-            for i in json.loads(urllib.request.urlopen(r).read()):
-                for u in re.findall(r"https?://[^\s)>\]\"']+", (i.get("title") or "") + " " + (i.get("body") or "")): add(u, "submission")
-    except Exception as e: print("issues", e)
+    # Legacy GitHub issues submissions retired (now handled via Supabase pending_submissions)
     try:  # anonymous visitor suggestions buffered in Supabase (flushed every run)
         sb = os.environ.get("SUPABASE_URL", "").rstrip("/"); key = os.environ.get("SUPABASE_SERVICE_ROLE_KEY", "")
         if sb and key:

@@ -727,7 +727,9 @@
         0.3,
         0.9
       ],
-      "first_seen": 2017
+      "first_seen": 2017,
+      "feed_url": "https://ncase.me/feed",
+      "last_tended": "2024-05-14"
     },
     {
       "url": "https://madebyevan.com/webgl-water",
@@ -1299,7 +1301,9 @@
         0.2,
         0.9
       ],
-      "first_seen": 2021
+      "first_seen": 2021,
+      "feed_url": "https://eieio.games/feed.xml",
+      "last_tended": "2026-11-01"
     },
     {
       "url": "https://ransei.neocities.org",
@@ -1923,7 +1927,9 @@
         1.0,
         0.9
       ],
-      "first_seen": 2013
+      "first_seen": 2013,
+      "feed_url": "https://mynoise.net/rss.xml",
+      "last_tended": "2026-11-11"
     },
     {
       "url": "https://radiooooo.com",
@@ -2443,7 +2449,9 @@
         0.1,
         0.9
       ],
-      "first_seen": 2004
+      "first_seen": 2004,
+      "feed_url": "https://16colo.rs/rss/releases",
+      "last_tended": "2026-11-12"
     },
     {
       "url": "https://asciiart.eu",
@@ -2599,7 +2607,9 @@
         0.1,
         0.9
       ],
-      "first_seen": 2015
+      "first_seen": 2015,
+      "feed_url": "https://inconvergent.net/atom.xml",
+      "last_tended": "2025-07-18"
     },
     {
       "url": "https://cameronsworld.net",
@@ -2963,7 +2973,9 @@
         0.2,
         0.9
       ],
-      "first_seen": 2012
+      "first_seen": 2012,
+      "feed_url": "https://pcjs.org/feed",
+      "last_tended": "2026-11-11"
     },
     {
       "url": "https://oldweb.today",
@@ -3067,7 +3079,9 @@
         0.1,
         0.9
       ],
-      "first_seen": 2017
+      "first_seen": 2017,
+      "feed_url": "https://webdesignmuseum.org/feed",
+      "last_tended": "2026-11-13"
     },
     {
       "url": "https://textfiles.com",
@@ -3327,7 +3341,9 @@
         0.1,
         0.9
       ],
-      "first_seen": 2011
+      "first_seen": 2011,
+      "feed_url": "https://virtuallyfun.com/feed/",
+      "last_tended": "2026-11-13"
     },
     {
       "url": "https://textures.neocities.org",
@@ -4159,7 +4175,9 @@
         0.2,
         0.9
       ],
-      "first_seen": 2022
+      "first_seen": 2022,
+      "feed_url": "https://spencer.place/rss.xml",
+      "last_tended": "2026-10-10"
     },
     {
       "url": "https://jcw87.github.io",
@@ -4263,7 +4281,9 @@
         0.1,
         0.9
       ],
-      "first_seen": 2020
+      "first_seen": 2020,
+      "feed_url": "https://ciechanow.ski/atom.xml",
+      "last_tended": "2024-12-17"
     },
     {
       "url": "https://earth.nullschool.net",
@@ -5043,7 +5063,9 @@
         0.1,
         0.9
       ],
-      "first_seen": 2020
+      "first_seen": 2020,
+      "feed_url": "https://tilde.green/index.xml",
+      "last_tended": "2025-03-07"
     },
     {
       "url": "https://antiqueradios.org",
@@ -5147,7 +5169,9 @@
         0.1,
         0.9
       ],
-      "first_seen": 2013
+      "first_seen": 2013,
+      "feed_url": "https://jvns.ca/atom.xml",
+      "last_tended": "2026-09-27"
     },
     {
       "url": "https://danluu.com",
@@ -5199,7 +5223,9 @@
         0.1,
         0.9
       ],
-      "first_seen": 2014
+      "first_seen": 2014,
+      "feed_url": "https://danluu.com/atom.xml",
+      "last_tended": "2026-11-02"
     }
   ]
 }

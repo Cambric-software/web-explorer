@@ -149,3 +149,8 @@ html[data-theme=terminal] .tag{border-style:dashed;border-radius:0}
 @media (prefers-reduced-motion: reduce) {
   .thumb { animation: none !important; }
 }
+
+/* RSS Freshness & Feed Badges */
+.feed-badge{display:inline-flex;align-items:center;gap:4px;padding:2px 8px;font-size:.72rem;border-radius:999px;border:1px solid var(--acc);color:var(--acc);text-decoration:none;transition:all .15s ease}
+.feed-badge:hover{background:var(--acc);color:var(--bg)}
+.fresh-dot{width:6px;height:6px;border-radius:50%;background:#4ade80;display:inline-block;box-shadow:0 0 6px #4ade80;margin-right:4px}
