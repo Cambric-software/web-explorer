@@ -1,3 +1,4 @@
+import email.utils
 """Website Explorer discovery robot (v4 - "guilty until proven innocent").
 Runs inside GitHub Actions with only the Python standard library.
 Database = docs/data/sites.json, statistics = docs/data/stats.json.
