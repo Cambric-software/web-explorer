@@ -11,7 +11,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -64,7 +64,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -117,7 +117,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -170,7 +170,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -223,7 +223,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -316,7 +316,7 @@
    ],
    "first_seen": 2013,
    "lang": "?",
-   "load_time": 0.06,
+   "load_time": 0.16,
    "safety_checked": "2026-11-14"
   },
   {
@@ -329,7 +329,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -382,7 +382,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -435,7 +435,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -488,7 +488,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -581,7 +581,7 @@
    ],
    "first_seen": 2016,
    "lang": "ar",
-   "load_time": 0.11,
+   "load_time": 0.15,
    "safety_checked": "2026-11-14"
   },
   {
@@ -594,7 +594,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -647,7 +647,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -700,16 +700,14 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 0,
    "https": true,
-   "words": 150,
+   "words": 103,
    "embed": true,
    "locked": true,
    "brick": true,
    "tech": [
-    "Hand-coded",
-    "Vanilla JS",
-    "Canvas"
+    "Hand-coded"
    ],
    "vibes": [
     "tech",
@@ -723,25 +721,28 @@
    "confidence": 1.0,
    "screenshot_file": "8ece2d44eadade9c5b09.jpg",
    "vector": [
-    0.5,
-    0.8,
     0.1,
-    0.8,
-    0.5,
+    0.3,
+    0.0,
+    0.2,
     0.1,
+    0.1,
+    0.45,
+    0.234,
+    0.2,
+    0.05,
+    0.15,
+    0.85,
     1.0,
-    0.6,
-    0.7,
-    0.1,
-    0.6,
-    0.6,
-    1.0,
-    0.9,
-    0.1,
-    0.9
+    0.5,
+    0.0,
+    0.7
    ],
    "first_seen": 2011,
-   "robot_note": "unreachable (2026-11-14)"
+   "robot_note": "unreachable (2026-11-14)",
+   "lang": "?",
+   "load_time": 0.87,
+   "safety_checked": "2026-11-14"
   },
   {
    "url": "https://koalastothemax.com",
@@ -753,7 +754,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -846,7 +847,7 @@
    ],
    "first_seen": 2008,
    "lang": "en",
-   "load_time": 0.91,
+   "load_time": 0.73,
    "safety_checked": "2026-11-14"
   },
   {
@@ -859,7 +860,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -912,16 +913,14 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 0,
    "https": true,
-   "words": 150,
-   "embed": true,
+   "words": 413,
+   "embed": false,
    "locked": true,
    "brick": true,
    "tech": [
-    "Hand-coded",
-    "Vanilla JS",
-    "Canvas"
+    "Hand-coded"
    ],
    "vibes": [
     "fast-paced",
@@ -935,25 +934,28 @@
    "confidence": 1.0,
    "screenshot_file": "a748c921c0a68b8bd2e2.jpg",
    "vector": [
-    0.3,
-    0.9,
-    0.2,
-    0.4,
-    0.3,
     0.1,
-    0.9,
-    0.7,
-    0.5,
-    0.5,
-    0.6,
-    0.7,
     1.0,
-    0.8,
+    0.0,
     0.2,
-    0.9
+    0.1,
+    0.1,
+    0.75,
+    0.638,
+    0.5,
+    0.05,
+    0.3,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.85
    ],
    "first_seen": 2015,
-   "robot_note": "unreachable (2026-11-14)"
+   "robot_note": "unreachable (2026-11-14)",
+   "lang": "en",
+   "load_time": 0.89,
+   "safety_checked": "2026-11-14"
   },
   {
    "url": "https://alt.org/nethack",
@@ -967,7 +969,7 @@
    "checked": "2026-11-14",
    "fails": 0,
    "https": true,
-   "words": 679,
+   "words": 677,
    "embed": false,
    "locked": true,
    "brick": true,
@@ -1005,7 +1007,7 @@
    ],
    "first_seen": 2000,
    "lang": "en",
-   "load_time": 0.7,
+   "load_time": 0.27,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1018,7 +1020,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1071,7 +1073,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1124,7 +1126,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1217,7 +1219,7 @@
    ],
    "first_seen": 2015,
    "lang": "en",
-   "load_time": 0.04,
+   "load_time": 0.42,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1272,7 +1274,7 @@
    "feed_url": "https://eieio.games/feed.xml",
    "last_tended": "2026-11-01",
    "lang": "en",
-   "load_time": 0.13,
+   "load_time": 0.45,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1285,7 +1287,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1380,7 +1382,7 @@
    ],
    "first_seen": 2021,
    "lang": "ko",
-   "load_time": 0.03,
+   "load_time": 0.06,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1433,7 +1435,7 @@
    ],
    "first_seen": 2023,
    "lang": "?",
-   "load_time": 0.62,
+   "load_time": 1.01,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1446,7 +1448,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1499,7 +1501,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1592,7 +1594,7 @@
    ],
    "first_seen": 2016,
    "lang": "en",
-   "load_time": 0.19,
+   "load_time": 0.1,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1607,12 +1609,13 @@
    "checked": "2026-11-14",
    "fails": 0,
    "https": true,
-   "words": 65,
+   "words": 55,
    "embed": true,
    "locked": true,
    "brick": true,
    "tech": [
-    "Hand-coded"
+    "Hand-coded",
+    "No JavaScript"
    ],
    "vibes": [
     "artsy",
@@ -1628,24 +1631,24 @@
    "vector": [
     0.1,
     0.05,
-    0.15,
-    0.7,
-    0.1,
-    0.1,
-    0.1,
-    0.222,
-    0.55,
+    0.0,
     0.05,
-    0.3,
+    0.1,
+    0.1,
+    0.1,
+    0.218,
+    0.2,
+    0.05,
+    0.15,
     0.85,
     1.0,
     0.5,
     0.0,
-    0.85
+    0.7
    ],
    "first_seen": 2014,
    "lang": "?",
-   "load_time": 0.19,
+   "load_time": 0.08,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1699,7 +1702,7 @@
    ],
    "first_seen": 2015,
    "lang": "?",
-   "load_time": 0.05,
+   "load_time": 0.07,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1753,7 +1756,7 @@
    ],
    "first_seen": 2012,
    "lang": "?",
-   "load_time": 0.29,
+   "load_time": 0.25,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1807,7 +1810,7 @@
    ],
    "first_seen": 2013,
    "lang": "?",
-   "load_time": 0.47,
+   "load_time": 0.27,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1820,7 +1823,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1916,7 +1919,7 @@
    "feed_url": "https://mynoise.net/rss.xml",
    "last_tended": "2026-11-11",
    "lang": "en",
-   "load_time": 1.11,
+   "load_time": 0.85,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1929,7 +1932,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2022,7 +2025,7 @@
    ],
    "first_seen": 2013,
    "lang": "?",
-   "load_time": 1.23,
+   "load_time": 1.25,
    "safety_checked": "2026-11-14"
   },
   {
@@ -2035,7 +2038,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2088,7 +2091,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2181,7 +2184,7 @@
    ],
    "first_seen": 2008,
    "lang": "en",
-   "load_time": 0.69,
+   "load_time": 0.52,
    "safety_checked": "2026-11-14"
   },
   {
@@ -2194,7 +2197,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2287,7 +2290,7 @@
    ],
    "first_seen": 2016,
    "lang": "?",
-   "load_time": 0.96,
+   "load_time": 0.66,
    "safety_checked": "2026-11-14"
   },
   {
@@ -2300,7 +2303,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2393,7 +2396,7 @@
    ],
    "first_seen": 2004,
    "lang": "en",
-   "load_time": 0.51,
+   "load_time": 0.08,
    "safety_checked": "2026-11-14"
   },
   {
@@ -2406,7 +2409,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2461,7 +2464,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2514,7 +2517,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2609,7 +2612,7 @@
    "feed_url": "https://inconvergent.net/atom.xml",
    "last_tended": "2025-07-18",
    "lang": "en",
-   "load_time": 0.18,
+   "load_time": 0.13,
    "safety_checked": "2026-11-14"
   },
   {
@@ -2622,7 +2625,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2675,7 +2678,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2769,7 +2772,7 @@
    ],
    "first_seen": 2014,
    "lang": "?",
-   "load_time": 0.03,
+   "load_time": 0.11,
    "safety_checked": "2026-11-14"
   },
   {
@@ -2835,7 +2838,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2888,7 +2891,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2983,7 +2986,7 @@
    "feed_url": "https://pcjs.org/feed",
    "last_tended": "2026-11-11",
    "lang": "en",
-   "load_time": 0.43,
+   "load_time": 0.21,
    "safety_checked": "2026-11-14"
   },
   {
@@ -2996,7 +2999,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -3092,7 +3095,7 @@
    "feed_url": "https://webdesignmuseum.org/feed",
    "last_tended": "2026-11-13",
    "lang": "en",
-   "load_time": 0.09,
+   "load_time": 0.19,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3105,7 +3108,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -3158,7 +3161,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -3251,7 +3254,7 @@
    ],
    "first_seen": 1994,
    "lang": "?",
-   "load_time": 0.22,
+   "load_time": 0.35,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3264,7 +3267,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -3359,7 +3362,7 @@
    "feed_url": "https://virtuallyfun.com/feed/",
    "last_tended": "2026-11-13",
    "lang": "en",
-   "load_time": 0.66,
+   "load_time": 0.79,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3413,7 +3416,7 @@
    ],
    "first_seen": 2021,
    "lang": "en",
-   "load_time": 0.02,
+   "load_time": 0.1,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3468,7 +3471,7 @@
    ],
    "first_seen": 2021,
    "lang": "en",
-   "load_time": 0.02,
+   "load_time": 0.06,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3523,7 +3526,7 @@
    ],
    "first_seen": 2022,
    "lang": "?",
-   "load_time": 0.19,
+   "load_time": 0.2,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3578,7 +3581,7 @@
    ],
    "first_seen": 2021,
    "lang": "en",
-   "load_time": 0.04,
+   "load_time": 0.15,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3632,7 +3635,7 @@
    ],
    "first_seen": 2022,
    "lang": "en",
-   "load_time": 0.04,
+   "load_time": 0.15,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3686,7 +3689,7 @@
    ],
    "first_seen": 2016,
    "lang": "en",
-   "load_time": 0.28,
+   "load_time": 0.15,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3739,7 +3742,7 @@
    ],
    "first_seen": 2013,
    "lang": "?",
-   "load_time": 0.82,
+   "load_time": 0.95,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3752,7 +3755,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -3805,7 +3808,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -3898,7 +3901,7 @@
    ],
    "first_seen": 2020,
    "lang": "en",
-   "load_time": 0.11,
+   "load_time": 0.08,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3911,7 +3914,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4004,7 +4007,7 @@
    ],
    "first_seen": 2021,
    "lang": "en",
-   "load_time": 0.03,
+   "load_time": 0.12,
    "safety_checked": "2026-11-14"
   },
   {
@@ -4057,7 +4060,7 @@
    ],
    "first_seen": 2022,
    "lang": "en",
-   "load_time": 0.89,
+   "load_time": 0.35,
    "safety_checked": "2026-11-14"
   },
   {
@@ -4111,7 +4114,7 @@
    ],
    "first_seen": 2021,
    "lang": "?",
-   "load_time": 0.04,
+   "load_time": 0.08,
    "safety_checked": "2026-11-14"
   },
   {
@@ -4124,7 +4127,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4221,7 +4224,7 @@
    "feed_url": "https://spencer.place/rss.xml",
    "last_tended": "2026-10-10",
    "lang": "en",
-   "load_time": 0.24,
+   "load_time": 0.52,
    "safety_checked": "2026-11-14"
   },
   {
@@ -4234,7 +4237,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4329,7 +4332,7 @@
    "feed_url": "https://ciechanow.ski/atom.xml",
    "last_tended": "2024-12-17",
    "lang": "en",
-   "load_time": 0.37,
+   "load_time": 0.27,
    "safety_checked": "2026-11-14"
   },
   {
@@ -4395,7 +4398,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4489,7 +4492,7 @@
    ],
    "first_seen": 2012,
    "lang": "en",
-   "load_time": 2.04,
+   "load_time": 2.22,
    "safety_checked": "2026-11-14"
   },
   {
@@ -4542,7 +4545,7 @@
    ],
    "first_seen": 2018,
    "lang": "?",
-   "load_time": 0.13,
+   "load_time": 0.14,
    "safety_checked": "2026-11-14"
   },
   {
@@ -4555,7 +4558,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4608,7 +4611,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4661,7 +4664,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4714,7 +4717,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4807,7 +4810,7 @@
    ],
    "first_seen": 2012,
    "lang": "?",
-   "load_time": 0.46,
+   "load_time": 0.34,
    "safety_checked": "2026-11-14"
   },
   {
@@ -4820,7 +4823,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4914,7 +4917,7 @@
    ],
    "first_seen": 2021,
    "lang": "en",
-   "load_time": 0.51,
+   "load_time": 0.41,
    "safety_checked": "2026-11-14"
   },
   {
@@ -4927,7 +4930,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4968,7 +4971,7 @@
     0.9
    ],
    "first_seen": 2017,
-   "robot_note": "unsafe (2026-11-14)"
+   "robot_note": "unreachable (2026-11-14)"
   },
   {
    "url": "https://ourspacevibes.com",
@@ -4980,7 +4983,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 1,
+   "fails": 2,
    "https": true,
    "words": 150,
    "embed": true,
@@ -5033,7 +5036,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 0,
+   "fails": 1,
    "https": true,
    "words": 280,
    "embed": true,
@@ -5077,7 +5080,8 @@
    "last_tended": "2025-03-07",
    "lang": "en",
    "load_time": 0.73,
-   "safety_checked": "2026-11-14"
+   "safety_checked": "2026-11-14",
+   "robot_note": "unreachable (2026-11-14)"
   },
   {
    "url": "https://antiqueradios.org",
@@ -5129,7 +5133,7 @@
    ],
    "first_seen": 1999,
    "lang": "?",
-   "load_time": 0.45,
+   "load_time": 0.49,
    "safety_checked": "2026-11-14"
   },
   {
@@ -5184,7 +5188,7 @@
    "feed_url": "https://jvns.ca/atom.xml",
    "last_tended": "2026-09-27",
    "lang": "en",
-   "load_time": 0.16,
+   "load_time": 0.24,
    "safety_checked": "2026-11-14"
   },
   {
@@ -5239,7 +5243,7 @@
    "feed_url": "https://danluu.com/atom.xml",
    "last_tended": "2026-11-02",
    "lang": "?",
-   "load_time": 0.15,
+   "load_time": 0.13,
    "safety_checked": "2026-11-14"
   },
   {
@@ -5767,6 +5771,331 @@
    "archive_checked": "2026-11-14",
    "first_seen": 2025,
    "screenshot_file": "3c77bc94e40074052a61.jpg"
+  },
+  {
+   "url": "https://forum.frutigeraeroarchive.org",
+   "source": "link from wiki.melonland.net",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "forum.frutigeraeroarchive.org"
+   ],
+   "lang": "en",
+   "load_time": 0.69,
+   "https": true,
+   "words": 834,
+   "embed": false,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "jQuery",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.4,
+    0.1,
+    0.1,
+    0.478,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.7
+   ],
+   "title": "Frutiger Aero Archive Forums",
+   "description": "In total there are 3 users online :: 0 registered and 3 hidden (based on users active over the past 5 minutes)Most users ever online was 19 on Mon Sep 14, 2026 7:41 pm",
+   "category": "Communities",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "frutigeraeroarchiveforumsintotalthereare3usersonline0registeredand3hiddenbasedonusersa",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2025,
+   "screenshot_file": "694b3a4658ab83e4e92d.jpg"
+  },
+  {
+   "url": "https://lite.ip2location.com",
+   "source": "link from marginalia-search.com",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "lite.ip2location.com"
+   ],
+   "lang": "en",
+   "load_time": 0.16,
+   "https": true,
+   "words": 495,
+   "embed": false,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "jQuery",
+    "Bootstrap",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.6,
+    0.05,
+    0.0,
+    0.05,
+    0.6,
+    0.1,
+    0.1,
+    0.365,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.7
+   ],
+   "title": "Free IP Geolocation Database",
+   "description": "IP2Location LITE provides free geolocation database to query IP address for country, city, states & etc. IP2Proxy LITE provides free proxy detection database.",
+   "category": "Developer",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "freeipgeolocationdatabaseip2locationliteprovidesfreegeolocationdatabasetoqueryipaddressforcoun",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2013,
+   "screenshot_file": "dc47e25cd865dcfc4de3.jpg"
+  },
+  {
+   "url": "https://tonejs.github.io",
+   "source": "link from musiclab.chromeexperiments.com",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "tonejs.github.io"
+   ],
+   "lang": "?",
+   "load_time": 0.14,
+   "https": true,
+   "words": 954,
+   "embed": true,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "GitHub Pages",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.29,
+    0.6,
+    0.7,
+    0.3,
+    0.3,
+    0.3,
+    0.518,
+    0.5,
+    0.15,
+    0.3,
+    0.85,
+    1.0,
+    0.85,
+    0.3,
+    0.85
+   ],
+   "title": "Installation",
+   "description": "Tone.js is a Web Audio framework for creating interactive music in the browser.",
+   "category": "Art",
+   "confidence": 0.6,
+   "tags": [
+    "Art"
+   ],
+   "fingerprint": "installationtonejsisawebaudioframeworkforcreatinginteractivemusicinthebrowser",
+   "vibes": [
+    "playful",
+    "artsy",
+    "handmade"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2016,
+   "screenshot_file": "c2ce2f967704f100d1b0.jpg"
+  },
+  {
+   "url": "https://link.springer.com",
+   "source": "link from ciechanow.ski",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "link.springer.com"
+   ],
+   "lang": "en",
+   "load_time": 1.27,
+   "https": true,
+   "words": 493,
+   "embed": false,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "Hand-coded"
+   ],
+   "vector": [
+    0.22,
+    0.05,
+    0.0,
+    0.15,
+    0.7,
+    0.1,
+    0.1,
+    0.364,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.7
+   ],
+   "title": "Springer Nature Link",
+   "description": "Providing access to millions of research articles and chapters from Science, Technology and Medicine, and Humanities and Social Sciences",
+   "category": "Science",
+   "confidence": 0.78,
+   "tags": [],
+   "fingerprint": "springernaturelinkprovidingaccesstomillionsofresearcharticlesandchaptersfromsciencetec",
+   "vibes": [
+    "nerdy",
+    "calm",
+    "handmade"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 1998,
+   "screenshot_file": "8fe6654fc2e9da9be28f.jpg"
+  },
+  {
+   "url": "https://lpi.usra.edu",
+   "source": "link from ciechanow.ski",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "lpi.usra.edu"
+   ],
+   "lang": "en",
+   "load_time": 0.43,
+   "https": true,
+   "words": 447,
+   "embed": false,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "jQuery",
+    "Bootstrap",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.6,
+    0.1,
+    0.1,
+    0.349,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.7
+   ],
+   "title": "Lunar and Planetary Institute (LPI)",
+   "description": "The Lunar and Planetary Institute's (LPI's) mission is to advance understanding of the solar system by providing exceptional science, service, and inspiration to the world.",
+   "category": "Science",
+   "confidence": 0.67,
+   "tags": [
+    "Education"
+   ],
+   "fingerprint": "lunarandplanetaryinstitutelpithelunarandplanetaryinstituteslpismissionistoadvanceunderstanding",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2000,
+   "screenshot_file": "723441b38670785cdeb7.jpg"
+  },
+  {
+   "url": "https://about.marginalia-search.com",
+   "source": "link from marginalia-search.com",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "about.marginalia-search.com"
+   ],
+   "lang": "en",
+   "load_time": 0.44,
+   "https": true,
+   "words": 558,
+   "embed": true,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "Tailwind",
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "vector": [
+    0.72,
+    0.05,
+    0.0,
+    0.05,
+    0.6,
+    0.1,
+    0.1,
+    0.386,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.7
+   ],
+   "title": "About Marginalia Search",
+   "description": "Marginalia Search is an independent open source Internet search engine operating out of Sweden. It is principally developed and operated by Viktor Lofgren .",
+   "category": "Developer",
+   "confidence": 0.65,
+   "tags": [
+    "Business"
+   ],
+   "fingerprint": "aboutmarginaliasearchmarginaliasearchisanindependentopensourceinternetsearchengineoperating",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2025,
+   "screenshot_file": "f8d0fdc138c8afd9f809.jpg"
   }
  ]
 }

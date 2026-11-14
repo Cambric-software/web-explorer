@@ -1,22 +1,23 @@
 {
- "total": 108,
+ "total": 114,
  "dead": 0,
  "flagged": 0,
- "runs": 45,
- "last_run": "2026-11-14T00:21:34Z",
- "found_last_run": 10,
+ "runs": 46,
+ "last_run": "2026-11-14T07:36:51Z",
+ "found_last_run": 6,
  "beta": false,
  "categories": {
   "Games": 29,
   "Creative": 8,
   "Tools": 16,
-  "Art": 14,
+  "Art": 15,
   "Retro": 20,
   "Curiosities": 11,
   "Technology": 1,
-  "Communities": 5,
-  "Developer": 2,
-  "Education": 2
+  "Communities": 6,
+  "Developer": 4,
+  "Education": 2,
+  "Science": 2
  },
  "bot_version": 4,
  "history": [
@@ -244,9 +245,41 @@
    "date": "2026-11-14",
    "added": 10,
    "total": 108
+  },
+  {
+   "date": "2026-11-14",
+   "added": 6,
+   "total": 114
   }
  ],
  "runs_log": [
+  {
+   "started": "2026-11-14T07:36:51Z",
+   "rejected": {
+    "lazy title": 7,
+    "empty javascript shell": 9,
+    "unreachable": 7,
+    "weak description": 2,
+    "too few words": 6,
+    "unsafe": 2,
+    "cookie wall": 2,
+    "bot challenge": 2,
+    "unsure category": 1,
+    "http 202": 1,
+    "big platform": 2
+   },
+   "duplicates_removed": 0,
+   "sources": {},
+   "candidates": 47,
+   "deep_links": 47,
+   "added": 6,
+   "rechecked": 98,
+   "stale_rechecked": 0,
+   "newly_dead": 0,
+   "flagged": 0,
+   "malware_list": 0,
+   "archive_years": 6
+  },
   {
    "started": "2026-11-14T00:21:34Z",
    "rejected": {
@@ -1200,32 +1233,10 @@
    "flagged": 0,
    "malware_list": 0,
    "archive_years": 20
-  },
-  {
-   "started": "2026-10-29T20:05:36Z",
-   "rejected": {
-    "too little content": 15,
-    "unreachable": 15,
-    "parked": 5
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 87,
-    "lobsters": 6
-   },
-   "candidates": 100,
-   "deep_links": 180,
-   "added": 65,
-   "rechecked": 200,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 17
   }
  ],
  "reset": "2026-10-26",
- "candidates_checked": 73,
+ "candidates_checked": 47,
  "total_sites": 89,
  "last_audit": "2026-11-07"
 }
