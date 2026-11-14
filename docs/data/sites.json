@@ -11,7 +11,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -64,7 +64,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -117,7 +117,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -170,7 +170,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -223,7 +223,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -316,7 +316,7 @@
    ],
    "first_seen": 2013,
    "lang": "?",
-   "load_time": 0.19,
+   "load_time": 0.09,
    "safety_checked": "2026-11-14"
   },
   {
@@ -329,7 +329,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -382,7 +382,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -435,7 +435,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -488,7 +488,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -581,7 +581,7 @@
    ],
    "first_seen": 2016,
    "lang": "ar",
-   "load_time": 0.12,
+   "load_time": 0.11,
    "safety_checked": "2026-11-14"
   },
   {
@@ -594,7 +594,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -647,7 +647,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -741,7 +741,7 @@
    "first_seen": 2011,
    "robot_note": "unreachable (2026-11-14)",
    "lang": "?",
-   "load_time": 1.74,
+   "load_time": 1.96,
    "safety_checked": "2026-11-14"
   },
   {
@@ -754,7 +754,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -847,7 +847,7 @@
    ],
    "first_seen": 2008,
    "lang": "en",
-   "load_time": 0.9,
+   "load_time": 0.65,
    "safety_checked": "2026-11-14"
   },
   {
@@ -860,7 +860,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -954,7 +954,7 @@
    "first_seen": 2015,
    "robot_note": "unreachable (2026-11-14)",
    "lang": "en",
-   "load_time": 1.18,
+   "load_time": 1.08,
    "safety_checked": "2026-11-14"
   },
   {
@@ -969,7 +969,7 @@
    "checked": "2026-11-14",
    "fails": 0,
    "https": true,
-   "words": 683,
+   "words": 702,
    "embed": false,
    "locked": true,
    "brick": true,
@@ -995,7 +995,7 @@
     0.3,
     0.1,
     0.4,
-    0.728,
+    0.734,
     0.5,
     0.05,
     0.3,
@@ -1007,7 +1007,7 @@
    ],
    "first_seen": 2000,
    "lang": "en",
-   "load_time": 0.75,
+   "load_time": 0.49,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1020,7 +1020,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1073,7 +1073,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1126,7 +1126,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1219,7 +1219,7 @@
    ],
    "first_seen": 2015,
    "lang": "en",
-   "load_time": 0.58,
+   "load_time": 0.7,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1274,7 +1274,7 @@
    "feed_url": "https://eieio.games/feed.xml",
    "last_tended": "2026-11-01",
    "lang": "en",
-   "load_time": 0.12,
+   "load_time": 0.14,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1287,7 +1287,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1382,7 +1382,7 @@
    ],
    "first_seen": 2021,
    "lang": "ko",
-   "load_time": 0.05,
+   "load_time": 0.14,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1435,7 +1435,7 @@
    ],
    "first_seen": 2023,
    "lang": "?",
-   "load_time": 1.37,
+   "load_time": 0.33,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1448,7 +1448,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1501,7 +1501,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1594,7 +1594,7 @@
    ],
    "first_seen": 2016,
    "lang": "en",
-   "load_time": 0.17,
+   "load_time": 0.22,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1648,7 +1648,7 @@
    ],
    "first_seen": 2014,
    "lang": "?",
-   "load_time": 0.21,
+   "load_time": 0.25,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1663,13 +1663,13 @@
    "checked": "2026-11-14",
    "fails": 0,
    "https": true,
-   "words": 84,
+   "words": 57,
    "embed": true,
    "locked": true,
    "brick": true,
    "tech": [
-    "jQuery",
-    "Hand-coded"
+    "Hand-coded",
+    "No JavaScript"
    ],
    "vibes": [
     "relaxing",
@@ -1685,24 +1685,24 @@
    "vector": [
     0.1,
     0.05,
-    0.15,
-    0.7,
+    0.0,
+    0.05,
     0.1,
     0.1,
-    0.2,
-    0.228,
+    0.1,
+    0.219,
     0.2,
     0.05,
-    0.3,
+    0.15,
     0.85,
     1.0,
     0.5,
     0.0,
-    0.85
+    0.7
    ],
    "first_seen": 2015,
-   "lang": "en",
-   "load_time": 0.18,
+   "lang": "?",
+   "load_time": 0.21,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1756,7 +1756,7 @@
    ],
    "first_seen": 2012,
    "lang": "?",
-   "load_time": 0.38,
+   "load_time": 0.3,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1810,7 +1810,7 @@
    ],
    "first_seen": 2013,
    "lang": "?",
-   "load_time": 0.47,
+   "load_time": 0.46,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1823,7 +1823,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1919,7 +1919,7 @@
    "feed_url": "https://mynoise.net/rss.xml",
    "last_tended": "2026-11-11",
    "lang": "en",
-   "load_time": 1.07,
+   "load_time": 1.1,
    "safety_checked": "2026-11-14"
   },
   {
@@ -1932,7 +1932,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2025,7 +2025,7 @@
    ],
    "first_seen": 2013,
    "lang": "?",
-   "load_time": 1.24,
+   "load_time": 1.31,
    "safety_checked": "2026-11-14"
   },
   {
@@ -2038,7 +2038,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2091,7 +2091,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2184,7 +2184,7 @@
    ],
    "first_seen": 2008,
    "lang": "en",
-   "load_time": 0.63,
+   "load_time": 0.72,
    "safety_checked": "2026-11-14"
   },
   {
@@ -2197,7 +2197,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2252,7 +2252,7 @@
    "checked": "2026-11-14",
    "fails": 0,
    "https": true,
-   "words": 183,
+   "words": 193,
    "embed": false,
    "locked": true,
    "brick": true,
@@ -2278,7 +2278,7 @@
     0.1,
     0.1,
     0.1,
-    0.261,
+    0.264,
     0.2,
     0.05,
     0.15,
@@ -2290,7 +2290,7 @@
    ],
    "first_seen": 2016,
    "lang": "?",
-   "load_time": 1.05,
+   "load_time": 0.99,
    "safety_checked": "2026-11-14"
   },
   {
@@ -2303,7 +2303,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2396,7 +2396,7 @@
    ],
    "first_seen": 2004,
    "lang": "en",
-   "load_time": 0.04,
+   "load_time": 0.06,
    "safety_checked": "2026-11-14"
   },
   {
@@ -2409,7 +2409,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2464,7 +2464,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2517,7 +2517,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2612,7 +2612,7 @@
    "feed_url": "https://inconvergent.net/atom.xml",
    "last_tended": "2025-07-18",
    "lang": "en",
-   "load_time": 0.22,
+   "load_time": 0.13,
    "safety_checked": "2026-11-14"
   },
   {
@@ -2625,7 +2625,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2678,7 +2678,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2772,7 +2772,7 @@
    ],
    "first_seen": 2014,
    "lang": "?",
-   "load_time": 0.03,
+   "load_time": 0.09,
    "safety_checked": "2026-11-14"
   },
   {
@@ -2825,7 +2825,7 @@
    ],
    "first_seen": 2023,
    "lang": "en",
-   "load_time": 0.21,
+   "load_time": 0.12,
    "safety_checked": "2026-11-14"
   },
   {
@@ -2838,7 +2838,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2891,7 +2891,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2946,7 +2946,7 @@
    "checked": "2026-11-14",
    "fails": 0,
    "https": true,
-   "words": 253,
+   "words": 247,
    "embed": true,
    "locked": true,
    "brick": true,
@@ -2972,7 +2972,7 @@
     0.1,
     0.1,
     0.1,
-    0.284,
+    0.282,
     0.2,
     0.05,
     0.15,
@@ -2986,7 +2986,7 @@
    "feed_url": "https://pcjs.org/feed",
    "last_tended": "2026-11-11",
    "lang": "en",
-   "load_time": 0.53,
+   "load_time": 0.38,
    "safety_checked": "2026-11-14"
   },
   {
@@ -2999,7 +2999,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -3095,7 +3095,7 @@
    "feed_url": "https://webdesignmuseum.org/feed",
    "last_tended": "2026-11-13",
    "lang": "en",
-   "load_time": 0.45,
+   "load_time": 0.11,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3108,7 +3108,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -3161,7 +3161,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -3254,7 +3254,7 @@
    ],
    "first_seen": 1994,
    "lang": "?",
-   "load_time": 0.24,
+   "load_time": 0.14,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3267,7 +3267,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -3362,7 +3362,7 @@
    "feed_url": "https://virtuallyfun.com/feed/",
    "last_tended": "2026-11-13",
    "lang": "en",
-   "load_time": 0.63,
+   "load_time": 0.99,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3416,7 +3416,7 @@
    ],
    "first_seen": 2021,
    "lang": "en",
-   "load_time": 0.03,
+   "load_time": 0.08,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3471,7 +3471,7 @@
    ],
    "first_seen": 2021,
    "lang": "en",
-   "load_time": 0.07,
+   "load_time": 0.06,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3526,7 +3526,7 @@
    ],
    "first_seen": 2022,
    "lang": "?",
-   "load_time": 0.03,
+   "load_time": 0.08,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3581,7 +3581,7 @@
    ],
    "first_seen": 2021,
    "lang": "en",
-   "load_time": 0.03,
+   "load_time": 0.05,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3635,7 +3635,7 @@
    ],
    "first_seen": 2022,
    "lang": "en",
-   "load_time": 0.04,
+   "load_time": 0.08,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3689,7 +3689,7 @@
    ],
    "first_seen": 2016,
    "lang": "en",
-   "load_time": 0.25,
+   "load_time": 0.1,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3742,7 +3742,7 @@
    ],
    "first_seen": 2013,
    "lang": "?",
-   "load_time": 0.1,
+   "load_time": 0.21,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3755,7 +3755,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -3808,7 +3808,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -3901,7 +3901,7 @@
    ],
    "first_seen": 2020,
    "lang": "en",
-   "load_time": 0.11,
+   "load_time": 0.08,
    "safety_checked": "2026-11-14"
   },
   {
@@ -3914,7 +3914,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4007,7 +4007,7 @@
    ],
    "first_seen": 2021,
    "lang": "en",
-   "load_time": 0.05,
+   "load_time": 0.06,
    "safety_checked": "2026-11-14"
   },
   {
@@ -4060,7 +4060,7 @@
    ],
    "first_seen": 2022,
    "lang": "en",
-   "load_time": 0.32,
+   "load_time": 0.28,
    "safety_checked": "2026-11-14"
   },
   {
@@ -4114,7 +4114,7 @@
    ],
    "first_seen": 2021,
    "lang": "?",
-   "load_time": 0.03,
+   "load_time": 0.04,
    "safety_checked": "2026-11-14"
   },
   {
@@ -4127,7 +4127,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4224,7 +4224,7 @@
    "feed_url": "https://spencer.place/rss.xml",
    "last_tended": "2026-10-10",
    "lang": "en",
-   "load_time": 0.11,
+   "load_time": 0.15,
    "safety_checked": "2026-11-14"
   },
   {
@@ -4237,7 +4237,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4332,7 +4332,7 @@
    "feed_url": "https://ciechanow.ski/atom.xml",
    "last_tended": "2024-12-17",
    "lang": "en",
-   "load_time": 0.45,
+   "load_time": 0.15,
    "safety_checked": "2026-11-14"
   },
   {
@@ -4398,7 +4398,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4492,7 +4492,7 @@
    ],
    "first_seen": 2012,
    "lang": "en",
-   "load_time": 1.61,
+   "load_time": 2.14,
    "safety_checked": "2026-11-14"
   },
   {
@@ -4545,7 +4545,7 @@
    ],
    "first_seen": 2018,
    "lang": "?",
-   "load_time": 0.08,
+   "load_time": 0.04,
    "safety_checked": "2026-11-14"
   },
   {
@@ -4558,7 +4558,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4611,7 +4611,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4652,7 +4652,7 @@
     0.9
    ],
    "first_seen": 2012,
-   "robot_note": "unreachable (2026-11-14)"
+   "robot_note": "flipped (2026-11-14)"
   },
   {
    "url": "https://libraryofbabel.info",
@@ -4664,7 +4664,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4717,7 +4717,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4810,7 +4810,7 @@
    ],
    "first_seen": 2012,
    "lang": "?",
-   "load_time": 0.67,
+   "load_time": 0.38,
    "safety_checked": "2026-11-14"
   },
   {
@@ -4823,7 +4823,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4917,7 +4917,7 @@
    ],
    "first_seen": 2021,
    "lang": "en",
-   "load_time": 0.53,
+   "load_time": 0.51,
    "safety_checked": "2026-11-14"
   },
   {
@@ -4930,7 +4930,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4971,7 +4971,7 @@
     0.9
    ],
    "first_seen": 2017,
-   "robot_note": "unreachable (2026-11-14)"
+   "robot_note": "unsafe (2026-11-14)"
   },
   {
    "url": "https://ourspacevibes.com",
@@ -4983,7 +4983,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 3,
+   "fails": 4,
    "https": true,
    "words": 150,
    "embed": true,
@@ -5036,7 +5036,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-14",
-   "fails": 2,
+   "fails": 3,
    "https": true,
    "words": 280,
    "embed": true,
@@ -5133,7 +5133,7 @@
    ],
    "first_seen": 1999,
    "lang": "?",
-   "load_time": 0.31,
+   "load_time": 0.34,
    "safety_checked": "2026-11-14"
   },
   {
@@ -5188,7 +5188,7 @@
    "feed_url": "https://jvns.ca/atom.xml",
    "last_tended": "2026-09-27",
    "lang": "en",
-   "load_time": 0.35,
+   "load_time": 0.2,
    "safety_checked": "2026-11-14"
   },
   {
@@ -5243,7 +5243,7 @@
    "feed_url": "https://danluu.com/atom.xml",
    "last_tended": "2026-11-02",
    "lang": "?",
-   "load_time": 0.05,
+   "load_time": 0.09,
    "safety_checked": "2026-11-14"
   },
   {
@@ -6984,6 +6984,1012 @@
    "archive_checked": "2026-11-14",
    "first_seen": 2016,
    "screenshot_file": "541f4652c3a5d12320b5.jpg"
+  },
+  {
+   "url": "https://doi.org",
+   "source": "link from dinosaurpictures.org",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "doi.org"
+   ],
+   "lang": "en",
+   "load_time": 0.05,
+   "https": true,
+   "words": 427,
+   "embed": true,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "Hugo",
+    "jQuery",
+    "Bootstrap"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.1,
+    0.1,
+    0.342,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.4,
+    0.0,
+    0.7
+   ],
+   "title": "WHO IS THE DOI FOUNDATION COMMUNITY?",
+   "description": "We are an international community of communities bound by a common interest in persistent infrastructure.",
+   "category": "Communities",
+   "confidence": 0.93,
+   "tags": [],
+   "fingerprint": "whoisthedoifoundationcommunityweareaninternationalcommunityofcommunitiesboundbyacommoninterestinp",
+   "vibes": [
+    "nerdy"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 1997,
+   "screenshot_file": "3a57a8e4eb4b0831e211.jpg"
+  },
+  {
+   "url": "https://exchange.art",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "exchange.art"
+   ],
+   "lang": "en",
+   "load_time": 0.26,
+   "https": true,
+   "words": 187,
+   "embed": true,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.7,
+    0.2,
+    0.1,
+    0.1,
+    0.262,
+    0.2,
+    0.05,
+    0.3,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.85
+   ],
+   "title": "Collect, Create & Sell a Piece of History",
+   "description": "Exchange.art is closed. Thank you to every artist and collector who built this community with us.",
+   "category": "Art",
+   "confidence": 0.78,
+   "tags": [],
+   "fingerprint": "collectcreatesellapieceofhistoryexchangeartisclosedthankyoutoeveryartistandcollectorwhobuiltthisc",
+   "vibes": [
+    "artsy",
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2021,
+   "screenshot_file": "fc67512937b07605f6ed.jpg"
+  },
+  {
+   "url": "https://physicians.utah.edu",
+   "source": "link from healthcare.utah.edu",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "physicians.utah.edu"
+   ],
+   "lang": "en",
+   "load_time": 0.36,
+   "https": true,
+   "words": 267,
+   "embed": false,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "jQuery",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.6,
+    0.1,
+    0.1,
+    0.289,
+    0.2,
+    0.05,
+    0.15,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.85
+   ],
+   "title": "Physicians | University of Utah Health",
+   "description": "University of Utah Health is committed to partnering with you to ensure care for your patients that require a referral.",
+   "category": "Education",
+   "confidence": 0.95,
+   "tags": [],
+   "fingerprint": "physiciansuniversityofutahhealthuniversityofutahhealthiscommittedtopartneringwithyoutoensurecarefor",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2013,
+   "screenshot_file": "7ea635c353b9f30c1f17.jpg"
+  },
+  {
+   "url": "https://about.codecov.io",
+   "source": "link from tonejs.github.io",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "about.codecov.io"
+   ],
+   "lang": "en",
+   "load_time": 0.71,
+   "https": true,
+   "words": 434,
+   "embed": false,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "WordPress",
+    "jQuery"
+   ],
+   "vector": [
+    0.6,
+    0.05,
+    0.0,
+    0.05,
+    0.6,
+    0.1,
+    0.1,
+    0.345,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    0.0,
+    0.4,
+    0.0,
+    0.7
+   ],
+   "title": "Codecov",
+   "description": "Codecov doesn't just measure code coverage—it helps you improve code quality at every step.It uses AI to generate unit tests and review pull requests, so you can merge better code, faster.",
+   "category": "Developer",
+   "confidence": 0.74,
+   "tags": [],
+   "fingerprint": "codecovcodecovdoesntjustmeasurecodecoverageithelpsyouimprovecodequalityat",
+   "vibes": [],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2020,
+   "screenshot_file": "5ba7c31a45d6f27f46e1.jpg"
+  },
+  {
+   "url": "https://msp.ucsd.edu",
+   "source": "link from tonejs.github.io",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "msp.ucsd.edu"
+   ],
+   "lang": "en",
+   "load_time": 0.21,
+   "https": true,
+   "words": 176,
+   "embed": true,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "Hand-coded",
+    "No JavaScript"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.7,
+    0.1,
+    0.1,
+    0.259,
+    0.2,
+    0.05,
+    0.3,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.85
+   ],
+   "title": "Miller Puckette",
+   "description": "We want colleges to be theaters of learning, but they function just as much as theaters of culling. Those are warring, contradictory dynamics. -Frank Bruni in theNew York Times.",
+   "category": "Education",
+   "confidence": 0.92,
+   "tags": [],
+   "fingerprint": "millerpuckettewewantcollegestobetheatersoflearningbuttheyfunctionjustasmuchast",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2013,
+   "screenshot_file": "dad514f695f7063c1b47.jpg"
+  },
+  {
+   "url": "https://about.utah.edu",
+   "source": "link from music.utah.edu",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "about.utah.edu"
+   ],
+   "lang": "en",
+   "load_time": 0.14,
+   "https": true,
+   "words": 2399,
+   "embed": true,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "WordPress",
+    "jQuery"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.8,
+    0.1,
+    0.1,
+    1.0,
+    0.2,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.4,
+    0.0,
+    0.85
+   ],
+   "title": "About the U",
+   "description": "Located in the bustling urban landscape of Salt Lake City, the University of Utah stands as the state's flagship institution and the region's hub of higher education.",
+   "category": "Education",
+   "confidence": 0.91,
+   "tags": [],
+   "fingerprint": "abouttheulocatedinthebustlingurbanlandscapeofsaltlakecitytheuniversityofuta",
+   "vibes": [
+    "nerdy"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2024,
+   "screenshot_file": "a5de5ba0af0edfeb8513.jpg"
+  },
+  {
+   "url": "https://regulations.utah.edu",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "regulations.utah.edu"
+   ],
+   "lang": "en",
+   "load_time": 0.16,
+   "https": true,
+   "words": 275,
+   "embed": true,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.6,
+    0.1,
+    0.1,
+    0.292,
+    0.2,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.85
+   ],
+   "title": "Regulations Library",
+   "description": "Information about University of Utah Regulations from the Regulations Library at the University of Utah",
+   "category": "Education",
+   "confidence": 0.88,
+   "tags": [],
+   "fingerprint": "regulationslibraryinformationaboutuniversityofutahregulationsfromtheregulationslibraryat",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2008,
+   "screenshot_file": "61c9e80fa9c2e916d4df.jpg"
+  },
+  {
+   "url": "https://health.utah.edu",
+   "source": "link from healthcare.utah.edu",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "health.utah.edu"
+   ],
+   "lang": "en",
+   "load_time": 0.11,
+   "https": true,
+   "words": 715,
+   "embed": false,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "jQuery",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.22,
+    0.3,
+    0.0,
+    0.2,
+    0.8,
+    0.1,
+    0.45,
+    0.438,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.85
+   ],
+   "title": "College of Health | University of Utah Health",
+   "description": "Explore degrees at the University of Utah College of Health, from undergraduate to PhD programs in therapy, nutrition, kinesiology, and more. Apply today!",
+   "category": "Education",
+   "confidence": 0.88,
+   "tags": [],
+   "fingerprint": "collegeofhealthuniversityofutahhealthexploredegreesattheuniversityofutahcollegeofhealthfromundergraduate",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 1996,
+   "screenshot_file": "ac46ce14df6a0f94e546.jpg"
+  },
+  {
+   "url": "https://mochajs.org",
+   "source": "link from tonejs.github.io",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "mochajs.org"
+   ],
+   "lang": "en",
+   "load_time": 0.04,
+   "https": true,
+   "words": 151,
+   "embed": true,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "Astro"
+   ],
+   "vector": [
+    0.1,
+    0.17,
+    0.0,
+    0.05,
+    0.1,
+    0.1,
+    0.2,
+    0.25,
+    0.2,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.4,
+    0.0,
+    0.7
+   ],
+   "title": "Mocha",
+   "description": "Use Mocha at work? Ask your manager or marketing team if they'd help support our project. Your company's logo will also be displayed on npmjs.com and our GitHub repository.",
+   "category": "Business",
+   "confidence": 0.65,
+   "tags": [
+    "Developer"
+   ],
+   "fingerprint": "mochausemochaatworkaskyourmanagerormarketingteamiftheydhelpsupportour",
+   "vibes": [
+    "minimal"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2014,
+   "screenshot_file": "5eeacfd00547bd7ee302.jpg"
+  },
+  {
+   "url": "https://uhealthplan.utah.edu",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "uhealthplan.utah.edu"
+   ],
+   "lang": "en",
+   "load_time": 0.12,
+   "https": true,
+   "words": 507,
+   "embed": false,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "jQuery",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.3,
+    0.0,
+    0.2,
+    0.6,
+    0.1,
+    0.45,
+    0.369,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.85
+   ],
+   "title": "U of U Health Plans",
+   "description": "U of U Health Plans is committed to enhancing the member experience, improving the quality of care, strengthening the health of populations, and reducing the cost of care.",
+   "category": "Education",
+   "confidence": 0.85,
+   "tags": [],
+   "fingerprint": "uofuhealthplansuofuhealthplansiscommittedtoenhancingthememberexperienceimprovingt",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2007,
+   "screenshot_file": "a43db00d305540133cfe.jpg"
+  },
+  {
+   "url": "https://ala.org",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "ala.org"
+   ],
+   "lang": "?",
+   "load_time": 0.11,
+   "https": true,
+   "words": 1443,
+   "embed": false,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "Tailwind",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.7,
+    0.3,
+    0.1,
+    0.1,
+    0.681,
+    0.5,
+    0.05,
+    0.3,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.85
+   ],
+   "title": "American Library Association",
+   "description": "Awards, publishing, and conferences: ALA membership advocates to ensure access to information for all",
+   "category": "Art",
+   "confidence": 0.6,
+   "tags": [
+    "Communities",
+    "Education"
+   ],
+   "fingerprint": "americanlibraryassociationawardspublishingandconferencesalamembershipadvocatestoensureaccesst",
+   "vibes": [
+    "artsy",
+    "handmade"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 1996,
+   "screenshot_file": "14203d031584a3417c21.jpg"
+  },
+  {
+   "url": "https://pharmacy.utah.edu",
+   "source": "link from healthcare.utah.edu",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "pharmacy.utah.edu"
+   ],
+   "lang": "en",
+   "load_time": 0.43,
+   "https": true,
+   "words": 373,
+   "embed": false,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "jQuery",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.22,
+    0.3,
+    0.0,
+    0.2,
+    0.7,
+    0.1,
+    0.45,
+    0.324,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.85
+   ],
+   "title": "College of Pharmacy",
+   "description": "College is home to many of the top pharmacy students, researchers, and practice leaders in the world.",
+   "category": "Education",
+   "confidence": 0.8,
+   "tags": [],
+   "fingerprint": "collegeofpharmacycollegeishometomanyofthetoppharmacystudentsresearchersandpractice",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2000,
+   "screenshot_file": "57554f77c2282017582c.jpg"
+  },
+  {
+   "url": "https://dentistry.utah.edu",
+   "source": "link from healthcare.utah.edu",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "dentistry.utah.edu"
+   ],
+   "lang": "en",
+   "load_time": 0.35,
+   "https": true,
+   "words": 332,
+   "embed": false,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "jQuery",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.3,
+    0.0,
+    0.2,
+    0.6,
+    0.1,
+    0.45,
+    0.311,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.85
+   ],
+   "title": "School of Dentistry | University of Utah Health",
+   "description": "A leader in educating future dentists, the dentistry school has a Doctor in Dentistry (DDS) degree and a General Practice Residency (GPR).",
+   "category": "Education",
+   "confidence": 0.77,
+   "tags": [],
+   "fingerprint": "schoolofdentistryuniversityofutahhealthaleaderineducatingfuturedentiststhedentistryschoolhasadoctorindent",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2012,
+   "screenshot_file": "84e11e671d9c89fd1efb.jpg"
+  },
+  {
+   "url": "https://medicine.utah.edu",
+   "source": "link from healthcare.utah.edu",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "medicine.utah.edu"
+   ],
+   "lang": "en",
+   "load_time": 2.7,
+   "https": true,
+   "words": 732,
+   "embed": false,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "jQuery",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.22,
+    0.3,
+    0.0,
+    0.2,
+    0.9,
+    0.1,
+    0.45,
+    0.444,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.85
+   ],
+   "title": "School of Medicine",
+   "description": "The University of Utah School of Medicine combines excellence in teaching, research, and clinical expertise to train tomorrow's physicians for the rapidly changing world of medicine.",
+   "category": "Education",
+   "confidence": 0.77,
+   "tags": [],
+   "fingerprint": "schoolofmedicinetheuniversityofutahschoolofmedicinecombinesexcellenceinteachingresea",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2007,
+   "screenshot_file": "72eb13f934531909586b.jpg"
+  },
+  {
+   "url": "https://chaijs.com",
+   "source": "link from tonejs.github.io",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "chaijs.com"
+   ],
+   "lang": "en",
+   "load_time": 0.45,
+   "https": true,
+   "words": 197,
+   "embed": true,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "jQuery",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.6,
+    0.05,
+    0.0,
+    0.05,
+    0.6,
+    0.1,
+    0.1,
+    0.266,
+    0.2,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.7
+   ],
+   "title": "Chai",
+   "description": "Create expressive integration tests with chai and selenium-webdriver.",
+   "category": "Developer",
+   "confidence": 0.6,
+   "tags": [
+    "Tools"
+   ],
+   "fingerprint": "chaicreateexpressiveintegrationtestswithchaiandseleniumwebdriver",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2012,
+   "screenshot_file": "a599cd9e6bc5f479ad4c.jpg"
+  },
+  {
+   "url": "https://nursing.utah.edu",
+   "source": "link from healthcare.utah.edu",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "nursing.utah.edu"
+   ],
+   "lang": "en",
+   "load_time": 0.42,
+   "https": true,
+   "words": 198,
+   "embed": false,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "jQuery",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.3,
+    0.0,
+    0.3,
+    0.6,
+    0.1,
+    0.45,
+    0.266,
+    0.2,
+    0.05,
+    0.15,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.85
+   ],
+   "title": "College of Nursing | University of Utah Health",
+   "description": "The College of Nursing is an integral part of University of Utah Health and the University of Utah.",
+   "category": "Education",
+   "confidence": 0.7,
+   "tags": [],
+   "fingerprint": "collegeofnursinguniversityofutahhealththecollegeofnursingisanintegralpartofuniversityofutahhealthandthe",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2008,
+   "screenshot_file": "41d62c2f837f7c86224c.jpg"
+  },
+  {
+   "url": "https://it.utah.edu",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "it.utah.edu"
+   ],
+   "lang": "en",
+   "load_time": 0.92,
+   "https": true,
+   "words": 565,
+   "embed": true,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "Hand-coded"
+   ],
+   "vector": [
+    0.22,
+    0.05,
+    0.0,
+    0.05,
+    0.7,
+    0.1,
+    0.1,
+    0.388,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.85
+   ],
+   "title": "The University of Utah",
+   "description": "University Technology Services (UTS) strives to provide stable, dependable, and secure IT access for students, faculty, staff, clinicians, patients, researchers, and visitors.",
+   "category": "Education",
+   "confidence": 0.69,
+   "tags": [],
+   "fingerprint": "theuniversityofutahuniversitytechnologyservicesutsstrivestoprovidestabledependableand",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2001,
+   "screenshot_file": "e8b83cfa94de08541378.jpg"
+  },
+  {
+   "url": "https://news.vcu.edu",
+   "source": "link from music.utah.edu",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "news.vcu.edu"
+   ],
+   "lang": "en",
+   "load_time": 0.8,
+   "https": true,
+   "words": 324,
+   "embed": false,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "jQuery",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.22,
+    0.05,
+    0.0,
+    0.05,
+    0.7,
+    0.1,
+    0.1,
+    0.308,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.45
+   ],
+   "title": "VCU News",
+   "description": "VCU News is your destination for stories that show the impact of a top, urban public research university, and the people who make it great.",
+   "category": "News",
+   "confidence": 0.66,
+   "tags": [
+    "Education"
+   ],
+   "fingerprint": "vcunewsvcunewsisyourdestinationforstoriesthatshowtheimpactofatopurbanpu",
+   "vibes": [
+    "nerdy",
+    "handmade"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2006,
+   "screenshot_file": "9fa45f58222176846ba5.jpg"
+  },
+  {
+   "url": "https://experiments.withgoogle.com",
+   "source": "link from quickdraw.withgoogle.com",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-14",
+   "checked": "2026-11-14",
+   "fails": 0,
+   "aliases": [
+    "experiments.withgoogle.com"
+   ],
+   "lang": "?",
+   "load_time": 0.31,
+   "https": true,
+   "words": 621,
+   "embed": false,
+   "safety_checked": "2026-11-14",
+   "tech": [
+    "jQuery",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.42,
+    0.0,
+    0.85,
+    0.3,
+    0.1,
+    0.55,
+    0.407,
+    0.5,
+    0.05,
+    0.3,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.85
+   ],
+   "title": "Experiments with Google",
+   "description": "Since 2009, coders have created thousands of amazing experiments using Chrome, Android, AI, WebVR, AR and more.",
+   "category": "Art",
+   "confidence": 0.6,
+   "tags": [],
+   "fingerprint": "experimentswithgooglesince2009codershavecreatedthousandsofamazingexperimentsusingchromea",
+   "vibes": [
+    "playful",
+    "artsy",
+    "handmade"
+   ],
+   "archive_checked": "2026-11-14",
+   "first_seen": 2017,
+   "screenshot_file": "1850cf80c40d12871cc9.jpg"
   }
  ]
 }
