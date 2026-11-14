@@ -1,73 +1,13 @@
 {
- "voters": 3,
+ "voters": 2,
  "sites": {
   "https://wiby.me": {
-   "score": 4,
-   "voters": 2
-  },
-  "https://neal.fun": {
-   "score": 3,
-   "voters": 1
-  },
-  "https://pumpkin.dance": {
-   "score": 3,
-   "voters": 1
-  },
-  "https://jvns.ca": {
-   "score": 3,
-   "voters": 1
-  },
-  "https://danluu.com": {
-   "score": 3,
-   "voters": 1
-  },
-  "https://esolangs.org": {
-   "score": 3,
-   "voters": 1
-  },
-  "https://synthtopia.com": {
-   "score": 3,
-   "voters": 1
-  },
-  "https://16colo.rs": {
-   "score": 3,
-   "voters": 1
-  },
-  "https://britains-disk.pages.dev": {
-   "score": 3,
-   "voters": 1
-  },
-  "https://robinsloan.com": {
-   "score": 3,
-   "voters": 1
-  },
-  "https://sadgrl.online": {
-   "score": 3,
-   "voters": 1
-  },
-  "https://virtuallyfun.com": {
-   "score": 3,
-   "voters": 1
-  },
-  "https://maya.land": {
-   "score": 3,
-   "voters": 1
-  },
-  "https://coryd.dev": {
-   "score": 3,
-   "voters": 1
-  },
-  "https://patchwork.nekoweb.org": {
-   "score": 3,
-   "voters": 1
-  },
-  "https://ourspacevibes.com": {
-   "score": 3,
+   "score": 1,
    "voters": 1
   },
   "https://tilde.green": {
-   "score": 4,
-   "voters": 2
+   "score": 1,
+   "voters": 1
   }
  }
 }
