@@ -1,27 +1,27 @@
 {
- "total": 199,
+ "total": 206,
  "dead": 0,
  "flagged": 0,
- "runs": 53,
- "last_run": "2026-11-16T01:02:08Z",
- "found_last_run": 9,
+ "runs": 54,
+ "last_run": "2026-11-16T07:58:41Z",
+ "found_last_run": 7,
  "beta": false,
  "categories": {
   "Games": 30,
   "Creative": 8,
   "Tools": 16,
-  "Art": 12,
+  "Art": 15,
   "Retro": 20,
   "Curiosities": 11,
   "Technology": 1,
-  "Communities": 7,
+  "Communities": 9,
   "Developer": 10,
-  "Education": 67,
+  "Education": 68,
   "Random": 1,
   "Personal": 2,
   "Science": 9,
   "Business": 1,
-  "News": 4
+  "News": 5
  },
  "bot_version": 4,
  "history": [
@@ -289,9 +289,47 @@
    "date": "2026-11-16",
    "added": 9,
    "total": 199
+  },
+  {
+   "date": "2026-11-16",
+   "added": 7,
+   "total": 206
   }
  ],
  "runs_log": [
+  {
+   "started": "2026-11-16T07:58:41Z",
+   "rejected": {
+    "duplicate": 3,
+    "bot challenge": 7,
+    "too few words": 12,
+    "empty javascript shell": 14,
+    "parked": 3,
+    "lazy title": 17,
+    "unreachable": 19,
+    "corporate redirect": 1,
+    "weak description": 7,
+    "unsafe": 5,
+    "big platform": 3,
+    "unsure category": 3,
+    "not html": 1,
+    "slow": 3,
+    "login gate": 2,
+    "link farm": 1,
+    "cookie wall": 1
+   },
+   "duplicates_removed": 0,
+   "sources": {},
+   "candidates": 109,
+   "deep_links": 109,
+   "added": 7,
+   "rechecked": 190,
+   "stale_rechecked": 0,
+   "newly_dead": 0,
+   "flagged": 0,
+   "malware_list": 0,
+   "archive_years": 6
+  },
   {
    "started": "2026-11-16T01:02:08Z",
    "rejected": {
@@ -1265,40 +1303,10 @@
    "flagged": 0,
    "malware_list": 0,
    "archive_years": 18
-  },
-  {
-   "started": "2026-10-31T07:03:40Z",
-   "rejected": {
-    "lazy title": 44,
-    "too few words": 3,
-    "unreachable": 9,
-    "bot challenge": 1,
-    "link farm": 2,
-    "parked": 3,
-    "http 247": 1,
-    "unsure category": 10,
-    "empty javascript shell": 17,
-    "weak description": 4,
-    "login gate": 2
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 131,
-    "lobsters": 15
-   },
-   "candidates": 100,
-   "deep_links": 120,
-   "added": 4,
-   "rechecked": 200,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 6
   }
  ],
  "reset": "2026-10-26",
- "candidates_checked": 103,
+ "candidates_checked": 109,
  "total_sites": 89,
  "last_audit": "2026-11-07"
 }
