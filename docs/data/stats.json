@@ -1,27 +1,27 @@
 {
- "total": 249,
+ "total": 259,
  "dead": 1,
  "flagged": 0,
- "runs": 59,
- "last_run": "2026-11-18T02:54:02Z",
- "found_last_run": 6,
+ "runs": 60,
+ "last_run": "2026-11-18T11:41:33Z",
+ "found_last_run": 10,
  "beta": false,
  "categories": {
   "Games": 30,
   "Creative": 8,
-  "Tools": 16,
-  "Art": 16,
+  "Tools": 17,
+  "Art": 14,
   "Retro": 20,
   "Curiosities": 11,
   "Technology": 1,
   "Communities": 10,
   "Developer": 11,
-  "Education": 103,
-  "Random": 1,
+  "Education": 110,
+  "Random": 2,
   "Personal": 2,
-  "Science": 11,
-  "Business": 2,
-  "News": 7
+  "Science": 12,
+  "Business": 3,
+  "News": 8
  },
  "bot_version": 4,
  "history": [
@@ -319,9 +319,46 @@
    "date": "2026-11-18",
    "added": 6,
    "total": 249
+  },
+  {
+   "date": "2026-11-18",
+   "added": 10,
+   "total": 259
   }
  ],
  "runs_log": [
+  {
+   "started": "2026-11-18T11:41:33Z",
+   "rejected": {
+    "duplicate": 10,
+    "too few words": 12,
+    "weak description": 9,
+    "login gate": 2,
+    "bot challenge": 7,
+    "unreachable": 25,
+    "lazy title": 15,
+    "parked": 2,
+    "http 202": 1,
+    "ai slop": 1,
+    "empty javascript shell": 30,
+    "unsure category": 8,
+    "cookie wall": 2,
+    "big platform": 2,
+    "flipped": 1,
+    "unsafe": 3
+   },
+   "duplicates_removed": 0,
+   "sources": {},
+   "candidates": 140,
+   "deep_links": 232,
+   "added": 10,
+   "rechecked": 200,
+   "stale_rechecked": 0,
+   "newly_dead": 0,
+   "flagged": 0,
+   "malware_list": 0,
+   "archive_years": 10
+  },
   {
    "started": "2026-11-18T02:54:02Z",
    "rejected": {
@@ -1291,39 +1328,6 @@
    "flagged": 0,
    "malware_list": 0,
    "archive_years": 14
-  },
-  {
-   "started": "2026-11-01T17:09:49Z",
-   "rejected": {
-    "too few words": 31,
-    "parked": 16,
-    "lazy title": 27,
-    "unsure category": 10,
-    "unreachable": 6,
-    "empty javascript shell": 52,
-    "weak description": 14,
-    "starter template": 8,
-    "unsafe": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 52,
-    "lobsters": 19,
-    "neocities": 55,
-    "nekoweb": 1,
-    "tildeverse": 18,
-    "marginalia": 28,
-    "ooh.directory": 3
-   },
-   "candidates": 180,
-   "deep_links": 500,
-   "added": 15,
-   "rechecked": 82,
-   "stale_rechecked": 0,
-   "newly_dead": 4,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 13
   }
  ],
  "reset": "2026-10-26",
