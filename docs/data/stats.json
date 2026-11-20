@@ -1,25 +1,25 @@
 {
- "total": 283,
+ "total": 291,
  "dead": 2,
  "flagged": 1,
- "runs": 64,
- "last_run": "2026-11-19T20:36:55Z",
- "found_last_run": 3,
+ "runs": 65,
+ "last_run": "2026-11-20T02:19:48Z",
+ "found_last_run": 8,
  "beta": false,
  "categories": {
   "Games": 30,
   "Creative": 8,
   "Tools": 17,
-  "Art": 13,
+  "Art": 14,
   "Retro": 20,
   "Curiosities": 11,
   "Technology": 2,
   "Communities": 11,
   "Developer": 12,
-  "Education": 128,
+  "Education": 134,
   "Random": 3,
   "Personal": 3,
-  "Science": 13,
+  "Science": 14,
   "Business": 4,
   "News": 8
  },
@@ -344,9 +344,46 @@
    "date": "2026-11-19",
    "added": 3,
    "total": 283
+  },
+  {
+   "date": "2026-11-20",
+   "added": 8,
+   "total": 291
   }
  ],
  "runs_log": [
+  {
+   "started": "2026-11-20T02:19:48Z",
+   "rejected": {
+    "duplicate": 3,
+    "unreachable": 31,
+    "lazy title": 23,
+    "unsure category": 11,
+    "empty javascript shell": 22,
+    "too few words": 8,
+    "corporate consulting": 2,
+    "bot challenge": 5,
+    "big platform": 1,
+    "unsafe": 2,
+    "weak description": 4,
+    "parked": 1,
+    "login gate": 4,
+    "not html": 1,
+    "link farm": 1,
+    "cookie wall": 1
+   },
+   "duplicates_removed": 0,
+   "sources": {},
+   "candidates": 128,
+   "deep_links": 128,
+   "added": 8,
+   "rechecked": 200,
+   "stale_rechecked": 0,
+   "newly_dead": 0,
+   "flagged": 1,
+   "malware_list": 0,
+   "archive_years": 8
+  },
   {
    "started": "2026-11-19T20:36:55Z",
    "rejected": {
@@ -1283,54 +1320,10 @@
    "flagged": 0,
    "malware_list": 0,
    "archive_years": 17
-  },
-  {
-   "started": "2026-11-02T20:01:21Z",
-   "rejected": {
-    "lazy title": 37,
-    "weak description": 7,
-    "empty javascript shell": 44,
-    "too few words": 18,
-    "parked": 7,
-    "unsafe": 11,
-    "unsure category": 18,
-    "starter template": 3,
-    "login gate": 1,
-    "unreachable": 10,
-    "bot challenge": 2,
-    "big platform": 1,
-    "cookie wall": 1,
-    "link farm": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {
-    "hacker news": 58,
-    "lobsters": 19,
-    "tiny helpers": 4,
-    "js13k": 2,
-    "chrome experiments": 18,
-    "awesome lists": 5,
-    "useless web": 5,
-    "indieweb": 13,
-    "neocities": 60,
-    "nekoweb": 1,
-    "tildeverse": 18,
-    "marginalia": 27,
-    "ooh.directory": 4
-   },
-   "candidates": 180,
-   "deep_links": 72,
-   "added": 19,
-   "rechecked": 18,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 16
   }
  ],
  "reset": "2026-10-26",
- "candidates_checked": 86,
+ "candidates_checked": 128,
  "total_sites": 89,
  "last_audit": "2026-11-07"
 }
