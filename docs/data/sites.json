@@ -11,7 +11,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -64,7 +64,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -117,7 +117,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -170,7 +170,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -223,7 +223,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -316,7 +316,7 @@
    ],
    "first_seen": 2013,
    "lang": "?",
-   "load_time": 0.06,
+   "load_time": 0.25,
    "safety_checked": "2026-11-20"
   },
   {
@@ -329,7 +329,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -382,7 +382,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -435,7 +435,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -488,7 +488,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -581,7 +581,7 @@
    ],
    "first_seen": 2016,
    "lang": "ar",
-   "load_time": 0.07,
+   "load_time": 0.13,
    "safety_checked": "2026-11-20"
   },
   {
@@ -594,7 +594,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -647,7 +647,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -741,7 +741,7 @@
    "first_seen": 2011,
    "robot_note": "unreachable (2026-11-17)",
    "lang": "?",
-   "load_time": 0.73,
+   "load_time": 7.29,
    "safety_checked": "2026-11-20"
   },
   {
@@ -754,7 +754,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -847,7 +847,7 @@
    ],
    "first_seen": 2008,
    "lang": "en",
-   "load_time": 1.17,
+   "load_time": 1.06,
    "safety_checked": "2026-11-20"
   },
   {
@@ -860,7 +860,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -954,7 +954,7 @@
    "first_seen": 2015,
    "robot_note": "unreachable (2026-11-14)",
    "lang": "en",
-   "load_time": 0.74,
+   "load_time": 1.04,
    "safety_checked": "2026-11-20"
   },
   {
@@ -969,7 +969,7 @@
    "checked": "2026-11-20",
    "fails": 0,
    "https": true,
-   "words": 677,
+   "words": 700,
    "embed": false,
    "locked": true,
    "brick": true,
@@ -995,7 +995,7 @@
     0.3,
     0.1,
     0.4,
-    0.726,
+    0.733,
     0.5,
     0.05,
     0.3,
@@ -1007,7 +1007,7 @@
    ],
    "first_seen": 2000,
    "lang": "en",
-   "load_time": 0.12,
+   "load_time": 0.54,
    "safety_checked": "2026-11-20"
   },
   {
@@ -1020,7 +1020,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1073,7 +1073,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1126,7 +1126,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1219,7 +1219,7 @@
    ],
    "first_seen": 2015,
    "lang": "en",
-   "load_time": 0.37,
+   "load_time": 0.34,
    "safety_checked": "2026-11-20"
   },
   {
@@ -1287,7 +1287,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1382,7 +1382,7 @@
    ],
    "first_seen": 2021,
    "lang": "ko",
-   "load_time": 0.09,
+   "load_time": 0.08,
    "safety_checked": "2026-11-20"
   },
   {
@@ -1435,7 +1435,7 @@
    ],
    "first_seen": 2023,
    "lang": "?",
-   "load_time": 0.55,
+   "load_time": 0.44,
    "safety_checked": "2026-11-20"
   },
   {
@@ -1448,7 +1448,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1501,7 +1501,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1648,7 +1648,7 @@
    ],
    "first_seen": 2014,
    "lang": "?",
-   "load_time": 0.11,
+   "load_time": 0.13,
    "safety_checked": "2026-11-20"
   },
   {
@@ -1702,7 +1702,7 @@
    ],
    "first_seen": 2015,
    "lang": "?",
-   "load_time": 0.17,
+   "load_time": 0.16,
    "safety_checked": "2026-11-20"
   },
   {
@@ -1756,7 +1756,7 @@
    ],
    "first_seen": 2012,
    "lang": "?",
-   "load_time": 0.08,
+   "load_time": 0.32,
    "safety_checked": "2026-11-20"
   },
   {
@@ -1810,7 +1810,7 @@
    ],
    "first_seen": 2013,
    "lang": "?",
-   "load_time": 0.17,
+   "load_time": 0.37,
    "safety_checked": "2026-11-20"
   },
   {
@@ -1823,7 +1823,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -1878,7 +1878,7 @@
    "checked": "2026-11-20",
    "fails": 0,
    "https": true,
-   "words": 1855,
+   "words": 3022,
    "embed": false,
    "locked": true,
    "brick": true,
@@ -1900,26 +1900,26 @@
    "vector": [
     0.1,
     0.05,
+    0.45,
+    0.7,
     0.3,
-    0.15,
-    0.8,
     0.1,
     0.1,
-    0.818,
+    1.0,
     0.2,
     0.05,
-    0.15,
+    0.3,
     0.85,
     0.0,
-    0.5,
+    0.4,
     0.0,
-    0.7
+    0.85
    ],
    "first_seen": 2013,
    "feed_url": "https://mynoise.net/rss.xml",
    "last_tended": "2026-11-11",
    "lang": "en",
-   "load_time": 0.66,
+   "load_time": 0.92,
    "safety_checked": "2026-11-20"
   },
   {
@@ -1932,7 +1932,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2025,7 +2025,7 @@
    ],
    "first_seen": 2013,
    "lang": "?",
-   "load_time": 1.14,
+   "load_time": 1.25,
    "safety_checked": "2026-11-20"
   },
   {
@@ -2038,7 +2038,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2091,7 +2091,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2184,7 +2184,7 @@
    ],
    "first_seen": 2008,
    "lang": "en",
-   "load_time": 0.47,
+   "load_time": 0.56,
    "safety_checked": "2026-11-20"
   },
   {
@@ -2197,7 +2197,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2252,7 +2252,7 @@
    "checked": "2026-11-20",
    "fails": 0,
    "https": true,
-   "words": 205,
+   "words": 210,
    "embed": false,
    "locked": true,
    "brick": true,
@@ -2278,7 +2278,7 @@
     0.1,
     0.1,
     0.1,
-    0.268,
+    0.27,
     0.2,
     0.05,
     0.15,
@@ -2290,7 +2290,7 @@
    ],
    "first_seen": 2016,
    "lang": "?",
-   "load_time": 0.27,
+   "load_time": 0.68,
    "safety_checked": "2026-11-20"
   },
   {
@@ -2303,7 +2303,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2396,7 +2396,7 @@
    ],
    "first_seen": 2004,
    "lang": "en",
-   "load_time": 0.06,
+   "load_time": 0.12,
    "safety_checked": "2026-11-20"
   },
   {
@@ -2409,7 +2409,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2464,7 +2464,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2517,7 +2517,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2625,7 +2625,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2678,7 +2678,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2772,7 +2772,7 @@
    ],
    "first_seen": 2014,
    "lang": "?",
-   "load_time": 0.23,
+   "load_time": 0.11,
    "safety_checked": "2026-11-20"
   },
   {
@@ -2825,7 +2825,7 @@
    ],
    "first_seen": 2023,
    "lang": "en",
-   "load_time": 0.1,
+   "load_time": 0.26,
    "safety_checked": "2026-11-20"
   },
   {
@@ -2838,7 +2838,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2891,7 +2891,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -2986,7 +2986,7 @@
    "feed_url": "https://pcjs.org/feed",
    "last_tended": "2026-11-11",
    "lang": "en",
-   "load_time": 0.36,
+   "load_time": 0.43,
    "safety_checked": "2026-11-20"
   },
   {
@@ -2999,7 +2999,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -3095,7 +3095,7 @@
    "feed_url": "https://webdesignmuseum.org/feed",
    "last_tended": "2026-11-13",
    "lang": "en",
-   "load_time": 0.16,
+   "load_time": 0.24,
    "safety_checked": "2026-11-20"
   },
   {
@@ -3108,7 +3108,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -3161,7 +3161,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -3254,7 +3254,7 @@
    ],
    "first_seen": 1994,
    "lang": "?",
-   "load_time": 0.46,
+   "load_time": 0.2,
    "safety_checked": "2026-11-20"
   },
   {
@@ -3267,7 +3267,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -3362,7 +3362,7 @@
    "feed_url": "https://virtuallyfun.com/feed/",
    "last_tended": "2026-11-13",
    "lang": "en",
-   "load_time": 0.45,
+   "load_time": 1.15,
    "safety_checked": "2026-11-20",
    "robot_note": "parked (2026-11-18)"
   },
@@ -3417,7 +3417,7 @@
    ],
    "first_seen": 2021,
    "lang": "en",
-   "load_time": 0.08,
+   "load_time": 0.18,
    "safety_checked": "2026-11-20"
   },
   {
@@ -3472,7 +3472,7 @@
    ],
    "first_seen": 2021,
    "lang": "en",
-   "load_time": 0.13,
+   "load_time": 0.09,
    "safety_checked": "2026-11-20"
   },
   {
@@ -3527,7 +3527,7 @@
    ],
    "first_seen": 2022,
    "lang": "?",
-   "load_time": 0.1,
+   "load_time": 0.08,
    "safety_checked": "2026-11-20"
   },
   {
@@ -3582,7 +3582,7 @@
    ],
    "first_seen": 2021,
    "lang": "en",
-   "load_time": 0.07,
+   "load_time": 0.11,
    "safety_checked": "2026-11-20"
   },
   {
@@ -3636,7 +3636,7 @@
    ],
    "first_seen": 2022,
    "lang": "en",
-   "load_time": 0.14,
+   "load_time": 0.1,
    "safety_checked": "2026-11-20"
   },
   {
@@ -3690,7 +3690,7 @@
    ],
    "first_seen": 2016,
    "lang": "en",
-   "load_time": 0.12,
+   "load_time": 0.22,
    "safety_checked": "2026-11-20"
   },
   {
@@ -3743,7 +3743,7 @@
    ],
    "first_seen": 2013,
    "lang": "?",
-   "load_time": 0.47,
+   "load_time": 0.38,
    "safety_checked": "2026-11-20"
   },
   {
@@ -3756,7 +3756,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -3797,7 +3797,7 @@
     0.9
    ],
    "first_seen": 2020,
-   "robot_note": "too little content (2026-11-20)"
+   "robot_note": "slow (2026-11-20)"
   },
   {
    "url": "https://asciiflow.com",
@@ -3809,7 +3809,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -3902,7 +3902,7 @@
    ],
    "first_seen": 2020,
    "lang": "en",
-   "load_time": 0.07,
+   "load_time": 0.12,
    "safety_checked": "2026-11-20"
   },
   {
@@ -3915,7 +3915,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4061,7 +4061,7 @@
    ],
    "first_seen": 2022,
    "lang": "en",
-   "load_time": 0.45,
+   "load_time": 0.48,
    "safety_checked": "2026-11-20"
   },
   {
@@ -4115,7 +4115,7 @@
    ],
    "first_seen": 2021,
    "lang": "?",
-   "load_time": 0.11,
+   "load_time": 0.06,
    "safety_checked": "2026-11-20"
   },
   {
@@ -4128,7 +4128,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4238,7 +4238,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4333,7 +4333,7 @@
    "feed_url": "https://ciechanow.ski/atom.xml",
    "last_tended": "2024-12-17",
    "lang": "en",
-   "load_time": 0.6,
+   "load_time": 0.2,
    "safety_checked": "2026-11-20"
   },
   {
@@ -4386,7 +4386,7 @@
    ],
    "first_seen": 2013,
    "lang": "en",
-   "load_time": 0.09,
+   "load_time": 0.14,
    "safety_checked": "2026-11-20"
   },
   {
@@ -4399,7 +4399,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4493,7 +4493,7 @@
    ],
    "first_seen": 2012,
    "lang": "en",
-   "load_time": 2.04,
+   "load_time": 2.27,
    "safety_checked": "2026-11-20"
   },
   {
@@ -4546,7 +4546,7 @@
    ],
    "first_seen": 2018,
    "lang": "?",
-   "load_time": 0.21,
+   "load_time": 0.14,
    "safety_checked": "2026-11-20"
   },
   {
@@ -4559,7 +4559,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4612,7 +4612,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4653,7 +4653,7 @@
     0.9
    ],
    "first_seen": 2012,
-   "robot_note": "unreachable (2026-11-20)"
+   "robot_note": "flipped (2026-11-20)"
   },
   {
    "url": "https://libraryofbabel.info",
@@ -4665,7 +4665,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4718,7 +4718,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4811,7 +4811,7 @@
    ],
    "first_seen": 2012,
    "lang": "?",
-   "load_time": 0.49,
+   "load_time": 0.37,
    "safety_checked": "2026-11-20"
   },
   {
@@ -4824,7 +4824,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4918,7 +4918,7 @@
    ],
    "first_seen": 2021,
    "lang": "en",
-   "load_time": 0.35,
+   "load_time": 0.43,
    "safety_checked": "2026-11-20"
   },
   {
@@ -4931,7 +4931,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -4984,7 +4984,7 @@
    "review": "verified",
    "added": "2026-11-08",
    "checked": "2026-11-20",
-   "fails": 22,
+   "fails": 23,
    "https": true,
    "words": 150,
    "embed": true,
@@ -5080,7 +5080,7 @@
    "feed_url": "https://tilde.green/index.xml",
    "last_tended": "2025-03-07",
    "lang": "en",
-   "load_time": 0.39,
+   "load_time": 0.91,
    "safety_checked": "2026-11-20",
    "robot_note": "unreachable (2026-11-19)"
   },
@@ -5134,7 +5134,7 @@
    ],
    "first_seen": 1999,
    "lang": "?",
-   "load_time": 0.57,
+   "load_time": 0.34,
    "safety_checked": "2026-11-20"
   },
   {
@@ -5189,7 +5189,7 @@
    "feed_url": "https://jvns.ca/atom.xml",
    "last_tended": "2026-09-27",
    "lang": "en",
-   "load_time": 0.1,
+   "load_time": 0.38,
    "safety_checked": "2026-11-20"
   },
   {
@@ -5244,7 +5244,7 @@
    "feed_url": "https://danluu.com/atom.xml",
    "last_tended": "2026-11-02",
    "lang": "?",
-   "load_time": 0.08,
+   "load_time": 0.07,
    "safety_checked": "2026-11-20"
   },
   {
@@ -5259,7 +5259,7 @@
     "groups.io"
    ],
    "lang": "en",
-   "load_time": 0.46,
+   "load_time": 0.4,
    "https": true,
    "words": 1187,
    "embed": false,
@@ -5305,7 +5305,7 @@
    "review": "flagged",
    "added": "2026-11-14",
    "checked": "2026-11-20",
-   "fails": 6,
+   "fails": 7,
    "aliases": [
     "store.steampowered.com"
    ],
@@ -5364,7 +5364,7 @@
     "utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.51,
+   "load_time": 0.43,
    "https": true,
    "words": 309,
    "embed": true,
@@ -5416,7 +5416,7 @@
     "wiki.melonland.net"
    ],
    "lang": "en",
-   "load_time": 0.43,
+   "load_time": 0.55,
    "https": true,
    "words": 599,
    "embed": true,
@@ -5467,7 +5467,7 @@
     "artlab.hyundai.com"
    ],
    "lang": "en",
-   "load_time": 0.3,
+   "load_time": 0.59,
    "https": true,
    "words": 529,
    "embed": true,
@@ -5519,7 +5519,7 @@
     "recurse.com"
    ],
    "lang": "en",
-   "load_time": 0.27,
+   "load_time": 0.45,
    "https": true,
    "words": 559,
    "embed": false,
@@ -5576,7 +5576,7 @@
     "ncm.org.au"
    ],
    "lang": "en",
-   "load_time": 0.56,
+   "load_time": 0.69,
    "https": true,
    "words": 307,
    "embed": true,
@@ -5626,9 +5626,9 @@
     "sslc.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.11,
+   "load_time": 0.44,
    "https": true,
-   "words": 484,
+   "words": 474,
    "embed": false,
    "safety_checked": "2026-11-20",
    "tech": [
@@ -5642,7 +5642,7 @@
     0.7,
     0.1,
     0.1,
-    0.361,
+    0.358,
     0.5,
     0.05,
     0.15,
@@ -5682,7 +5682,7 @@
     "studioqs45.com"
    ],
    "lang": "en",
-   "load_time": 0.54,
+   "load_time": 0.73,
    "https": true,
    "words": 148,
    "embed": true,
@@ -5739,7 +5739,7 @@
     "news.spencer.place"
    ],
    "lang": "en",
-   "load_time": 0.17,
+   "load_time": 0.39,
    "https": true,
    "words": 49,
    "embed": false,
@@ -5792,9 +5792,9 @@
     "forum.frutigeraeroarchive.org"
    ],
    "lang": "en",
-   "load_time": 0.54,
+   "load_time": 0.73,
    "https": true,
-   "words": 832,
+   "words": 824,
    "embed": false,
    "safety_checked": "2026-11-20",
    "tech": [
@@ -5809,7 +5809,7 @@
     0.4,
     0.1,
     0.1,
-    0.477,
+    0.475,
     0.5,
     0.05,
     0.15,
@@ -5820,11 +5820,11 @@
     0.7
    ],
    "title": "Frutiger Aero Archive Forums",
-   "description": "In total there are 3 users online :: 1 registered and 2 hidden (based on users active over the past 5 minutes)Most users ever online was 19 on Mon Sep 14, 2026 7:41 pm",
+   "description": "In total there are 4 users online :: 2 registered and 2 hidden (based on users active over the past 5 minutes)Most users ever online was 19 on Mon Sep 14, 2026 7:41 pm",
    "category": "Communities",
    "confidence": 1.0,
    "tags": [],
-   "fingerprint": "frutigeraeroarchiveforumsintotalthereare3usersonline1registeredand2hiddenbasedonusersa",
+   "fingerprint": "frutigeraeroarchiveforumsintotalthereare4usersonline2registeredand2hiddenbasedonusersa",
    "vibes": [
     "handmade"
    ],
@@ -5844,7 +5844,7 @@
     "lite.ip2location.com"
    ],
    "lang": "en",
-   "load_time": 0.2,
+   "load_time": 0.23,
    "https": true,
    "words": 495,
    "embed": false,
@@ -5897,7 +5897,7 @@
     "tonejs.github.io"
    ],
    "lang": "?",
-   "load_time": 0.03,
+   "load_time": 0.13,
    "https": true,
    "words": 954,
    "embed": true,
@@ -5953,7 +5953,7 @@
     "link.springer.com"
    ],
    "lang": "en",
-   "load_time": 1.19,
+   "load_time": 1.23,
    "https": true,
    "words": 477,
    "embed": false,
@@ -6007,7 +6007,7 @@
     "lpi.usra.edu"
    ],
    "lang": "en",
-   "load_time": 0.51,
+   "load_time": 0.32,
    "https": true,
    "words": 447,
    "embed": false,
@@ -6064,7 +6064,7 @@
     "about.marginalia-search.com"
    ],
    "lang": "en",
-   "load_time": 0.38,
+   "load_time": 0.47,
    "https": true,
    "words": 558,
    "embed": true,
@@ -6119,7 +6119,7 @@
     "admissions.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.06,
+   "load_time": 0.2,
    "https": true,
    "words": 265,
    "embed": true,
@@ -6171,7 +6171,7 @@
     "advising.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.17,
+   "load_time": 0.28,
    "https": true,
    "words": 432,
    "embed": true,
@@ -6222,7 +6222,7 @@
     "leadership.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.2,
+   "load_time": 0.26,
    "https": true,
    "words": 550,
    "embed": true,
@@ -6272,7 +6272,7 @@
     "healthcare.utah.edu"
    ],
    "lang": "en",
-   "load_time": 1.17,
+   "load_time": 1.97,
    "https": true,
    "words": 639,
    "embed": true,
@@ -6324,7 +6324,7 @@
     "housing.utah.edu"
    ],
    "lang": "en",
-   "load_time": 1.11,
+   "load_time": 1.43,
    "https": true,
    "words": 372,
    "embed": true,
@@ -6376,7 +6376,7 @@
     "us.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.17,
+   "load_time": 0.29,
    "https": true,
    "words": 612,
    "embed": true,
@@ -6428,7 +6428,7 @@
     "financialaid.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.18,
+   "load_time": 0.31,
    "https": true,
    "words": 1862,
    "embed": true,
@@ -6479,9 +6479,9 @@
     "uofuhealth.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.2,
+   "load_time": 0.24,
    "https": true,
-   "words": 678,
+   "words": 707,
    "embed": false,
    "safety_checked": "2026-11-20",
    "tech": [
@@ -6496,7 +6496,7 @@
     0.8,
     0.1,
     0.45,
-    0.426,
+    0.436,
     0.5,
     0.05,
     0.15,
@@ -6509,11 +6509,10 @@
    "title": "University of Utah Health | University of Utah Health",
    "description": "University of Utah Health is an economic engine unlike any other in Utah.",
    "category": "Education",
-   "confidence": 0.85,
+   "confidence": 0.86,
    "tags": [],
    "fingerprint": "universityofutahhealthuniversityofutahhealthuniversityofutahhealthisaneconomicengineunlikeanyotherinutah",
    "vibes": [
-    "calm",
     "nerdy",
     "handmade"
    ],
@@ -6533,7 +6532,7 @@
     "uredzone.com"
    ],
    "lang": "en",
-   "load_time": 0.46,
+   "load_time": 0.87,
    "https": true,
    "words": 2705,
    "embed": false,
@@ -6586,7 +6585,7 @@
     "dance.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.51,
+   "load_time": 0.25,
    "https": true,
    "words": 292,
    "embed": false,
@@ -6638,7 +6637,7 @@
     "registrar.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.16,
+   "load_time": 0.27,
    "https": true,
    "words": 742,
    "embed": true,
@@ -6690,7 +6689,7 @@
     "film.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.55,
+   "load_time": 0.31,
    "https": true,
    "words": 168,
    "embed": false,
@@ -6742,9 +6741,9 @@
     "gradschool.utah.edu"
    ],
    "lang": "en",
-   "load_time": 1.17,
+   "load_time": 0.47,
    "https": true,
-   "words": 479,
+   "words": 452,
    "embed": true,
    "safety_checked": "2026-11-20",
    "tech": [
@@ -6758,7 +6757,7 @@
     0.6,
     0.1,
     0.1,
-    0.36,
+    0.351,
     0.5,
     0.05,
     0.3,
@@ -6794,7 +6793,7 @@
     "finearts.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.36,
+   "load_time": 0.42,
    "https": true,
    "words": 849,
    "embed": false,
@@ -6848,7 +6847,7 @@
     "research.utah.edu"
    ],
    "lang": "en",
-   "load_time": 1.36,
+   "load_time": 1.67,
    "https": true,
    "words": 560,
    "embed": true,
@@ -6903,9 +6902,9 @@
     "music.utah.edu"
    ],
    "lang": "en",
-   "load_time": 1.08,
+   "load_time": 0.74,
    "https": true,
-   "words": 292,
+   "words": 288,
    "embed": true,
    "safety_checked": "2026-11-20",
    "tech": [
@@ -6919,7 +6918,7 @@
     0.6,
     0.1,
     0.1,
-    0.297,
+    0.296,
     0.2,
     0.05,
     0.15,
@@ -6959,7 +6958,7 @@
     "authorservices.springernature.com"
    ],
    "lang": "en",
-   "load_time": 0.1,
+   "load_time": 0.2,
    "https": true,
    "words": 1765,
    "embed": false,
@@ -7015,7 +7014,7 @@
     "doi.org"
    ],
    "lang": "en",
-   "load_time": 0.2,
+   "load_time": 0.21,
    "https": true,
    "words": 427,
    "embed": true,
@@ -7069,7 +7068,7 @@
     "exchange.art"
    ],
    "lang": "en",
-   "load_time": 0.41,
+   "load_time": 0.44,
    "https": true,
    "words": 187,
    "embed": true,
@@ -7122,7 +7121,7 @@
     "physicians.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.56,
+   "load_time": 0.26,
    "https": true,
    "words": 267,
    "embed": false,
@@ -7175,7 +7174,7 @@
     "about.codecov.io"
    ],
    "lang": "en",
-   "load_time": 0.14,
+   "load_time": 0.15,
    "https": true,
    "words": 434,
    "embed": false,
@@ -7225,7 +7224,7 @@
     "msp.ucsd.edu"
    ],
    "lang": "en",
-   "load_time": 0.23,
+   "load_time": 0.34,
    "https": true,
    "words": 176,
    "embed": true,
@@ -7278,7 +7277,7 @@
     "about.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.12,
+   "load_time": 0.25,
    "https": true,
    "words": 2399,
    "embed": true,
@@ -7330,7 +7329,7 @@
     "regulations.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.17,
+   "load_time": 0.27,
    "https": true,
    "words": 275,
    "embed": true,
@@ -7382,7 +7381,7 @@
     "health.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.21,
+   "load_time": 0.31,
    "https": true,
    "words": 746,
    "embed": false,
@@ -7436,7 +7435,7 @@
     "mochajs.org"
    ],
    "lang": "en",
-   "load_time": 0.21,
+   "load_time": 0.28,
    "https": true,
    "words": 151,
    "embed": true,
@@ -7489,7 +7488,7 @@
     "uhealthplan.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.22,
+   "load_time": 0.33,
    "https": true,
    "words": 507,
    "embed": false,
@@ -7541,9 +7540,9 @@
     "ala.org"
    ],
    "lang": "?",
-   "load_time": 0.08,
+   "load_time": 0.56,
    "https": true,
-   "words": 1450,
+   "words": 1439,
    "embed": false,
    "safety_checked": "2026-11-20",
    "tech": [
@@ -7558,7 +7557,7 @@
     0.8,
     0.1,
     0.1,
-    0.683,
+    0.68,
     0.5,
     0.05,
     0.15,
@@ -7595,7 +7594,7 @@
     "pharmacy.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.36,
+   "load_time": 0.34,
    "https": true,
    "words": 356,
    "embed": false,
@@ -7648,7 +7647,7 @@
     "dentistry.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.42,
+   "load_time": 0.35,
    "https": true,
    "words": 332,
    "embed": false,
@@ -7701,9 +7700,9 @@
     "medicine.utah.edu"
    ],
    "lang": "en",
-   "load_time": 4.69,
+   "load_time": 1.12,
    "https": true,
-   "words": 726,
+   "words": 721,
    "embed": false,
    "safety_checked": "2026-11-20",
    "tech": [
@@ -7718,7 +7717,7 @@
     0.9,
     0.1,
     0.45,
-    0.442,
+    0.44,
     0.5,
     0.05,
     0.15,
@@ -7754,7 +7753,7 @@
     "chaijs.com"
    ],
    "lang": "en",
-   "load_time": 0.41,
+   "load_time": 0.35,
    "https": true,
    "words": 197,
    "embed": true,
@@ -7809,7 +7808,7 @@
     "nursing.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.33,
+   "load_time": 0.51,
    "https": true,
    "words": 182,
    "embed": false,
@@ -7862,9 +7861,9 @@
     "it.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.93,
+   "load_time": 0.99,
    "https": true,
-   "words": 548,
+   "words": 543,
    "embed": true,
    "safety_checked": "2026-11-20",
    "tech": [
@@ -7878,7 +7877,7 @@
     0.7,
     0.1,
     0.1,
-    0.383,
+    0.381,
     0.5,
     0.05,
     0.15,
@@ -7905,11 +7904,11 @@
   {
    "url": "https://news.vcu.edu",
    "source": "link from music.utah.edu",
-   "status": "ok",
-   "review": "unreviewed",
+   "status": "warn",
+   "review": "flagged",
    "added": "2026-11-14",
    "checked": "2026-11-20",
-   "fails": 0,
+   "fails": 1,
    "aliases": [
     "news.vcu.edu"
    ],
@@ -7956,7 +7955,9 @@
    ],
    "archive_checked": "2026-11-14",
    "first_seen": 2006,
-   "screenshot_file": "9fa45f58222176846ba5.jpg"
+   "screenshot_file": "9fa45f58222176846ba5.jpg",
+   "robot_note": "unsafe (2026-11-20)",
+   "flag_reason": "unsafe words found"
   },
   {
    "url": "https://experiments.withgoogle.com",
@@ -7970,7 +7971,7 @@
     "experiments.withgoogle.com"
    ],
    "lang": "?",
-   "load_time": 0.28,
+   "load_time": 0.23,
    "https": true,
    "words": 621,
    "embed": false,
@@ -8024,7 +8025,7 @@
     "explore.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.17,
+   "load_time": 0.25,
    "https": true,
    "words": 162,
    "embed": true,
@@ -8076,7 +8077,7 @@
     "catalog.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.65,
+   "load_time": 0.62,
    "https": true,
    "words": 203,
    "embed": true,
@@ -8129,7 +8130,7 @@
     "curriculum.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.13,
+   "load_time": 0.23,
    "https": true,
    "words": 471,
    "embed": true,
@@ -8180,9 +8181,9 @@
     "cte.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.27,
+   "load_time": 0.34,
    "https": true,
-   "words": 260,
+   "words": 253,
    "embed": true,
    "safety_checked": "2026-11-20",
    "tech": [
@@ -8196,7 +8197,7 @@
     0.6,
     0.1,
     0.1,
-    0.287,
+    0.284,
     0.2,
     0.05,
     0.15,
@@ -8233,7 +8234,7 @@
     "ucsd.edu"
    ],
    "lang": "en",
-   "load_time": 0.19,
+   "load_time": 0.36,
    "https": true,
    "words": 648,
    "embed": true,
@@ -8289,7 +8290,7 @@
     "firstgen.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.32,
+   "load_time": 0.38,
    "https": true,
    "words": 273,
    "embed": true,
@@ -8341,7 +8342,7 @@
     "sustainability.utah.edu"
    ],
    "lang": "en",
-   "load_time": 1.56,
+   "load_time": 1.15,
    "https": true,
    "words": 191,
    "embed": true,
@@ -8393,7 +8394,7 @@
     "e3.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.15,
+   "load_time": 0.24,
    "https": true,
    "words": 942,
    "embed": true,
@@ -8444,7 +8445,7 @@
     "contest.ip2location.com"
    ],
    "lang": "en",
-   "load_time": 0.27,
+   "load_time": 0.19,
    "https": true,
    "words": 320,
    "embed": false,
@@ -8497,7 +8498,7 @@
     "quest.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.14,
+   "load_time": 0.21,
    "https": true,
    "words": 163,
    "embed": true,
@@ -8549,7 +8550,7 @@
     "evilhat.com"
    ],
    "lang": "en",
-   "load_time": 0.44,
+   "load_time": 0.27,
    "https": true,
    "words": 519,
    "embed": true,
@@ -8603,7 +8604,7 @@
     "cel.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.18,
+   "load_time": 0.23,
    "https": true,
    "words": 340,
    "embed": true,
@@ -8654,7 +8655,7 @@
     "dream.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.14,
+   "load_time": 0.23,
    "https": true,
    "words": 134,
    "embed": true,
@@ -8697,20 +8698,20 @@
   {
    "url": "https://accessibility.ucsd.edu",
    "source": "link page",
-   "status": "warn",
+   "status": "ok",
    "review": "unreviewed",
    "added": "2026-11-15",
    "checked": "2026-11-20",
-   "fails": 2,
+   "fails": 0,
    "aliases": [
     "accessibility.ucsd.edu"
    ],
    "lang": "en",
-   "load_time": 0.26,
+   "load_time": 0.33,
    "https": true,
    "words": 497,
    "embed": true,
-   "safety_checked": "2026-11-19",
+   "safety_checked": "2026-11-20",
    "tech": [
     "jQuery",
     "Bootstrap",
@@ -8761,7 +8762,7 @@
     "health.ucsd.edu"
    ],
    "lang": "en",
-   "load_time": 0.23,
+   "load_time": 0.54,
    "https": true,
    "words": 445,
    "embed": true,
@@ -8815,7 +8816,7 @@
     "safeut.org"
    ],
    "lang": "en",
-   "load_time": 0.23,
+   "load_time": 0.38,
    "https": true,
    "words": 1180,
    "embed": false,
@@ -8867,9 +8868,9 @@
     "calendar.ucsd.edu"
    ],
    "lang": "en",
-   "load_time": 0.51,
+   "load_time": 0.35,
    "https": true,
-   "words": 874,
+   "words": 839,
    "embed": false,
    "safety_checked": "2026-11-20",
    "tech": [
@@ -8883,7 +8884,7 @@
     0.8,
     0.1,
     0.1,
-    0.491,
+    0.48,
     0.5,
     0.05,
     0.15,
@@ -8918,7 +8919,7 @@
     "admission.universityofcalifornia.edu"
    ],
    "lang": "en",
-   "load_time": 0.6,
+   "load_time": 0.69,
    "https": true,
    "words": 374,
    "embed": false,
@@ -8969,7 +8970,7 @@
     "undergrad.ucsd.edu"
    ],
    "lang": "en",
-   "load_time": 0.22,
+   "load_time": 0.34,
    "https": true,
    "words": 157,
    "embed": true,
@@ -9024,7 +9025,7 @@
     "disabilities.ucsd.edu"
    ],
    "lang": "en",
-   "load_time": 0.26,
+   "load_time": 3.53,
    "https": true,
    "words": 436,
    "embed": true,
@@ -9078,7 +9079,7 @@
     "freespeech.ucsd.edu"
    ],
    "lang": "en",
-   "load_time": 0.24,
+   "load_time": 0.33,
    "https": true,
    "words": 566,
    "embed": true,
@@ -9132,9 +9133,9 @@
     "marketplace.roll20.net"
    ],
    "lang": "en",
-   "load_time": 1.99,
+   "load_time": 1.63,
    "https": true,
-   "words": 1930,
+   "words": 1909,
    "embed": false,
    "safety_checked": "2026-11-20",
    "tech": [
@@ -9177,11 +9178,11 @@
   {
    "url": "https://artsandhumanities.ucsd.edu",
    "source": "link page",
-   "status": "ok",
+   "status": "warn",
    "review": "unreviewed",
    "added": "2026-11-15",
    "checked": "2026-11-20",
-   "fails": 0,
+   "fails": 1,
    "aliases": [
     "artsandhumanities.ucsd.edu"
    ],
@@ -9225,7 +9226,8 @@
    ],
    "archive_checked": "2026-11-15",
    "first_seen": 2008,
-   "screenshot_file": "062492f2a66262ef87fa.jpg"
+   "screenshot_file": "062492f2a66262ef87fa.jpg",
+   "robot_note": "slow (2026-11-20)"
   },
   {
    "url": "https://writing.utah.edu",
@@ -9239,7 +9241,7 @@
     "writing.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.34,
+   "load_time": 0.4,
    "https": true,
    "words": 911,
    "embed": true,
@@ -9291,7 +9293,7 @@
     "extendedstudies.ucsd.edu"
    ],
    "lang": "en",
-   "load_time": 0.34,
+   "load_time": 0.51,
    "https": true,
    "words": 600,
    "embed": true,
@@ -9339,7 +9341,7 @@
    "review": "unreviewed",
    "added": "2026-11-15",
    "checked": "2026-11-20",
-   "fails": 9,
+   "fails": 10,
    "aliases": [
     "rady.ucsd.edu"
    ],
@@ -9403,7 +9405,7 @@
     "employment.ucsd.edu"
    ],
    "lang": "en",
-   "load_time": 0.54,
+   "load_time": 0.4,
    "https": true,
    "words": 440,
    "embed": false,
@@ -9458,7 +9460,7 @@
     "scripps.ucsd.edu"
    ],
    "lang": "en",
-   "load_time": 0.26,
+   "load_time": 0.36,
    "https": true,
    "words": 347,
    "embed": false,
@@ -9516,9 +9518,9 @@
     "today.ucsd.edu"
    ],
    "lang": "en",
-   "load_time": 0.29,
+   "load_time": 0.44,
    "https": true,
-   "words": 932,
+   "words": 908,
    "embed": false,
    "safety_checked": "2026-11-20",
    "tech": [
@@ -9532,7 +9534,7 @@
     0.9,
     0.1,
     0.1,
-    0.511,
+    0.503,
     0.5,
     0.05,
     0.15,
@@ -9562,20 +9564,20 @@
   {
    "url": "https://alumni.ucsd.edu",
    "source": "link from ucsd.edu",
-   "status": "warn",
+   "status": "ok",
    "review": "unreviewed",
    "added": "2026-11-15",
    "checked": "2026-11-20",
-   "fails": 2,
+   "fails": 0,
    "aliases": [
     "alumni.ucsd.edu"
    ],
    "lang": "en",
-   "load_time": 0.19,
+   "load_time": 0.4,
    "https": true,
    "words": 724,
    "embed": true,
-   "safety_checked": "2026-11-19",
+   "safety_checked": "2026-11-20",
    "tech": [
     "jQuery",
     "Bootstrap",
@@ -9628,7 +9630,7 @@
     "disability.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.12,
+   "load_time": 0.25,
    "https": true,
    "words": 226,
    "embed": true,
@@ -9681,7 +9683,7 @@
     "apartments.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.18,
+   "load_time": 0.28,
    "https": true,
    "words": 263,
    "embed": true,
@@ -9734,7 +9736,7 @@
     "president.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.79,
+   "load_time": 1.0,
    "https": true,
    "words": 143,
    "embed": true,
@@ -9786,7 +9788,7 @@
     "strategy.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.12,
+   "load_time": 0.24,
    "https": true,
    "words": 478,
    "embed": true,
@@ -9838,9 +9840,9 @@
     "isss.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.39,
+   "load_time": 0.43,
    "https": true,
-   "words": 429,
+   "words": 425,
    "embed": true,
    "safety_checked": "2026-11-20",
    "tech": [
@@ -9854,7 +9856,7 @@
     0.6,
     0.1,
     0.1,
-    0.343,
+    0.342,
     0.5,
     0.05,
     0.15,
@@ -9891,7 +9893,7 @@
     "auxiliary.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.12,
+   "load_time": 0.21,
    "https": true,
    "words": 705,
    "embed": true,
@@ -9946,7 +9948,7 @@
     "studentsupport.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.13,
+   "load_time": 0.19,
    "https": true,
    "words": 139,
    "embed": true,
@@ -9998,7 +10000,7 @@
     "online.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.15,
+   "load_time": 0.3,
    "https": true,
    "words": 385,
    "embed": true,
@@ -10049,7 +10051,7 @@
     "databases.tools.lib.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.12,
+   "load_time": 0.31,
    "https": true,
    "words": 119,
    "embed": true,
@@ -10103,7 +10105,7 @@
     "climate.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.09,
+   "load_time": 0.1,
    "https": true,
    "words": 441,
    "embed": true,
@@ -10157,7 +10159,7 @@
     "mplusfonts.github.io"
    ],
    "lang": "en",
-   "load_time": 0.14,
+   "load_time": 0.13,
    "https": true,
    "words": 546,
    "embed": true,
@@ -10210,7 +10212,7 @@
     "esr.org"
    ],
    "lang": "en",
-   "load_time": 3.9,
+   "load_time": 3.84,
    "https": true,
    "words": 1160,
    "embed": true,
@@ -10263,9 +10265,9 @@
     "digitallearning.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.35,
+   "load_time": 0.39,
    "https": true,
-   "words": 349,
+   "words": 346,
    "embed": true,
    "safety_checked": "2026-11-20",
    "tech": [
@@ -10279,7 +10281,7 @@
     0.7,
     0.1,
     0.1,
-    0.316,
+    0.315,
     0.5,
     0.05,
     0.15,
@@ -10314,9 +10316,9 @@
     "cleanet.org"
    ],
    "lang": "en",
-   "load_time": 0.76,
+   "load_time": 0.6,
    "https": true,
-   "words": 534,
+   "words": 530,
    "embed": true,
    "safety_checked": "2026-11-20",
    "tech": [
@@ -10331,7 +10333,7 @@
     0.6,
     0.2,
     0.1,
-    0.378,
+    0.377,
     0.5,
     0.05,
     0.15,
@@ -10344,8 +10346,10 @@
    "title": "CLEAN",
    "description": "Homepage for the Climate Literacy and Energy Awareness Network (CLEAN), featuring a curated collection of free, high-quality, peer-reviewed educational resources, teaching guidance, professional…",
    "category": "Education",
-   "confidence": 0.68,
-   "tags": [],
+   "confidence": 0.66,
+   "tags": [
+    "Science"
+   ],
    "fingerprint": "cleanhomepagefortheclimateliteracyandenergyawarenessnetworkcleanfeaturin",
    "vibes": [
     "handmade",
@@ -10367,7 +10371,7 @@
     "ucl.utah.edu"
    ],
    "lang": "en",
-   "load_time": 0.17,
+   "load_time": 0.26,
    "https": true,
    "words": 297,
    "embed": true,
@@ -10420,7 +10424,7 @@
     "nullschool.net"
    ],
    "lang": "en",
-   "load_time": 0.33,
+   "load_time": 0.27,
    "https": true,
    "words": 279,
    "embed": true,
@@ -10475,7 +10479,7 @@
     "d3js.org"
    ],
    "lang": "en",
-   "load_time": 0.27,
+   "load_time": 0.23,
    "https": true,
    "words": 284,
    "embed": true,
@@ -10527,7 +10531,7 @@
     "foundation.ucsd.edu"
    ],
    "lang": "en",
-   "load_time": 0.22,
+   "load_time": 0.33,
    "https": true,
    "words": 158,
    "embed": true,
@@ -10573,11 +10577,11 @@
   {
    "url": "https://transformation.ucsd.edu",
    "source": "link page",
-   "status": "ok",
+   "status": "warn",
    "review": "unreviewed",
    "added": "2026-11-16",
    "checked": "2026-11-20",
-   "fails": 0,
+   "fails": 1,
    "aliases": [
     "transformation.ucsd.edu"
    ],
@@ -10621,7 +10625,8 @@
    ],
    "archive_checked": "2026-11-16",
    "first_seen": 2025,
-   "screenshot_file": "63ee7c1377ffaf3d4422.jpg"
+   "screenshot_file": "63ee7c1377ffaf3d4422.jpg",
+   "robot_note": "slow (2026-11-20)"
   },
   {
    "url": "https://status.groups.io",
@@ -10635,7 +10640,7 @@
     "status.groups.io"
    ],
    "lang": "en",
-   "load_time": 0.62,
+   "load_time": 0.53,
    "https": true,
    "words": 221,
    "embed": true,
@@ -16196,6 +16201,220 @@
    "archive_checked": "2026-11-20",
    "first_seen": 1997,
    "screenshot_file": "3fe817e630eea2a33912.jpg"
+  },
+  {
+   "url": "https://iseo.ucsd.edu",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-20",
+   "checked": "2026-11-20",
+   "fails": 0,
+   "aliases": [
+    "iseo.ucsd.edu"
+   ],
+   "lang": "en",
+   "load_time": 0.71,
+   "https": true,
+   "words": 297,
+   "embed": true,
+   "safety_checked": "2026-11-20",
+   "tech": [
+    "jQuery",
+    "Bootstrap",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.6,
+    0.1,
+    0.1,
+    0.299,
+    0.2,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.85
+   ],
+   "title": "Student Services",
+   "description": "Find information for F-1 and J-1 international students at UC San Diego.",
+   "category": "Education",
+   "confidence": 1.0,
+   "tags": [],
+   "fingerprint": "studentservicesfindinformationforf1andj1internationalstudentsatucsandiego",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-20",
+   "first_seen": 2023,
+   "screenshot_file": "7a9526f1b10788bb7171.jpg"
+  },
+  {
+   "url": "https://thehub.ucsd.edu",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-20",
+   "checked": "2026-11-20",
+   "fails": 0,
+   "aliases": [
+    "thehub.ucsd.edu"
+   ],
+   "lang": "en",
+   "load_time": 0.4,
+   "https": true,
+   "words": 716,
+   "embed": true,
+   "safety_checked": "2026-11-20",
+   "tech": [
+    "jQuery",
+    "Bootstrap",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.05,
+    0.8,
+    0.1,
+    0.1,
+    0.439,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.85
+   ],
+   "title": "Basic Needs",
+   "description": "Our mission is to address the gaps and concerns students have with accessing nutritious food, stable housing, and financial wellness resources.",
+   "category": "Education",
+   "confidence": 0.87,
+   "tags": [],
+   "fingerprint": "basicneedsourmissionistoaddressthegapsandconcernsstudentshavewithaccessingnut",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-11-20",
+   "first_seen": 2018,
+   "screenshot_file": "d6d6a8052b45d4a95da9.jpg"
+  },
+  {
+   "url": "https://studenthealth.ucsd.edu",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-20",
+   "checked": "2026-11-20",
+   "fails": 0,
+   "aliases": [
+    "studenthealth.ucsd.edu"
+   ],
+   "lang": "en",
+   "load_time": 0.42,
+   "https": true,
+   "words": 731,
+   "embed": true,
+   "safety_checked": "2026-11-20",
+   "tech": [
+    "jQuery",
+    "Bootstrap",
+    "Hand-coded"
+   ],
+   "vector": [
+    0.22,
+    0.05,
+    0.0,
+    0.05,
+    0.8,
+    0.1,
+    0.2,
+    0.444,
+    0.5,
+    0.05,
+    0.15,
+    0.85,
+    1.0,
+    0.5,
+    0.0,
+    0.85
+   ],
+   "title": "Student Health Services",
+   "description": "In-person appointments are now available in our new Triton Health and Wellness Building!",
+   "category": "Education",
+   "confidence": 0.83,
+   "tags": [],
+   "fingerprint": "studenthealthservicesinpersonappointmentsarenowavailableinournewtritonhealthandwellnessb",
+   "vibes": [
+    "handmade"
+   ],
+   "archive_checked": "2026-11-20",
+   "first_seen": 2003,
+   "screenshot_file": "de295db92443ac4334f5.jpg"
+  },
+  {
+   "url": "https://lenovo.com",
+   "source": "link page",
+   "status": "ok",
+   "review": "unreviewed",
+   "added": "2026-11-20",
+   "checked": "2026-11-20",
+   "fails": 0,
+   "aliases": [
+    "lenovo.com"
+   ],
+   "lang": "en",
+   "load_time": 0.4,
+   "https": true,
+   "words": 149,
+   "embed": false,
+   "safety_checked": "2026-11-20",
+   "tech": [
+    "Hand-coded"
+   ],
+   "vector": [
+    0.1,
+    0.05,
+    0.0,
+    0.15,
+    0.1,
+    0.1,
+    0.1,
+    0.25,
+    0.2,
+    0.05,
+    0.15,
+    0.85,
+    0.0,
+    0.5,
+    0.0,
+    0.7
+   ],
+   "title": "Lenovo US",
+   "description": "Explore Lenovo laptops, desktops, tablets, monitors, pc accessories & servers. Shop innovative tech designed for business, education, gaming & everyday use.",
+   "category": "Business",
+   "confidence": 0.62,
+   "tags": [
+    "Technology"
+   ],
+   "fingerprint": "lenovousexplorelenovolaptopsdesktopstabletsmonitorspcaccessoriesserverss",
+   "vibes": [
+    "handmade",
+    "minimal"
+   ],
+   "archive_checked": "2026-11-20",
+   "first_seen": 2003,
+   "screenshot_file": "f19fac28b8c4887d1ba7.jpg"
   }
  ]
 }
