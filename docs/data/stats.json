@@ -1,24 +1,24 @@
 {
- "total": 333,
+ "total": 343,
  "dead": 1,
  "flagged": 2,
- "runs": 73,
- "last_run": "2026-11-22T11:32:27Z",
- "found_last_run": 11,
+ "runs": 74,
+ "last_run": "2026-11-22T19:39:35Z",
+ "found_last_run": 10,
  "beta": false,
  "categories": {
   "Games": 32,
   "Creative": 8,
   "Tools": 17,
-  "Art": 15,
+  "Art": 18,
   "Retro": 20,
   "Curiosities": 11,
   "Technology": 3,
   "Communities": 15,
   "Developer": 13,
-  "Education": 163,
+  "Education": 169,
   "Random": 4,
-  "Personal": 4,
+  "Personal": 5,
   "Science": 15,
   "Business": 7,
   "News": 6
@@ -389,9 +389,42 @@
    "date": "2026-11-22",
    "added": 11,
    "total": 333
+  },
+  {
+   "date": "2026-11-22",
+   "added": 10,
+   "total": 343
   }
  ],
  "runs_log": [
+  {
+   "started": "2026-11-22T19:39:35Z",
+   "rejected": {
+    "lazy title": 27,
+    "empty javascript shell": 20,
+    "unsure category": 6,
+    "unreachable": 16,
+    "weak description": 6,
+    "http 202": 2,
+    "too few words": 7,
+    "bot challenge": 8,
+    "login gate": 2,
+    "parked": 1,
+    "cookie wall": 1,
+    "unsafe": 1
+   },
+   "duplicates_removed": 0,
+   "sources": {},
+   "candidates": 107,
+   "deep_links": 107,
+   "added": 10,
+   "rechecked": 200,
+   "stale_rechecked": 0,
+   "newly_dead": 0,
+   "flagged": 1,
+   "malware_list": 0,
+   "archive_years": 10
+  },
   {
    "started": "2026-11-22T11:32:27Z",
    "rejected": {
@@ -1290,35 +1323,10 @@
    "flagged": 0,
    "malware_list": 0,
    "archive_years": 10
-  },
-  {
-   "started": "2026-11-07T05:54:08Z",
-   "rejected": {
-    "empty javascript shell": 33,
-    "lazy title": 29,
-    "unsafe": 28,
-    "too few words": 27,
-    "weak description": 14,
-    "unreachable": 12,
-    "parked": 14,
-    "unsure category": 5,
-    "starter template": 6
-   },
-   "duplicates_removed": 0,
-   "sources": {},
-   "candidates": 180,
-   "deep_links": 691,
-   "added": 12,
-   "rechecked": 113,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 11
   }
  ],
  "reset": "2026-10-26",
- "candidates_checked": 140,
+ "candidates_checked": 107,
  "total_sites": 89,
  "last_audit": "2026-11-07"
 }
