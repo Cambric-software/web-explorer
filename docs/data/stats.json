@@ -2,9 +2,9 @@
  "total": 322,
  "dead": 1,
  "flagged": 2,
- "runs": 71,
- "last_run": "2026-11-21T23:15:36Z",
- "found_last_run": 8,
+ "runs": 72,
+ "last_run": "2026-11-22T03:15:20Z",
+ "found_last_run": 0,
  "beta": false,
  "categories": {
   "Games": 32,
@@ -379,9 +379,46 @@
    "date": "2026-11-21",
    "added": 8,
    "total": 322
+  },
+  {
+   "date": "2026-11-22",
+   "added": 0,
+   "total": 322
   }
  ],
  "runs_log": [
+  {
+   "started": "2026-11-22T03:15:20Z",
+   "rejected": {
+    "duplicate": 6,
+    "bot challenge": 7,
+    "unsure category": 8,
+    "lazy title": 12,
+    "unreachable": 23,
+    "corporate consulting": 1,
+    "big platform": 1,
+    "weak description": 9,
+    "empty javascript shell": 13,
+    "cookie wall": 4,
+    "too few words": 7,
+    "not html": 1,
+    "login gate": 4,
+    "unsafe": 1,
+    "blocked": 1,
+    "parked": 2
+   },
+   "duplicates_removed": 0,
+   "sources": {},
+   "candidates": 100,
+   "deep_links": 100,
+   "added": 0,
+   "rechecked": 200,
+   "stale_rechecked": 0,
+   "newly_dead": 0,
+   "flagged": 1,
+   "malware_list": 0,
+   "archive_years": 0
+  },
   {
    "started": "2026-11-21T23:15:36Z",
    "rejected": {
@@ -1269,35 +1306,10 @@
    "flagged": 0,
    "malware_list": 0,
    "archive_years": 9
-  },
-  {
-   "started": "2026-11-06T19:56:38Z",
-   "rejected": {
-    "lazy title": 32,
-    "weak description": 13,
-    "empty javascript shell": 42,
-    "unreachable": 10,
-    "too few words": 23,
-    "unsafe": 28,
-    "starter template": 5,
-    "parked": 10,
-    "unsure category": 6
-   },
-   "duplicates_removed": 0,
-   "sources": {},
-   "candidates": 180,
-   "deep_links": 514,
-   "added": 11,
-   "rechecked": 96,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 11
   }
  ],
  "reset": "2026-10-26",
- "candidates_checked": 140,
+ "candidates_checked": 100,
  "total_sites": 89,
  "last_audit": "2026-11-07"
 }
