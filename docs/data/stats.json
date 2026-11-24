@@ -2,9 +2,9 @@
  "total": 358,
  "dead": 1,
  "flagged": 2,
- "runs": 77,
- "last_run": "2026-11-23T21:24:19Z",
- "found_last_run": 7,
+ "runs": 78,
+ "last_run": "2026-11-24T06:02:19Z",
+ "found_last_run": 0,
  "beta": false,
  "categories": {
   "Games": 32,
@@ -409,9 +409,45 @@
    "date": "2026-11-23",
    "added": 7,
    "total": 358
+  },
+  {
+   "date": "2026-11-24",
+   "added": 0,
+   "total": 358
   }
  ],
  "runs_log": [
+  {
+   "started": "2026-11-24T06:02:19Z",
+   "rejected": {
+    "duplicate": 5,
+    "unreachable": 35,
+    "empty javascript shell": 27,
+    "lazy title": 21,
+    "too few words": 10,
+    "bot challenge": 4,
+    "blocked": 1,
+    "parked": 2,
+    "login gate": 4,
+    "weak description": 19,
+    "unsure category": 7,
+    "http 204": 2,
+    "cookie wall": 1,
+    "unsafe": 1,
+    "big platform": 1
+   },
+   "duplicates_removed": 0,
+   "sources": {},
+   "candidates": 140,
+   "deep_links": 145,
+   "added": 0,
+   "rechecked": 200,
+   "stale_rechecked": 0,
+   "newly_dead": 0,
+   "flagged": 1,
+   "malware_list": 0,
+   "archive_years": 0
+  },
   {
    "started": "2026-11-23T21:24:19Z",
    "rejected": {
@@ -1309,40 +1345,10 @@
    "flagged": 0,
    "malware_list": 0,
    "archive_years": 12
-  },
-  {
-   "started": "2026-11-14T19:56:16Z",
-   "rejected": {
-    "duplicate": 3,
-    "unreachable": 17,
-    "empty javascript shell": 15,
-    "lazy title": 16,
-    "unsure category": 3,
-    "weak description": 6,
-    "parked": 2,
-    "too few words": 9,
-    "bot challenge": 6,
-    "corporate consulting": 1,
-    "login gate": 4,
-    "unsafe": 3,
-    "cookie wall": 1,
-    "not html": 1
-   },
-   "duplicates_removed": 0,
-   "sources": {},
-   "candidates": 106,
-   "deep_links": 106,
-   "added": 19,
-   "rechecked": 98,
-   "stale_rechecked": 0,
-   "newly_dead": 0,
-   "flagged": 0,
-   "malware_list": 0,
-   "archive_years": 19
   }
  ],
  "reset": "2026-10-26",
- "candidates_checked": 116,
+ "candidates_checked": 140,
  "total_sites": 89,
  "last_audit": "2026-11-07"
 }
